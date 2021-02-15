@@ -1,0 +1,1001 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+Urban Myth Studio,"['505 Johnson Ave', 'Brooklyn, NY 11237']",Brooklyn,5.0,4,"{'latitude': 40.708663918903, 'longitude': -73.926939086334}",
+Hit and Run Productions,"['65 Roebling St', 'Ste 202', 'Brooklyn, NY 11211']",Brooklyn,5.0,4,"{'latitude': 40.7165128, 'longitude': -73.9546435}",
+Be Electric Studios,"['1298 Willoughby Ave', 'Brooklyn, NY 11237']",Brooklyn,4.5,4,"{'latitude': 40.7052438, 'longitude': -73.9218072}",
+Starr Street Studios,"['207-A Starr St', 'Ste 3-1', 'Brooklyn, NY 11237']",Brooklyn,5.0,8,"{'latitude': 40.705122, 'longitude': -73.923457}",
+Subliminal Productions,"['One World Trade Ctr', 'Ste 8500', 'New York, NY 10007']",New York,5.0,2,"{'latitude': 40.71101, 'longitude': -74.00876}",
+Chart House,"['1700 Harbor Blvd', 'Weehawken, NJ 07086']",Weehawken,4.0,1526,"{'latitude': 40.7607, 'longitude': -74.018038}",3.0
+Firelight Studio,"['247 Water St', 'Street Level', 'Brooklyn, NY 11201']",Brooklyn,5.0,1,"{'latitude': 40.70308, 'longitude': -73.98392}",
+Morris-Jumel Mansion,"['65 Jumel Ter', 'New York, NY 10032']",New York,4.5,38,"{'latitude': 40.83449, 'longitude': -73.93851}",
+Deverge Studio,"['150 W 28th St', 'Ste 600', 'New York, NY 10001']",New York,5.0,5,"{'latitude': 40.74676, 'longitude': -73.99282}",
+Medium Rare NYC,"['22 N 6th St', 'Brooklyn, NY 11249']",Brooklyn,5.0,10,"{'latitude': 40.720062, 'longitude': -73.963532}",
+Del Frisco's Double Eagle Steakhouse,"['1221 Ave Of The Americas', 'New York, NY 10020']",New York,4.5,3028,"{'latitude': 40.759412, 'longitude': -73.982221}",4.0
+MAMA'S TOO!,"['2750 Broadway', 'New York, NY 10025']",New York,3.5,404,"{'latitude': 40.80084, 'longitude': -73.96766}",2.0
+House of Yes,"['2 Wyckoff Ave', 'Brooklyn, NY 11237']",Brooklyn,4.0,296,"{'latitude': 40.70686, 'longitude': -73.92353}",1.0
+The Metropolitan Opera,"['30 Lincoln Center Plz', 'New York, NY 10023']",New York,4.5,326,"{'latitude': 40.7728401326152, 'longitude': -73.9845519506313}",
+House Productions,"['447 Broadway', 'Fl 2', 'New York, NY 10013']",New York,5.0,1,"{'latitude': 40.7206058, 'longitude': -74.0014893}",
+Le JIT Productions,"['544 Park Ave', 'Brooklyn, NY 11205']",Brooklyn,5.0,1,"{'latitude': 40.696704, 'longitude': -73.95333}",
+V-Productions,"['469 7th Ave', 'New York, NY 10018']",New York,5.0,1,"{'latitude': 40.7519226, 'longitude': -73.9894887}",
+The Stone House at Clove Lakes,"['1150 Clove Rd', 'Staten Island, NY 10301']",Staten Island,3.5,222,"{'latitude': 40.6179128, 'longitude': -74.1082282}",3.0
+Big Apple Studios,"['229 W 28th St', 'Fl 5', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7478389, 'longitude': -73.9944398}",
+Brooklyn Chop House,"['150 Nassau St', 'New York, NY 10038']",New York,4.0,546,"{'latitude': 40.7115099, 'longitude': -74.00597}",3.0
+The Palm House,"['1000 Washington Ave', 'Brooklyn Botanic Garden', 'Brooklyn, NY 11225']",Brooklyn,4.0,37,"{'latitude': 40.667185, 'longitude': -73.962072}",
+DiJiFi,"['1166 Manhattan Ave', 'Ste 201', 'Brooklyn, NY 11222']",Brooklyn,4.5,165,"{'latitude': 40.7382584, 'longitude': -73.9549479}",2.0
+AuroIN,"['285 Fulton St', 'Ste 8500', 'New York, NY 10007']",New York,4.5,7,"{'latitude': 40.7129581, 'longitude': -74.0130675}",
+And/With Creative,"['102 Bay Ridge Ave', 'Ste 2F', 'Brooklyn, NY 11220']",Brooklyn,5.0,1,"{'latitude': 40.63741, 'longitude': -74.03218}",
+Keens Steakhouse,"['72 W 36th St', 'New York, NY 10018']",New York,4.0,2592,"{'latitude': 40.75071, 'longitude': -73.98652}",4.0
+GUM Studios,"['4508 2nd Ave', 'Brooklyn, NY 11232']",Brooklyn,5.0,1,"{'latitude': 40.65181, 'longitude': -74.0143}",
+Hello World Communications,"['118 W 22nd St', 'Fl 2', 'New York, NY 10011']",New York,5.0,42,"{'latitude': 40.7425398, 'longitude': -73.9945521}",
+Strip House,"['15 W 44th St', 'New York, NY 10036']",New York,4.0,542,"{'latitude': 40.7552982092827, 'longitude': -73.98068987648}",4.0
+Masterpiece Caterers,"['1 Hanover Sq', 'New York, NY 10004']",New York,4.5,28,"{'latitude': 40.704597, 'longitude': -74.0097248}",
+Eataly Flatiron,"['200 5th Ave', 'New York, NY 10010']",New York,4.0,5652,"{'latitude': 40.74195877796, 'longitude': -73.989716662832}",2.0
+Peter Luger,"['178 Broadway', 'Brooklyn, NY 11211']",Brooklyn,4.0,5831,"{'latitude': 40.709945, 'longitude': -73.962478}",4.0
+Kings County Distillery,"['299 Sands St', 'Bldg 121', 'Brooklyn, NY 11201']",Brooklyn,4.5,124,"{'latitude': 40.6997470891061, 'longitude': -73.9806699568199}",2.0
+Poets House,"['10 River Ter', 'New York, NY 10282']",New York,4.5,40,"{'latitude': 40.7164201, 'longitude': -74.0163151}",
+Club A Steakhouse,"['240 E 58th St', 'New York, NY 10022']",New York,4.5,2837,"{'latitude': 40.76006, 'longitude': -73.96557}",3.0
+Row House,"['2128 Frederick Douglass Blvd', 'New York, NY 10026']",New York,3.5,368,"{'latitude': 40.803531, 'longitude': -73.95565}",2.0
+Bane Haunted House,"['618 W 46th St', 'New York, NY 10036']",New York,4.0,194,"{'latitude': 40.76363, 'longitude': -73.9975}",
+Latour de Force Productions,"['New York, NY 10019']",New York,5.0,7,"{'latitude': 40.7645378112793, 'longitude': -73.9842376708984}",
+The 1896 Studios & Stages,"['215 Ingraham St', 'Brooklyn, NY 11237']",Brooklyn,4.5,3,"{'latitude': 40.7083776, 'longitude': -73.9244995865082}",
+Southern Fried Photo Studios,"['120 Thames St', 'Brooklyn, NY 11237']",Brooklyn,4.5,6,"{'latitude': 40.7055091, 'longitude': -73.9280014}",
+Glasshouse Chelsea,"['545 W 25th St', 'New York, NY 10001']",New York,4.5,23,"{'latitude': 40.749595, 'longitude': -74.004699}",
+Digital Art Video,"['85-06 60th Ave', 'Middle Village, NY 11379']",Middle Village,5.0,1,"{'latitude': 40.7294388, 'longitude': -73.8748016}",
+Studio 253 NYC @ E.C. Pro Video Systems,"['Ec Pro Video Systems Inc', '253 W 51st St , Fl 3 S', 'New York, NY 10019']",New York,5.0,1,"{'latitude': 40.7628288, 'longitude': -73.9851837}",
+Little Pioneer Cider House Recording,"['59 Franklin St', 'New York, NY 10013']",New York,5.0,5,"{'latitude': 40.717036, 'longitude': -74.0029852}",
+Soho House New York,"['29-35 9th Ave', 'New York, NY 10014']",New York,4.0,253,"{'latitude': 40.74063741, 'longitude': -74.0059231}",
+The Malt House,"['206 Thompson St', 'New York, NY 10012']",New York,4.0,424,"{'latitude': 40.728647, 'longitude': -73.999383}",2.0
+Zohar Productions,"['244 Madison Ave', 'New York City, NY 10060']",New York City,5.0,2,"{'latitude': 40.7501529, 'longitude': -73.981396}",
+Ruth's Chris Steak House,"['148 W 51st St', 'New York, NY 10019']",New York,4.0,976,"{'latitude': 40.7613252601449, 'longitude': -73.9822581410407}",3.0
+Sleep No More,"['530 W 27th St', 'McKittrick Hotel', 'New York, NY 10001']",New York,4.0,1284,"{'latitude': 40.75072, 'longitude': -74.00379}",
+Fogo de Chao Brazilian Steakhouse,"['40 W 53rd St', 'New York, NY 10019']",New York,4.0,1252,"{'latitude': 40.7610765, 'longitude': -73.9777711}",3.0
+Greater Good Events,"['Jersey City, NJ 07097']",Jersey City,5.0,4,"{'latitude': 40.7205984342926, 'longitude': -74.0384262799347}",
+Kaleidoscope Pictures,"['Brooklyn, NY 11231']",Brooklyn,5.0,8,"{'latitude': 40.6772802, 'longitude': -74.0094471}",
+Porter House Bar And Grill,"['10 Columbus Cir', 'New York, NY 10019']",New York,3.5,644,"{'latitude': 40.7689230155194, 'longitude': -73.9826309680939}",4.0
+Liberty House Restaurant,"['76 Audrey Zapp Dr', 'Jersey City, NJ 07305']",Jersey City,3.5,525,"{'latitude': 40.7092002302021, 'longitude': -74.0399466756692}",3.0
+Silvercup Studios,"['42-22 22nd St', 'Long Island City, NY 11101']",Long Island City,4.5,12,"{'latitude': 40.751331, 'longitude': -73.943515}",
+Teleprompter Rental,"['808 Broadway', 'Ste 5P', 'New York, NY 10003']",New York,4.5,12,"{'latitude': 40.732678, 'longitude': -73.991217}",
+Public House,"['140 E 41st St', 'New York, NY 10017']",New York,3.0,570,"{'latitude': 40.7504856, 'longitude': -73.976214}",2.0
+Ezamani Photography,"['Jersey City, NJ 07302']",Jersey City,5.0,3,"{'latitude': 40.72218, 'longitude': -74.04497}",
+Bowery Meat Company,"['9 E 1st St', 'New York, NY 10003']",New York,4.0,513,"{'latitude': 40.72453, 'longitude': -73.9917876}",3.0
+Signature Theatre,"['480 W 42nd St', 'New York, NY 10036']",New York,4.5,74,"{'latitude': 40.759317930727, 'longitude': -73.9952446355381}",
+Lyric Theatre,"['214 W 43rd St', 'New York, NY 10036']",New York,4.5,133,"{'latitude': 40.757078, 'longitude': -73.987652}",
+Forest Hills Station House,"['106-11 71st Ave', 'Forest Hills, NY 11375']",Forest Hills,4.0,1124,"{'latitude': 40.7199422, 'longitude': -73.8451058}",2.0
+Canal Sound & Light,"['319 Canal St', 'New York, NY 10013']",New York,4.5,33,"{'latitude': 40.7202225, 'longitude': -74.0027509}",2.0
+JW Marriott Essex House New York,"['160 Central Park S', 'New York, NY 10019']",New York,3.5,315,"{'latitude': 40.766276981071, 'longitude': -73.9785723399506}",3.0
+New York Video Service,"['232 Mulberry St', 'New York, NY 10012']",New York,5.0,1,"{'latitude': 40.7224478, 'longitude': -73.995999}",
+The Lion King,"['200 W 45th St', 'Minskoff Theatre', 'New York, NY 10036']",New York,4.5,549,"{'latitude': 40.75782, 'longitude': -73.985999}",
+Double 6 Studio,"['66 Green St', 'Brooklyn, NY 11222']",Brooklyn,5.0,7,"{'latitude': 40.7331047058105, 'longitude': -73.9592819213867}",2.0
+Lucid Body House,"['230 Lexington Ave', 'New York, NY 10016']",New York,5.0,5,"{'latitude': 40.7461853, 'longitude': -73.980072}",
+Irish Repertory Theatre,"['132 W 22nd St', 'New York, NY 10011']",New York,4.0,27,"{'latitude': 40.742618, 'longitude': -73.994773}",
+Ramscale,"['463 Wt St Penthouse', 'Ste- 1300', 'New York, NY 10014']",New York,4.5,20,"{'latitude': 40.736483, 'longitude': -74.008654}",
+Sanborn Studio,"['299 Meserole St', 'New York, NY 11206']",New York,5.0,1,"{'latitude': 40.7088934, 'longitude': -73.935932}",1.0
+New York Film Shop,"['437 Washington St', 'New York, NY 10013']",New York,5.0,3,"{'latitude': 40.7232895, 'longitude': -74.0101166}",
+Hudson's House of Play,"['40 Riverwalk Pl', 'West New York, NJ 07093']",West New York,4.5,20,"{'latitude': 40.7815933513506, 'longitude': -74.0057181562584}",
+Ricardo Steak House,"['2145 2nd Ave', 'New York, NY 10029']",New York,4.0,1136,"{'latitude': 40.793509, 'longitude': -73.94066}",3.0
+The Grill,"['99 E 52nd St', 'New York, NY 10022']",New York,4.0,186,"{'latitude': 40.758323, 'longitude': -73.971892}",4.0
+Town Stages,"['221 West Broadway', 'New York, NY 10013']",New York,5.0,11,"{'latitude': 40.71916, 'longitude': -74.00615}",
+Mirror Tea House,"['575 Union St', 'Ste A', 'Brooklyn, NY 11215']",Brooklyn,4.5,31,"{'latitude': 40.678874, 'longitude': -73.986211}",
+Beetle House,"['308 E 6th St', 'New York, NY 10003']",New York,3.5,1032,"{'latitude': 40.72708, 'longitude': -73.98801}",3.0
+The Phantom of the Opera,"['245 W 44th St', '245 W 44th St', 'New York, NY 10036']",New York,4.5,395,"{'latitude': 40.7584308201499, 'longitude': -73.9880893992832}",
+Blood Manor,"['359 Broadway', 'New York, NY 10013']",New York,2.5,252,"{'latitude': 40.7173465, 'longitude': -74.0041448}",
+Daylight Studio,"['450 W 31st', 'Fl 10', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.75212729127809, 'longitude': -73.99985707807147}",
+Deer Studios Nyc,"['240 E 56th St', 'Ste 2E', 'New York, NY 10022']",New York,4.0,5,"{'latitude': 40.758622, 'longitude': -73.966138}",
+Focus Gear,"['225 W 39th St', 'Ste 600', 'New York, NY 10018']",New York,4.5,18,"{'latitude': 40.7547596, 'longitude': -73.9892358}",2.0
+Mitsuwa Marketplace,"['595 River Rd', 'Edgewater, NJ 07020']",Edgewater,4.5,1691,"{'latitude': 40.8158107608922, 'longitude': -73.9801246070119}",2.0
+Umi Sushi,"['177-13 Union Tpke', 'Fresh Meadows, NY 11366']",Fresh Meadows,4.5,660,"{'latitude': 40.7261983305216, 'longitude': -73.790670633316}",2.0
+Nightmare New York Haunted House,"['107 Suffolk St', 'Ground Fl', 'New York, NY 10002']",New York,3.0,105,"{'latitude': 40.7191852, 'longitude': -73.9859925}",
+Barano,"['26 Broadway', 'Brooklyn, NY 11249']",Brooklyn,4.5,262,"{'latitude': 40.710372, 'longitude': -73.96794}",3.0
+AV360,"['2516 7th Ave', 'New York, NY 10039']",New York,5.0,2,"{'latitude': 40.8222303, 'longitude': -73.9387825}",
+Sparks Steak House,"['210 E 46th St', 'New York, NY 10017']",New York,3.5,928,"{'latitude': 40.75303, 'longitude': -73.972329}",4.0
+La MaMa,"['66 E 4th St', 'New York, NY 10003']",New York,3.5,8,"{'latitude': 40.7265, 'longitude': -73.99044}",
+Del Frisco's Grille,"['50 Rockefeller Plz', 'New York, NY 10020']",New York,3.5,723,"{'latitude': 40.7596566, 'longitude': -73.9783161}",3.0
+City Vineyard,"['233 West St', 'New York, NY 10013']",New York,4.0,945,"{'latitude': 40.7205582, 'longitude': -74.0118093}",2.0
+Studio 54 Theatre,"['254 West 54th St', 'New York, NY 10019']",New York,4.0,146,"{'latitude': 40.76445, 'longitude': -73.98371}",
+Steiner Studios,"['15 Washington Ave', 'Brooklyn, NY 11205']",Brooklyn,4.5,7,"{'latitude': 40.6983157794782, 'longitude': -73.967696428299}",
+Playwrights Horizons,"['416 W 42nd St', 'New York, NY 10036']",New York,4.5,25,"{'latitude': 40.7585951, 'longitude': -73.9937782}",
+Vivian Beaumont Theatre,"['150 W 65th St', 'Lincoln Center Theater', 'New York, NY 10023']",New York,4.0,81,"{'latitude': 40.7735367, 'longitude': -73.9837265}",
+Gershwin Theatre,"['222 West 51st St', 'New York, NY 10019']",New York,4.5,282,"{'latitude': 40.7626, 'longitude': -73.98514}",
+Wayan,"['20 Spring St', 'New York, NY 10012']",New York,4.5,248,"{'latitude': 40.7213813139202, 'longitude': -73.9950757664721}",3.0
+Almoradie Media,"['New York, NY 10040']",New York,5.0,2,"{'latitude': 40.85902, 'longitude': -73.93127}",
+Majestic Theatre,"['245 W 44th St', 'New York, NY 10036']",New York,4.0,197,"{'latitude': 40.75838, 'longitude': -73.98821}",
+The Palm - Midtown,"['250 W 50th St', 'New York, NY 10019']",New York,3.5,452,"{'latitude': 40.76189, 'longitude': -73.98541}",3.0
+The Lee Strasberg Theatre and Film Institute,"['115 E 15th St', 'New York, NY 10003']",New York,4.0,15,"{'latitude': 40.7350997924805, 'longitude': -73.9887313842773}",
+The Bell House,"['149 7th St', 'Brooklyn, NY 11215']",Brooklyn,4.0,376,"{'latitude': 40.673735, 'longitude': -73.991658}",2.0
+Pecoraro Latteria,"['636 Metropolitian Ave', 'New York, NY 11211']",New York,4.5,9,"{'latitude': 40.714055, 'longitude': -73.947825}",
+BC Green Screen Studio,"['152-56 W 25th St', 'Fl 2', 'Manhattan, NY 10001']",Manhattan,5.0,5,"{'latitude': 40.744865, 'longitude': -73.994056}",
+The Moth,"['126 Crosby St', 'Housing Works Bookstore Cafe', 'New York, NY 10012']",New York,5.0,8,"{'latitude': 40.72454, 'longitude': -73.9965931}",
+Nightmare,"['Noho Events Ctr', '623 Broadway', 'New York, NY 10012']",New York,2.5,130,"{'latitude': 40.719156, 'longitude': -73.986272}",
+Marea,"['240 Central Park S', 'New York, NY 10019']",New York,4.0,2096,"{'latitude': 40.7674213694566, 'longitude': -73.9810554368179}",3.0
+TCM DJ Events,"['25 Ten Eyck St', 'Ste 3', 'Brooklyn, NY 11206']",Brooklyn,5.0,2,"{'latitude': 40.7098, 'longitude': -73.9498}",
+Boucherie West Village,"['99 7th Ave S', 'New York, NY 10014']",New York,4.5,1548,"{'latitude': 40.733063, 'longitude': -74.0028772}",3.0
+Vinegar Hill House,"['72 Hudson Ave', 'Brooklyn, NY 11201']",Brooklyn,3.5,663,"{'latitude': 40.70275, 'longitude': -73.98124}",3.0
+Jelo Paper & Decor,"['7620 17th Ave', 'Brooklyn, NY 11214']",Brooklyn,5.0,39,"{'latitude': 40.613982, 'longitude': -73.999584}",
+Ad Hoc | Collective,"['13 Christopher St', 'Lower Level', 'New York, NY 10014']",New York,5.0,65,"{'latitude': 40.73403, 'longitude': -74.00048}",2.0
+Baby Bodyguards,"['1724 Hendrickson St', 'Brooklyn, NY 11234']",Brooklyn,5.0,34,"{'latitude': 40.61681, 'longitude': -73.93217}",
+T Schreiber Studio & Theatre,"['151 W 26th St', 'New York, NY 10001']",New York,4.5,20,"{'latitude': 40.745739, 'longitude': -73.9933472}",
+Westside Theatre,"['407 W 43rd St', 'New York, NY 10036']",New York,4.0,57,"{'latitude': 40.75945, 'longitude': -73.9927}",
+Lumina,"['1123 Broadway', 'Ste 1018', 'New York, NY 10010']",New York,5.0,18,"{'latitude': 40.74332, 'longitude': -73.98924}",
+Art House Productions,"['262 17th St', 'Jersey City, NJ 07310']",Jersey City,5.0,6,"{'latitude': 40.7341059, 'longitude': -74.0443373}",2.0
+jojoSOUL,"['Studio 1R-Bushwick', 'Brooklyn, NY 11237']",Brooklyn,5.0,5,"{'latitude': 40.696444909137, 'longitude': -73.9268410205841}",
+dzine it,"['26 W 23rd St', 'Fl 4', 'New York, NY 10010']",New York,5.0,1,"{'latitude': 40.74178, 'longitude': -73.99086}",
+Cha-An,"['230 E 9th St', 'Fl 2', 'New York, NY 10003']",New York,4.0,1796,"{'latitude': 40.72947, 'longitude': -73.98813}",2.0
+Boucherie Union Square,"['225 Park Ave S', 'New York, NY 10003']",New York,4.5,853,"{'latitude': 40.73715, 'longitude': -73.98789}",3.0
+Le Relais De Venise L'Entrecôte,"['590 Lexington Ave', 'New York, NY 10022']",New York,4.0,822,"{'latitude': 40.7577089110773, 'longitude': -73.9717626571655}",2.0
+The Capital Grille,"['155 E 42nd St', 'New York, NY 10017']",New York,4.0,817,"{'latitude': 40.75114, 'longitude': -73.97491}",3.0
+Threshold Recording Studios NYC,"['440 W 41st St', 'New York, NY 10036']",New York,5.0,10,"{'latitude': 40.758406, 'longitude': -73.994913}",
+Sunday in Brooklyn,"['348 Wythe Ave', 'Brooklyn, NY 11249']",Brooklyn,4.0,826,"{'latitude': 40.714145, 'longitude': -73.965322}",2.0
+Elegantize Productions,"['34-18 Northern Blvd', 'Long Island City, NY 11101']",Long Island City,5.0,1,"{'latitude': 40.75172, 'longitude': -73.92916}",
+Henry Street Settlement: Abrons Arts Center,"['466 Grand St', 'New York, NY 10002']",New York,4.5,13,"{'latitude': 40.71521, 'longitude': -73.98375}",
+Steve Palmer Films,"['New York, NY 11215']",New York,5.0,1,"{'latitude': 40.66874, 'longitude': -73.98181}",
+Empire Steak House,"['151 E 50th St', 'New York, NY 10022']",New York,4.0,287,"{'latitude': 40.75615, 'longitude': -73.97127}",3.0
+Nippon Cha,"['39-34 Bell Blvd', 'Bayside, NY 11361']",Bayside,4.0,881,"{'latitude': 40.76432, 'longitude': -73.77167}",2.0
+Harry Potter and the Cursed Child,"['214 W 43rd St', 'New York, NY 10036']",New York,4.5,145,"{'latitude': 40.75696, 'longitude': -73.9873}",
+The Smith,"['1900 Broadway', 'New York, NY 10023']",New York,4.0,1744,"{'latitude': 40.7716201269986, 'longitude': -73.9818377981476}",2.0
+K Rico Steakhouse,"['772 9th Ave', 'New York, NY 10019']",New York,4.5,624,"{'latitude': 40.764345, 'longitude': -73.98798}",3.0
+Mirrortone Studios,"['146 W 29th St', 'New York, NY 10001']",New York,5.0,3,"{'latitude': 40.74741, 'longitude': -73.99208}",
+Amali,"['115 E 60th St', 'New York, NY 10022']",New York,4.0,412,"{'latitude': 40.7633557384716, 'longitude': -73.9686296877489}",2.0
+Fine Art Productions,"['1655 Oak Tree Rd', 'Ste 270', 'Edison, NJ 08820']",Edison,4.5,19,"{'latitude': 40.5709695115082, 'longitude': -74.340228068968}",
+The Public Theater,"['425 Lafayette St', 'New York, NY 10003']",New York,4.0,66,"{'latitude': 40.72921, 'longitude': -73.99177}",
+Old Homestead Steak House,"['56 9th Ave', 'New York, NY 10011']",New York,3.5,1047,"{'latitude': 40.74121, 'longitude': -74.00477}",4.0
+Ruth's Chris Steak House,"['1000 Harbor Blvd', 'Weehawken, NJ 07086']",Weehawken,4.0,455,"{'latitude': 40.759446, 'longitude': -74.022704}",4.0
+Ainslie,"['76 Ainslie St', 'Brooklyn, NY 11211']",Brooklyn,4.0,219,"{'latitude': 40.712343, 'longitude': -73.952121}",2.0
+New Amsterdam Theatre,"['214 West 42nd St', 'New York, NY 10036']",New York,4.0,193,"{'latitude': 40.756257, 'longitude': -73.987912}",
+Il Falco,"['21-50 44th Dr', 'Long Island City, NY 11101']",Long Island City,4.5,294,"{'latitude': 40.7476595714373, 'longitude': -73.9455319123659}",3.0
+NYC Restaurant,"['180 Riverside Blvd', 'Ste 14', 'New York, NY 10069']",New York,5.0,6,"{'latitude': 40.77849519999999, 'longitude': -73.9882729}",
+Meet The Meat,"['2392 21st St', 'Astoria, NY 11105']",Astoria,4.5,360,"{'latitude': 40.7769295040115, 'longitude': -73.9214426951538}",3.0
+Bronx Alehouse,"['216 W 238th St', 'Bronx, NY 10463']",Bronx,4.0,813,"{'latitude': 40.8846317, 'longitude': -73.899705}",2.0
+The Kraine Theater,"['85 E 4th St', 'New York, NY 10003']",New York,4.0,10,"{'latitude': 40.7265892028809, 'longitude': -73.9897994995117}",
+Gallery Players,"['199 14th St', 'Brooklyn, NY 11215']",Brooklyn,4.5,15,"{'latitude': 40.66708, 'longitude': -73.99044}",
+POST,"['42 Ave B', 'New York, NY 10009']",New York,4.5,270,"{'latitude': 40.72298, 'longitude': -73.98302}",2.0
+District Tap House,"['246 W 38th St', 'New York, NY 10018']",New York,4.0,823,"{'latitude': 40.75409, 'longitude': -73.99039}",2.0
+Hillstone Restaurant,"['378 Park Ave S', 'New York, NY 10010']",New York,4.0,962,"{'latitude': 40.7427534, 'longitude': -73.9847308}",3.0
+Raines Law Room,"['48 W 17th St', 'New York, NY 10011']",New York,4.5,1456,"{'latitude': 40.73869, 'longitude': -73.99462}",3.0
+Wedding In Paris,"['4711 8th Ave', 'Brooklyn, NY 11220']",Brooklyn,4.5,49,"{'latitude': 40.6423833, 'longitude': -74.0020331}",
+Harry's,"['1 Hanover Sq', 'New York, NY 10004']",New York,4.0,691,"{'latitude': 40.70451, 'longitude': -74.0098299}",3.0
+Magdalene,"['524 Lorimer St', 'Brooklyn, NY 11211']",Brooklyn,5.0,19,"{'latitude': 40.71252, 'longitude': -73.94899}",
+Nuline Scans,"['1841 124th St', 'College Point, NY 11356']",College Point,5.0,1,"{'latitude': 40.782008, 'longitude': -73.8439133}",
+High Street On Hudson,"['637 Hudson St', 'New York, NY 10014']",New York,4.0,413,"{'latitude': 40.73888, 'longitude': -74.00574}",2.0
+White Space Chelsea,"['530 W 25th St', 'Fl 1', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7493495, 'longitude': -74.0046948}",
+Rubirosa,"['235 Mulberry St', 'New York, NY 10012']",New York,4.5,2323,"{'latitude': 40.722766, 'longitude': -73.996233}",2.0
+Arts 2 Print Marketing & Advertising,"['2828 John F Kennedy Blvd', 'Ste 209', 'Jersey City, NJ 07306']",Jersey City,5.0,2,"{'latitude': 40.7315539, 'longitude': -74.0662254}",
+The Capital Grille,"['120 Broadway', 'New York, NY 10271']",New York,4.0,602,"{'latitude': 40.7078813982786, 'longitude': -74.0102026698364}",3.0
+Frankies 457 Spuntino,"['457 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.0,825,"{'latitude': 40.677328, 'longitude': -73.997972}",2.0
+Upright,"['547 Hudson St', 'New York, NY 10014']",New York,4.0,234,"{'latitude': 40.73493, 'longitude': -74.00641}",2.0
+Wickham Vocal Studios,"['17 Thompson St', 'New York, NY 10013']",New York,4.5,13,"{'latitude': 40.7226337, 'longitude': -74.004677}",2.0
+Judge Roy Bean Public House,"['38 W 56th St', 'New York, NY 10019']",New York,4.5,751,"{'latitude': 40.7629158108786, 'longitude': -73.9761248066812}",2.0
+Actors' Temple,"['339 W 47th St', 'New York, NY 10036']",New York,4.5,18,"{'latitude': 40.7613182067871, 'longitude': -73.9890365600586}",2.0
+Pomp & Circumstance Dining,"['577 Lorimer St', 'Williamsburg, NY 11211']",Williamsburg,5.0,77,"{'latitude': 40.714166, 'longitude': -73.949612}",2.0
+National Advertising & Printing,"['231 W 29th St', 'Ste 1408', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.7486572265625, 'longitude': -73.9942321777344}",
+Second Stage Theater,"['305 W 43rd St', 'Tony Kiser Theater', 'New York, NY 10036']",New York,4.5,47,"{'latitude': 40.75818, 'longitude': -73.9897}",
+Belasco Theatre,"['111 W 44th St', 'New York, NY 10036']",New York,4.0,96,"{'latitude': 40.7566, 'longitude': -73.98398}",
+Yoon Haeundae Galbi,"['8 W 36th St', 'New York, NY 10018']",New York,4.5,471,"{'latitude': 40.749866, 'longitude': -73.984441}",3.0
+Shubert Theatre,"['225 W 44th St', 'New York, NY 10036']",New York,3.5,151,"{'latitude': 40.75802, 'longitude': -73.98736}",
+One Mile House,"['10 Delancey St', 'New York, NY 10002']",New York,4.0,240,"{'latitude': 40.720394, 'longitude': -73.99321}",2.0
+Lincoln Center,"['70 Lincoln Center Plz', 'New York, NY 10023']",New York,4.5,270,"{'latitude': 40.774213, 'longitude': -73.984256}",3.0
+Northern Lights Mansion,"['210 W 122nd St', 'New York, NY 10027']",New York,5.0,13,"{'latitude': 40.80717, 'longitude': -73.95064}",
+Osteria Morini,"['218 Lafayette St', 'New York, NY 10012']",New York,4.0,1176,"{'latitude': 40.7219179851303, 'longitude': -73.9976472073402}",3.0
+Gran Morsi,"['22 Warren St', 'New York, NY 10007']",New York,4.5,384,"{'latitude': 40.7142052394856, 'longitude': -74.0077535494539}",3.0
+Kingsbridge Social Club,"['3625 Kingsbridge Ave', 'Bronx, NY 10463']",Bronx,4.5,212,"{'latitude': 40.88455, 'longitude': -73.90194}",2.0
+Don Angie,"['103 Greenwich Ave', 'New York, NY 10014']",New York,4.5,366,"{'latitude': 40.73778, 'longitude': -74.00197}",3.0
+Repertorio Español,"['138 E 27th St', 'New York, NY 10016']",New York,4.5,24,"{'latitude': 40.74165, 'longitude': -73.98259}",
+Brooklyn Winery,"['213 N 8th St', 'Brooklyn, NY 11211']",Brooklyn,4.5,272,"{'latitude': 40.71726, 'longitude': -73.9551199}",2.0
+Chemistry Creative,"['305 Ten Eyck St', 'Brooklyn, NY 11206']",Brooklyn,5.0,2,"{'latitude': 40.71166, 'longitude': -73.93671}",
+High Low Beverage Company,"['295 Wyckoff Ave', 'Brooklyn, NY 11237']",Brooklyn,5.0,9,"{'latitude': 40.70059, 'longitude': -73.91276}",
+Da Nonna Rosa,"['140 7th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,364,"{'latitude': 40.67291, 'longitude': -73.97697}",2.0
+Gramercy Tavern,"['42 E 20th St', 'New York, NY 10003']",New York,4.5,2935,"{'latitude': 40.73844, 'longitude': -73.98825}",4.0
+Sabina's Loft,"['447 West 36th St', 'New York, NY 10018']",New York,5.0,4,"{'latitude': 40.75566, 'longitude': -73.99748}",
+Home Revision NYC,"['Manhattan, NY 10016']",Manhattan,5.0,10,"{'latitude': 40.74727, 'longitude': -73.9800645}",
+L'Artusi,"['228 W 10th St', 'New York, NY 10014']",New York,4.5,1878,"{'latitude': 40.73372, 'longitude': -74.00513}",3.0
+Delacorte Theater,"['81 Central Park W', 'New York, NY 10023']",New York,4.5,52,"{'latitude': 40.7802449, 'longitude': -73.9688701}",
+Etcetera Etcetera,"['352 W 44th St', 'New York, NY 10036']",New York,4.0,431,"{'latitude': 40.75926, 'longitude': -73.99115}",3.0
+Pisticci,"['125 La Salle St', 'New York, NY 10027']",New York,4.0,876,"{'latitude': 40.8141624, 'longitude': -73.960288}",2.0
+HERE,"['145 6th Ave', 'New York, NY 10013']",New York,4.5,19,"{'latitude': 40.725124, 'longitude': -74.004943}",
+Red Rooster Harlem,"['310 Lenox Ave', 'New York, NY 10027']",New York,3.5,3284,"{'latitude': 40.80815, 'longitude': -73.94488}",3.0
+Theatre Row,"['410 W 42nd St', 'New York, NY 10036']",New York,4.5,34,"{'latitude': 40.75856, 'longitude': -73.99332}",
+American Cut Steakhouse Midtown,"['109 E 56th St', 'New York, NY 10022']",New York,3.5,229,"{'latitude': 40.76081, 'longitude': -73.97034}",4.0
+Garnish Music Production & DJ School,"['342 Livingston St', 'Brooklyn, NY 11217']",Brooklyn,5.0,1,"{'latitude': 40.68764, 'longitude': -73.9812}",
+Modern Love Brooklyn,"['317 Union Ave', 'Brooklyn, NY 11211']",Brooklyn,4.5,538,"{'latitude': 40.70983, 'longitude': -73.95109}",2.0
+American Airlines Theatre,"['227 W 42nd St', 'New York, NY 10036']",New York,4.0,50,"{'latitude': 40.7566279917955, 'longitude': -73.9882555603981}",
+Simply Divine,"['334 Amsterdam Ave', 'New York, NY 10023']",New York,5.0,6,"{'latitude': 40.781129, 'longitude': -73.980176}",
+Kings Theatre,"['1027 Flatbush Ave', 'Brooklyn, NY 11226']",Brooklyn,4.0,205,"{'latitude': 40.6459959, 'longitude': -73.957318}",2.0
+Pier 59 Studios,"['59 Chelsea Piers', 'Pier 59, 2nd Level', 'New York, NY 10011']",New York,4.0,9,"{'latitude': 40.7457505744212, 'longitude': -74.0086246456773}",3.0
+Threes Brewing,"['333 Douglass St', 'Brooklyn, NY 11217']",Brooklyn,4.0,386,"{'latitude': 40.6797218322754, 'longitude': -73.9821624755859}",2.0
+Scandinavia House,"['58 Park Ave', 'New York, NY 10016']",New York,4.0,38,"{'latitude': 40.7494442, 'longitude': -73.9799597}",
+Vj Magic Myke,"['533 W 156th St', 'New York, NY 10032']",New York,5.0,1,"{'latitude': 40.8326813578606, 'longitude': -73.9434137195349}",
+ABC Kitchen,"['35 E 18th St', 'New York, NY 10003']",New York,4.0,2981,"{'latitude': 40.737832, 'longitude': -73.989649}",3.0
+The Smith,"['956 2nd Ave', 'New York, NY 10022']",New York,4.0,2690,"{'latitude': 40.755165, 'longitude': -73.967868}",2.0
+Godspell,"['New York, NY 10019']",New York,4.0,27,"{'latitude': 40.7687950134277, 'longitude': -73.9898071289062}",
+Aunt Jake's,"['133 Mulberry St', 'New York, NY 10013']",New York,4.0,1499,"{'latitude': 40.7186467, 'longitude': -73.9979241}",2.0
+Cherry Lane Theatre,"['38 Commerce St', 'New York, NY 10014']",New York,4.0,57,"{'latitude': 40.731262, 'longitude': -74.00531}",
+WineO Club,"['8 E 36th St', 'Fl 3', 'New York, NY 10016']",New York,5.0,121,"{'latitude': 40.74921, 'longitude': -73.983018}",
+Rahi,"['60 Greenwich Ave', 'New York, NY 10011']",New York,4.5,496,"{'latitude': 40.7360271, 'longitude': -74.0005436}",3.0
+Harlem Repertory Theatre,"['240 E 123rd St', 'Fl 2', 'New York, NY 10035']",New York,4.0,13,"{'latitude': 40.801371, 'longitude': -73.935097}",
+The Long Hall Pub & Grocery,"['58 E 34th St', 'New York, NY 10016']",New York,4.5,102,"{'latitude': 40.7472791, 'longitude': -73.9821609}",2.0
+New York Adventure Club,"['136 E 55th St', 'New York, NY 10022']",New York,4.5,22,"{'latitude': 40.7605505, 'longitude': -73.9822683}",
+St Ann's Warehouse,"['45 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.0,38,"{'latitude': 40.7036590915414, 'longitude': -73.9928808671827}",2.0
+BRIC House,"['647 Fulton St', 'Brooklyn, NY 11217']",Brooklyn,4.5,19,"{'latitude': 40.68834, 'longitude': -73.97914}",
+Gelsey Kirkland Academy of Classical Ballet,"['29 Jay St', 'Dumbo, NY 11201']",Dumbo,4.5,6,"{'latitude': 40.70402, 'longitude': -73.98647}",
+Craft House,"['60 Vanduzer St', 'Tompkinsville, NY 10301']",Tompkinsville,4.5,333,"{'latitude': 40.636373, 'longitude': -74.077543}",2.0
+La MaMa,"['74A E 4th St', 'New York, NY 10003']",New York,4.5,20,"{'latitude': 40.7264415, 'longitude': -73.9904678}",
+Signature Cafe + Bar,"['480 42nd St', 'New York, NY 10036']",New York,3.5,7,"{'latitude': 40.7593593363308, 'longitude': -73.9951563565362}",2.0
+Forno Rosso,"['327 Gold St', 'Brooklyn, NY 11201']",Brooklyn,4.5,685,"{'latitude': 40.694467, 'longitude': -73.98293}",2.0
+SassyPants Aerial Arts - Laura Witwer Aerial Silk Classes,"['51 N 1st St', 'Streb Lab for Action Mechanics', 'Brooklyn, NY 11211']",Brooklyn,4.5,10,"{'latitude': 40.716956, 'longitude': -73.964649}",
+SoundVine Studios,"['1133 Broadway', 'Ste 705', 'New York, NY 10010']",New York,5.0,1,"{'latitude': 40.74358, 'longitude': -73.9892}",
+Hunters Steak & Ale House,"['9404 4th Ave', 'Brooklyn, NY 11209']",Brooklyn,4.0,102,"{'latitude': 40.61668, 'longitude': -74.03121}",3.0
+Strip House Speakeasy,"['11 E 12th St', 'New York, NY 10003']",New York,4.0,50,"{'latitude': 40.7344415, 'longitude': -73.9934246}",3.0
+Aladdin The Musical,"['214 W 42nd St', 'New York, NY 10036']",New York,4.5,377,"{'latitude': 40.7562, 'longitude': -73.98772}",
+Shakespeare In the Park,"['Delacorte Theater', '81st St and Central Park W', 'New York, NY 10024']",New York,4.5,154,"{'latitude': 40.7803139578961, 'longitude': -73.9688014984131}",
+Freemans,"['Freeman Aly', 'New York, NY 10002']",New York,4.0,2067,"{'latitude': 40.721988, 'longitude': -73.992466}",2.0
+Theater 80 St Marks,"['80 Saint Marks Pl', 'New York, NY 10003']",New York,4.5,47,"{'latitude': 40.72765, 'longitude': -73.98573}",
+Sweet Talk,"['457 3rd Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,233,"{'latitude': 40.6712112426758, 'longitude': -73.9909439086914}",2.0
+The Foundry,"['42-38 9th St', 'Long Island City, NY 11101']",Long Island City,4.5,40,"{'latitude': 40.7534473515926, 'longitude': -73.9489555943989}",
+Sistas the Musical,"['308 W 46th St', ""St. Luke's Theatre"", 'New York, NY 10036']",New York,4.5,6,"{'latitude': 40.76002, 'longitude': -73.98876}",
+TONCHIN NEW YORK,"['13 W 36th St', 'New York, NY 10018']",New York,4.5,1253,"{'latitude': 40.7502727, 'longitude': -73.9844951}",2.0
+Mamasita Bar & Grill,"['818 10th Ave', 'New York, NY 10019']",New York,4.0,1176,"{'latitude': 40.76733, 'longitude': -73.98945}",2.0
+Feinstein's/54 Below,"['254 W 54th St', 'New York, NY 10019']",New York,4.0,185,"{'latitude': 40.7644499, 'longitude': -73.98371}",3.0
+BAM Rose Cinemas,"['30 Lafayette Ave', 'Brooklyn, NY 11217']",Brooklyn,4.0,254,"{'latitude': 40.686463, 'longitude': -73.977698}",2.0
+Bam Howard Gilman Opera House,"['30 Lafayette Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,16,"{'latitude': 40.686462, 'longitude': -73.977699}",
+To Kill a Mockingbird,"['225 W 44th St', 'Shubert Theater', 'New York, NY 10036']",New York,4.5,24,"{'latitude': 40.758086523245, 'longitude': -73.9872530301311}",
+All Day Innovative Design & Printing,"['Brooklyn, NY 11237']",Brooklyn,5.0,1,"{'latitude': 40.7043156, 'longitude': -73.9212858}",
+Wicked,"['222 W 51st St', 'Gershwin Theatre', 'New York, NY 10019']",New York,4.5,784,"{'latitude': 40.762558, 'longitude': -73.985075}",
+Brooklyn Museum,"['200 Eastern Pkwy', 'Brooklyn, NY 11238']",Brooklyn,4.5,622,"{'latitude': 40.6714058033045, 'longitude': -73.9636778798943}",
+Make Up For Ever,"['8 E 12th St', 'New York, NY 10003']",New York,4.0,56,"{'latitude': 40.73425, 'longitude': -73.99381}",3.0
+Churrascaria Plataforma,"['316 W 49th St', 'New York, NY 10019']",New York,4.0,1373,"{'latitude': 40.76202, 'longitude': -73.98765}",4.0
+Julia Testa,"['111 Thompson St', 'New York, NY 10012']",New York,4.5,24,"{'latitude': 40.7259239, 'longitude': -74.0019471}",
+Nusr-Et Steakhouse,"['60 W 53rd St', 'New York, NY 10019']",New York,3.5,540,"{'latitude': 40.761343, 'longitude': -73.978529}",4.0
+Iron Chef House,"['92 Clark St', 'Brooklyn, NY 11201']",Brooklyn,4.0,410,"{'latitude': 40.6972664717136, 'longitude': -73.9925980567932}",2.0
+Booth Theatre,"['222 W 45th St', 'New York, NY 10036']",New York,4.0,87,"{'latitude': 40.75845, 'longitude': -73.987}",
+STK Steakhouse Downtown NYC,"['26 Little West 12th St', 'New York, NY 10014']",New York,3.5,1374,"{'latitude': 40.73988, 'longitude': -74.0072}",3.0
+Dani's House of Pizza,"['81-28 Lefferts Blvd', 'Kew Gardens, NY 11415']",Kew Gardens,3.5,1035,"{'latitude': 40.7090018174257, 'longitude': -73.830498211479}",1.0
+The Smith,"['1150 Broadway', 'New York, NY 10010']",New York,4.0,1025,"{'latitude': 40.74424, 'longitude': -73.98878}",2.0
+Patrizia's Pizza and Pasta,"['462-466 2nd Ave', 'New York, NY 10016']",New York,4.0,625,"{'latitude': 40.7398415, 'longitude': -73.9792862}",2.0
+Mastro's Steakhouse,"['1285 6th Ave', 'New York, NY 10019']",New York,4.0,725,"{'latitude': 40.761105, 'longitude': -73.980164}",4.0
+David H Koch Theater,"['20 Lincoln Center Plz', 'New York, NY 10023']",New York,4.5,97,"{'latitude': 40.771889, 'longitude': -73.983343}",
+Manhattan Edit Workshop,"['119 W 23rd St', 'Ste 700', 'New York, NY 10011']",New York,5.0,2,"{'latitude': 40.7433349, 'longitude': -73.9934616}",
+Emporio,"['231 Mott St', 'New York, NY 10012']",New York,4.0,784,"{'latitude': 40.722647, 'longitude': -73.995246}",2.0
+Dvideo Digital Video Production Studio,"['2900 Westchester Ave', 'Ste 205', 'Purchase, NY 10577']",Purchase,5.0,1,"{'latitude': 41.0104596, 'longitude': -73.6980187}",
+MD Music & Entertainment,"['New York, NY 10036']",New York,5.0,20,"{'latitude': 40.7588233947754, 'longitude': -73.9932250976563}",
+Rattlestick Playwrights Theater,"['224 Waverly Pl', 'New York, NY 10014']",New York,4.0,13,"{'latitude': 40.73607, 'longitude': -74.00195}",
+Fields Good Chicken,"['599 Lexington Ave', 'New York, NY 10022']",New York,3.5,7,"{'latitude': 40.757963, 'longitude': -73.970836}",
+Ippudo NY,"['65 4th Ave', 'New York, NY 10003']",New York,4.0,10015,"{'latitude': 40.73092, 'longitude': -73.99015}",2.0
+Song E Napule,"['146 W Houston St', 'New York, NY 10012']",New York,4.5,506,"{'latitude': 40.72813, 'longitude': -74.00188}",2.0
+Mama Sushi,"['3569 Broadway', 'New York, NY 10031']",New York,3.5,385,"{'latitude': 40.82733, 'longitude': -73.95013}",2.0
+The Joyce Theater,"['175 8th Ave', 'New York, NY 10011']",New York,4.5,69,"{'latitude': 40.7427641, 'longitude': -74.0005237}",
+Scott Capital Group,"['185 Wythe Ave', 'Ste 94', 'Brooklyn, NY 11249']",Brooklyn,5.0,37,"{'latitude': 40.71813, 'longitude': -73.96177}",
+Power House Dance Academy,"['161-26 Crossbay Blvd Howard Beach', 'Queens, NY 11693']",Queens,5.0,3,"{'latitude': 40.6548158, 'longitude': -73.8390601}",
+The Smith,"['55 3rd Ave', 'New York, NY 10003']",New York,3.5,1975,"{'latitude': 40.730957886229, 'longitude': -73.9886217}",2.0
+NYC Modern Home,"['119 W 72nd St', 'Ste 219', 'Manhattan, NY 10023']",Manhattan,5.0,1,"{'latitude': 40.77786, 'longitude': -73.97945}",
+Almond,"['12 E 22nd St', 'New York, NY 10010']",New York,4.0,1027,"{'latitude': 40.7400817871094, 'longitude': -73.9887542724609}",2.0
+Quality Meats,"['57 W 58th St', 'New York, NY 10019']",New York,4.0,1973,"{'latitude': 40.764958, 'longitude': -73.976206}",4.0
+Poster House,"['119 W 23rd St', 'New York, NY 10011']",New York,4.5,19,"{'latitude': 40.7433885071265, 'longitude': -73.9935075903394}",
+New World Stages,"['340 W 50th St', 'New York, NY 10019']",New York,4.5,234,"{'latitude': 40.762778, 'longitude': -73.987582286671}",
+Morton's The Steakhouse,"['551 5th Ave', 'New York, NY 10017']",New York,4.0,521,"{'latitude': 40.7552153, 'longitude': -73.9787657}",4.0
+Real Kung Fu Little Steamed Buns Ramen,"['811 8th Ave', 'New York, NY 10019']",New York,3.5,1019,"{'latitude': 40.7616286634162, 'longitude': -73.9868181646996}",2.0
+Brooklyn Botanic Garden,"['990 Washington Ave', 'Brooklyn, NY 11225']",Brooklyn,4.5,804,"{'latitude': 40.6692899, 'longitude': -73.9633}",
+The York Theatre Company,"['619 Lexington Ave', ""St. Peter's Church"", 'New York, NY 10022']",New York,4.0,7,"{'latitude': 40.7588, 'longitude': -73.97045}",2.0
+Crave Fishbar,"['945 2nd Ave', 'New York, NY 10022']",New York,4.0,730,"{'latitude': 40.755136, 'longitude': -73.968683}",3.0
+Five Leaves,"['18 Bedford Ave', 'Brooklyn, NY 11222']",Brooklyn,4.0,1617,"{'latitude': 40.72371830945, 'longitude': -73.95159863632}",2.0
+Peaches HotHouse,"['415 Tompkins Ave', 'Brooklyn, NY 11216']",Brooklyn,4.0,1215,"{'latitude': 40.6833699737169, 'longitude': -73.9437798410654}",2.0
+Hearth,"['403 E 12th St', 'New York, NY 10009']",New York,4.0,724,"{'latitude': 40.730006, 'longitude': -73.983225}",3.0
+Ben & Jack's Steakhouse,"['219 E 44th St', 'New York, NY 10017']",New York,4.0,309,"{'latitude': 40.75183, 'longitude': -73.97236}",3.0
+Carroll Place,"['157 Bleecker St', 'New York, NY 10012']",New York,4.0,1108,"{'latitude': 40.7287, 'longitude': -73.99971}",2.0
+NYC Party Bus Pros,"['228 Park Ave S', 'New York, NY 10003']",New York,4.0,88,"{'latitude': 40.7376487, 'longitude': -73.9886182}",
+The Peoples Improv Theater,"['123 E 24th St', 'New York, NY 10010']",New York,4.0,155,"{'latitude': 40.7404289866457, 'longitude': -73.9846801757812}",
+Posto,"['310 2nd Ave', 'New York, NY 10003']",New York,4.0,612,"{'latitude': 40.73483, 'longitude': -73.98282}",2.0
+Winter Garden Theatre,"['1634 Broadway', 'New York, NY 10019']",New York,4.5,94,"{'latitude': 40.76149, 'longitude': -73.98379}",
+Maison Pickle,"['2315 Broadway', 'New York, NY 10024']",New York,4.0,1041,"{'latitude': 40.7870473, 'longitude': -73.9781361}",2.0
+The Thirsty Koala,"['35-12 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,4.5,1106,"{'latitude': 40.774416, 'longitude': -73.908739}",2.0
+Gansevoort Meatpacking NYC,"['18 9th Ave', 'New York, NY 10014']",New York,3.5,564,"{'latitude': 40.73993, 'longitude': -74.00584}",3.0
+Third Avenue Ale House,"['1644 3rd Ave', 'New York, NY 10128']",New York,3.5,314,"{'latitude': 40.7828, 'longitude': -73.95129}",2.0
+Fiaschetteria Pistoia,"['647 E 11th St', 'New York, NY 10009']",New York,4.0,179,"{'latitude': 40.72666, 'longitude': -73.9773}",2.0
+The Metropolitan Museum of Art,"['1000 5th Ave', 'New York, NY 10028']",New York,4.5,2928,"{'latitude': 40.779449, 'longitude': -73.963245}",
+Maison May Dekalb,"['246 Dekalb Ave', 'Brooklyn, NY 11205']",Brooklyn,4.0,232,"{'latitude': 40.6892623901367, 'longitude': -73.9693450927734}",
+Bernard B. Jacobs Theatre,"['242 W 45th St', 'New York, NY 10036']",New York,3.5,96,"{'latitude': 40.75874, 'longitude': -73.98764}",
+Privé Entertainment,"['New York, NY 10016']",New York,5.0,34,"{'latitude': 40.74541, 'longitude': -73.9793}",
+Samuel J Friedman Theatre,"['261 W 47th St', 'Manhattan Theatre Club', 'New York, NY 10036']",New York,4.0,47,"{'latitude': 40.76038451712, 'longitude': -73.986580267752}",
+Boutros,"['185 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.5,128,"{'latitude': 40.6901481293837, 'longitude': -73.9935445412993}",3.0
+Lucille Lortel Theatre,"['121 Christopher St', 'New York, NY 10014']",New York,3.5,29,"{'latitude': 40.733356, 'longitude': -74.005744}",
+Austin's Ale House,"['8270 Austin St', 'Kew Gardens, NY 11415']",Kew Gardens,3.5,452,"{'latitude': 40.709375, 'longitude': -73.830072}",2.0
+Dylan's Candy Bar,"['1011 3rd Ave', 'New York, NY 10065']",New York,3.5,1278,"{'latitude': 40.7622199117854, 'longitude': -73.9658242463228}",2.0
+Clinton Street Baking Company,"['4 Clinton St', 'New York, NY 10002']",New York,4.0,5129,"{'latitude': 40.721128, 'longitude': -73.983933}",2.0
+212 Steakhouse,"['316 E 53rd St', 'New York, NY 10022']",New York,4.0,693,"{'latitude': 40.75634, 'longitude': -73.966489}",3.0
+212 Steakhouse,"['316 E 53rd St', 'New York, NY 10022']",New York,4.0,693,"{'latitude': 40.75634, 'longitude': -73.966489}",3.0
+Stukwan Entertainment,"['Brooklyn, NY 11223']",Brooklyn,5.0,3,"{'latitude': 40.6008911132812, 'longitude': -73.9785614013672}",
+King Killer Studios,"['69 2nd Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,7,"{'latitude': 40.6728499, 'longitude': -73.99299}",
+1803,"['82 Reade St', 'New York, NY 10007']",New York,4.5,433,"{'latitude': 40.715498, 'longitude': -74.007178}",2.0
+Jacob's Pickles,"['509 Amsterdam Ave', 'New York, NY 10024']",New York,4.0,4313,"{'latitude': 40.7866504411994, 'longitude': -73.9755284786224}",2.0
+MarkJoseph Steakhouse,"['261 Water St', 'New York, NY 10038']",New York,4.0,410,"{'latitude': 40.70837, 'longitude': -74.00152}",4.0
+W New York - Times Square,"['1567 Broadway', 'New York, NY 10036']",New York,3.5,496,"{'latitude': 40.759344404359, 'longitude': -73.9857229356794}",3.0
+Osteria Cotta,"['513 Columbus Ave', 'New York, NY 10024']",New York,4.0,895,"{'latitude': 40.78554, 'longitude': -73.97263}",2.0
+Hudson Theatre,"['141 W 44th St', 'New York, NY 10036']",New York,4.0,42,"{'latitude': 40.756809, 'longitude': -73.9847454}",
+Brooklyn Public House,"['247 Dekalb Ave', 'Brooklyn, NY 11205']",Brooklyn,3.5,321,"{'latitude': 40.68958, 'longitude': -73.96939}",2.0
+Fragole Ristorante,"['394 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.5,354,"{'latitude': 40.68087, 'longitude': -73.99688}",2.0
+Boilery - East Village,"['58 3rd Ave', 'New York, NY 10003']",New York,4.5,126,"{'latitude': 40.73112, 'longitude': -73.98898}",2.0
+The Gym at Judson,"['243 Thompson St', 'New York, NY 10012']",New York,4.5,5,"{'latitude': 40.7295973598957, 'longitude': -73.9987564086914}",
+ACME Brooklyn,"['350 Meserole St', 'Bldg D', 'BROOKLYN, NY 11206']",BROOKLYN,5.0,7,"{'latitude': 40.7086514, 'longitude': -73.9342737}",
+Quality Italian,"['57 W 57th St', 'New York, NY 10019']",New York,4.0,1076,"{'latitude': 40.7644044527436, 'longitude': -73.9767805051616}",3.0
+Cote,"['16 W 22nd St', 'New York, NY 10010']",New York,4.0,952,"{'latitude': 40.741192, 'longitude': -73.991314}",3.0
+Barrow Street Theatre,"['27 Barrow St', 'New York, NY 10014']",New York,4.5,47,"{'latitude': 40.732318, 'longitude': -74.003089}",
+Celestine,"['1 John St', 'Brooklyn, NY 11201']",Brooklyn,4.0,228,"{'latitude': 40.704676, 'longitude': -73.987975}",3.0
+Mekelburg's,"['319 Kent Ave', 'Brooklyn, NY 11249']",Brooklyn,4.0,56,"{'latitude': 40.71375, 'longitude': -73.96704}",2.0
+Buttermilk Channel,"['524 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.0,1893,"{'latitude': 40.675919, 'longitude': -73.999059}",2.0
+Chef Cava,"['Brooklyn, NY 11215']",Brooklyn,5.0,19,"{'latitude': 40.66889, 'longitude': -73.9819}",
+Beluga Labs,"['244 5th Ave', 'New York, NY 10001']",New York,5.0,9,"{'latitude': 40.74458, 'longitude': -73.98761}",
+Smith Street Stage,"['Carroll Park', 'Brooklyn, NY 11231']",Brooklyn,4.5,2,"{'latitude': 40.681045, 'longitude': -73.995673}",
+Sweet Booths Photo Booth,"['New York, NY 10001']",New York,5.0,147,"{'latitude': 40.7492790222168, 'longitude': -73.9925918579102}",
+ROOT NYC,"['443 W 18th St', 'New York, NY 10011']",New York,4.5,2,"{'latitude': 40.74435, 'longitude': -74.00513}",
+Aji Sushi House,"['3606 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,4.5,453,"{'latitude': 40.7742004394531, 'longitude': -73.9079513549805}",2.0
+Jeremy's Ale House- South Street Seaport,"['228 Front St', 'New York, NY 10038']",New York,4.0,294,"{'latitude': 40.70766, 'longitude': -74.00205}",1.0
+Eleven Madison Park,"['11 Madison Ave', 'New York, NY 10010']",New York,4.5,2188,"{'latitude': 40.7416907417333, 'longitude': -73.9872074872255}",4.0
+Cocktail Caterers,"['416 West 23rd St', 'New York, NY 10011']",New York,5.0,10,"{'latitude': 40.746631, 'longitude': -74.002211}",
+Snapped,"['315 W 36th St', 'New York, NY 10018']",New York,4.5,34,"{'latitude': 40.754045, 'longitude': -73.9933502}",
+Corkbuzz Wine Studio,"['13 E 13th St', 'New York, NY 10003']",New York,4.0,400,"{'latitude': 40.735088, 'longitude': -73.9931414}",3.0
+Table 87 - Brooklyn Heights,"['87 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.0,288,"{'latitude': 40.691219329834, 'longitude': -73.9973449707031}",2.0
+Funico Studios,"['363 E 76th St', 'New York, NY 10021']",New York,5.0,11,"{'latitude': 40.77061, 'longitude': -73.95436}",
+Paulie Gee's,"['60 Greenpoint Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,1262,"{'latitude': 40.729546, 'longitude': -73.958568}",2.0
+Jane,"['100 W Houston St', 'New York, NY 10012']",New York,4.0,3149,"{'latitude': 40.72732, 'longitude': -74.00026}",2.0
+Academy at Coffee Project NY,"['21-10 51st Ave', 'Long Island City, NY 11101']",Long Island City,5.0,7,"{'latitude': 40.740932, 'longitude': -73.949333}",
+Hamilton the Musical,"['226 W 46th St', 'New York, NY 10036']",New York,4.5,276,"{'latitude': 40.75903, 'longitude': -73.98674}",
+Nobu Fifty Seven,"['40 W 57th St', 'New York, NY 10019']",New York,4.0,1222,"{'latitude': 40.7636210840864, 'longitude': -73.9765048613641}",4.0
+Alchemologie Natural Perfume,"['Brooklyn, NY 11215']",Brooklyn,4.0,3,"{'latitude': 40.66889, 'longitude': -73.9819}",
+Christine Valmy International School,"['1501 Broadway', 'Ste 700 (Bldg entrance on 43rd st.)', 'New York, NY 10036']",New York,4.0,123,"{'latitude': 40.7571, 'longitude': -73.9864}",1.0
+Amigo by Nai,"['29 2nd Ave', 'New York, NY 10003']",New York,5.0,20,"{'latitude': 40.724686, 'longitude': -73.99086}",
+The Cabin NYC,"['205 E 4th St', 'New York, NY 10009']",New York,4.0,254,"{'latitude': 40.72393, 'longitude': -73.98383}",2.0
+Radio Free Brooklyn,"['100 Bogart St', 'Brooklyn, NY 11206']",Brooklyn,5.0,5,"{'latitude': 40.7072458, 'longitude': -73.9335722}",
+Paradise Club,"['701 7th Ave 20 Times Square', 'New York, NY 10036']",New York,4.5,81,"{'latitude': 40.75923, 'longitude': -73.9841}",
+STK Steakhouse Midtown NYC,"['1114 Avenue Of The Americas', 'New York, NY 10036']",New York,3.5,1111,"{'latitude': 40.754669, 'longitude': -73.98285}",3.0
+Robert,"['2 Columbus Cir', 'New York, NY 10019']",New York,4.0,919,"{'latitude': 40.767394, 'longitude': -73.982036}",3.0
+Blackout Haunted House,"['115 W 27th St', 'New York, NY 10001']",New York,2.5,94,"{'latitude': 40.7459717, 'longitude': -73.9916992}",
+House of Lasagna,"['334 Lexington Ave', 'New York, NY 10016']",New York,3.5,148,"{'latitude': 40.7497237, 'longitude': -73.9775697}",2.0
+Empellón Taqueria,"['230 W 4th St', 'New York, NY 10014']",New York,3.5,709,"{'latitude': 40.7341219, 'longitude': -74.0030294}",2.0
+Drunk Shakespeare,"['711 7th Ave', 'Fl 2', 'New York, NY 10019']",New York,4.5,607,"{'latitude': 40.7594979549673, 'longitude': -73.9839559215396}",2.0
+Il Buco,"['47 Bond St', 'New York, NY 10012']",New York,4.0,683,"{'latitude': 40.72583, 'longitude': -73.99299}",3.0
+Empire Steak House,"['237 W 54th St', 'New York, NY 10019']",New York,3.5,281,"{'latitude': 40.76441, 'longitude': -73.98311}",3.0
+All Borough Party Rentals,"['75 Van Dam St', 'Brooklyn, NY 11222']",Brooklyn,5.0,47,"{'latitude': 40.7276433, 'longitude': -73.9374433}",
+The Box House Hotel,"['77 Box St', 'Brooklyn, NY 11222']",Brooklyn,3.5,142,"{'latitude': 40.73782, 'longitude': -73.95354}",2.0
+Wild Project,"['195 E 3rd St', 'New York, NY 10009']",New York,4.5,12,"{'latitude': 40.72295, 'longitude': -73.98336}",2.0
+Magnet Theater,"['254 W 29th St', 'New York, NY 10001']",New York,4.5,138,"{'latitude': 40.7487943, 'longitude': -73.9953078}",1.0
+Liquid Gold Apparel & Prints,"['247-50 90th Ve', 'Bellerose, NY 11426']",Bellerose,5.0,1,"{'latitude': 40.7349144, 'longitude': -73.7213063}",3.0
+Gertie,"['357 Grand St', 'Brooklyn, NY 11211']",Brooklyn,4.0,86,"{'latitude': 40.712389, 'longitude': -73.9555675}",2.0
+ExpertTech Inc.,"['452 Union St', 'Brooklyn, NY 11231']",Brooklyn,5.0,10,"{'latitude': 40.6797745, 'longitude': -73.9894705}",
+Lure Fishbar,"['142 Mercer St', 'New York, NY 10012']",New York,4.0,1666,"{'latitude': 40.724612166991, 'longitude': -73.998574708004}",3.0
+Locanda Vini e Olii,"['129 Gates Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,309,"{'latitude': 40.685007, 'longitude': -73.962943}",3.0
+Video Data Services,"['406 Chestnut St', 'Union, NJ 07083']",Union,5.0,13,"{'latitude': 40.68066, 'longitude': -74.26877}",
+Olio e Piú,"['3 Greenwich Ave', 'New York, NY 10014']",New York,4.5,2383,"{'latitude': 40.733826, 'longitude': -73.999852}",2.0
+Moulin Rouge! The Musical,"['302 West 45th St', 'Al Hirschfeld Theatre', 'New York, NY 10036']",New York,4.5,41,"{'latitude': 40.759309, 'longitude': -73.989015}",
+JB Screen Printing & Embroidery,"['172 Rivington St', 'New York, NY 10002']",New York,4.0,31,"{'latitude': 40.71913, 'longitude': -73.98452}",2.0
+Pro AV Rentals,"['276 Meserole St', 'Brooklyn, NY 11206']",Brooklyn,4.0,10,"{'latitude': 40.7084266, 'longitude': -73.9374058}",
+A Slice of Brooklyn Bus Tours,"['2036 61st St', 'Brooklyn, NY 11204']",Brooklyn,5.0,105,"{'latitude': 40.61807, 'longitude': -73.98276}",
+Everything Entertainment,"['236 Arlington Ave', 'Staten Island, NY 10303']",Staten Island,4.5,11,"{'latitude': 40.63427, 'longitude': -74.16786}",
+"Gotham Sound & Communications, Inc","['35-10 36th Ave', 'Second Fl', 'Long Island City, NY 11106']",Long Island City,4.0,4,"{'latitude': 40.7548453, 'longitude': -73.9264109}",
+El Parador Cafe,"['325 E 34th St', 'New York, NY 10016']",New York,4.0,436,"{'latitude': 40.7444599, 'longitude': -73.97472}",2.0
+Gerald Schoenfeld Theatre,"['236 W 45th St', 'New York, NY 10036']",New York,3.5,79,"{'latitude': 40.75865, 'longitude': -73.98745}",
+Hillstone Restaurant,"['888 3rd Ave', 'New York, NY 10022']",New York,4.0,1113,"{'latitude': 40.758352, 'longitude': -73.969112}",3.0
+Chicago The Musical,"['219 W 49th St', 'New York, NY 10019']",New York,3.0,280,"{'latitude': 40.76114, 'longitude': -73.98506}",
+Lilly's Craft and Kitchen,"['675 9th Ave', 'New York, NY 10036']",New York,4.0,1048,"{'latitude': 40.76138, 'longitude': -73.99071}",2.0
+Universal Light & Sound Rentals,"['280 Madison Ave', 'Ste 912', 'New York, NY 10016']",New York,5.0,53,"{'latitude': 40.75144, 'longitude': -73.9804599}",
+ET Studio Productions,"['630 Sharrotts Rd', 'Ste 2', 'Staten Island, NY 10309']",Staten Island,5.0,2,"{'latitude': 40.53834, 'longitude': -74.23836}",2.0
+Queens Theatre,"['14 United Nations Ave S', 'Flushing Meadows Corona Park', 'Corona, NY 11368']",Corona,4.5,57,"{'latitude': 40.7442251027724, 'longitude': -73.8453662395477}",2.0
+Analogue,"['19 W 8th St', 'New York, NY 10011']",New York,4.0,265,"{'latitude': 40.732688, 'longitude': -73.997467}",3.0
+Fitzgerald Jewelry,"['243 Grand St', 'Brooklyn, NY 11211']",Brooklyn,4.5,35,"{'latitude': 40.713688, 'longitude': -73.9588428}",2.0
+Imperial Theatre,"['249 W 45th St', 'New York, NY 10036']",New York,3.5,124,"{'latitude': 40.7591572380202, 'longitude': -73.9877810260963}",
+Wolfgang's Steakhouse,"['4 Park Ave', 'New York, NY 10016']",New York,4.0,978,"{'latitude': 40.7466818653462, 'longitude': -73.9820571484794}",4.0
+Vineyard Theatre and Workshop Center,"['108 E 15th St', 'New York, NY 10003']",New York,4.5,12,"{'latitude': 40.7348915, 'longitude': -73.9891986}",
+Metropolitan Pavilion,"['125 W 18th St', 'New York, NY 10011']",New York,4.0,98,"{'latitude': 40.740167, 'longitude': -73.995801}",
+Jajaja Plantas Mexicana,"['162 E Broadway', 'New York, NY 10002']",New York,4.5,974,"{'latitude': 40.7141530317142, 'longitude': -73.9904247969389}",2.0
+Hunt & Fish Club,"['125 W 44th St', 'New York, NY 10036']",New York,4.0,555,"{'latitude': 40.75673, 'longitude': -73.9843}",4.0
+Buenos Aires,"['513 E 6th St', 'New York, NY 10009']",New York,4.0,555,"{'latitude': 40.7253150939941, 'longitude': -73.983039855957}",3.0
+The Cecil Steakhouse,"['210 W 118th St', 'New York, NY 10026']",New York,3.5,161,"{'latitude': 40.8048153132292, 'longitude': -73.9523577197469}",3.0
+Mekelburg's,"['293 Grand Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,283,"{'latitude': 40.687542, 'longitude': -73.962334}",2.0
+BAM Harvey Theatre,"['651 Fulton St', 'Brooklyn, NY 11217']",Brooklyn,3.5,71,"{'latitude': 40.68829, 'longitude': -73.979}",
+Judaica Classics by Doina,"['1248 Lexington Ave', 'New York, NY 10028']",New York,5.0,4,"{'latitude': 40.7784199, 'longitude': -73.9565499}",2.0
+Pier 17,"['89 S St', 'New York, NY 10038']",New York,4.0,147,"{'latitude': 40.705466, 'longitude': -74.001579}",2.0
+Sweet Chick,"['164 Bedford Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,2030,"{'latitude': 40.718371, 'longitude': -73.95733}",2.0
+Blend on the Water,"['45-40 Center Blvd', 'Long Island City, NY 11109']",Long Island City,4.0,3273,"{'latitude': 40.748216, 'longitude': -73.956973}",2.0
+SaveMor Digital Printing,"['87 3rd Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,17,"{'latitude': 40.6836205, 'longitude': -73.9816971}",
+The HighLife Productions,"['211 E 51st St', 'Ste 3A', 'New York, NY 10022']",New York,5.0,10,"{'latitude': 40.75636, 'longitude': -73.96952}",
+Greenwich House Pottery,"['16 Jones St', 'New York, NY 10014']",New York,3.0,10,"{'latitude': 40.73181, 'longitude': -74.00236}",3.0
+F & J Pine Restaurant,"['1913 Bronxdale Ave', 'Bronx, NY 10462']",Bronx,3.5,558,"{'latitude': 40.848685, 'longitude': -73.862069}",2.0
+Midtown Loft & Terrace,"['267 5th Ave', 'Ste 100', 'New York, NY 10016']",New York,4.5,37,"{'latitude': 40.74537, 'longitude': -73.98659}",
+La Villa,"['261 5th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,531,"{'latitude': 40.6743319055498, 'longitude': -73.9816949398812}",2.0
+The River Café,"['1 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.0,1133,"{'latitude': 40.70318, 'longitude': -73.9946499}",4.0
+The River Café,"['1 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.0,1133,"{'latitude': 40.70318, 'longitude': -73.9946499}",4.0
+Cecconi's Dumbo,"['55 Water St', 'Brooklyn, NY 11201']",Brooklyn,3.5,744,"{'latitude': 40.7033063330116, 'longitude': -73.9916549604523}",3.0
+Queens International Night Market,"['47-01 111th St', 'New York Hall Of Science', 'Corona, NY 11368']",Corona,4.0,322,"{'latitude': 40.747311, 'longitude': -73.8531885}",1.0
+Opera House Hotel,"['436 E 149th St', 'Bronx, NY 10455']",Bronx,4.0,90,"{'latitude': 40.815111, 'longitude': -73.915468}",1.0
+The Grey Dog - Nolita,"['244 Mulberry St', 'New York, NY 10012']",New York,4.0,604,"{'latitude': 40.7229699, 'longitude': -73.99576}",2.0
+Vestry,"['246 Spring St', 'New York, NY 10013']",New York,5.0,12,"{'latitude': 40.725693, 'longitude': -74.005516}",
+Loring Place,"['21 W 8th St', 'New York, NY 10011']",New York,4.5,426,"{'latitude': 40.7329940795898, 'longitude': -73.9975357055664}",3.0
+Kent Ale House,"['51 Kent Ave', 'Brooklyn, NY 11249']",Brooklyn,4.0,179,"{'latitude': 40.7223281860352, 'longitude': -73.9592514038086}",2.0
+Da Gennaro,"['129 Mulberry St', 'New York, NY 10013']",New York,4.0,1037,"{'latitude': 40.71832, 'longitude': -73.99794}",2.0
+Faicco's Italian Specialties,"['260 Bleecker St', 'New York, NY 10014']",New York,4.5,544,"{'latitude': 40.73113, 'longitude': -74.00306}",2.0
+W New York - Union Square,"['201 Park Ave S', 'New York, NY 10003']",New York,3.5,282,"{'latitude': 40.73665, 'longitude': -73.98869}",3.0
+EN Japanese Brasserie,"['435 Hudson St', 'New York, NY 10014']",New York,4.0,1258,"{'latitude': 40.7306, 'longitude': -74.00698}",3.0
+Paul Evans Catering,"['20 W 20th St', 'Fl 2', 'New York, NY 10011']",New York,5.0,3,"{'latitude': 40.743207, 'longitude': -73.99084}",
+La Pecora Bianca,"['950 2nd Ave', 'New York, NY 10022']",New York,3.5,247,"{'latitude': 40.75495, 'longitude': -73.9682718}",2.0
+John Brady - Keller Williams Realty,"['32-55 Francis Lewis Blvd', 'Fl 2', 'Queens, NY 11358']",Queens,5.0,4,"{'latitude': 40.767935, 'longitude': -73.790254}",
+Yankee Stadium,"['1 E 161st St', 'Bronx, NY 10451']",Bronx,4.0,1362,"{'latitude': 40.829659, 'longitude': -73.926173}",
+Kinky Boots,"['302 W 45th St', 'The Al Hirschfeld Theatre', 'New York, NY 10036']",New York,4.5,351,"{'latitude': 40.75943, 'longitude': -73.9892799}",
+Ain't Too Proud - The Life and Times of The Temptations,"['249 W 45th St', 'New York, NY 10036']",New York,5.0,27,"{'latitude': 40.75886, 'longitude': -73.98741}",
+Panineria Italiana,"['9 East 8th St', 'New York, NY 10003']",New York,4.0,214,"{'latitude': 40.7320953, 'longitude': -73.9956741}",2.0
+3LD Art & Technology Center,"['80 Greenwich St', 'New York, NY 11217']",New York,3.5,9,"{'latitude': 40.707522, 'longitude': -74.013984}",
+Jack's Wife Freda,"['224 Lafayette St', 'New York, NY 10012']",New York,4.0,1935,"{'latitude': 40.72213, 'longitude': -73.99756}",2.0
+West Wine Bar,"['67 West St', 'Brooklyn, NY 11222']",Brooklyn,4.5,42,"{'latitude': 40.7288678069569, 'longitude': -73.9592349202377}",3.0
+BPM Events,"['Queens, NY 11385']",Queens,5.0,13,"{'latitude': 40.70374, 'longitude': -73.9065}",
+A Streetcar Named Desire,"['235 W 44th St', 'New York, NY 10036']",New York,4.5,7,"{'latitude': 40.7582588, 'longitude': -73.9876099}",
+Japan Society,"['333 E 47th St', 'New York, NY 10017']",New York,4.5,69,"{'latitude': 40.752451796014, 'longitude': -73.968356064888}",
+Olmsted,"['659 Vanderbilt Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,404,"{'latitude': 40.67713, 'longitude': -73.96869}",3.0
+The Makeup Academy NYC by Nina Mua,"['545 8th Ave', 'Ste 1015', 'New York, NY 10018']",New York,4.5,42,"{'latitude': 40.7544987, 'longitude': -73.9921888}",
+GupShup,"['115 E18th St', 'New York, NY 10003']",New York,4.0,326,"{'latitude': 40.7368323318866, 'longitude': -73.9877132715179}",3.0
+Flora,"['1021 8th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.5,72,"{'latitude': 40.66452, 'longitude': -73.97989}",2.0
+Sanctuary Hotel New York,"['132 W 47th St', 'New York, NY 10036']",New York,4.0,167,"{'latitude': 40.75837, 'longitude': -73.9832957}",3.0
+Evgenia Ribinik Studios,"['68 34th St', 'Brooklyn, NY 11232']",Brooklyn,5.0,29,"{'latitude': 40.6571726, 'longitude': -74.006532}",
+Texas de Brazil,"['1 Ridge Hill Blvd', 'Yonkers, NY 10710']",Yonkers,4.0,477,"{'latitude': 40.9634549, 'longitude': -73.8556255}",3.0
+Traif,"['229 S 4th St', 'Brooklyn, NY 11211']",Brooklyn,4.5,1884,"{'latitude': 40.710658, 'longitude': -73.958872}",3.0
+Puglia Ristorante,"['189 Hester St', 'New York, NY 10013']",New York,4.0,510,"{'latitude': 40.7181606872639, 'longitude': -73.9976975651144}",2.0
+Tomiño Taberna Gallega,"['192 Grand St', 'New York, NY 10013']",New York,4.5,266,"{'latitude': 40.7192978908919, 'longitude': -73.9969160361937}",3.0
+Peridance Center,"['126 E 13th St', 'New York, NY 10003']",New York,4.5,85,"{'latitude': 40.7327003479004, 'longitude': -73.9887313842773}",
+Kahve,"['403 W 51st St', 'New York, NY 10019']",New York,4.0,79,"{'latitude': 40.7643914, 'longitude': -73.9888097}",1.0
+Beetlejuice on Broadway,"['1634 Broadway', 'New York, NY 10019']",New York,4.5,63,"{'latitude': 40.76149, 'longitude': -73.98379}",
+Locanut,"['807 9th Ave', 'New York, NY 10019']",New York,4.0,62,"{'latitude': 40.76571, 'longitude': -73.98755}",2.0
+Dixon Place,"['161 A Chrystie St', 'New York, NY 10002']",New York,4.0,23,"{'latitude': 40.720609, 'longitude': -73.992819}",1.0
+Michael's,"['24 W 55th St', 'New York, NY 10019']",New York,3.5,107,"{'latitude': 40.7620314, 'longitude': -73.9764479}",3.0
+Eats,"['1055 Lexington Ave', 'New York, NY 10021']",New York,3.5,441,"{'latitude': 40.7722, 'longitude': -73.96065}",2.0
+Konbini NY,"['312 5th Ave', 'New York, NY 10001']",New York,4.0,126,"{'latitude': 40.74701, 'longitude': -73.98583}",2.0
+Brewery Recording Studio,"['910 Grand St', 'Brooklyn, NY 11211']",Brooklyn,5.0,6,"{'latitude': 40.7125445, 'longitude': -73.9377845}",
+Veniero's,"['342 E 11th St', 'New York, NY 10003']",New York,4.0,2089,"{'latitude': 40.729431, 'longitude': -73.984541}",2.0
+Creep City Ninja Bubble Tea,"['265 Graham Ave', 'Store Front', 'Brooklyn, NY 11206']",Brooklyn,4.0,30,"{'latitude': 40.711205, 'longitude': -73.944072}",
+The Museum of Modern Art,"['11 West 53rd St', 'New York, NY 10019']",New York,4.5,1994,"{'latitude': 40.761441, 'longitude': -73.977625}",
+Nederlander Theatre,"['208 West 41st St', 'New York, NY 10036']",New York,3.5,121,"{'latitude': 40.75558, 'longitude': -73.98817}",
+EVEN Hotel New York - Times Square South,"['321 W 35th St', 'New York, NY 10001']",New York,4.5,85,"{'latitude': 40.753487, 'longitude': -73.993881}",2.0
+The Palm - Tribeca,"['206 West St', 'Ste 225-226', 'New York, NY 10013']",New York,3.5,296,"{'latitude': 40.7165789, 'longitude': -74.0126991}",3.0
+Remsen Graphics,"['52 Court St', 'Brooklyn, NY 11201']",Brooklyn,4.5,34,"{'latitude': 40.6921980305078, 'longitude': -73.9912788312134}",
+Kanga's Indoor Playcenter,"['32-15 37th Ave', 'Long Island City, NY 11101']",Long Island City,4.0,58,"{'latitude': 40.754455, 'longitude': -73.929837}",
+Mulberry House,"['415 Westfield Ave', 'Westfield, NJ 07090']",Westfield,4.0,170,"{'latitude': 40.648097, 'longitude': -74.348838}",2.0
+Tessa,"['349 Amsterdam Ave', 'New York, NY 10024']",New York,4.0,386,"{'latitude': 40.7814059, 'longitude': -73.97918}",3.0
+NOMO SOHO,"['9 Crosby St', 'New York, NY 10013']",New York,3.0,232,"{'latitude': 40.719896, 'longitude': -74.000078}",3.0
+Naked Dog,"['47 Java St', 'Greenpoint, NY 11222']",Greenpoint,4.5,230,"{'latitude': 40.7312720665479, 'longitude': -73.9593493647979}",2.0
+Classic Stage Company,"['136 E 13th St', 'New York, NY 10003']",New York,4.0,26,"{'latitude': 40.7326084, 'longitude': -73.9880854}",
+59E59 Theaters,"['59 E 59th St', 'New York, NY 10022']",New York,4.5,39,"{'latitude': 40.763457, 'longitude': -73.9704993}",
+New York City Ballet,"['20 Lincoln Ctr', 'David H Koch Theater', 'New York, NY 10023']",New York,4.5,128,"{'latitude': 40.7720593756564, 'longitude': -73.983736038208}",
+Parm,"['235 Columbus Ave', 'New York, NY 10023']",New York,3.5,568,"{'latitude': 40.7764333, 'longitude': -73.9794019}",2.0
+Longacre Theatre,"['220 W 48th St', 'New York, NY 10036']",New York,4.0,113,"{'latitude': 40.76046, 'longitude': -73.9859}",
+L & B Spumoni Gardens,"['2725 86th St', 'Brooklyn, NY 11223']",Brooklyn,4.0,3908,"{'latitude': 40.594715, 'longitude': -73.981316}",1.0
+La Pecora Bianca,"['1133 Broadway', 'New York, NY 10010']",New York,4.0,632,"{'latitude': 40.74358, 'longitude': -73.9892}",2.0
+Nutcracker Rouge,"['383 Troutman St', 'Brooklyn, NY 11237']",Brooklyn,5.0,13,"{'latitude': 40.7303775300295, 'longitude': -74.0011439099908}",
+Salt + Charcoal,"['171 Grand St', 'Brooklyn, NY 11249']",Brooklyn,4.0,532,"{'latitude': 40.71453, 'longitude': -73.9613511}",2.0
+Triad Theater,"['158 W 72nd St', 'New York, NY 10023']",New York,4.0,112,"{'latitude': 40.7780303955078, 'longitude': -73.9809875488281}",2.0
+Chivito De Oro,"['8402 37th Ave', 'Jackson Heights, NY 11372']",Jackson Heights,4.0,283,"{'latitude': 40.749763, 'longitude': -73.881942}",2.0
+Gelso & Grand,"['186 Grand St', 'New York, NY 10013']",New York,4.5,977,"{'latitude': 40.7194089547259, 'longitude': -73.9973777877722}",2.0
+The Dumbo Loft,"['155 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.5,49,"{'latitude': 40.703325, 'longitude': -73.9878342}",
+Tootsie,"['Marquis Theater', '210 W 46th St', 'New York, NY 10036']",New York,4.5,23,"{'latitude': 40.7587516, 'longitude': -73.9858302}",
+Grand Central Terminal,"['89 E 42nd St', 'New York, NY 10017']",New York,4.5,1397,"{'latitude': 40.752793, 'longitude': -73.977165}",
+Paesano of Mulberry Street,"['136 Mulberry St', 'New York, NY 10013']",New York,4.0,972,"{'latitude': 40.718554, 'longitude': -73.997447}",2.0
+Cooper & Cooper Real Estate,"['620 Eighth Ave', 'Fl 39', 'New York, NY 10018']",New York,5.0,454,"{'latitude': 40.755936, 'longitude': -73.989719}",
+Del Frisco's Grille,"['250 Vesey St', 'New York, NY 10080']",New York,3.5,162,"{'latitude': 40.714167, 'longitude': -74.016111}",3.0
+WireZ Technology,"['20 N Van Brunt St', 'Ste 8', 'Englewood, NJ 07631']",Englewood,5.0,1,"{'latitude': 40.8950375, 'longitude': -73.9750833}",
+TØRST,"['615 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,402,"{'latitude': 40.7233949, 'longitude': -73.950856}",2.0
+Parm,"['248 Mulberry St', 'New York, NY 10012']",New York,3.5,750,"{'latitude': 40.72303, 'longitude': -73.99567}",2.0
+Daryl Roth Theatre,"['101 E 15th St', 'New York, NY 10003']",New York,4.0,49,"{'latitude': 40.73533383, 'longitude': -73.9894235}",
+Issue Project Room,"['22 Boerum Pl', 'Ground Fl', 'Brooklyn, NY 11201']",Brooklyn,4.5,14,"{'latitude': 40.6908645229398, 'longitude': -73.9897763729095}",1.0
+Kyma,"['1446 Old Northern Blvd', 'Roslyn, NY 11576']",Roslyn,4.0,454,"{'latitude': 40.80223, 'longitude': -73.64676}",3.0
+The Brewery Bar & Kitchen,"['49-18 30th Ave', 'Woodside, NY 11377']",Woodside,4.5,118,"{'latitude': 40.760256, 'longitude': -73.907328}",2.0
+Ars Nova Theater,"['511 W 54th St', 'New York, NY 10019']",New York,4.5,19,"{'latitude': 40.7676620483398, 'longitude': -73.9904937744141}",
+Industrious Brooklyn,"['594 Dean St', 'Prospect Heights, NY 11238']",Prospect Heights,5.0,16,"{'latitude': 40.680427, 'longitude': -73.970298}",
+House of Dipali,"['393 Jericho Turnpike', 'Ste 100', 'Mineola, NY 11501']",Mineola,4.5,35,"{'latitude': 40.74533, 'longitude': -73.65201}",3.0
+Nightlife Productions,"['354 W37th St', 'Fl 3', 'New York, NY 10018']",New York,3.5,3,"{'latitude': 40.75498, 'longitude': -73.99457}",
+Michael Kormos Photography,"['1201 Broadway', 'Ste 608', 'New York, NY 10001']",New York,5.0,43,"{'latitude': 40.74587, 'longitude': -73.98879}",
+Broadway Up Close Walking Tours,"['New York, NY 10036']",New York,5.0,28,"{'latitude': 40.756100983313, 'longitude': -73.9871932211182}",
+The Cellar,"['900 Broadway', 'New York, NY 10003']",New York,4.0,662,"{'latitude': 40.73889, 'longitude': -73.9897}",2.0
+Producers Club Theaters & Bar,"['358 W 44th St', 'New York, NY 10036']",New York,4.0,36,"{'latitude': 40.759445, 'longitude': -73.9913623}",
+El Gauchito,"['9460 Corona Ave', 'Elmhurst, NY 11373']",Elmhurst,4.0,194,"{'latitude': 40.74193, 'longitude': -73.86802}",2.0
+Esme,"['999 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,343,"{'latitude': 40.7332033928175, 'longitude': -73.9549667724914}",2.0
+Theatre for a New Audience,"['262 Ashland Pl', 'New York, NY 11217']",New York,4.0,10,"{'latitude': 40.68741, 'longitude': -73.97846}",
+Brooklyn Blend,"['194 Tompkins Ave', 'Brooklyn, NY 11206']",Brooklyn,4.5,329,"{'latitude': 40.6923575699329, 'longitude': -73.9457686990499}",2.0
+Cocktails in Motion,"['104 Rivington St', 'New York, NY 10002']",New York,5.0,6,"{'latitude': 40.720146, 'longitude': -73.988007}",
+Runner & Stone,"['285 3rd Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,296,"{'latitude': 40.67721, 'longitude': -73.985919}",2.0
+Seasoned Vegan,"['55 Saint Nicholas Ave', 'New York, NY 10026']",New York,4.0,1169,"{'latitude': 40.800664, 'longitude': -73.952757}",2.0
+Baker & Co,"['259 Bleecker St', 'New York, NY 10014']",New York,4.0,643,"{'latitude': 40.7313423, 'longitude': -74.0028996}",2.0
+Custom House,"['139 Montague St', 'Brooklyn, NY 11201']",Brooklyn,3.0,176,"{'latitude': 40.694862, 'longitude': -73.993713}",2.0
+New York Transit Museum,"['Boerum Pl Schermerhorn St', 'Brooklyn, NY 11201']",Brooklyn,4.5,407,"{'latitude': 40.6905279416182, 'longitude': -73.9899399429917}",
+The Liberty,"['29 W 35th St', 'New York, NY 10001']",New York,3.5,470,"{'latitude': 40.74984, 'longitude': -73.98556}",2.0
+Johnny Wolf Studio,"['37 Greenpoint Ave', 'Ste 415', 'Brooklyn, NY 11222']",Brooklyn,5.0,13,"{'latitude': 40.7299565, 'longitude': -73.9589895}",
+BK9,"['62 5th Ave', 'Brooklyn, NY 11217']",Brooklyn,3.5,443,"{'latitude': 40.681179, 'longitude': -73.977388}",2.0
+Common Good Harlem,"['2801 Frederick Douglass Blvd', 'New York, NY 10039']",New York,4.5,51,"{'latitude': 40.8253682922259, 'longitude': -73.9402912929654}",1.0
+Chavela's,"['736 Franklin Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,1098,"{'latitude': 40.673484, 'longitude': -73.957267}",2.0
+Astoria Bier and Cheese,"['35-11 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,4.5,130,"{'latitude': 40.774768, 'longitude': -73.90831}",2.0
+Convivium Osteria,"['68 5th Ave', 'Brooklyn, NY 11217']",Brooklyn,4.0,485,"{'latitude': 40.68105, 'longitude': -73.97748}",3.0
+Blueprint,"['196 5th Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,331,"{'latitude': 40.6769, 'longitude': -73.980411}",2.0
+Alexa Drew Photography,"['New York, NY 10009']",New York,5.0,13,"{'latitude': 40.72767, 'longitude': -73.97994}",
+Carnegie Hall,"['881 7th Ave', 'New York, NY 10019']",New York,4.5,267,"{'latitude': 40.7651249, 'longitude': -73.9799155945393}",3.0
+Madison Square Garden,"['4 Pennsylvania Plz', 'New York, NY 10001']",New York,4.0,1066,"{'latitude': 40.75046014956, 'longitude': -73.9934435427789}",
+Theater For the New City,"['155 1st Ave', 'New York, NY 10003']",New York,3.5,21,"{'latitude': 40.7286253, 'longitude': -73.9847522}",
+American Ballet Theatre,"['890 Broadway', 'New York, NY 10003']",New York,4.0,23,"{'latitude': 40.73854, 'longitude': -73.9895}",
+Daniel,"['60 E 65th St', 'New York, NY 10065']",New York,4.5,1628,"{'latitude': 40.7667736797858, 'longitude': -73.967607}",4.0
+The Gazillion Bubble Show,"['340 W 50th St', 'New York, NY 10019']",New York,4.0,100,"{'latitude': 40.7627323, 'longitude': -73.9875318}",
+Jessica Elbar Photography,"['315 West 39th St', 'Ste 305', 'New York, NY 10018']",New York,5.0,21,"{'latitude': 40.7559406, 'longitude': -73.9920706}",
+Michael Patlazhan,"['New York, NY 10022']",New York,5.0,41,"{'latitude': 40.7591133117676, 'longitude': -73.9682998657227}",
+Lilia,"['567 Union Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,847,"{'latitude': 40.71757, 'longitude': -73.95236}",3.0
+Irondale Center,"['85 S Oxford St', 'Brooklyn, NY 11217']",Brooklyn,4.0,17,"{'latitude': 40.68671, 'longitude': -73.97322}",
+Puffs,"['340 W 50th St', 'New World Stages - Stage 5', 'New York, NY 10019']",New York,4.0,36,"{'latitude': 40.7628267, 'longitude': -73.987646}",
+Cookshop,"['156 10th Ave', 'New York, NY 10011']",New York,4.0,2125,"{'latitude': 40.7454251, 'longitude': -74.0056084}",2.0
+Musashi Asian Cuisine,"['495 Grand St', 'Brooklyn, NY 11211']",Brooklyn,4.5,164,"{'latitude': 40.7111358642578, 'longitude': -73.9514236450195}",2.0
+Atlantic Theater Company,"['336 W 20th St', 'New York, NY 10011']",New York,4.0,29,"{'latitude': 40.741475, 'longitude': -74.003389}",
+Inwood Farm,"['600 W 218th St', 'New York, NY 10034']",New York,4.0,624,"{'latitude': 40.87266, 'longitude': -73.918244}",2.0
+Antica Ristorante,"['8 Stone St', 'New York, NY 10004']",New York,4.5,503,"{'latitude': 40.7039355145338, 'longitude': -74.0121731758117}",3.0
+McSorleys Old Ale House,"['15 E 7th St', 'New York, NY 10003']",New York,4.5,1777,"{'latitude': 40.72884, 'longitude': -73.98965}",1.0
+Petee's Cafe,"['505 Myrtle Ave', 'Brooklyn, NY 11205']",Brooklyn,4.0,101,"{'latitude': 40.693794, 'longitude': -73.964702}",2.0
+BLT Steak,"['106 E 57th St', 'New York, NY 10022']",New York,4.0,408,"{'latitude': 40.761162, 'longitude': -73.970335}",4.0
+Jeni Breen Tango Academy,"['440 Lafayette St', 'New York, NY 10003']",New York,5.0,14,"{'latitude': 40.72947, 'longitude': -73.992055}",
+Silver Rice,"['638 Park Pl', 'Brooklyn, NY 11238']",Brooklyn,4.5,284,"{'latitude': 40.6742123562615, 'longitude': -73.9568891376257}",2.0
+Anthony's Professional TV Mounting Service,"['Queens, NY 11385']",Queens,5.0,145,"{'latitude': 40.6616787, 'longitude': -73.8477874}",
+Jack's Wife Freda,"['50 Carmine St', 'New York, NY 10014']",New York,4.0,859,"{'latitude': 40.729826, 'longitude': -74.003516}",2.0
+WeWork Soho,"['154 Grand St', 'New York, NY 10013']",New York,4.0,13,"{'latitude': 40.720245, 'longitude': -73.998653}",
+Serra by Birreria at Eataly Flatiron,"['200 5th Ave', 'Fl 14', 'New York, NY 10010']",New York,3.0,1523,"{'latitude': 40.74197, 'longitude': -73.9895}",2.0
+Decoy,"['529 Hudson St', 'New York, NY 10014']",New York,4.0,425,"{'latitude': 40.734196, 'longitude': -74.006519}",3.0
+Bar Verde,"['65 2nd Ave', 'New York, NY 10003']",New York,4.5,278,"{'latitude': 40.7260849061034, 'longitude': -73.9897361397743}",2.0
+Zola,"['250 Greenwich St', 'New York, NY 10007']",New York,3.0,87,"{'latitude': 40.7134166, 'longitude': -74.0119311}",2.0
+Spicy Moon West Village,"['68 W 3rd St', 'New York, NY 10012']",New York,5.0,76,"{'latitude': 40.729318, 'longitude': -73.99832}",2.0
+The Shed,"['545 W 30th St', 'New York, NY 10001']",New York,3.5,21,"{'latitude': 40.7532325, 'longitude': -74.0033936}",
+The American Academy of Dramatic Arts,"['120 Madison Ave', 'New York, NY 10016']",New York,4.0,11,"{'latitude': 40.74552, 'longitude': -73.98476}",
+Hitch King,"['12 Van Buren Ave', 'Floral Park, NY 11001']",Floral Park,5.0,77,"{'latitude': 40.7577859, 'longitude': -73.791975}",
+Hi-Collar,"['231 E 9th St', 'New York, NY 10003']",New York,4.0,603,"{'latitude': 40.729564, 'longitude': -73.98786}",2.0
+Avant Garden,"['130 E 7th St', 'New York, NY 10009']",New York,4.5,339,"{'latitude': 40.7261499, 'longitude': -73.98402}",3.0
+Peaches Shrimp and Crab,"['285 Grand Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,329,"{'latitude': 40.6879838, 'longitude': -73.9625478}",2.0
+Giorgio's of Gramercy,"['27 E 21st St', 'New York, NY 10010']",New York,4.0,750,"{'latitude': 40.7394209879325, 'longitude': -73.9885425567627}",3.0
+Trufa Restaurant,"['3431 Broadway', 'New York, NY 10031']",New York,4.0,315,"{'latitude': 40.82315, 'longitude': -73.95318}",2.0
+Deity Events,"['368 Atlantic Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,191,"{'latitude': 40.687202, 'longitude': -73.986221}",
+Cozymeal Cooking Classes - New York City,"['136 Madison Ave', 'New York, NY 10016']",New York,5.0,31,"{'latitude': 40.74617, 'longitude': -73.98431}",2.0
+Sushumai Asian Fusion,"['112 Stanton St', 'New York, NY 10002']",New York,4.5,200,"{'latitude': 40.7211610690848, 'longitude': -73.9872866123915}",2.0
+Home Sweet Harlem,"['1528 Amsterdam Ave', 'New York, NY 10031']",New York,3.5,462,"{'latitude': 40.819415, 'longitude': -73.952256}",2.0
+Coney Island Circus Sideshow,"['1208 Surf Ave', 'Brooklyn, NY 11224']",Brooklyn,4.0,100,"{'latitude': 40.57538, 'longitude': -73.97984}",
+New York City Opera,"['20 Lincoln Center Plz', 'New York, NY 10023']",New York,4.5,33,"{'latitude': 40.771961874462, 'longitude': -73.9837789535522}",
+Kimpton Hotel Eventi,"['851 Avenue Of The Americas', 'New York, NY 10001']",New York,4.0,425,"{'latitude': 40.74703, 'longitude': -73.99003}",3.0
+12th Street Ale House,"['192 2nd Ave', 'New York, NY 10003']",New York,4.0,136,"{'latitude': 40.7310549788367, 'longitude': -73.9857779396906}",1.0
+The Book of Mormon,"['230 W 49th St', ""Eugene O'Neill Theatre"", 'New York, NY 10036']",New York,4.0,728,"{'latitude': 40.761333, 'longitude': -73.985605}",
+il Buco Alimentari & Vineria,"['53 Great Jones St', 'New York, NY 10012']",New York,3.5,541,"{'latitude': 40.7264539, 'longitude': -73.992549}",3.0
+Amesse Photography,"['Staten Island, NY 10306']",Staten Island,5.0,1,"{'latitude': 40.5729336, 'longitude': -74.1298684}",
+Please Don't Tell,"['113 St Marks Pl', 'New York, NY 10009']",New York,4.0,1788,"{'latitude': 40.727157, 'longitude': -73.983721}",3.0
+Grand Salon,"['28 W 53rd St', 'New York, NY 10019']",New York,4.0,38,"{'latitude': 40.7609798759222, 'longitude': -73.9773128181696}",4.0
+Sunrise Mart,"['494 Broome St', 'New York, NY 10012']",New York,4.0,278,"{'latitude': 40.7232311, 'longitude': -74.0025149}",2.0
+House Of Hookah,"['39-07 Bell Blvd', 'Bayside, NY 11361']",Bayside,4.0,147,"{'latitude': 40.7650762, 'longitude': -73.7714617}",2.0
+Ensemble Studio Theatre,"['549 W 52nd St', 'New York, NY 10019']",New York,4.0,6,"{'latitude': 40.7670377, 'longitude': -73.9931446}",
+Sweet Chick,"['341 Flatbush Ave', 'Brooklyn, NY 11217']",Brooklyn,4.0,666,"{'latitude': 40.67763, 'longitude': -73.97255}",2.0
+Colonie,"['127 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.0,584,"{'latitude': 40.6909, 'longitude': -73.9958}",3.0
+Babbo,"['110 Waverly Pl', 'New York, NY 10011']",New York,4.0,2404,"{'latitude': 40.732283, 'longitude': -73.999284}",4.0
+Risotteria Melotti NYC,"['309 E 5th St', 'New York, NY 10003']",New York,4.5,322,"{'latitude': 40.726673363853, 'longitude': -73.9880919456482}",2.0
+Milk and Hops Ramen Bar,"['1159 1st Ave', 'New York, NY 10065']",New York,3.5,105,"{'latitude': 40.7624203, 'longitude': -73.9601274}",2.0
+Clover Club,"['210 Smith St', 'Brooklyn, NY 11201']",Brooklyn,4.0,778,"{'latitude': 40.6846046447754, 'longitude': -73.9921875}",2.0
+Trademark Taste + Grind,"['38 W 36th St', 'New York, NY 10018']",New York,4.5,649,"{'latitude': 40.7503233942813, 'longitude': -73.9855566306885}",2.0
+ArtWise,"['135 Plymouth St', 'Ste 412', 'Brooklyn, NY 11201']",Brooklyn,5.0,1,"{'latitude': 40.704134, 'longitude': -73.987997}",
+Fabbrica Restaurant & Bar,"['44 N 6th St', 'Brooklyn, NY 11249']",Brooklyn,3.5,288,"{'latitude': 40.7196429, 'longitude': -73.9626643}",2.0
+Uncle Jack's Steakhouse,"['3940 Bell Blvd', 'Bayside, NY 11361']",Bayside,3.5,496,"{'latitude': 40.76418, 'longitude': -73.7716}",3.0
+Grungy Gentleman,"['580 Broadway', 'Ste 502', 'New York, NY 10012']",New York,5.0,1,"{'latitude': 40.724422, 'longitude': -73.997032}",
+1 Hotel Central Park,"['1414 Ave Of The Americas', 'New York, NY 10019']",New York,4.5,124,"{'latitude': 40.764812, 'longitude': -73.976463}",3.0
+Martha Stewart Omnimedia,"['226 W 26th St', 'Fl 9', 'New York, NY 10001']",New York,4.0,6,"{'latitude': 40.7463569641113, 'longitude': -73.9956893920898}",2.0
+Cebu Bar & Bistro,"['8801 3rd Ave', 'Brooklyn, NY 11209']",Brooklyn,4.0,730,"{'latitude': 40.62186, 'longitude': -74.031383}",2.0
+Salumeria Rosi,"['283 Amsterdam Ave', 'New York, NY 10023']",New York,4.0,494,"{'latitude': 40.77932, 'longitude': -73.9809}",3.0
+Braata Folk Singers,"['11805 200th St', 'Albans, NY 11412']",Albans,4.5,2,"{'latitude': 40.693206, 'longitude': -73.751702}",
+Chela Modern Mexican,"['408 5th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.5,493,"{'latitude': 40.67032, 'longitude': -73.98569}",2.0
+Decor Art Gallery,"['555 3rd Ave', 'New York, NY 10016']",New York,5.0,78,"{'latitude': 40.7474, 'longitude': -73.97668}",2.0
+My House Burgers & Shakes,"['1650 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",Brooklyn,3.5,339,"{'latitude': 40.586561, 'longitude': -73.952798}",2.0
+M. Wells,"['43-15 Crescent St', 'Long Island City, NY 11101']",Long Island City,3.5,409,"{'latitude': 40.748687950334634, 'longitude': -73.9423496466214}",3.0
+Le Image,"['254 36th St', 'Ste B-432', 'Brooklyn, NY 11232']",Brooklyn,5.0,50,"{'latitude': 40.6560789, 'longitude': -74.0078174}",
+PokeRice,"['162 West 4th St', 'New York, NY 10014']",New York,4.5,185,"{'latitude': 40.73187, 'longitude': -74.00138}",2.0
+Poke Bowl,"['104 Fulton St', 'New York, NY 10038']",New York,4.0,310,"{'latitude': 40.709569, 'longitude': -74.0068345}",2.0
+Drew McClain,"['656 Saint Nicholas Ave', 'New York, NY 10030']",New York,4.5,357,"{'latitude': 40.822285, 'longitude': -73.945214}",
+Schaller's Stube Sausage Bar,"['1652 2nd Ave', 'New York, NY 10028']",New York,4.0,215,"{'latitude': 40.777544, 'longitude': -73.951607}",2.0
+Menya Jiro- Brooklyn,"['306 Gold St', 'Ste C2', 'Brooklyn, NY 11201']",Brooklyn,4.0,139,"{'latitude': 40.69505, 'longitude': -73.98357}",2.0
+Nick's Pizza,"['1814 2nd Ave', 'New York, NY 10128']",New York,4.0,546,"{'latitude': 40.78272, 'longitude': -73.94781}",2.0
+Macoletta,"['28-15 24th Ave', 'Astoria, NY 11102']",Astoria,4.5,146,"{'latitude': 40.7732423, 'longitude': -73.9164153}",2.0
+Han Dynasty,"['90 3rd Ave', 'New York, NY 10003']",New York,4.0,1255,"{'latitude': 40.732072, 'longitude': -73.988074}",2.0
+Paint N Pour,"['2080 Frederick Douglass Blvd', 'New York, NY 10026']",New York,4.5,210,"{'latitude': 40.80211, 'longitude': -73.95665}",
+Spunto,"['65 Carmine St', 'New York, NY 10014']",New York,4.0,441,"{'latitude': 40.7297584, 'longitude': -74.0046303}",2.0
+Mark Morris Dance Group,"['3 Lafayette Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,39,"{'latitude': 40.6869309613354, 'longitude': -73.9788752993549}",
+Butter Midtown,"['70 W 45th St', 'New York, NY 10036']",New York,3.5,1012,"{'latitude': 40.7562781, 'longitude': -73.9823303}",3.0
+Tender Steak & Sushi,"['130 W 47th St', 'New York, NY 10036']",New York,4.0,345,"{'latitude': 40.75844, 'longitude': -73.98306}",3.0
+Cafe Katja,"['79 Orchard St', 'New York, NY 10002']",New York,4.5,789,"{'latitude': 40.7177673, 'longitude': -73.990589}",2.0
+39 Steps,"['100 E 17th St', 'Union Square Theatre', 'New York, NY 10003']",New York,4.5,27,"{'latitude': 40.7363456, 'longitude': -73.9888727}",
+A Steady Rain,"['236 W 45th St', 'Gerald Schoenfeld Theatre', 'New York, NY 10036']",New York,4.0,8,"{'latitude': 40.75865, 'longitude': -73.98745}",
+Ko Sushi,"['1329 2nd Ave', 'New York, NY 10021']",New York,3.5,337,"{'latitude': 40.767795, 'longitude': -73.959442}",2.0
+Cobble Hill Coffeeshop,"['314 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.0,117,"{'latitude': 40.68345, 'longitude': -73.99554}",1.0
+Cobble Hill Coffeeshop,"['314 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.0,117,"{'latitude': 40.68345, 'longitude': -73.99554}",1.0
+Osteria Laura,"['1890 Adam Clayton Powell Jr Blvd', 'New York, NY 10026']",New York,4.5,29,"{'latitude': 40.80251, 'longitude': -73.95355}",
+Liberty Prime Steakhouse,"['111 Montgomery St', 'Jersey City, NJ 07302']",Jersey City,4.0,384,"{'latitude': 40.7168985, 'longitude': -74.0399027}",3.0
+Ed Sullivan Theater,"['1697 Broadway', 'New York, NY 10019']",New York,4.0,22,"{'latitude': 40.763781, 'longitude': -73.982905}",
+Tenement Museum,"['103 Orchard St', 'New York, NY 10002']",New York,4.0,674,"{'latitude': 40.71883, 'longitude': -73.98998}",
+Casa Del Chef Bistro,"['39-06 1/2 64th St', 'Woodside, NY 11377']",Woodside,4.5,214,"{'latitude': 40.746291, 'longitude': -73.900092}",2.0
+Fairway Printing & Design,"['115 W 30th St', 'Ste 306', 'New York, NY 10001']",New York,4.5,46,"{'latitude': 40.74773, 'longitude': -73.99041}",
+The Copy Specialist,"['131 West 24th St', 'New York, NY 10011']",New York,4.5,43,"{'latitude': 40.7443122, 'longitude': -73.9935909}",
+Tavern on the Green,"['67 Central Park W', 'New York, NY 10023']",New York,3.5,1475,"{'latitude': 40.772194, 'longitude': -73.9776}",3.0
+Lobster Box Restaurant,"['34 City Island Ave', 'Bronx, NY 10464']",Bronx,3.5,176,"{'latitude': 40.83865, 'longitude': -73.78313}",3.0
+The Farm On Adderley,"['1108 Cortelyou Rd', 'Brooklyn, NY 11218']",Brooklyn,4.0,1191,"{'latitude': 40.63965, 'longitude': -73.96754}",2.0
+Players Theatre,"['115 MacDougal St', 'New York, NY 10012']",New York,4.0,45,"{'latitude': 40.730186, 'longitude': -74.000679}",
+Ozu,"['78 Clark St', 'Brooklyn, NY 11201']",Brooklyn,4.0,263,"{'latitude': 40.6974732130766, 'longitude': -73.9932652562857}",2.0
+Gymnopedie,"['1139 Bushwick Ave', 'Brooklyn, NY 11221']",Brooklyn,5.0,1,"{'latitude': 40.689742, 'longitude': -73.9178907}",
+Tocqueville Restaurant,"['1 E 15th St', 'New York, NY 10003']",New York,4.0,363,"{'latitude': 40.73662, 'longitude': -73.99272}",4.0
+Honey Badger,"['67 Fenimore St', 'Brooklyn, NY 11225']",Brooklyn,4.0,104,"{'latitude': 40.658221, 'longitude': -73.960102}",3.0
+Osakana,"['290 Graham Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,55,"{'latitude': 40.71224, 'longitude': -73.94376}",2.0
+Rooftop Reds,"['299 Sands St', 'Bldg 275', 'Brooklyn, NY 11205']",Brooklyn,4.5,138,"{'latitude': 40.7025733903159, 'longitude': -73.9698984748688}",2.0
+Zambo Aroma,"['3848 White Plains Rd', 'Bronx, NY 10467']",Bronx,5.0,6,"{'latitude': 40.88503183, 'longitude': -73.86182033}",
+Sear House Grill,"['1 Newark Pompton Tpk', 'Little Falls, NJ 07424']",Little Falls,4.0,279,"{'latitude': 40.88695, 'longitude': -74.24675}",3.0
+Zola's Original Herbal Remedies,"['92-20 Union Hall St', 'New York, NY 11433']",New York,4.5,8,"{'latitude': 40.703791, 'longitude': -73.797803}",2.0
+Minetta Tavern,"['113 Macdougal St', 'New York, NY 10012']",New York,4.0,2204,"{'latitude': 40.7300047976758, 'longitude': -74.0006073834151}",3.0
+New York City Center,"['131 W 55th St', 'New York, NY 10019']",New York,4.0,116,"{'latitude': 40.76376, 'longitude': -73.97963}",
+Hudson Clearwater,"['447 Hudson St', 'New York, NY 10014']",New York,4.0,554,"{'latitude': 40.73109, 'longitude': -74.00699}",3.0
+The Shakespeare,"['24 E 39th St', 'New York, NY 10016']",New York,4.0,365,"{'latitude': 40.7506062, 'longitude': -73.9801755}",2.0
+Carmine's Italian Restaurant - Upper West Side,"['2450 Broadway', 'New York, NY 10024']",New York,4.0,1402,"{'latitude': 40.791077, 'longitude': -73.973763}",2.0
+Under St Marks,"['94 St Marks Pl', 'New York, NY 10002']",New York,4.5,26,"{'latitude': 40.727256, 'longitude': -73.984985}",
+Peter Luger Steak House,"['255 Northern Blvd', 'Great Neck, NY 11021']",Great Neck,4.0,1182,"{'latitude': 40.777507, 'longitude': -73.727721}",4.0
+Upland,"['345 Park Ave S', 'New York, NY 10010']",New York,4.0,1030,"{'latitude': 40.7418912, 'longitude': -73.9846396}",3.0
+Jams,"['1414 6th Ave', 'New York, NY 10019']",New York,3.5,318,"{'latitude': 40.764741, 'longitude': -73.9765169803648}",3.0
+Ornella Trattoria Italiana,"['29-17 23rd Ave', 'Astoria, NY 11105']",Astoria,4.0,931,"{'latitude': 40.7748162, 'longitude': -73.9132582}",2.0
+Jin Ramen - West Harlem,"['3183 Broadway', 'New York, NY 10027']",New York,4.0,1083,"{'latitude': 40.8154774, 'longitude': -73.9587672}",2.0
+Marlow & Sons,"['81 Broadway', 'Brooklyn, NY 11249']",Brooklyn,4.0,529,"{'latitude': 40.7106126934043, 'longitude': -73.9658814005443}",3.0
+Wicked Jane,"['15 West 8th St', 'New York, NY 10011']",New York,5.0,25,"{'latitude': 40.732765, 'longitude': -73.997284}",
+Rabbithole Restaurant,"['352 Bedford Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,848,"{'latitude': 40.7122932799856, 'longitude': -73.9628687873483}",2.0
+Dinosaur Bar-B-Que,"['604 Union St', 'Brooklyn, NY 11215']",Brooklyn,3.5,1671,"{'latitude': 40.6776201, 'longitude': -73.9838929}",2.0
+Wine 30,"['41 E 30th St', 'New York, NY 10016']",New York,4.0,765,"{'latitude': 40.74492841946161, 'longitude': -73.9837861}",2.0
+"The Beekman, A Thompson Hotel","['123 Nassau St', 'New York, NY 10038']",New York,4.5,139,"{'latitude': 40.7111443, 'longitude': -74.0066413}",3.0
+Barrymore Theatre,"['243 W 47th St', 'New York, NY 10036']",New York,4.0,72,"{'latitude': 40.76, 'longitude': -73.98623}",
+The NoMad Restaurant,"['1170 Broadway', 'New York, NY 10001']",New York,4.0,1484,"{'latitude': 40.7449, 'longitude': -73.988482}",3.0
+Jake's Steakhouse - Bronx,"['6031 Broadway', 'Bronx, NY 10471']",Bronx,4.0,234,"{'latitude': 40.891706, 'longitude': -73.897689}",3.0
+Burger & Lobster - Flatiron NYC,"['39 W 19th St', 'New York, NY 10011']",New York,4.0,5460,"{'latitude': 40.74007, 'longitude': -73.99344}",2.0
+Minca,"['536 E 5th St', 'New York, NY 10009']",New York,4.0,1668,"{'latitude': 40.72412, 'longitude': -73.98288}",2.0
+Felice,"['15 Gold St', 'New York, NY 10038']",New York,4.0,376,"{'latitude': 40.70789, 'longitude': -74.00712}",2.0
+Italianissimo Ristorante,"['307 E 84th St', 'New York, NY 10028']",New York,4.0,121,"{'latitude': 40.7765, 'longitude': -73.95197}",3.0
+Hotel Chantelle,"['92 Ludlow St', 'New York, NY 10002']",New York,3.5,1376,"{'latitude': 40.71843, 'longitude': -73.98909}",2.0
+Five Mile Stone,"['1640 2nd Ave', 'New York, NY 10028']",New York,3.5,447,"{'latitude': 40.7772804, 'longitude': -73.9519665}",2.0
+Camillo,"['1146 Nostrand Ave', 'Brooklyn, NY 11225']",Brooklyn,4.0,145,"{'latitude': 40.6596, 'longitude': -73.95081}",2.0
+The Connelly Theater,"['220 E 4th St', 'New York, NY 10009']",New York,3.5,9,"{'latitude': 40.723449, 'longitude': -73.983534}",
+Virginia's,"['647 E 11th St', 'New York, NY 10009']",New York,4.0,180,"{'latitude': 40.72666, 'longitude': -73.9773}",3.0
+Au Za'atar,"['188 Avenue A', 'New York, NY 10009']",New York,4.0,982,"{'latitude': 40.728901, 'longitude': -73.981185}",2.0
+John's of 12th Street,"['302 E 12th St', 'New York, NY 10003']",New York,4.0,713,"{'latitude': 40.730685, 'longitude': -73.985502}",2.0
+Partyfactor,"['558 Bayway Ave', 'Ste 1', 'Elizabeth, NJ 07202']",Elizabeth,5.0,4,"{'latitude': 40.6453247070312, 'longitude': -74.2136611938477}",
+Northern Bell,"['612 Metropolitan Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,284,"{'latitude': 40.71389, 'longitude': -73.94855}",2.0
+Le Bernardin,"['155 W 51st St', 'The Equitable Bldg', 'New York, NY 10019']",New York,4.5,2557,"{'latitude': 40.761557, 'longitude': -73.981763}",4.0
+Prince Street Pizza,"['27 Prince St', 'New York, NY 10012']",New York,4.5,3750,"{'latitude': 40.72308755605564, 'longitude': -73.99453001177575}",1.0
+Fast Tech Pros,"['New York, NY 10003']",New York,5.0,91,"{'latitude': 40.7117711606293, 'longitude': -74.0066720134277}",
+Audio Breakthroughs,"['1534 Northern Blvd', 'Manhasset, NY 11030']",Manhasset,4.5,14,"{'latitude': 40.7937315, 'longitude': -73.6899265}",
+Miller's Ale House - Staten Island,"['2883 Richmond Ave', 'Staten Island, NY 10314']",Staten Island,3.0,347,"{'latitude': 40.5752431032138, 'longitude': -74.1690984347537}",2.0
+Ms Yoo,"['163 Allen St', 'New York, NY 10002']",New York,4.0,121,"{'latitude': 40.72121, 'longitude': -73.98978}",3.0
+The Altman Building,"['135 W 18th St', 'New York, NY 10011']",New York,3.5,21,"{'latitude': 40.74065, 'longitude': -73.99636}",
+Van Brunt Stillhouse,"['7 Sigourney St', 'Brooklyn, NY 11231']",Brooklyn,4.5,77,"{'latitude': 40.6732594, 'longitude': -74.0102896}",2.0
+Masters of Fun,"['115 Kensington St', 'New York, NY 11235']",New York,4.5,15,"{'latitude': 40.7123944266053, 'longitude': -74.0073394775391}",
+Seamore’s,"['66 Water St', 'Brooklyn, NY 11201']",Brooklyn,3.5,104,"{'latitude': 40.7032, 'longitude': -73.99145}",2.0
+Roberta's,"['261 Moore St', 'Brooklyn, NY 11206']",Brooklyn,4.0,2951,"{'latitude': 40.70493, 'longitude': -73.93399}",2.0
+The Prom Musical,"['220 W 48th St', 'New York, NY 10036']",New York,5.0,19,"{'latitude': 40.76046, 'longitude': -73.9859}",
+Atera,"['77 Worth St', 'New York, NY 10013']",New York,4.5,262,"{'latitude': 40.71694, 'longitude': -74.0057}",4.0
+Carbone,"['181 Thompson St', 'New York, NY 10012']",New York,4.0,1134,"{'latitude': 40.728, 'longitude': -74.0001497}",4.0
+Balzem,"['202 Mott St', 'New York, NY 10012']",New York,4.0,440,"{'latitude': 40.721408, 'longitude': -73.995415}",2.0
+Fools Gold NYC,"['145 E Houston St', 'New York, NY 10002']",New York,4.0,318,"{'latitude': 40.7231079, 'longitude': -73.9897536}",2.0
+Aurora,"['70 Grand St', 'Brooklyn, NY 11249']",Brooklyn,4.0,654,"{'latitude': 40.715621, 'longitude': -73.964757}",2.0
+Eataly NYC Downtown,"['101 Liberty St', 'Fl 3', 'New York, NY 10006']",New York,3.5,988,"{'latitude': 40.709716, 'longitude': -74.011714}",2.0
+Circle in the Square Theatre,"['1633 Broadway', 'New York, NY 10019']",New York,4.0,81,"{'latitude': 40.762, 'longitude': -73.98423}",
+Hadestown The Musical,"['219 W 48th St', 'Walter Kerr Theatre', 'New York, NY 10036']",New York,4.5,27,"{'latitude': 40.76062, 'longitude': -73.98575}",
+The Times Square EDITION,"['701 7th Avenue', 'New York, NY 10036']",New York,4.0,58,"{'latitude': 40.759241, 'longitude': -73.984119}",3.0
+Broadhurst Theatre,"['235 W 44th St', 'New York, NY 10036']",New York,3.0,129,"{'latitude': 40.7582061986937, 'longitude': -73.987581842213}",
+The Queensboro,"['80-02 Northern Blvd', 'Jackson Heights, NY 11372']",Jackson Heights,4.0,266,"{'latitude': 40.7552154, 'longitude': -73.8870393}",2.0
+Tap House,"['72-07 Austin St', 'Forest Hills, NY 11375']",Forest Hills,3.5,200,"{'latitude': 40.7192292809486, 'longitude': -73.8422159850597}",2.0
+Burgerology,"['31-29 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,3.5,225,"{'latitude': 40.7755749743059, 'longitude': -73.9098315364882}",2.0
+Cooper's Craft & Kitchen,"['169 8th Ave', 'New York, NY 10011']",New York,4.0,385,"{'latitude': 40.742702, 'longitude': -74.000778}",2.0
+Bowlmor Chelsea Piers,"['Chelsea Piers - Pier 60', 'New York, NY 10011']",New York,3.0,383,"{'latitude': 40.7470456311976, 'longitude': -74.0090346336365}",
+Rustik Tavern,"['471 Dekalb Ave', 'Brooklyn, NY 11205']",Brooklyn,4.0,486,"{'latitude': 40.690754, 'longitude': -73.958279}",2.0
+Abe's Pagoda Bar,"['108 Wyckoff Ave', 'Brooklyn, NY 11237']",Brooklyn,4.5,50,"{'latitude': 40.7039301086121, 'longitude': -73.9188500493765}",
+Bella Notte,"['3524 Johnson Ave', 'Bronx, NY 10463']",Bronx,3.5,184,"{'latitude': 40.886035, 'longitude': -73.909539}",2.0
+Japan Village,"['934 3rd Ave', 'Brooklyn, NY 11232']",Brooklyn,3.0,240,"{'latitude': 40.65597, 'longitude': -74.00641}",2.0
+Poppy's,"['243 Degraw St', 'Brooklyn, NY 11231']",Brooklyn,4.5,32,"{'latitude': 40.6842210888863, 'longitude': -73.9967682212591}",
+Shuya Cafe de Ramen,"['42-13 Broadway', 'Astoria, NY 11103']",Astoria,4.5,293,"{'latitude': 40.758007205736, 'longitude': -73.9167939666258}",2.0
+Clean Plate Pictures,"['Brooklyn, NY 11225']",Brooklyn,5.0,36,"{'latitude': 40.71424, 'longitude': -74.00642}",
+Industry Kitchen,"['70 South St', 'New York, NY 10005']",New York,3.5,653,"{'latitude': 40.7049434740873, 'longitude': -74.0048825740814}",2.0
+Thursday Kitchen,"['424 E 9th St', 'New York, NY 10009']",New York,4.5,1363,"{'latitude': 40.7275, 'longitude': -73.9838}",2.0
+Jean-Georges,"['1 Central Park W', 'New York, NY 10023']",New York,4.5,1887,"{'latitude': 40.7691122743293, 'longitude': -73.9814290717583}",4.0
+Blue Bar At India House,"['1 Hanover Square', 'New York, NY 10004']",New York,4.5,26,"{'latitude': 40.704621, 'longitude': -74.009757}",2.0
+Pizza Moto,"['338 Hamilton Ave', 'Brooklyn, NY 11231']",Brooklyn,4.5,198,"{'latitude': 40.6746224, 'longitude': -74.0007999}",2.0
+Supper,"['156 E 2nd St', 'New York, NY 10009']",New York,4.0,1314,"{'latitude': 40.7229, 'longitude': -73.98527}",2.0
+Cort Theatre,"['138 W 48th St', 'New York, NY 10036']",New York,3.5,112,"{'latitude': 40.75923, 'longitude': -73.98298}",
+Pearl Oyster Bar,"['18 Cornelia St', 'New York, NY 10014']",New York,4.0,826,"{'latitude': 40.7314099, 'longitude': -74.00197}",3.0
+Obicà Mozzarella Bar Pizza e Cucina,"['928 Broadway', 'New York, NY 10010']",New York,3.5,449,"{'latitude': 40.7400486, 'longitude': -73.9893018}",2.0
+Zia Maria-Little Italy,"['138 Mulberry St', 'New York, NY 10013']",New York,4.0,193,"{'latitude': 40.71861, 'longitude': -73.99754}",2.0
+Barn Joo,"['35 Union Sq W', 'New York, NY 10003']",New York,4.0,1639,"{'latitude': 40.73684, 'longitude': -73.99069}",2.0
+InterContinental New York Times Square,"['300 W 44th St', 'New York, NY 10036']",New York,3.5,318,"{'latitude': 40.7586, 'longitude': -73.98958}",3.0
+La Avenida,"['2247 1st Ave', 'New York, NY 10029']",New York,4.5,96,"{'latitude': 40.79573, 'longitude': -73.93596}",2.0
+Rosario's,"['2255 31st St', 'Astoria, NY 11105']",Astoria,4.5,157,"{'latitude': 40.7749914695423, 'longitude': -73.911981699429}",2.0
+Okonomi,"['150 Ainslie St', 'Brooklyn, NY 11211']",Brooklyn,4.5,458,"{'latitude': 40.712622, 'longitude': -73.9487843}",2.0
+Da Claudio,"['21 Ann St', 'New York, NY 10038']",New York,4.5,492,"{'latitude': 40.71087, 'longitude': -74.00753}",2.0
+The Greenwich Hotel,"['377 Greenwich St', 'New York, NY 10013']",New York,4.5,69,"{'latitude': 40.719848, 'longitude': -74.009864}",4.0
+Miss Ada,"['184 Dekalb Ave', 'Brooklyn, NY 11205']",Brooklyn,4.5,254,"{'latitude': 40.689436, 'longitude': -73.9723809}",3.0
+Dicapo Opera Theater,"['184 E 76th St', 'New York, NY 10021']",New York,4.0,7,"{'latitude': 40.77255, 'longitude': -73.9595}",
+Hui Restaurant & Bar,"['314 E 70th St', 'New York, NY 10021']",New York,4.5,174,"{'latitude': 40.76701, 'longitude': -73.95846}",2.0
+Universal Botanica,"['376 5th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.5,27,"{'latitude': 40.671314239502, 'longitude': -73.9848937988281}",1.0
+Helen Hayes Theatre,"['240 W 44th St', 'New York, NY 10036']",New York,3.5,66,"{'latitude': 40.75786, 'longitude': -73.98784}",
+Alamo Drafthouse Cinema Downtown Brooklyn,"['445 Albee Square West', 'Suite 4-400', 'Brooklyn, NY 11201']",Brooklyn,3.5,687,"{'latitude': 40.6907477441643, 'longitude': -73.9832732500862}",2.0
+Ninos Aq,"['35-01 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,4.0,189,"{'latitude': 40.774944, 'longitude': -73.908585}",
+Division,"['972 Metropolitan Ave', 'Brooklyn, NY 11211']",Brooklyn,3.5,5,"{'latitude': 40.7143344, 'longitude': -73.9371302}",
+B2 Harlem,"['271 W 119th St', 'New York, NY 10026']",New York,4.0,266,"{'latitude': 40.80613, 'longitude': -73.95317}",2.0
+Union Square Cafe,"['101 E 19th St', 'New York, NY 10003']",New York,4.0,1226,"{'latitude': 40.737772, 'longitude': -73.987876}",3.0
+Geoffrey Pantone,"['New York, NY 10011']",New York,5.0,9,"{'latitude': 40.73929, 'longitude': -73.99955}",
+Perry St,"['176 Perry St', 'New York, NY 10014']",New York,4.0,943,"{'latitude': 40.73442, 'longitude': -74.00971}",3.0
+Foxy Production,"['2 E Broadway', 'Fl 2, Ste 200', 'New York, NY 10038']",New York,4.0,2,"{'latitude': 40.71355, 'longitude': -73.99762}",3.0
+Geo Events,"['750 3rd Ave', 'New York, NY 10017']",New York,5.0,2,"{'latitude': 40.7537, 'longitude': -73.97254}",
+Wayra Fuerza Bruta,"['101 E 15th St', 'Daryl Roth Theatre', 'New York, NY 10003']",New York,3.5,41,"{'latitude': 40.7350759, 'longitude': -73.9889521}",
+The Blue Dog Cookhouse & Bar,"['308 W 50th St', 'New York, NY 10019']",New York,4.0,1243,"{'latitude': 40.76244, 'longitude': -73.98674}",2.0
+Zona De Cuba,"['558 Grand Concourse', 'Bronx, NY 10451']",Bronx,3.5,513,"{'latitude': 40.8188782, 'longitude': -73.9265215}",3.0
+Her Name Is Han,"['17 E 31st St', 'New York, NY 10016']",New York,4.0,1260,"{'latitude': 40.7462615966797, 'longitude': -73.984733581543}",2.0
+All In One Entertainment,"['9620 94th Ave', 'Fl 2', 'Ozone Park, NY 11416']",Ozone Park,3.0,49,"{'latitude': 40.688458, 'longitude': -73.845925}",
+Kitakata Ramen Ban Nai - New York,"['267 Amsterdam Ave', 'New York, NY 10023']",New York,4.0,75,"{'latitude': 40.778821, 'longitude': -73.981202}",2.0
+Phoenix and Rose Feng Shui,"['461 Dean St', 'Brooklyn, NY 11217']",Brooklyn,5.0,30,"{'latitude': 40.6819122, 'longitude': -73.975383}",
+Vitalia Kotik Photography,"['New York, NY 10024']",New York,5.0,97,"{'latitude': 40.7867431640625, 'longitude': -73.97494506835938}",
+abcstay,"['244 Fifth Ave', 'Ste R247', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7446298, 'longitude': -73.987667}",
+The Edge Harlem,"['101 Edgecombe Ave', 'New York, NY 10030']",New York,4.0,628,"{'latitude': 40.8199158, 'longitude': -73.9460373}",2.0
+Milk and Hops,"['166 9th Ave', 'New York, NY 10011']",New York,4.5,100,"{'latitude': 40.7446831, 'longitude': -74.0023905374366}",2.0
+Levante,"['26-21 Jackson Ave', 'Long Island City, NY 11101']",Long Island City,4.0,244,"{'latitude': 40.74764, 'longitude': -73.94173}",2.0
+Tsurutontan Udon Noodle Brasserie,"['21 E 16th St', 'New York, NY 10003']",New York,4.0,1905,"{'latitude': 40.73678, 'longitude': -73.9910699}",2.0
+Friend of A Farmer,"['77 Irving Pl', 'New York, NY 10003']",New York,3.5,1263,"{'latitude': 40.73695, 'longitude': -73.98677}",2.0
+Yakiniku Futago,"['37 W 17th St', 'New York, NY 10011']",New York,4.5,356,"{'latitude': 40.738851870947, 'longitude': -73.9941236398979}",4.0
+Le Botaniste,"['127 Grand St', 'New York, NY 10013']",New York,4.5,150,"{'latitude': 40.7204278, 'longitude': -74.0002028}",2.0
+Gran Electrica,"['5 Front St', 'Brooklyn, NY 11201']",Brooklyn,3.5,485,"{'latitude': 40.7027, 'longitude': -73.99314}",2.0
+Bangkok BAR,"['238 36th St', 'Bldg 2', 'Brooklyn, NY 11232']",Brooklyn,4.5,25,"{'latitude': 40.657456, 'longitude': -74.007112}",
+Museum of the Moving Image,"['3601 35th Ave', 'Astoria, NY 11106']",Astoria,4.5,557,"{'latitude': 40.756377, 'longitude': -73.923855}",
+Urban Oyster Tours,"['79 N 11th St', 'New York, NY 11211']",New York,4.5,106,"{'latitude': 40.7180036, 'longitude': -73.9653715}",
+Swedish Cottage Marionette Theater,"['West 79th St', 'New York, NY 10023']",New York,3.5,28,"{'latitude': 40.7799346636385, 'longitude': -73.970334045589}",
+Marquis Theatre,"['210 W 46th St', 'New York, NY 10036']",New York,3.5,87,"{'latitude': 40.7587516, 'longitude': -73.9858302}",
+I Dj Now,"['18124 Horace Harding Expy', 'Fresh Meadows, NY 11365']",Fresh Meadows,4.0,22,"{'latitude': 40.7389427, 'longitude': -73.7919792}",3.0
+Tamashii Ramen,"['2905 Broadway', 'Astoria, NY 11106']",Astoria,4.0,732,"{'latitude': 40.7628026, 'longitude': -73.926578}",2.0
+Hauseit,"['New York, NY 10001']",New York,5.0,31,"{'latitude': 40.7491302490234, 'longitude': -73.9923629760742}",
+Stephen Sondheim Theatre,"['124 W 43rd St', 'New York, NY 10036']",New York,4.0,59,"{'latitude': 40.75582, 'longitude': -73.98499}",
+Yard House,"['237 Market St', 'Yonkers, NY 10701']",Yonkers,3.5,830,"{'latitude': 40.963557, 'longitude': -73.856217}",2.0
+Celimages Provocateur,"['115 W 29th St', 'Studio 1103', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7472, 'longitude': -73.99084}",
+Trattoria L'incontro,"['21-76 31st St', 'Astoria, NY 11105']",Astoria,4.5,949,"{'latitude': 40.7763330374196, 'longitude': -73.9105868339539}",3.0
+Via Vai,"['31-09 23rd Ave', 'Astoria, NY 11105']",Astoria,4.0,217,"{'latitude': 40.7741502, 'longitude': -73.9123089}",2.0
+Karin Bruno Photography,"['Brooklyn, NY 11218']",Brooklyn,5.0,4,"{'latitude': 40.64198, 'longitude': -73.97529}",
+Pocion,"['704 W 177th St', 'New York, NY 10033']",New York,4.5,169,"{'latitude': 40.8475749396196, 'longitude': -73.9384309485114}",2.0
+Keuka Kafe a Wine Bar,"['112-04 Queens Blvd', 'Forest Hills, NY 11375']",Forest Hills,4.5,308,"{'latitude': 40.7178485060601, 'longitude': -73.8368028981476}",2.0
+Dinosaur Bar-B-Que,"['700 W 125th St', 'New York, NY 10027']",New York,4.0,3102,"{'latitude': 40.818098338924, 'longitude': -73.9608729269837}",2.0
+Jacob K Javits Convention Center,"['655 W 34th St', 'New York, NY 10001']",New York,3.5,355,"{'latitude': 40.757972290646, 'longitude': -74.00233975}",
+Secure Touch Technologies,"['Long Island, NY 11101']",Long Island,5.0,32,"{'latitude': 40.7623672485352, 'longitude': -73.9244384765625}",
+St. Anselm,"['355 Metropolitan Ave', 'Brooklyn, NY 11211']",Brooklyn,4.0,849,"{'latitude': 40.7143299, 'longitude': -73.95604}",3.0
+The William,"['24 E 39th St', 'New York, NY 10016']",New York,4.0,44,"{'latitude': 40.750477, 'longitude': -73.980263}",2.0
+Speedy Romeo,"['376 Classon Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,596,"{'latitude': 40.6875154792236, 'longitude': -73.959874469611}",2.0
+Hank's Juicy Beef,"['84 Chambers St', 'New York, NY 10007']",New York,4.5,251,"{'latitude': 40.7143487, 'longitude': -74.0072147}",2.0
+Dear Irving,"['55 Irving Pl', 'New York, NY 10003']",New York,4.0,648,"{'latitude': 40.7360568971331, 'longitude': -73.9872401005554}",3.0
+Muse Paintbar,"['329 Greenwich St', 'Tribeca - NYC', 'New York, NY 10013']",New York,4.5,63,"{'latitude': 40.717681, 'longitude': -74.010261}",
+Empellón,"['510 Madison Ave', 'New York, NY 10022']",New York,4.0,358,"{'latitude': 40.75971, 'longitude': -73.97473}",3.0
+Green Desk,"['68 Jay St', 'Brooklyn, NY 11201']",Brooklyn,4.0,12,"{'latitude': 40.702738, 'longitude': -73.9869715}",
+Lyceum Theatre,"['149 W 45th St', 'New York, NY 10036']",New York,3.5,121,"{'latitude': 40.7577, 'longitude': -73.98466}",
+Scarpetta,"['88 Madison Ave', 'New York, NY 10016']",New York,4.0,1938,"{'latitude': 40.744509, 'longitude': -73.9856}",3.0
+The Real Estate Staging Studio,"['2 Constitution Ct', 'Hoboken, NJ 07030']",Hoboken,5.0,14,"{'latitude': 40.7519914, 'longitude': -74.0242428}",
+Manhatta,"['28 Liberty St', 'Fl 60', 'New York, NY 10005']",New York,4.5,474,"{'latitude': 40.70797, 'longitude': -74.00889}",4.0
+Reception Bar,"['45 Orchard St', 'New York, NY 10002']",New York,4.5,57,"{'latitude': 40.7163598, 'longitude': -73.9913564}",
+The Sweet Spot,"['235 West 46th St', 'New York, NY 10036']",New York,3.5,6,"{'latitude': 40.7596339, 'longitude': -73.9873072}",
+Citi Field,"['123-01 Roosevelt Ave', 'Corona, NY 11368']",Corona,4.0,1040,"{'latitude': 40.75709, 'longitude': -73.845823}",
+Novelty Eats,"['1765 Crosby Ave', 'Bronx, NY 10461']",Bronx,4.0,79,"{'latitude': 40.84673, 'longitude': -73.83229}",2.0
+Liquor Lab,"['138 Wooster St', 'Fl 2', 'New York, NY 10012']",New York,4.5,28,"{'latitude': 40.72566, 'longitude': -73.99955}",
+Razza Pizza Artigianale,"['275 Grove St', 'Jersey City, NJ 07302']",Jersey City,4.0,911,"{'latitude': 40.7177490485075, 'longitude': -74.0441924355125}",2.0
+Broadway Theatre,"['1681 Broadway', 'New York, NY 10019']",New York,4.0,139,"{'latitude': 40.76336, 'longitude': -73.9834}",
+The McKittrick Hotel,"['530 W 27th St', 'New York, NY 10001']",New York,4.0,100,"{'latitude': 40.750611, 'longitude': -74.003868}",3.0
+Minimax,"['New York, NY 10012']",New York,5.0,10,"{'latitude': 40.7258, 'longitude': -73.99793}",
+Sottocasa Pizzeria,"['298 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.5,642,"{'latitude': 40.688285, 'longitude': -73.989006}",2.0
+The Great Northeast Cheese Fest,"['13735 Northern Blvd', 'Flushing, NY 11354']",Flushing,5.0,8,"{'latitude': 40.7639, 'longitude': -73.830009}",2.0
+Lil Frankie's,"['19 1st Ave', 'New York, NY 10003']",New York,4.0,1154,"{'latitude': 40.723625, 'longitude': -73.988555}",2.0
+Market Table,"['54 Carmine St', 'New York, NY 10014']",New York,4.0,792,"{'latitude': 40.7297659255873, 'longitude': -74.0037665277862}",3.0
+"The Mad Hand Arts, Graphics & Design","['Forest Hills, NY 11375']",Forest Hills,5.0,1,"{'latitude': 40.7152442932129, 'longitude': -73.8451766967773}",
+The Russian Tea Room,"['150 W 57th St', 'New York, NY 10019']",New York,3.0,1006,"{'latitude': 40.764958, 'longitude': -73.9794337}",4.0
+Maison Harlem,"['341 St Nicholas Ave', 'New York, NY 10027']",New York,4.0,503,"{'latitude': 40.8121862892803, 'longitude': -73.9516100875101}",2.0
+Il Porto Ristorante,"['37 Washington Ave', 'Brooklyn, NY 11205']",Brooklyn,4.0,338,"{'latitude': 40.6974427, 'longitude': -73.9675197}",2.0
+Chocolat Moderne,"['27 West 20th St', 'Fl 9', 'New York, NY 10011']",New York,4.5,72,"{'latitude': 40.740633, 'longitude': -73.9927017}",3.0
+Craft,"['43 E 19th St', 'New York, NY 10003']",New York,4.0,1021,"{'latitude': 40.73818, 'longitude': -73.98866}",4.0
+Sago Hotel,"['120 Allen St', 'New York, NY 10002']",New York,4.0,29,"{'latitude': 40.7193609, 'longitude': -73.9899591}",3.0
+Kajitsu,"['125 E 39th St', 'New York, NY 10016']",New York,4.0,250,"{'latitude': 40.7498614, 'longitude': -73.9777215}",4.0
+Lea,"['1022 Cortelyou Rd', 'Brooklyn, NY 11218']",Brooklyn,3.5,330,"{'latitude': 40.63932, 'longitude': -73.96799}",2.0
+Tramezzini NYC,"['309 E Houston', 'New York, NY 10002']",New York,4.5,118,"{'latitude': 40.7211848351606, 'longitude': -73.983472726423}",2.0
+Vite Vinosteria,"['31-05 34th St', 'Astoria, NY 11106']",Astoria,4.5,589,"{'latitude': 40.7629734277725, 'longitude': -73.92119564116}",2.0
+Baruch College Performing Arts Center,"['55 Lexington Ave', 'New York, NY 10010']",New York,3.5,12,"{'latitude': 40.74043, 'longitude': -73.98391}",
+Victor's Cafe,"['236 W 52nd St', 'New York, NY 10019']",New York,4.0,1483,"{'latitude': 40.7629499, 'longitude': -73.98403}",3.0
+As Is NYC,"['734 10th Ave', 'New York, NY 10019']",New York,4.0,214,"{'latitude': 40.7645799, 'longitude': -73.9914759}",2.0
+Morgan Turkewitz - Compass,"['90 Fifth Ave', 'Fl 3', 'New York, NY 10011']",New York,5.0,4,"{'latitude': 40.7363868, 'longitude': -73.9933703}",
+ICHIRAN - Brooklyn,"['374 Johnson Ave', 'Brooklyn, NY 11206']",Brooklyn,3.5,1168,"{'latitude': 40.707587, 'longitude': -73.933271}",2.0
+XIV,"['383 Troutman St', 'Brooklyn, NY 11237']",Brooklyn,4.5,82,"{'latitude': 40.7060529, 'longitude': -73.9233777}",3.0
+Court Street Grocers LaGuardia Place,"['540 Laguardia Pl', 'New York, NY 10012']",New York,4.5,114,"{'latitude': 40.72889, 'longitude': -73.99861}",2.0
+Waterside Restaurant & Catering,"['7800 B River Rd', 'Ste B', 'North Bergen, NJ 07047']",North Bergen,3.0,490,"{'latitude': 40.7955711, 'longitude': -73.9968757}",3.0
+BAMCafe,"['30 Lafayette Ave', ""BAM's Building Lepercq Space at Peter Jay Sharp Building"", 'Brooklyn, NY 11217']",Brooklyn,4.0,86,"{'latitude': 40.68673, 'longitude': -73.97775}",2.0
+Gotham Hall,"['1356 Broadway', 'New York, NY 10018']",New York,4.0,52,"{'latitude': 40.75157, 'longitude': -73.98741}",
+Left Bank Burger Bar,"['194 Newark Ave', 'Jersey City, NJ 07302']",Jersey City,4.0,765,"{'latitude': 40.72182, 'longitude': -74.04619}",2.0
+Flipper’s,"['337 W Broadway', 'New York, NY 10013']",New York,3.5,436,"{'latitude': 40.72242, 'longitude': -74.00357}",2.0
+The Uptown Garrison,"['821 W 181st', 'New York, NY 10033']",New York,4.0,132,"{'latitude': 40.8512380090093, 'longitude': -73.9392676530849}",2.0
+"The Chatwal, a Luxury Collection Hotel, New York City","['130 W 44th St', 'New York, NY 10036']",New York,3.5,81,"{'latitude': 40.7566927, 'longitude': -73.9844695}",3.0
+Baccarat Hotel,"['28 W 53rd St', 'New York, NY 10019']",New York,4.0,240,"{'latitude': 40.76091, 'longitude': -73.97732}",4.0
+Clurman Theatre,"['410 W 42nd St', 'New York, NY 10036']",New York,4.0,9,"{'latitude': 40.758419, 'longitude': -73.9934006}",
+Russian Baths on Neck Road,"['1200 Gravesend Neck Rd', 'Brooklyn, NY 11229']",Brooklyn,4.0,62,"{'latitude': 40.59424, 'longitude': -73.95788}",2.0
+Parenting Made Joyful,"['303 E 33rd St', 'New York, NY 10016']",New York,5.0,31,"{'latitude': 40.74399, 'longitude': -73.97548}",
+Pizza By Certé,"['20 West 55th St', 'New York, NY 10019']",New York,4.0,443,"{'latitude': 40.7619979368852, 'longitude': -73.9761684}",1.0
+The Brooklyn Mirage,"['140 Stewart Ave', 'East Williamsburg, NY 11237']",East Williamsburg,4.0,103,"{'latitude': 40.710622, 'longitude': -73.926541}",
+Kobrick Coffee,"['24 9th Ave', 'New York, NY 10014']",New York,4.0,370,"{'latitude': 40.7403520674024, 'longitude': -74.005612602245}",2.0
+BXL Cafe,"['125 W 43rd St', 'New York, NY 10036']",New York,3.5,519,"{'latitude': 40.75618, 'longitude': -73.98461}",2.0
+The Arclight Theatre,"['152 W 71st St', 'New York, NY 10023']",New York,2.0,15,"{'latitude': 40.77733, 'longitude': -73.98102}",
+HinoMaru Ramen,"['33-18 Ditmars Blvd', 'Astoria, NY 11105']",Astoria,4.0,893,"{'latitude': 40.774889916651, 'longitude': -73.9092001318932}",2.0
+Audio Incorporated,"['170 W Westfield Ave', 'Ste 1', 'Roselle Park, NJ 07204']",Roselle Park,5.0,2,"{'latitude': 40.66043, 'longitude': -74.2700799}",
+The Riverside Theatre,"['91 Claremont Ave', 'New York, NY 10027']",New York,4.0,4,"{'latitude': 40.8113712072372, 'longitude': -73.9628174901009}",
+Malatesta Trattoria,"['649 Washington St', 'New York, NY 10014']",New York,4.0,1250,"{'latitude': 40.73285, 'longitude': -74.00847}",2.0
+Driggs Finest Deli,"['162 Driggs Ave', 'Brooklyn, NY 11222']",Brooklyn,3.5,4,"{'latitude': 40.723231, 'longitude': -73.944899}",
+Stocked Cafe,"['663 Washington Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,152,"{'latitude': 40.6772452, 'longitude': -73.9634769}",2.0
+Lotte New York Palace,"['455 Madison Ave', 'New York, NY 10022']",New York,4.0,443,"{'latitude': 40.758026, 'longitude': -73.9749775}",3.0
+Hamilton's Cafe Restaurant,"['3570 Broadway', 'New York, NY 10031']",New York,4.0,214,"{'latitude': 40.8273399113877, 'longitude': -73.9494765934278}",2.0
+GW Printing,"['37-05 B Prince St', 'Flushing, NY 11354']",Flushing,4.5,8,"{'latitude': 40.760753, 'longitude': -73.832641}",
+September Wines & Spirits,"['100 Stanton St', 'New York, NY 10002']",New York,4.0,70,"{'latitude': 40.721359220593875, 'longitude': -73.98782197690565}",2.0
+True Love Wedding Studio,"['188-04 Northern Blvd', 'Fl 2', 'Flushing, NY 11354']",Flushing,4.5,140,"{'latitude': 40.7575643, 'longitude': -73.7926571}",
+Wolfgang's Steakhouse,"['250 W 41st St', 'New York, NY 10036']",New York,3.0,509,"{'latitude': 40.7560922459689, 'longitude': -73.9894847244675}",3.0
+Sisters,"['900 Fulton St', 'Brooklyn, NY 11238']",Brooklyn,3.5,297,"{'latitude': 40.6828717, 'longitude': -73.9651809}",2.0
+Casa Lever,"['390 Park Ave', 'New York, NY 10022']",New York,4.0,229,"{'latitude': 40.759741, 'longitude': -73.972956}",3.0
+Lamia's Fish Market,"['47 Ave B', 'New York, NY 10009']",New York,4.0,260,"{'latitude': 40.722979, 'longitude': -73.9825102}",
+The Acorn Theatre,"['410 West 42nd St', 'Theatre Row', 'New York, NY 10036']",New York,4.5,34,"{'latitude': 40.7586850652867, 'longitude': -73.9932779475745}",
+Allswell,"['124 Bedford Ave', 'Brooklyn, NY 11211']",Brooklyn,3.5,376,"{'latitude': 40.71967, 'longitude': -73.955996}",2.0
+Workroom Social,"['96 Madison St', 'Ground Floor', 'Brooklyn, NY 11216']",Brooklyn,5.0,13,"{'latitude': 40.6841746777079, 'longitude': -73.9552760979309}",
+The Theatre at Saint Clement's,"['423 W 46th St', 'New York, NY 10036']",New York,4.0,13,"{'latitude': 40.761566, 'longitude': -73.991569}",
+Bright Glare Pictures,"['Brooklyn, NY 11221']",Brooklyn,5.0,17,"{'latitude': 40.69235, 'longitude': -73.9261}",
+MangoSeed Restaurant,"['755 Flatbush Ave', 'Brooklyn, NY 11226']",Brooklyn,4.0,815,"{'latitude': 40.65453249999999, 'longitude': -73.95941959999999}",2.0
+Coco Productions,"['4 Gottlieb Dr', 'Pearl River, NY 10965']",Pearl River,5.0,2,"{'latitude': 41.067639, 'longitude': -74.042473}",
+Piccolo Angolo Restaurant,"['621 Hudson St', 'New York, NY 10014']",New York,4.0,553,"{'latitude': 40.7378601855952, 'longitude': -74.0058052539825}",2.0
+The Meatball Shop,"['798 9th Ave', 'New York, NY 10019']",New York,4.0,387,"{'latitude': 40.7651804928198, 'longitude': -73.9874866666706}",2.0
+BierWax,"['556 Vanderbilt Ave', 'Brooklyn, NY 11238']",Brooklyn,5.0,102,"{'latitude': 40.6800201748959, 'longitude': -73.9682761207223}",2.0
+Santina,"['820 Washington St', 'New York, NY 10014']",New York,3.5,659,"{'latitude': 40.739604, 'longitude': -74.008868}",3.0
+Maialino,"['2 Lexington Ave', 'New York, NY 10010']",New York,4.0,1386,"{'latitude': 40.738437, 'longitude': -73.985686}",3.0
+Trattoria Trecolori,"['254 West 47th St', 'New York, NY 10036']",New York,4.0,2354,"{'latitude': 40.75998, 'longitude': -73.98671}",2.0
+Baku Palace Restaurant,"['2001 Emmons Ave', 'Brooklyn, NY 11235']",Brooklyn,3.5,146,"{'latitude': 40.584057, 'longitude': -73.948181}",3.0
+Blind Tiger Ale House,"['281 Bleecker St', 'New York, NY 10014']",New York,4.0,886,"{'latitude': 40.731926, 'longitude': -74.003223}",2.0
+Seamore's - Chelsea,"['161 8th Ave', 'New York, NY 10011']",New York,3.5,213,"{'latitude': 40.74247, 'longitude': -74.0009}",2.0
+A Christmas Story The Musical,"['205 W 46th St', 'New York, NY 10036']",New York,4.5,16,"{'latitude': 40.7591214, 'longitude': -73.9860015}",
+Bubby's Tribeca,"['120 Hudson St', 'New York, NY 10013']",New York,3.5,1438,"{'latitude': 40.7198118, 'longitude': -74.0083092}",2.0
+SUGARFISH by sushi nozawa,"['33 E 20th St', 'New York, NY 10003']",New York,4.0,853,"{'latitude': 40.73901, 'longitude': -73.98882}",3.0
+Blue Smoke,"['255 Vesey St', 'New York, NY 10282']",New York,3.5,650,"{'latitude': 40.714486, 'longitude': -74.0152768}",2.0
+Sekend Sun,"['32-11 Broadway', 'Astoria, NY 11106']",Astoria,4.0,292,"{'latitude': 40.7615356, 'longitude': -73.9240335}",2.0
+Shiraz Events,"['161 W 22nd St', 'Fl 2', 'New York, NY 10011']",New York,4.0,4,"{'latitude': 40.7433700561523, 'longitude': -73.9954223632812}",
+White Glove Elite,"['850 7th Ave', 'Ste 1100', 'New York, NY 10001']",New York,4.5,14,"{'latitude': 40.7640612, 'longitude': -73.9814763}",
+Gary's Loft,"['28 W 36th St', 'New York, NY 10018']",New York,4.5,12,"{'latitude': 40.7501258850098, 'longitude': -73.9851531982422}",
+La Lanterna Di Vittorio,"['129 MacDougal St', 'New York, NY 10012']",New York,4.0,1472,"{'latitude': 40.73069, 'longitude': -74.00015}",2.0
+MUD,"['307 E 9th St', 'New York, NY 10003']",New York,4.0,1182,"{'latitude': 40.72905, 'longitude': -73.98668}",2.0
+JJ's Fusion,"['37-05 31st Ave', 'Astoria, NY 11103']",Astoria,4.0,449,"{'latitude': 40.762086, 'longitude': -73.918391}",2.0
+Double Zero,"['65 2nd Ave', 'New York, NY 10003']",New York,4.5,525,"{'latitude': 40.7261288, 'longitude': -73.9896645}",2.0
+ICHIRAN - Times Square,"['152 W 49th St', 'New York, NY 10019']",New York,4.5,363,"{'latitude': 40.76004, 'longitude': -73.9833}",2.0
+Marta,"['29 E 29th St', 'New York, NY 10016']",New York,4.0,889,"{'latitude': 40.7445882, 'longitude': -73.9847936}",3.0
+Think Reel Films,"['76 E Main St', 'Little Falls, NJ 07424']",Little Falls,5.0,1,"{'latitude': 40.8792686462402, 'longitude': -74.2210540771484}",
+Ippudo Westside,"['321 W 51st St', 'New York, NY 10019']",New York,4.0,3714,"{'latitude': 40.76344, 'longitude': -73.98661}",2.0
+Arlo SoHo,"['231 Hudson St', 'New York, NY 10013']",New York,3.5,250,"{'latitude': 40.724495, 'longitude': -74.007965}",2.0
+Naruto Ramen,"['1596 3rd Ave', 'New York, NY 10128']",New York,3.5,953,"{'latitude': 40.781223, 'longitude': -73.952636}",2.0
+Peng's Noodle Folk,"['1659 1st Ave', 'New York, NY 10028']",New York,4.5,456,"{'latitude': 40.77726, 'longitude': -73.94932}",2.0
+Up&Up,"['243 Canal St', 'Fl 6', 'New York, NY 10013']",New York,5.0,1,"{'latitude': 40.718428, 'longitude': -74.000002}",
+Conrad New York Downtown,"['102 N End Ave', 'New York, NY 10282']",New York,4.0,305,"{'latitude': 40.71503, 'longitude': -74.0158397}",3.0
+Top Hops,"['94 Orchard St', 'New York, NY 10002']",New York,4.5,326,"{'latitude': 40.71838, 'longitude': -73.98984}",2.0
+Sai,"['95-34 Queens Blvd', 'Rego Park, NY 11374']",Rego Park,5.0,185,"{'latitude': 40.73012, 'longitude': -73.8636}",2.0
+Brooklyn Crab,"['24 Reed St', 'Brooklyn, NY 11231']",Brooklyn,3.0,1030,"{'latitude': 40.6752649, 'longitude': -74.016568}",2.0
+Zatar,"['1294 Myrtle Ave', 'Brooklyn, NY 11221']",Brooklyn,4.5,144,"{'latitude': 40.6980763644669, 'longitude': -73.9245712108767}",2.0
+Aria Wine Bar,"['369 51st St', 'New York, NY 10019']",New York,3.5,410,"{'latitude': 40.76413, 'longitude': -73.98826}",3.0
+Friedmans,"['132 W 31st St', 'New York, NY 10001']",New York,4.0,2479,"{'latitude': 40.74839, 'longitude': -73.99062}",2.0
+Cap 21,"['18 W 18th St', 'Fl 6', 'New York, NY 10011']",New York,3.5,12,"{'latitude': 40.706422, 'longitude': -74.012611}",
+Five & Dime,"['8 Park Pl', 'New York, NY 10007']",New York,4.5,87,"{'latitude': 40.7126429155284, 'longitude': -74.0080474702053}",2.0
+Mayfield,"['688 Franklin Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,532,"{'latitude': 40.6748580932617, 'longitude': -73.9565734863281}",2.0
+Bessou,"['5 Bleecker St', 'New York, NY 10012']",New York,4.0,281,"{'latitude': 40.725502, 'longitude': -73.992675}",2.0
+13th Street Repertory Company,"['50 W 13th St', 'New York, NY 10011']",New York,4.0,21,"{'latitude': 40.7360916137695, 'longitude': -73.9965591430664}",
+Ingrid K. Studio,"['23 Mcwilliams Pl', 'Jersey City, NJ 07302']",Jersey City,5.0,7,"{'latitude': 40.7275912, 'longitude': -74.0442033}",
+Tommy Bahama Restaurant | Bar | Store - New York,"['551 5th Ave', 'New York, NY 10176']",New York,4.0,596,"{'latitude': 40.7553882217953, 'longitude': -73.9792002147005}",3.0
+Tara Rose,"['384 3rd Ave', 'New York, NY 10016']",New York,4.5,254,"{'latitude': 40.74186799238025, 'longitude': -73.9814236}",2.0
+One If By Land Two If By Sea,"['17 Barrow St', 'New York, NY 10014']",New York,3.5,1410,"{'latitude': 40.732498, 'longitude': -74.002595}",4.0
+Paper Mill Playhouse,"['22 Brookside Dr', 'Millburn, NJ 07041']",Millburn,4.0,63,"{'latitude': 40.728182, 'longitude': -74.308718}",2.0
+Sweeter,"['New York, NY 10022']",New York,4.0,114,"{'latitude': 40.75889205932617, 'longitude': -73.96851348876953}",1.0
+Tacombi - Nolita,"['267 Elizabeth St', 'New York, NY 10012']",New York,3.5,1123,"{'latitude': 40.7240304, 'longitude': -73.9939028}",2.0
+Taproom No 307,"['307 3rd Ave', 'New York, NY 10010']",New York,3.5,488,"{'latitude': 40.738981, 'longitude': -73.98266}",2.0
+Noreetuh,"['128 1st Ave', 'New York, NY 10009']",New York,4.0,445,"{'latitude': 40.727275, 'longitude': -73.985221}",3.0
+Kesté Pizza & Vino,"['66 Gold S', 'New York, NY 10038']",New York,4.0,1414,"{'latitude': 40.7093947, 'longitude': -74.0048977}",2.0
+1 Hotel Brooklyn Bridge,"['60 Furman St', 'Brooklyn, NY 11201']",Brooklyn,3.5,241,"{'latitude': 40.701729, 'longitude': -73.995882}",3.0
+City Beer,"['200 E 39th St', 'New York, NY 10016']",New York,4.5,58,"{'latitude': 40.7487212793455, 'longitude': -73.9757692068815}",2.0
+Vinum Restaurant & Wine Bar,"['704 Bay St', 'Staten Island, NY 10304']",Staten Island,4.5,163,"{'latitude': 40.62482, 'longitude': -74.07478}",3.0
+Emilio's Ballato,"['55 E Houston St', 'New York, NY 10012']",New York,4.0,354,"{'latitude': 40.7244923, 'longitude': -73.9944022}",3.0
+Park Avenue Armory,"['643 Park Ave', 'New York, NY 10065']",New York,4.5,66,"{'latitude': 40.767313, 'longitude': -73.9662107}",2.0
+Angel's Share,"['8 Stuyvesant St', 'New York, NY 10003']",New York,4.5,2118,"{'latitude': 40.7297097529882, 'longitude': -73.9891492245369}",2.0
+Russian Vodka Room,"['265 W 52nd St', 'New York, NY 10019']",New York,4.0,545,"{'latitude': 40.76349, 'longitude': -73.9848}",2.0
+Lupa,"['170 Thompson St', 'New York, NY 10012']",New York,4.0,1555,"{'latitude': 40.7276, 'longitude': -74.000045}",3.0
+Le District,"['225 Liberty St', 'New York, NY 10281']",New York,3.5,556,"{'latitude': 40.7126473617984, 'longitude': -74.0157784596443}",2.0
+Clayhouse Brooklyn,"['229 Smith St', 'Brooklyn, NY 11231']",Brooklyn,3.5,5,"{'latitude': 40.683818, 'longitude': -73.992014}",
+Orso,"['322 W 46th St', 'New York, NY 10036']",New York,4.0,183,"{'latitude': 40.759994, 'longitude': -73.989025}",3.0
+Monte's,"['451 Carroll St', 'Brooklyn, NY 11215']",Brooklyn,4.0,145,"{'latitude': 40.6775499, 'longitude': -73.98724}",2.0
+Calle Dao - Bryant Park,"['38 W 39th St', 'New York, NY 10018']",New York,4.0,1799,"{'latitude': 40.75222, 'longitude': -73.98420351}",2.0
+Atlantic Acting School,"['76 Ninth Ave', 'Ste 537', 'New York, NY 10011']",New York,3.5,8,"{'latitude': 40.74189, 'longitude': -74.00446}",
+Saluggi's,"['325 Church St', 'New York, NY 10013']",New York,4.0,563,"{'latitude': 40.720104, 'longitude': -74.003578}",2.0
+Liberty Warehouse,"['260 Conover St', 'Brooklyn, NY 11231']",Brooklyn,4.5,116,"{'latitude': 40.6768460650472, 'longitude': -74.0193804687264}",
+HC Love Stories,"['Brooklyn, NY 02130']",Brooklyn,5.0,25,"{'latitude': 40.6924514770508, 'longitude': -73.9903564453125}",
+Cirque du Soleil - Banana Shpeel NYC,"['2124 Broadway', 'New York, NY 10023']",New York,3.0,10,"{'latitude': 40.78047, 'longitude': -73.98117}",
+Acting Center of NY,"['131 West 72nd St', 'Ripley Grier Studios', 'Manhattan, NY 10023']",Manhattan,3.5,2,"{'latitude': 40.7779065, 'longitude': -73.9799223}",
+Fleming’s Prime Steakhouse & Wine Bar,"['90 The Promenade', 'Edgewater, NJ 07020']",Edgewater,4.0,515,"{'latitude': 40.8059111677674, 'longitude': -73.9875190460327}",3.0
+The Riverside Church,"['490 Riverside Dr', 'New York, NY 10027']",New York,4.0,44,"{'latitude': 40.811865260089, 'longitude': -73.963054743483}",
+Positano Restaurant,"['10018 4th Ave', 'Brooklyn, NY 11209']",Brooklyn,4.5,401,"{'latitude': 40.6127378, 'longitude': -74.0339271}",3.0
+Kew Gardens Cinema,"['8105 Lefferts Blvd', 'Kew Gardens, NY 11415']",Kew Gardens,4.0,226,"{'latitude': 40.7090274, 'longitude': -73.8300601}",
+House of Que,"['340 Sinatra Dr', 'Hoboken, NJ 07030']",Hoboken,3.5,487,"{'latitude': 40.7405843890325, 'longitude': -74.0268678606049}",2.0
+The Ludlow New York City,"['180 Ludlow St', 'New York, NY 10002']",New York,4.0,133,"{'latitude': 40.721839, 'longitude': -73.987355}",3.0
+Chef's Table at Brooklyn Fare,"['431 W 37th St', 'New York, NY 10018']",New York,4.5,534,"{'latitude': 40.7561930774282, 'longitude': -73.9966090932068}",4.0
+Sushi Lab,"['132 W 47th St', 'New York, NY 10036']",New York,4.5,317,"{'latitude': 40.758417, 'longitude': -73.983301}",
+DOMODOMO - New York,"['140 W Houston St', 'New York, NY 10012']",New York,4.0,1160,"{'latitude': 40.72803, 'longitude': -74.00167}",3.0
+Radiance,"['208 E 50th St', '2nd & 3rd Ave', 'New York, NY 10022']",New York,3.5,174,"{'latitude': 40.7555779423723, 'longitude': -73.9703503944427}",2.0
+SakaMai,"['157 Ludlow St', 'New York, NY 10002']",New York,4.0,679,"{'latitude': 40.7209536656701, 'longitude': -73.9881407239426}",3.0
+The Polo Bar,"['1 E 55th St', 'New York, NY 10022']",New York,4.0,421,"{'latitude': 40.761559099, 'longitude': -73.9743427135}",3.0
+The Grey Dog - Union Square,"['90 University Pl', 'New York, NY 10003']",New York,4.0,1066,"{'latitude': 40.733828, 'longitude': -73.993052}",2.0
+ABCV,"['38 E 19th St', 'New York, NY 10003']",New York,4.0,530,"{'latitude': 40.738058, 'longitude': -73.989289}",3.0
+The Prince George Ballroom,"['15 E 27th St', 'New York, NY 10016']",New York,4.0,12,"{'latitude': 40.7436984832128, 'longitude': -73.9865857664409}",
+Numero 28 Pizzeria Napoletana,"['176 2nd Ave', 'New York, NY 10003']",New York,4.0,538,"{'latitude': 40.73041, 'longitude': -73.98595}",2.0
+Golf Club at Chelsea Piers,"['59 Chelsea Piers', 'New York, NY 10011']",New York,4.0,177,"{'latitude': 40.7456218469168, 'longitude': -74.0095717240814}",
+Nabi Photography,"['New York, NY 10022']",New York,4.5,15,"{'latitude': 40.75856, 'longitude': -73.96856}",
+Casa Apicii,"['62 W 9th St', 'New York, NY 10011']",New York,4.0,147,"{'latitude': 40.733818, 'longitude': -73.998742}",3.0
+The Bedford,"['110 Bedford Ave', 'Brooklyn, NY 11249']",Brooklyn,3.5,411,"{'latitude': 40.720019, 'longitude': -73.9555259}",2.0
+NYC Gangster Tours,"['10 Mulberry St', 'New York, NY 10001']",New York,4.5,38,"{'latitude': 40.7140449, 'longitude': -73.9995576}",
+Essex,"['124 Rivington St', 'New York, NY 10002']",New York,3.5,2024,"{'latitude': 40.7196975497428, 'longitude': -73.9873982202378}",3.0
+The Radio City Stage Door Tour,"['1260 Ave Of The Americas', 'New York, NY 10020']",New York,4.5,495,"{'latitude': 40.75953, 'longitude': -73.97858}",3.0
+Izakaya Juraku,"['121 Ludlow St', 'New York, NY 10002']",New York,4.5,113,"{'latitude': 40.7196796287355, 'longitude': -73.9887088537216}",2.0
+Masseria Dei Vini,"['887 9th Ave', 'New York, NY 10019']",New York,4.0,449,"{'latitude': 40.7684, 'longitude': -73.98558}",3.0
+The New Victory Theater,"['209 W 42nd St', 'New York, NY 10036']",New York,4.5,30,"{'latitude': 40.75649, 'longitude': -73.98763}",
+La Contenta Oeste,"['78 W 11th St', 'New York, NY 10011']",New York,4.0,238,"{'latitude': 40.7352, 'longitude': -73.99808}",2.0
+Brooks Atkinson Theatre,"['256 W 47th St', 'New York, NY 10036']",New York,3.5,115,"{'latitude': 40.76006, 'longitude': -73.98686}",
+Cagen,"['414 E 9th St', 'New York, NY 10009']",New York,4.5,194,"{'latitude': 40.72779, 'longitude': -73.98417}",4.0
+The Brick House,"['179 Godwin Ave', 'Wyckoff, NJ 07481']",Wyckoff,3.5,149,"{'latitude': 41.00523, 'longitude': -74.15992}",3.0
+Harold and Miriam Steinberg Center For Theatre,"['111 West 46th St', 'New York, NY 10036']",New York,4.5,10,"{'latitude': 40.7576962, 'longitude': -73.9826333}",
+Spaghetti Incident,"['231 Eldridge St', 'New York, NY 10002']",New York,4.0,597,"{'latitude': 40.7223153441439, 'longitude': -73.9899454318763}",2.0
+Royal Queen,"['136-20 Roosevelt Ave', '3F', 'Flushing, NY 11354']",Flushing,3.0,198,"{'latitude': 40.759348, 'longitude': -73.829067}",2.0
+Mr Vino's Cucina,"['7103 Austin St', 'Forest Hills, NY 11375']",Forest Hills,4.0,99,"{'latitude': 40.7200873, 'longitude': -73.8445468}",2.0
+Blanca,"['261 Moore St', 'Brooklyn, NY 11206']",Brooklyn,4.0,168,"{'latitude': 40.7050708681994, 'longitude': -73.933581}",4.0
+Trump International Hotel & Tower New York,"['1 Central Park W', 'New York City, NY 10023']",New York City,3.5,128,"{'latitude': 40.7690612, 'longitude': -73.9815768}",4.0
+The Morgan Library & Museum,"['225 Madison Ave', 'New York, NY 10016']",New York,4.5,287,"{'latitude': 40.749242, 'longitude': -73.981397}",
+The Jeffrey Craft Beer & Bites,"['311 E 60th St', 'New York, NY 10022']",New York,4.0,683,"{'latitude': 40.7611, 'longitude': -73.963}",2.0
+Cafe Bari,"['276 Canal St', 'New York, NY 10013']",New York,4.0,90,"{'latitude': 40.71909, 'longitude': -74.00173}",2.0
+Benchmark,"['339-A 2nd St', 'Brooklyn, NY 11215']",Brooklyn,3.5,503,"{'latitude': 40.6737976074219, 'longitude': -73.9831466674805}",3.0
+Park Hyatt New York,"['153 West 57th St', 'New York City, NY 10019']",New York City,4.5,142,"{'latitude': 40.76538, 'longitude': -73.97895}",3.0
+Barnacho,"['920 2nd Ave', 'New York, NY 10017']",New York,4.0,227,"{'latitude': 40.7540321350098, 'longitude': -73.9688491821289}",2.0
+Sushi House 21,"['243 Elm St', 'Newark, NJ 07105']",Newark,4.5,135,"{'latitude': 40.72705, 'longitude': -74.16002}",2.0
+Paint Along,"['129 E 27th St', 'Fl 2', 'New York, NY 10016']",New York,4.5,64,"{'latitude': 40.74233, 'longitude': -73.98331}",
+Bayside The Musical,"['80 St Marks Pl', 'Theatre 80 St Marks', 'New York, NY 10003']",New York,4.0,41,"{'latitude': 40.7276567816734, 'longitude': -73.9855673164129}",
+Terra Cafe,"['1716 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",Brooklyn,4.0,163,"{'latitude': 40.5856, 'longitude': -73.95178}",2.0
+Playa Betty's,"['320 Amsterdam Ave', 'New York, NY 10023']",New York,3.5,790,"{'latitude': 40.78075, 'longitude': -73.98032}",2.0
+Don Antonio,"['309 W 50th St', 'New York, NY 10019']",New York,4.0,1437,"{'latitude': 40.762711, 'longitude': -73.986708}",2.0
+29rooms,"['588 Baltic St', 'Brooklyn, NY 11217']",Brooklyn,2.0,18,"{'latitude': 40.6807689680652, 'longitude': -73.9817012473941}",
+Ana's Botanica,"['154 Heyward St', 'Brentwood, NY 11717']",Brentwood,5.0,23,"{'latitude': 40.79826, 'longitude': -73.24818}",2.0
+Ost Cafe,"['511 Grand St', 'New York, NY 10002']",New York,4.5,58,"{'latitude': 40.71445, 'longitude': -73.98214}",1.0
+Del Frisco's Grille,"['221 River St', 'Hoboken, NJ 07030']",Hoboken,3.5,418,"{'latitude': 40.7383784, 'longitude': -74.0275858}",3.0
+Ladybird,"['111 East 7th St', 'New York, NY 10009']",New York,4.0,311,"{'latitude': 40.726769311104, 'longitude': -73.9847712789363}",2.0
+Konrad Brattke Photography,"['Brooklyn, NY 11225']",Brooklyn,5.0,34,"{'latitude': 40.66363, 'longitude': -73.95541}",
+Amélie,"['22 W 8th St', 'New York, NY 10011']",New York,4.5,2703,"{'latitude': 40.7327, 'longitude': -73.99766}",2.0
+Gibney Dance,"['890 Broadway', 'Fifth Floor', 'New York, NY 10003']",New York,4.5,9,"{'latitude': 40.73863, 'longitude': -73.98977}",
+Edge NYC,"['30 Hudson Yards', 'New York, NY 10001']",New York,3.5,35,"{'latitude': 40.754083, 'longitude': -74.000818}",
+Arco Cafe,"['886 Amsterdam Ave', 'New York, NY 10025']",New York,4.5,270,"{'latitude': 40.7988462, 'longitude': -73.967065}",2.0
+Golden Theatre,"['252 W 45th St', 'New York, NY 10036']",New York,3.0,66,"{'latitude': 40.75886, 'longitude': -73.98792}",
+Jove Meyer Events,"['1521 Bergen St', 'Brooklyn, NY 11213']",Brooklyn,4.5,29,"{'latitude': 40.6753186, 'longitude': -73.9335283}",
+Kimpton Ink48 Hotel,"['653 11th Ave', 'New York, NY 10036']",New York,4.0,496,"{'latitude': 40.76452, 'longitude': -73.99586}",3.0
+Design It Up Now,"['509 Sussex Rd', 'Wood-Ridge, NJ 07075']",Wood-Ridge,5.0,3,"{'latitude': 40.8505826713666, 'longitude': -74.0791259442049}",
+The River Palm Terrace,"['1416 River Rd', 'Edgewater, NJ 07020']",Edgewater,4.0,479,"{'latitude': 40.8427072070032, 'longitude': -73.9686818914777}",3.0
+DTUT,"['1744 2nd Ave', 'New York, NY 10128']",New York,4.0,496,"{'latitude': 40.7808542200993, 'longitude': -73.949341175468}",1.0
+Petit Poulet,"['52 W 33rd St', 'New York, NY 10001']",New York,4.0,425,"{'latitude': 40.7487341906226, 'longitude': -73.98756886040884}",2.0
+ZeroSpace,"['136 W 33rd St', 'New York, NY 10001']",New York,3.0,96,"{'latitude': 40.750058, 'longitude': -73.99021217}",
+Parc Oasis Oyster Bar,"['6403 11th Ave', 'Brooklyn, NY 11219']",Brooklyn,4.0,150,"{'latitude': 40.6290427824765, 'longitude': -74.005197991996}",2.0
+Jajaja Plantas Mexicana,"['63 Carmine St', 'New York, NY 10014']",New York,4.5,252,"{'latitude': 40.72979, 'longitude': -74.00455}",2.0
+Boulton & Watt,"['5 Ave A', 'New York, NY 10009']",New York,4.0,678,"{'latitude': 40.722520164329694, 'longitude': -73.98635991078673}",2.0
+The New York EDITION,"['5 Madison Ave', 'New York, NY 10010']",New York,4.0,134,"{'latitude': 40.741367, 'longitude': -73.9873577288361}",3.0
+The Penthouse - Ravel Hotel,"['8-08 Queens Plz S', 'Long Island City, NY 11101']",Long Island City,3.0,986,"{'latitude': 40.7541228285616, 'longitude': -73.9491779487454}",3.0
+Russian Samovar Restaurant and Piano Bar,"['256 W 52nd St', 'New York, NY 10019']",New York,4.0,449,"{'latitude': 40.7632, 'longitude': -73.98469}",2.0
+New York Marriott Marquis,"['1535 Broadway', 'New York, NY 10036']",New York,3.5,989,"{'latitude': 40.7585862119401, 'longitude': -73.9858202037049}",3.0
+Greenwich Street Theatre,"['547 Greenwich St', 'New York, NY 10013']",New York,4.0,1,"{'latitude': 40.72728, 'longitude': -74.00859}",
+Laura Pels Theatre,"['111 W 46th St', 'New York, NY 10036']",New York,4.0,15,"{'latitude': 40.7576962, 'longitude': -73.9826333}",
+Richard Rodgers Theatre,"['226 W 46th St', 'New York, NY 10036']",New York,3.5,176,"{'latitude': 40.7589920486639, 'longitude': -73.9866784214997}",
+The Play That Goes Wrong,"['340 W 50th St', 'New York, NY 10019']",New York,4.0,71,"{'latitude': 40.7628267, 'longitude': -73.987646}",
+Say Something Bunny,"['511 W 20th St', 'New York, NY 10011']",New York,4.0,4,"{'latitude': 40.74618, 'longitude': -74.00614}",
+Sergimmo Salumeria,"['456 9th Ave', 'New York, NY 10018']",New York,4.0,682,"{'latitude': 40.754296, 'longitude': -73.995498}",2.0
+Orale Mexican Kitchen,"['341 Grove St', 'Jersey City, NJ 07302']",Jersey City,4.0,1140,"{'latitude': 40.720536, 'longitude': -74.042976}",2.0
+Boqueria Flatiron,"['53 W 19th St', 'New York, NY 10011']",New York,4.0,1264,"{'latitude': 40.7402927726298, 'longitude': -73.9940709810079}",3.0
+Envision Video Services,"['224 Blvd', 'Hasbrouck Heights, NJ 07604']",Hasbrouck Heights,4.5,9,"{'latitude': 40.8621579820709, 'longitude': -74.0778309894409}",
+I Milky 沐白,"['992 6th Ave', 'New York, NY 10018']",New York,4.5,136,"{'latitude': 40.7513413, 'longitude': -73.9864468}",1.0
+Wheated,"['905 Church Ave', 'Brooklyn, NY 11218']",Brooklyn,4.5,335,"{'latitude': 40.6465968960541, 'longitude': -73.9704950265688}",2.0
+Crust Brooklyn Pizzeria,"['734 Evergreen Ave', 'Brooklyn, NY 11207']",Brooklyn,4.5,14,"{'latitude': 40.686666, 'longitude': -73.909413}",
+Amsterdam Ale House,"['340 Amsterdam Ave', 'Ste 1', 'New York, NY 10024']",New York,3.0,378,"{'latitude': 40.7814117451455, 'longitude': -73.9799106589601}",2.0
+Sinigual,"['640 Third Ave', 'New York, NY 10017']",New York,3.5,873,"{'latitude': 40.7503161990978, 'longitude': -73.9750733399726}",2.0
+Beacon Products,"['230 5th Ave', 'New York, NY 10001']",New York,4.0,1,"{'latitude': 40.74395, 'longitude': -73.98805}",
+New York Botanical Garden Holiday Train Show,"['2900 Southern Blvd', 'Bronx, NY 10458']",Bronx,4.0,83,"{'latitude': 40.862592, 'longitude': -73.880421}",
+Christine Valmy International School of Esthetics & Cosmetology,"['285 Changebridge Rd', 'International School of Esthetics & Cosmetology', 'Pine Brook, NJ 07058']",Pine Brook,4.0,8,"{'latitude': 40.86888, 'longitude': -74.358432}",
+Bonafini,"['663 Flatbush Ave', 'Brooklyn, NY 11225']",Brooklyn,4.0,363,"{'latitude': 40.65699, 'longitude': -73.959912}",2.0
+Izakaya MEW,"['53 W 35th St', 'New York, NY 10001']",New York,4.0,2342,"{'latitude': 40.750148, 'longitude': -73.9863203465939}",2.0
+Tavola,"['488 9th Ave', 'New York, NY 10018']",New York,4.0,972,"{'latitude': 40.755403, 'longitude': -73.994516}",2.0
+Libertador Steakhouse - Brooklyn,"['404 Henry St', 'Brooklyn, NY 11201']",Brooklyn,4.0,235,"{'latitude': 40.6872890722053, 'longitude': -73.9980973979345}",2.0

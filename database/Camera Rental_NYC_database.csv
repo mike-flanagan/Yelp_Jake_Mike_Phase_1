@@ -1,0 +1,169 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+B&H Photo Video - Electronics and Camera Store,"['420 9th Ave', 'New York, NY 10001']",New York,3.0,1887,"{'latitude': 40.7529335021973, 'longitude': -73.996338}",2.0
+Focus Gear,"['225 W 39th St', 'Ste 600', 'New York, NY 10018']",New York,4.5,18,"{'latitude': 40.7547596, 'longitude': -73.9892358}",2.0
+Foto Care,"['41-43 W 22nd St', 'New York, NY 10010']",New York,4.5,50,"{'latitude': 40.7417878, 'longitude': -73.9922595}",2.0
+K & M Camera,"['54 Orchard St', 'New York, NY 10002']",New York,3.0,128,"{'latitude': 40.71479159152905, 'longitude': -73.99177973493545}",2.0
+FD Photo Studio - New York,"['4020 22nd St', 'Fl 4', 'Long Island City, NY 11101']",Long Island City,4.5,18,"{'latitude': 40.754396, 'longitude': -73.9408041}",
+CSI Rentals - Brooklyn,"['154 Bogart St', 'Bushwick', 'Brooklyn, NY 11206']",Brooklyn,4.0,8,"{'latitude': 40.709215, 'longitude': -73.9344001561403}",2.0
+Production Junction,"['266 E 10th St', 'Manhattan, NY 10009']",Manhattan,5.0,5,"{'latitude': 40.72822, 'longitude': -73.98367}",
+PhotoManhattan,"['51 W 14th St', 'Ste 2R', 'New York, NY 10011']",New York,4.0,60,"{'latitude': 40.7372512817383, 'longitude': -73.9958572387695}",2.0
+Adorama Rental,"['50 W 17th St', 'New York, NY 10011']",New York,3.0,82,"{'latitude': 40.7389741248731, 'longitude': -73.9946596177993}",2.0
+Camera Doctor,"['406 West 39th St', 'New York, NY 10018']",New York,4.0,20,"{'latitude': 40.756655, 'longitude': -73.994658}",2.0
+Photo Tech Repair Service,"['360 W 36th St', 'Ground Fl', 'New York, NY 10018']",New York,4.0,173,"{'latitude': 40.7541603595018, 'longitude': -73.9942563325167}",2.0
+Hello World Communications,"['118 W 22nd St', 'Fl 2', 'New York, NY 10011']",New York,5.0,42,"{'latitude': 40.7425398, 'longitude': -73.9945521}",
+BKC,"['736 Bushwick Ave', 'Brooklyn, NY 11221']",Brooklyn,5.0,18,"{'latitude': 40.6958679, 'longitude': -73.9301726}",
+Rye Camera Shop,"['55 Purchase St', 'Rye, NY 10580']",Rye,4.5,11,"{'latitude': 40.9836, 'longitude': -73.68513}",2.0
+CSI Rentals,"['133 W 19th St', 'New York, NY 10011']",New York,3.5,29,"{'latitude': 40.7411993, 'longitude': -73.995893}",2.0
+Teleprompter Rental,"['808 Broadway', 'Ste 5P', 'New York, NY 10003']",New York,4.5,12,"{'latitude': 40.732678, 'longitude': -73.991217}",
+Hit and Run Productions,"['65 Roebling St', 'Ste 202', 'Brooklyn, NY 11211']",Brooklyn,5.0,4,"{'latitude': 40.7165128, 'longitude': -73.9546435}",
+AbelCine,"['Industry City', '88 35th St, Fl 4', 'Brooklyn, NY 11232']",Brooklyn,3.5,9,"{'latitude': 40.6564111, 'longitude': -74.0067047}",4.0
+American Movie Company,"['808 Broadway', 'New York, NY 10003']",New York,5.0,9,"{'latitude': 40.7324361, 'longitude': -73.9909751}",
+Lot 19,"['138 30th St', 'Brooklyn, NY 11232']",Brooklyn,5.0,1,"{'latitude': 40.6582187, 'longitude': -74.0022259}",
+Hand Held Films,"['129 W 27th St', 'New York, NY 10001']",New York,2.5,6,"{'latitude': 40.74618, 'longitude': -73.99221}",
+Willoughby's Photo Emporium,"['15-17 W 36th St', 'New York, NY 10018']",New York,2.0,126,"{'latitude': 40.7503761, 'longitude': -73.9845888}",4.0
+Fairway Studios,"['115 W 30th St', 'Ste 306', 'Manhattan, NY 10001']",Manhattan,4.5,7,"{'latitude': 40.747866, 'longitude': -73.990522}",2.0
+Adorama,"['42 W 18th St', 'New York, NY 10011']",New York,2.5,1149,"{'latitude': 40.73935, 'longitude': -73.99406}",2.0
+Deverge Studio,"['150 W 28th St', 'Ste 600', 'New York, NY 10001']",New York,5.0,5,"{'latitude': 40.74676, 'longitude': -73.99282}",
+Av Nyc,"['1350 Broadway', 'Ste 410', 'New York, NY 10018']",New York,4.5,4,"{'latitude': 40.750975, 'longitude': -73.987351}",
+Bond Street Studio,"['235 Bond St', 'Brooklyn, NY 11217']",Brooklyn,5.0,4,"{'latitude': 40.682204, 'longitude': -73.987889}",
+Digital Transitions,"['35 W 35th St', 'Fl 10, Ste 1001-1002', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.749974, 'longitude': -73.985712}",
+Nippon Photo Clinic Service,"['37 W 39th St', 'Ste 401', 'New York, NY 10018']",New York,4.5,24,"{'latitude': 40.7527038, 'longitude': -73.984242}",3.0
+Starr Street Studios,"['207-A Starr St', 'Ste 3-1', 'Brooklyn, NY 11237']",Brooklyn,5.0,8,"{'latitude': 40.705122, 'longitude': -73.923457}",
+Cobalt Stages,"['710 Clinton St', 'Hoboken, NJ 07030']",Hoboken,5.0,1,"{'latitude': 40.7457958906889, 'longitude': -74.0332053601742}",
+Studio 253 NYC @ E.C. Pro Video Systems,"['Ec Pro Video Systems Inc', '253 W 51st St , Fl 3 S', 'New York, NY 10019']",New York,5.0,1,"{'latitude': 40.7628288, 'longitude': -73.9851837}",
+DCTV,"['87 Lafayette St', 'New York, NY 10013']",New York,3.0,5,"{'latitude': 40.717311, 'longitude': -74.001144}",
+Montclair Center Camera Exchange,"['7 Park St', 'Ste 201', 'Montclair, NJ 07042']",Montclair,3.0,9,"{'latitude': 40.8152083, 'longitude': -74.2186803}",
+Prompster,"['New York, NY 11201']",New York,5.0,2,"{'latitude': 40.69347, 'longitude': -73.99052}",
+Trend Rentals,"['New York, NY 10001']",New York,5.0,2,"{'latitude': 40.75095, 'longitude': -73.99811}",
+Du-All Camera,"['772-774 Central Ave', 'Westfield, NJ 07090']",Westfield,4.0,16,"{'latitude': 40.64489, 'longitude': -74.33557}",2.0
+Liman Video Rental,"['330 W 38th St', 'New York, NY 10018']",New York,3.5,3,"{'latitude': 40.75545, 'longitude': -73.99363}",
+Party Pose NY,"['1510 Castle Hill Ave', 'Bronx, NY 10462']",Bronx,4.5,7,"{'latitude': 40.8368111, 'longitude': -73.8520737}",
+Be Electric Studios,"['1298 Willoughby Ave', 'Brooklyn, NY 11237']",Brooklyn,4.5,4,"{'latitude': 40.7052438, 'longitude': -73.9218072}",
+Bushwick Community Darkroom,"['110 Troutman St', 'Brooklyn, NY 11206']",Brooklyn,3.0,41,"{'latitude': 40.699218, 'longitude': -73.929546}",1.0
+Bravo Studios,"['40 W 27th St', 'Fl 2', 'Manhattan, NY 10001']",Manhattan,4.5,3,"{'latitude': 40.744895, 'longitude': -73.990314}",
+Al-Art Video,"['150 Scranton Ave', 'Lynbrook, NY 11563']",Lynbrook,4.0,5,"{'latitude': 40.65556, 'longitude': -73.68505}",
+We Rent Laptops,"['266 E 10th St', 'New York, NY 10009']",New York,5.0,2,"{'latitude': 40.72822, 'longitude': -73.98367}",
+Wedding In Paris,"['4711 8th Ave', 'Brooklyn, NY 11220']",Brooklyn,4.5,49,"{'latitude': 40.6423833, 'longitude': -74.0020331}",
+Solas Studio,"['117 E 24th St', 'Fl 2', 'New York, NY 10010']",New York,5.0,3,"{'latitude': 40.740695, 'longitude': -73.984875}",
+Simply Creative 2,"['20-29 38th St', 'Ste 1C', 'Astoria, NY 11105']",Astoria,5.0,1,"{'latitude': 40.77617, 'longitude': -73.90294}",
+Kaleidoscope Pictures,"['Brooklyn, NY 11231']",Brooklyn,5.0,8,"{'latitude': 40.6772802, 'longitude': -74.0094471}",
+BAZA.Studio,"['34-36 W 32nd St', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.747727, 'longitude': -73.987349}",
+Manhattan Neighborhood Network,"['537 W 59th St', 'New York, NY 10019']",New York,4.5,13,"{'latitude': 40.7713203430176, 'longitude': -73.9891662597656}",
+Lockaway Self Storage,"['1 Carlton Ave', 'Brooklyn, NY 11205']",Brooklyn,4.5,33,"{'latitude': 40.6978, 'longitude': -73.97363}",
+Unique Photo,"['123 US Hwy 46', 'Fairfield, NJ 07004']",Fairfield,3.5,113,"{'latitude': 40.86983, 'longitude': -74.308716}",2.0
+Mashbooths Modern Photo Booth Rentals,"['712 5th Ave', 'New York, NY 10019']",New York,5.0,32,"{'latitude': 40.7630520395681, 'longitude': -73.9745437137207}",
+Print Space,"['19 W 21st St', 'Ste 706', 'New York, NY 10010']",New York,4.5,45,"{'latitude': 40.7410316, 'longitude': -73.9917679}",2.0
+Bergen County Camera,"['270 Westwood Ave', 'Westwood, NJ 07675']",Westwood,4.0,54,"{'latitude': 40.9930669, 'longitude': -74.0300824}",2.0
+Rent A Tool NY,"['765 E New York Ave', 'Brooklyn, NY 11203']",Brooklyn,5.0,4,"{'latitude': 40.6624664308, 'longitude': -73.9375074914}",
+Sweet Arts Photo Booth,"['Brooklyn, NY 11226']",Brooklyn,5.0,3,"{'latitude': 40.646181, 'longitude': -73.957062}",
+Milk Studios,"['450 W 15th St', 'Ste 8', 'New York, NY 10011']",New York,4.0,40,"{'latitude': 40.7425, 'longitude': -74.00718}",3.0
+ILovePhotos2,"['New Rochelle, NY 10804']",New Rochelle,4.0,1,"{'latitude': 40.9492193, 'longitude': -73.7889689}",
+Life Storage,"['1690 E New York Ave', 'Brooklyn, NY 11212']",Brooklyn,5.0,1,"{'latitude': 40.67422, 'longitude': -73.90584}",
+New York Computer Help,"['53 E 34th St', 'Fl 3', 'New York, NY 10016']",New York,5.0,330,"{'latitude': 40.7476305, 'longitude': -73.981924}",2.0
+Life Storage,"['1301 Avenue M', 'Brooklyn, NY 11230']",Brooklyn,5.0,2,"{'latitude': 40.61796, 'longitude': -73.96168}",
+P.C. Richard & Son,"['205 East 86th St', 'New York, NY 10028']",New York,3.5,165,"{'latitude': 40.7787859, 'longitude': -73.953123}",2.0
+Project Booths,"['New York, NY 10138']",New York,5.0,1,"{'latitude': 40.75503, 'longitude': -73.99047}",
+E.C. Pro Video Systems,"['253 W 51st St', 'New York, NY 10019']",New York,2.5,2,"{'latitude': 40.7628288, 'longitude': -73.9851837}",
+Life Storage,"['52-11 29th St', 'Long Island City, NY 11101']",Long Island City,4.5,26,"{'latitude': 40.73791214, 'longitude': -73.94008279}",2.0
+Life Storage,"['629 3rd Ave', 'Brooklyn, NY 11232']",Brooklyn,3.0,2,"{'latitude': 40.66553, 'longitude': -73.99534}",
+Life Storage,"['134-31 Merrick Blvd', 'Jamaica, NY 11434']",Jamaica,5.0,3,"{'latitude': 40.6795858, 'longitude': -73.7577283}",
+Digital Merit Photography,"['9-20 35th Ave', 'Ste 2M', 'Long Island City, NY 11106']",Long Island City,4.5,9,"{'latitude': 40.7632915915518, 'longitude': -73.9401746468994}",
+TKO Suites,"['353 W 48th St', 'Fl 4', 'New York, NY 10036']",New York,3.5,5,"{'latitude': 40.76196, 'longitude': -73.98893}",
+Life Storage,"['4139 Boston Rd', 'Bronx, NY 10466']",Bronx,5.0,2,"{'latitude': 40.887052, 'longitude': -73.8268710699058}",
+Adventure Scuba,"['1737 York Ave', 'Manhattan, NY 10128']",Manhattan,4.0,37,"{'latitude': 40.7790899, 'longitude': -73.94505}",4.0
+Life Storage,"['1430 Bruckner Blvd', 'Bronx, NY 10473']",Bronx,4.0,4,"{'latitude': 40.82284, 'longitude': -73.88186}",
+Local NJ Photo Booths,"['1110 Korfitsen Rd', 'New Milford, NJ 07646']",New Milford,5.0,3,"{'latitude': 40.917971, 'longitude': -74.016191}",
+Best Buy Gateway Brooklyn,"['369 Gateway Dr', 'Brooklyn, NY 11239']",Brooklyn,2.0,41,"{'latitude': 40.651542, 'longitude': -73.872589}",2.0
+True Love Wedding Studio,"['188-04 Northern Blvd', 'Fl 2', 'Flushing, NY 11354']",Flushing,4.5,140,"{'latitude': 40.7575643, 'longitude': -73.7926571}",
+Dream Wedding,"['144-67 Northern Blvd', 'Flushing, NY 11354']",Flushing,5.0,38,"{'latitude': 40.76507, 'longitude': -73.8210814}",
+Howard Beach Studios,"['135-05 Cross Bay Blvd', 'Fl 2', 'Ozone Park, NY 11417']",Ozone Park,4.5,9,"{'latitude': 40.6735255, 'longitude': -73.8428633}",
+All Affairs Party Rental,"['2255 59th St', 'Brooklyn, NY 11204']",Brooklyn,2.0,8,"{'latitude': 40.61657, 'longitude': -73.9761847}",
+The Moment Photo Studio,"['New York, NY 10001']",New York,5.0,33,"{'latitude': 40.75095, 'longitude': -73.99811}",
+Angelica Criscuolo Photography,"['Woodside, NY 10023']",Woodside,5.0,18,"{'latitude': 40.7479487, 'longitude': -73.9845343}",
+Life Storage,"['1200 McDonald Ave', 'Brooklyn, NY 11230']",Brooklyn,2.5,3,"{'latitude': 40.624177, 'longitude': -73.976045}",
+itsphototime Wedding & Event Photographer,"['Bronx, NY 10467']",Bronx,5.0,8,"{'latitude': 40.8723987, 'longitude': -73.8713099}",
+Spy Store,"['355 7th ave', 'ste 302', 'New York, NY 10001']",New York,2.5,9,"{'latitude': 40.748304, 'longitude': -73.992378}",3.0
+Wedding Hills,"['136-19 38th Ave', 'Fl 4', 'Flushing, NY 11354']",Flushing,4.5,59,"{'latitude': 40.7611931, 'longitude': -73.8300277}",
+JackRabbit - Union Square,"['42 W 14th St', 'New York, NY 10011']",New York,4.0,346,"{'latitude': 40.7367146, 'longitude': -73.9956053}",2.0
+Peloton,"['140 W 23rd St', 'New York, NY 10011']",New York,4.0,357,"{'latitude': 40.743259, 'longitude': -73.994377}",3.0
+Wholesale Photo,"['85 Godwin Ave', 'Midland Park Shopping Center', 'Midland Park, NJ 07432']",Midland Park,2.5,13,"{'latitude': 40.9837421775145, 'longitude': -74.1388316177216}",2.0
+Thor & Mason,"['775 Washington St', 'New York, NY 10014']",New York,2.5,15,"{'latitude': 40.737891, 'longitude': -74.00792}",
+One World Trade Center,"['285 Fulton St', 'New York, NY 10007']",New York,4.5,493,"{'latitude': 40.712746, 'longitude': -74.01338}",
+The Yard: Williamsburg,"['33 Nassau Ave', 'Brooklyn, NY 11222']",Brooklyn,3.5,18,"{'latitude': 40.7231917, 'longitude': -73.952991}",
+Life Storage,"['390 S Van Brunt St', 'Englewood, NJ 07631']",Englewood,5.0,2,"{'latitude': 40.884176564104806, 'longitude': -73.98690414837209}",
+Wedding Box Inc,"['3657 Main St', 'Fl 2', 'Flushing, NY 11354']",Flushing,2.5,11,"{'latitude': 40.7619534, 'longitude': -73.8311648}",
+Smile U Are Famous,"['552 Grand Ave', 'ste200', 'Ridgefield, NJ 07657']",Ridgefield,4.5,58,"{'latitude': 40.8353, 'longitude': -74.00979}",
+Alan David Custom,"['16 E 40th St', 'Ste 702', 'New York, NY 10016']",New York,5.0,77,"{'latitude': 40.7515434, 'longitude': -73.9809394}",2.0
+P.C. Richard & Son,"['50-02 Queens Blvd', 'Woodside, NY 11377']",Woodside,3.5,78,"{'latitude': 40.742318, 'longitude': -73.914818}",2.0
+Paragon Sports,"['867 Broadway', 'New York, NY 10003']",New York,3.5,674,"{'latitude': 40.737759621837, 'longitude': -73.9903309968226}",3.0
+Life Storage,"['300 Allwood Rd', 'Clifton, NJ 07012']",Clifton,5.0,9,"{'latitude': 40.8382359, 'longitude': -74.1526047}",
+REI,"['303 Lafayette St', 'New York, NY 10012']",New York,4.0,248,"{'latitude': 40.724813946668, 'longitude': -73.995204705279}",2.0
+Content Party Rentals,"['50 Willow St', 'East Rutherford, NJ 07073']",East Rutherford,2.5,6,"{'latitude': 40.841198, 'longitude': -74.106076}",
+Your Home International Corporation,"['333 7th Ave', 'New York, NY 10001']",New York,1.0,2,"{'latitude': 40.74741, 'longitude': -73.99297}",
+Life Storage,"['1229 US Hwy 22', 'Mountainside, NJ 07092']",Mountainside,5.0,3,"{'latitude': 40.6767184214119, 'longitude': -74.3460966178604}",
+Life Storage,"['480 Allen St', 'Elizabeth, NJ 07202']",Elizabeth,3.0,5,"{'latitude': 40.640289, 'longitude': -74.210694}",
+Life Storage,"['95 Hudson Ave', 'Norwood, NJ 07648']",Norwood,4.0,1,"{'latitude': 40.99652, 'longitude': -73.94941}",
+Life Storage,"['445 Wagaraw Rd', 'Fair Lawn, NJ 07410']",Fair Lawn,5.0,7,"{'latitude': 40.94267, 'longitude': -74.14628}",
+Life Storage,"['125 Franklin St', 'Belleville, NJ 07109']",Belleville,4.5,10,"{'latitude': 40.781682, 'longitude': -74.181882}",
+Best Buy Flushing,"['13107 40th Rd', 'Ste C300', 'Flushing, NY 11354']",Flushing,2.5,117,"{'latitude': 40.7563786, 'longitude': -73.836972}",2.0
+Ovation Event Planning,"['185 Westbury Ave', 'Carle Place, NY 11514']",Carle Place,4.0,17,"{'latitude': 40.74928, 'longitude': -73.61385}",
+P.C. Richard & Son,"['356 Baychester Ave', 'Bronx, NY 10475']",Bronx,3.5,63,"{'latitude': 40.8681969974121, 'longitude': -73.8306896003471}",2.0
+Gun For Hire,"['1267 McBride Ave', 'Woodland Park, NJ 07424']",Woodland Park,4.5,524,"{'latitude': 40.889778, 'longitude': -74.216476}",2.0
+Early Halloween,"['130 W 25th St', 'Fl 11', 'New York, NY 10001']",New York,2.5,3,"{'latitude': 40.744552, 'longitude': -73.993255}",
+Inside Out Booth,"['207 Oak Ave', 'River Vale, NJ 07675']",River Vale,5.0,110,"{'latitude': 40.994614, 'longitude': -74.016451}",
+Chelsea Flea Market,"['29-37 W 25th St', 'New York, NY 10011']",New York,3.0,31,"{'latitude': 40.7439570592643, 'longitude': -73.9913311166603}",1.0
+Life Storage,"['268 Gatzmer Ave', 'Jamesburg, NJ 08831']",Jamesburg,4.5,6,"{'latitude': 40.355151, 'longitude': -74.445787}",
+The Home Depot,"['550 Hamilton Ave', 'Brooklyn, NY 11232']",Brooklyn,2.0,203,"{'latitude': 40.6674681137716, 'longitude': -73.9989033968232}",2.0
+Duane Reade,"['100 Delancey St', 'New York, NY 10002']",New York,2.0,34,"{'latitude': 40.718993, 'longitude': -73.988771}",2.0
+St Nicholas of Tolentine Flea Market,"['150-75 Goethals Ave', 'Jamaica, NY 11432']",Jamaica,4.0,17,"{'latitude': 40.71893, 'longitude': -73.8096}",1.0
+Life Storage,"['77 Willowbrook Blvd', 'Wayne, NJ 07470']",Wayne,3.0,4,"{'latitude': 40.885893, 'longitude': -74.253121}",
+JackRabbit - Brooklyn,"['151 7th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,162,"{'latitude': 40.6724815368652, 'longitude': -73.9765853881836}",2.0
+IKEA,"['1 Beard St', 'Brooklyn, NY 11231']",Brooklyn,2.0,1631,"{'latitude': 40.6712969411348, 'longitude': -74.0113091468811}",2.0
+Target,"['139 Flatbush Ave', 'Brooklyn, NY 11217']",Brooklyn,2.0,546,"{'latitude': 40.68449, 'longitude': -73.97748}",2.0
+Rockefeller Center,"['45 Rockefeller Plz', 'New York, NY 10111']",New York,4.5,800,"{'latitude': 40.758743, 'longitude': -73.978674}",2.0
+The Home Depot,"['230 Nostrand Ave', 'Brooklyn, NY 11205']",Brooklyn,2.0,249,"{'latitude': 40.6917012003951, 'longitude': -73.9528840674814}",2.0
+Chelsea Market,"['75 9th Ave', 'New York, NY 10011']",New York,4.5,2233,"{'latitude': 40.7419711362098, 'longitude': -74.0048450364568}",2.0
+The Home Depot,"['40 West 23rd St', 'New York, NY 10010']",New York,3.0,482,"{'latitude': 40.7420095, 'longitude': -73.9913159}",2.0
+Turnstyle Underground Market,"['57th St & 8th Ave', 'Under Columbus Cir', 'New York, NY 10019']",New York,4.0,97,"{'latitude': 40.76671, 'longitude': -73.98282}",2.0
+Costco,"['976 3rd Ave', 'Brooklyn, NY 11232']",Brooklyn,3.0,327,"{'latitude': 40.655774, 'longitude': -74.009266}",2.0
+Life Storage,"['338 Highway 34', 'Matawan, NJ 07747']",Matawan,3.5,5,"{'latitude': 40.4238665931658, 'longitude': -74.2714390963299}",
+Target,"['40 W 225th St', 'Ste 50', 'Bronx, NY 10463']",Bronx,2.5,203,"{'latitude': 40.87353, 'longitude': -73.907803}",2.0
+Rockefeller Center Christmas Tree,"['30 Rockefeller Plz', 'New York, NY 10111']",New York,4.5,199,"{'latitude': 40.759075, 'longitude': -73.978596}",1.0
+Apple Fifth Avenue,"['767 5th Ave', 'New York, NY 10153']",New York,3.5,1064,"{'latitude': 40.7637929574439, 'longitude': -73.9730206320159}",3.0
+Life Storage,"['123 Route 46 West', 'Lodi, NJ 07644']",Lodi,1.5,4,"{'latitude': 40.8791869238619, 'longitude': -74.0769065042992}",
+Kmart,"['770 Broadway', 'New York, NY 10003']",New York,2.5,204,"{'latitude': 40.7307693, 'longitude': -73.9913223}",1.0
+Barnes & Noble,"['33 E 17th St', 'Union Square', 'New York, NY 10003']",New York,4.0,475,"{'latitude': 40.7371482849121, 'longitude': -73.9894027709961}",2.0
+Wilson’s Dry Dock,"['128 Shore Rd', 'Glen Cove, NY 11542']",Glen Cove,5.0,1,"{'latitude': 40.8544, 'longitude': -73.64556}",
+Nomorerack,"['381 Park Ave S', 'New York, NY 10016']",New York,1.5,143,"{'latitude': 40.7424714, 'longitude': -73.984569}",1.0
+Knot Standard,"['19 W 24th St', 'Fl 2', 'New York, NY 10010']",New York,4.0,112,"{'latitude': 40.7433678140897, 'longitude': -73.9893872079956}",2.0
+RK Bridal,"['619 W 54th St', 'Fl 5', 'New York, NY 10019']",New York,3.5,562,"{'latitude': 40.7689192, 'longitude': -73.9936647}",2.0
+Book-Off,"['49 W 45th St', 'New York, NY 10036']",New York,4.0,344,"{'latitude': 40.7564573646771, 'longitude': -73.9818048477173}",1.0
+Say Cheese Rentals,"['43-60 Douglaston Pkwy', 'Douglaston, NY 11363']",Douglaston,2.5,93,"{'latitude': 40.76648, 'longitude': -73.74609}",
+LIC Flea & Food,"['5-25 46th Ave', 'Long Island City, NY 11101']",Long Island City,3.5,222,"{'latitude': 40.74747814341, 'longitude': -73.953936822615}",2.0
+AJ Madison Kitchen and Home Appliances Showroom,"['3605 13th Ave', 'Brooklyn, NY 11218']",Brooklyn,2.0,748,"{'latitude': 40.6419217317832, 'longitude': -73.984592054245}",2.0
+Nuthouse Hardware,"['202 E 29th St', 'New York, NY 10016']",New York,3.0,169,"{'latitude': 40.7423, 'longitude': -73.97996}",2.0
+Walgreens,"['7321 Kissena Blvd', 'Flushing, NY 11367']",Flushing,2.5,31,"{'latitude': 40.7269396418179, 'longitude': -73.8111345469951}",2.0
+Duane Reade,"['2858 Steinway St', 'Astoria, NY 11103']",Astoria,2.5,44,"{'latitude': 40.764177, 'longitude': -73.9151425}",2.0
+Michaels,"['187-04 Horace Harding Expy', 'Fresh Meadows, NY 11365']",Fresh Meadows,3.5,85,"{'latitude': 40.7401976, 'longitude': -73.7875963}",2.0
+Venus Et Fleur,"['185 Greenwich St', 'LL 4030', 'New York, NY 10007']",New York,2.5,200,"{'latitude': 40.711374, 'longitude': -74.011166}",3.0
+RTSP Range. Training. Firearms.,"['2438 US Hwy 22 E', 'Union, NJ 07083']",Union,4.5,97,"{'latitude': 40.68904196129753, 'longitude': -74.29707140227448}",
+Strand Bookstore,"['828 Broadway', 'New York, NY 10003']",New York,4.5,1556,"{'latitude': 40.7332613664396, 'longitude': -73.990933947418}",1.0
+The Home Depot,"['2560 Bruckner Blvd', 'Bronx, NY 10465']",Bronx,2.5,66,"{'latitude': 40.8269233, 'longitude': -73.8393173}",2.0
+Lovely Bride,"['182 Duane St', 'Ground Fl', 'New York, NY 10013']",New York,4.0,514,"{'latitude': 40.717118, 'longitude': -74.010028}",2.0
+Verizon Corporate,"['140 West St', 'New York, NY 10007']",New York,1.0,253,"{'latitude': 40.7138062516244, 'longitude': -74.0129837300378}",4.0
+Lestan Fashion Headquarters,"['1902 Ralph Ave', 'Brooklyn, NY 11234']",Brooklyn,1.5,47,"{'latitude': 40.6309025, 'longitude': -73.9186563}",2.0
+Cycle Craft,"['99 US Hwy 46', 'Parsippany, NJ 07054']",Parsippany,4.5,41,"{'latitude': 40.8579353, 'longitude': -74.3489099}",2.0
+Paterson Adult Day Center,"['163 Rosa Parks Blvd', 'Ste 15I', 'Paterson, NJ 07501']",Paterson,1.0,1,"{'latitude': 40.9230153, 'longitude': -74.1587134}",
+A & S Whitestone Flowers & Gifts,"['2302 Francis Lewis Blvd', 'Whitestone, NY 11357']",Whitestone,3.0,37,"{'latitude': 40.776583, 'longitude': -73.80019}",2.0
+Newport Centre,"['30 Mall Dr W', 'Jersey City, NJ 07310']",Jersey City,3.0,245,"{'latitude': 40.7270989, 'longitude': -74.0381148}",2.0
+P.C. Richard & Son,"['2323 Central Park Ave', 'Yonkers, NY 10710']",Yonkers,3.5,138,"{'latitude': 40.97839, 'longitude': -73.83153}",2.0
+Bob's Discount Furniture,"['72-25 Woodhaven Blvd', 'Glendale, NY 11385']",Glendale,2.0,283,"{'latitude': 40.710882, 'longitude': -73.859073}",2.0
+Cornell's True Value Hardware,"['310 White Plains Rd', 'Eastchester, NY 10709']",Eastchester,4.0,23,"{'latitude': 40.950195, 'longitude': -73.817131}",2.0
+The Home Depot,"['172 Fulton Ave', 'Hempstead, NY 11550']",Hempstead,2.5,33,"{'latitude': 40.705469187149, 'longitude': -73.629110280951}",2.0
+Rite Aid,"['15 Summerhill Rd', 'Spotswood, NJ 08884']",Spotswood,1.0,8,"{'latitude': 40.396401, 'longitude': -74.3853765}",2.0
+The Wedding Plaza,"['216 Jericho Tpke', 'Floral Park, NY 11001']",Floral Park,3.0,108,"{'latitude': 40.72858, 'longitude': -73.7028}",2.0
+Roosevelt Field,"['630 Old Country Rd', 'Garden City, NY 11530']",Garden City,4.0,462,"{'latitude': 40.73796210917042, 'longitude': -73.61293995092134}",2.0
+The Home Depot,"['55 Weyman Ave', 'New Rochelle, NY 10805']",New Rochelle,2.0,68,"{'latitude': 40.8990183469284, 'longitude': -73.7925106287003}",2.0
+Bob’s Discount Furniture and Mattress Store,"['50 US 46', 'Totowa, NJ 07512']",Totowa,2.0,167,"{'latitude': 40.8914395399141, 'longitude': -74.2228978872299}",2.0
+Klass Act Photo Booths,"['Wrightstown, NJ 08562']",Wrightstown,5.0,2,"{'latitude': 40.0399398803711, 'longitude': -74.6176834106445}",
+Inc Pics Studios,"['8060 Webb Rd', 'Ste 741107', 'Riverdale, GA 30274']",Riverdale,5.0,1,"{'latitude': 33.5342903137207, 'longitude': -84.4151840209961}",

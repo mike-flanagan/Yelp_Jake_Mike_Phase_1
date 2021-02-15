@@ -1,0 +1,1001 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+ECG Productions,"['120 Interstate N Pkwy SE', 'Ste 435', 'Atlanta, GA 30339']",Atlanta,5.0,7,"{'latitude': 33.9041354, 'longitude': -84.4619528}",
+CoCo Studios,"['767 Trabert Ave NW', 'Atlanta, GA 30318']",Atlanta,5.0,3,"{'latitude': 33.795345, 'longitude': -84.413652}",
+Craig Miller Productions,"['1491 Northside Dr NW', 'Ste B', 'Atlanta, GA 30318']",Atlanta,5.0,1,"{'latitude': 33.795557, 'longitude': -84.407144}",
+Inertia Films,"['585 Ezzard St SE', 'Atlanta, GA 30312']",Atlanta,5.0,2,"{'latitude': 33.7533417, 'longitude': -84.3680115}",
+Kimball House,"['303 E Howard Ave', 'Decatur, GA 30030']",Decatur,4.5,517,"{'latitude': 33.77164, 'longitude': -84.29228}",3.0
+Tyler Perry Studios,"['541 10th St NW', 'Atlanta, GA 30318']",Atlanta,4.5,6,"{'latitude': 33.7816566, 'longitude': -84.4050415}",
+Swan House,"['130 W Paces Ferry Rd NW', 'Atlanta History Center', 'Atlanta, GA 30305']",Atlanta,4.0,48,"{'latitude': 33.8418236, 'longitude': -84.3862711}",
+Trove Studio,"['321 W Hill St', 'Ste 2A', 'Atlanta, GA 30030']",Atlanta,5.0,1,"{'latitude': 33.7601812, 'longitude': -84.3022666}",
+Bravo Ocean Studios,"['1040 Blvd SE', 'Ste I', 'Atlanta, GA 30312']",Atlanta,5.0,1,"{'latitude': 33.72604, 'longitude': -84.36794}",
+Urban Grind Coffee House,"['962 Marietta St NW', 'Atlanta, GA 30318']",Atlanta,4.0,151,"{'latitude': 33.777687, 'longitude': -84.409022}",1.0
+Diamond Event Space,"['256 Walker St SW', 'Atlanta, GA 30313']",Atlanta,5.0,1,"{'latitude': 33.74738, 'longitude': -84.40266}",
+Yard House,"['261 19th St NW', 'Ste 1100', 'Atlanta, GA 30363']",Atlanta,3.0,1160,"{'latitude': 33.7935637571072, 'longitude': -84.397324025631}",2.0
+Monte Carlo Productions,"['767 Trabert Ave NW', 'Atlanta, GA 30318']",Atlanta,5.0,6,"{'latitude': 33.79537, 'longitude': -84.41361}",
+Atlanta Event Center,"['1150 B Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.5,4,"{'latitude': 33.7859, 'longitude': -84.38364}",
+Fogo de Chao Brazilian Steakhouse,"['3101 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,4.5,1112,"{'latitude': 33.84063, 'longitude': -84.3693723614273}",3.0
+World of Coca-Cola,"['121 Baker St NW', 'Atlanta, GA 30313']",Atlanta,3.5,1613,"{'latitude': 33.762962, 'longitude': -84.3926638}",
+Buttermilk Kitchen,"['4225 Roswell Rd NE', 'Atlanta, GA 30342']",Atlanta,4.5,1706,"{'latitude': 33.86986, 'longitude': -84.38056}",2.0
+Primrose Cottage,"['674 Mimosa Blvd', 'Roswell, GA 30075']",Roswell,4.5,14,"{'latitude': 34.0167388916016, 'longitude': -84.3641128540039}",
+Alliance Theatre,"['1280 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,46,"{'latitude': 33.7891582, 'longitude': -84.385169}",
+Pasta Da Pulcinella,"['1123 Peachtree Walk NE', 'Atlanta, GA 30309']",Atlanta,4.0,706,"{'latitude': 33.7853225935674, 'longitude': -84.3860882520676}",2.0
+Fox Theatre - Atlanta,"['660 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,4.5,465,"{'latitude': 33.7726829869184, 'longitude': -84.3853721676202}",3.0
+Atlanta Shakespeare Company,"['499 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,4.5,201,"{'latitude': 33.7681770324707, 'longitude': -84.3849182128906}",
+Imagine World Studios,"['2060 Lower Roswell Rd', 'Ste 280', 'Marietta, GA 30068']",Marietta,5.0,2,"{'latitude': 33.94832, 'longitude': -84.49251}",
+Wrecking Bar Brewpub,"['292 Moreland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,713,"{'latitude': 33.762272, 'longitude': -84.349724}",2.0
+Icon Studios,"['710 Berkeley Ave NW', 'Atlanta, GA 30318']",Atlanta,4.5,3,"{'latitude': 33.7971115112305, 'longitude': -84.4114227294922}",
+Rich Productions,"['2470 Windy Hill Rd', 'Ste 428', 'Marietta, GA 30067']",Marietta,5.0,1,"{'latitude': 33.902194, 'longitude': -84.481795}",
+Stonehurst Place,"['923 Piedmont Ave NE', 'Atlanta, GA 30309']",Atlanta,5.0,31,"{'latitude': 33.779870274221, 'longitude': -84.380568207691}",3.0
+Canoe,"['4199 Paces Ferry Rd SE', 'Atlanta, GA 30339']",Atlanta,4.5,1848,"{'latitude': 33.859863, 'longitude': -84.455464}",3.0
+Mary Mac's Tea Room,"['224 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,4.0,3871,"{'latitude': 33.772832, 'longitude': -84.379998}",2.0
+Glass Dee Entertainment Atlanta DJ,"['3186 Parc Ct SW', 'Atlanta, GA 30311']",Atlanta,5.0,2,"{'latitude': 33.6998291015625, 'longitude': -84.4958648681641}",
+Waffle House,"['2581 Piedmont Rd NE', 'Atlanta, GA 30324']",Atlanta,3.0,65,"{'latitude': 33.825608, 'longitude': -84.3655755}",1.0
+Waffle House,"['66 5th St', 'Atlanta, GA 30308']",Atlanta,3.0,124,"{'latitude': 33.7766341257338, 'longitude': -84.3894245730469}",1.0
+Smart TV Installation of Atlanta,"['4651 Roswell Rd', 'Ste 504-F', 'Atlanta, GA 30342']",Atlanta,5.0,148,"{'latitude': 33.8821012, 'longitude': -84.3785718}",
+No Mas! Cantina,"['180 Walker St SW', 'Ste B', 'Atlanta, GA 30313']",Atlanta,3.5,1156,"{'latitude': 33.74969, 'longitude': -84.40089}",2.0
+Actors Express,"['887 W Marietta St NW', 'Ste J', 'Atlanta, GA 30318']",Atlanta,4.5,24,"{'latitude': 33.781817, 'longitude': -84.416029}",
+The Optimist,"['914 Howell Mill Rd', 'Atlanta, GA 30318']",Atlanta,4.5,1687,"{'latitude': 33.77999, 'longitude': -84.41069}",3.0
+Finding Flavor Catering & Events,"['Atlanta, GA 30328']",Atlanta,5.0,2,"{'latitude': 33.754487, 'longitude': -84.389663}",
+Gianna Keiko Photography,"['45 Rockyford Rd SE', 'Atlanta, GA 30317']",Atlanta,5.0,12,"{'latitude': 33.749957, 'longitude': -84.316526}",
+Meagan O Photography,"['828 Ralph McGill Blvd', 'Atlanta, GA 30306']",Atlanta,5.0,15,"{'latitude': 33.7681732177734, 'longitude': -84.3605270385742}",
+Old 4th Distillery,"['487 Edgewood Ave', 'Atlanta, GA 30312']",Atlanta,4.5,42,"{'latitude': 33.75408, 'longitude': -84.37162}",2.0
+Brew and Bird,"['1355 Clairmont Rd', 'Decatur, GA 30033']",Decatur,4.5,147,"{'latitude': 33.792235, 'longitude': -84.30513683}",2.0
+SoundGasm Studios,"['1706 Nemours Dr NW', 'Ste A102', 'Kennesaw, GA 30152']",Kennesaw,5.0,2,"{'latitude': 33.99748, 'longitude': -84.66337}",
+103 West,"['103 W Paces Ferry Rd NW', 'Atlanta, GA 30305']",Atlanta,4.0,16,"{'latitude': 33.8415603637695, 'longitude': -84.3835906982422}",3.0
+La Grotta Ristorante Italiano,"['2637 Peachtree Rd NE', 'Atlanta, GA 30305']",Atlanta,4.5,289,"{'latitude': 33.8266215659531, 'longitude': -84.3866370747994}",3.0
+Waffle House,"['2264 Cheshire Bridge Rd NE', 'Atlanta, GA 30324']",Atlanta,3.0,56,"{'latitude': 33.81696666518881, 'longitude': -84.35258213729665}",1.0
+Stoney River Steakhouse and Grill,"['2860 Cumberland Mall SE', 'Ste 1640', 'Atlanta, GA 30339']",Atlanta,4.0,446,"{'latitude': 33.881454, 'longitude': -84.469193}",3.0
+Stage Audio Production,"['350 N Clarendon Ave', 'Ste B', 'Scottdale, GA 30079']",Scottdale,5.0,2,"{'latitude': 33.78516, 'longitude': -84.26379}",
+Torched Hop Brewing,"['249 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,4.5,382,"{'latitude': 33.77226, 'longitude': -84.37928}",2.0
+Love Studio Photography,"['3355 Lenox Rd', 'Ste 750', 'Atlanta, GA 30326']",Atlanta,5.0,3,"{'latitude': 33.846755118941445, 'longitude': -84.35824536666779}",
+Yard House,"['825 Battery Ave SE', 'Atlanta, GA 30339']",Atlanta,3.0,423,"{'latitude': 33.889496, 'longitude': -84.469138}",2.0
+The White Bull,"['123 E Court Square', 'Decatur, GA 30030']",Decatur,4.5,204,"{'latitude': 33.775061, 'longitude': -84.295804}",2.0
+The Atlanta Opera,"['1575 Northside Dr NW', 'Bldg 300, Ste 350', 'Atlanta, GA 30318']",Atlanta,4.0,8,"{'latitude': 33.800528575538, 'longitude': -84.4047644751159}",
+Nakato Japanese Restaurant,"['1776 Cheshire Bridge Rd NE', 'Atlanta, GA 30324']",Atlanta,4.0,712,"{'latitude': 33.808668, 'longitude': -84.36461}",2.0
+Sushi Hayakawa,"['5979 Buford Hwy', 'Ste A-10', 'Atlanta, GA 30340']",Atlanta,4.0,518,"{'latitude': 33.9135665061077, 'longitude': -84.2610619312561}",3.0
+Horizon Theatre Company,"['1083 Austin Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,74,"{'latitude': 33.76178, 'longitude': -84.3527}",
+Advanced Photo & Imaging,"['135 Cliftwood Dr NE', 'Sandy Springs, GA 30328']",Sandy Springs,5.0,9,"{'latitude': 33.915323, 'longitude': -84.382593}",
+Atlanta Breakfast Club,"['249 Ivan Allen Jr Blvd', 'Atlanta, GA 30313']",Atlanta,4.5,3802,"{'latitude': 33.7649, 'longitude': -84.39546}",2.0
+The St. Regis Atlanta,"['88 West Paces Ferry Rd', 'Atlanta, GA 30305']",Atlanta,4.0,169,"{'latitude': 33.83985, 'longitude': -84.38262}",4.0
+Joey D's Oak Room,"['1015 Crown Pointe Pkwy', 'Atlanta, GA 30338']",Atlanta,3.5,626,"{'latitude': 33.929541, 'longitude': -84.346029}",2.0
+Endive Publik House,"['1468 Mecaslin St NW', 'Atlanta, GA 30309']",Atlanta,4.5,198,"{'latitude': 33.7949724756827, 'longitude': -84.3999884629304}",2.0
+The Capital Grille,"['255 E Paces Ferry Rd NE', 'Atlanta, GA 30305']",Atlanta,4.5,472,"{'latitude': 33.83892, 'longitude': -84.37911}",3.0
+Waffle House,"['3016 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,3.0,65,"{'latitude': 33.8373421, 'longitude': -84.368634}",1.0
+SweetWater Brewing Company,"['195 Ottley Dr NE', 'Atlanta, GA 30324']",Atlanta,4.0,479,"{'latitude': 33.8080799, 'longitude': -84.38119}",1.0
+Buckhead Studio Photography,"['Atlanta, GA 30326']",Atlanta,5.0,2,"{'latitude': 33.84885, 'longitude': -84.36443}",
+The Cooking School At Irwin Street,"['660 Irwin St', 'Atlanta, GA 30312']",Atlanta,4.5,57,"{'latitude': 33.75781, 'longitude': -84.36529}",
+Hyatt House Atlanta/Downtown,"['431 Marietta St NW', 'Atlanta, GA 30313']",Atlanta,3.0,85,"{'latitude': 33.7648887634277, 'longitude': -84.3969116210938}",2.0
+Kevin Rathbun Steak,"['154 Krog St', 'Atlanta, GA 30307']",Atlanta,4.0,835,"{'latitude': 33.7592481757126, 'longitude': -84.3638192292364}",4.0
+Cobb Energy Performing Arts Centre,"['2800 Cobb Galleria Pkwy', 'Atlanta, GA 30339']",Atlanta,4.0,130,"{'latitude': 33.8843375746278, 'longitude': -84.458262499791}",2.0
+a mano,"['587 Ralph McGill Blvd NE', 'Atlanta, GA 30312']",Atlanta,4.5,218,"{'latitude': 33.76374, 'longitude': -84.36806}",2.0
+Maggiano's Little Italy,"['3368 Peachtree Rd NE', 'Atlanta, GA 30326']",Atlanta,3.5,510,"{'latitude': 33.848339, 'longitude': -84.367416}",2.0
+Old Lady Gang,"['177 Peters St SW', 'Atlanta, GA 30313']",Atlanta,3.5,1934,"{'latitude': 33.74969, 'longitude': -84.39933}",2.0
+Atlanta Luxury Rentals,"['3627 Clearview Pl', 'Doraville, GA 30340']",Doraville,5.0,2,"{'latitude': 33.899146, 'longitude': -84.271178}",
+Storico Fresco Alimentari e Ristorante,"['3167 Peachtree Rd NE', 'Ste S', 'Atlanta, GA 30305']",Atlanta,4.0,363,"{'latitude': 33.8400192069777, 'longitude': -84.3764044785736}",2.0
+Imageflow,"['6160 Peachtree Dunwoody Rd', 'Ste 120', 'Atlanta, GA 30328']",Atlanta,5.0,1,"{'latitude': 33.920447, 'longitude': -84.186301}",
+640 West Community Cafe,"['640 Evans St SW', 'Atlanta, GA 30310']",Atlanta,4.0,41,"{'latitude': 33.73756, 'longitude': -84.4154}",1.0
+Chops & Lobster Bar,"['70 West Paces Ferry Rd', 'Atlanta, GA 30305']",Atlanta,4.0,765,"{'latitude': 33.839833, 'longitude': -84.381844}",4.0
+Community & Council Realty,"['621 North Ave NE', 'Ste C-50', 'Atlanta, GA 30308']",Atlanta,5.0,40,"{'latitude': 33.770246, 'longitude': -84.367185}",
+Atlanta Botanical Garden,"['1345 Piedmont Ave NE', 'Atlanta, GA 30309']",Atlanta,4.0,673,"{'latitude': 33.786972109117, 'longitude': -84.3740369088859}",
+ForLease Atlanta,"['2911 Piedmont Rd NE', 'Ste B', 'Atlanta, GA 30305']",Atlanta,5.0,4,"{'latitude': 33.8345299, 'longitude': -84.3672867}",
+Superica,"['3850 Roswell Rd NE', 'Atlanta, GA 30342']",Atlanta,4.0,556,"{'latitude': 33.85995101501122, 'longitude': -84.381151}",2.0
+Trap Music Museum,"['630 Travis St NW', 'Atlanta, GA 30318']",Atlanta,4.5,162,"{'latitude': 33.771802, 'longitude': -84.408679}",
+Martin Luther King Jr Center,"['449 Auburn Ave NE', 'Atlanta, GA 30312']",Atlanta,4.5,235,"{'latitude': 33.7550316, 'longitude': -84.3730011}",
+Tongue & Groove,"['565 Main St NE', 'Atlanta, GA 30324']",Atlanta,3.5,221,"{'latitude': 33.8222990767319, 'longitude': -84.3686886995114}",2.0
+Tomo Japanese Restaurant,"['3630 Peachtree Rd', 'Ste 140', 'Atlanta, GA 30326']",Atlanta,4.0,326,"{'latitude': 33.854739, 'longitude': -84.358271}",3.0
+Handy Entertainment,"['3545 Broad St', 'Ste 80352', 'Atlanta, GA 30366']",Atlanta,5.0,5,"{'latitude': 33.8963559, 'longitude': -84.2982306}",
+Bones,"['3130 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,4.5,970,"{'latitude': 33.8421514, 'longitude': -84.3710145}",4.0
+Food Tours Atlanta,"['Atlanta, GA 30307']",Atlanta,5.0,44,"{'latitude': 33.76246, 'longitude': -84.34287}",
+McKendrick's Steak House,"['4505 Ashford Dunwoody Rd', 'Atlanta, GA 30346']",Atlanta,4.0,315,"{'latitude': 33.9251099, 'longitude': -84.33598}",4.0
+Amalfi Pizza,"['17 Andrew Young International Blvd NE', 'Atlanta, GA 30303']",Atlanta,4.0,742,"{'latitude': 33.75947, 'longitude': -84.38693}",2.0
+Mirko Pasta,"['4233 Roswell Rd NE', 'Atlanta, GA 30342']",Atlanta,4.0,229,"{'latitude': 33.87007, 'longitude': -84.38057}",2.0
+Prima Flyers,"['191 14th St NW', 'Atlanta, GA 30318']",Atlanta,3.5,31,"{'latitude': 33.7870489, 'longitude': -84.3935032}",
+Waffle House,"['135 Andrew Young International Blvd NW', 'Atlanta, GA 30303']",Atlanta,3.5,182,"{'latitude': 33.760199, 'longitude': -84.39174}",1.0
+The Cook's Warehouse,"['1544 Piedmont Ave NE', 'Ste 403-R', 'Atlanta, GA 30324']",Atlanta,4.5,50,"{'latitude': 33.798779, 'longitude': -84.371502}",3.0
+Scoville Hot Chicken,"['4969 Roswell Rd', 'Ste 220', 'Sandy Springs, GA 30342']",Sandy Springs,4.5,136,"{'latitude': 33.890107, 'longitude': -84.380792}",
+Hopstix,"['3404 Pierce Dr NE', 'Chamblee, GA 30341']",Chamblee,4.0,411,"{'latitude': 33.89062, 'longitude': -84.30316}",2.0
+Aveda Arts & Sciences Institute - Atlanta,"['1745 Peachtree St NE', 'Ste A', 'Atlanta, GA 30309']",Atlanta,3.0,179,"{'latitude': 33.800208, 'longitude': -84.392331}",1.0
+Theatrical Outfit,"['84 Luckie St NW', 'Atlanta, GA 30303']",Atlanta,4.5,18,"{'latitude': 33.7570190429688, 'longitude': -84.3896026611328}",
+Fly Diva Cleaning,"['Atlanta, GA 30311']",Atlanta,5.0,2,"{'latitude': 33.7254180908203, 'longitude': -84.4706954956055}",
+Ammazza,"['591 Edgewood Ave SE', 'Atlanta, GA 30312']",Atlanta,4.0,569,"{'latitude': 33.754287, 'longitude': -84.367947}",2.0
+Blaze Steak & Seafood,"['3752 Cascade Rd', 'Ste 100', 'Atlanta, GA 30331']",Atlanta,3.5,41,"{'latitude': 33.723223, 'longitude': -84.511491}",
+Mable House Barnes Amphitheatre,"['5239 Floyd Rd', 'Mableton, GA 30126']",Mableton,4.5,17,"{'latitude': 33.826871, 'longitude': -84.574513}",
+Chelsea Richardson Photography,"['Atlanta, GA 30315']",Atlanta,5.0,3,"{'latitude': 33.7145802, 'longitude': -84.3648226}",
+The General Muir,"['1540 Avenue Pl', 'Ste B-230', 'Emory Point', 'Atlanta, GA 30329']",Atlanta,4.0,1061,"{'latitude': 33.8009687, 'longitude': -84.3274858}",2.0
+Plaza Theatre,"['1049 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,122,"{'latitude': 33.773464, 'longitude': -84.353038}",
+Cafe Social House,"['1400 Veterans Memorial Hwy', 'Ste 122', 'Mableton, GA 30126']",Mableton,4.0,218,"{'latitude': 33.799545, 'longitude': -84.515753}",2.0
+Bon Ton,"['674 Myrtle St NE', 'Atlanta, GA 30308']",Atlanta,4.0,468,"{'latitude': 33.7730373962839, 'longitude': -84.38033323735}",2.0
+Waffle House,"['1700 Howell Mill Rd NW', 'Atlanta, GA 30318']",Atlanta,3.0,46,"{'latitude': 33.800755, 'longitude': -84.416255}",1.0
+Farmed Kitchen and Bar,"['1927 Lakeside Pkwy', 'Ste FK01', 'Tucker, GA 30084']",Tucker,5.0,3,"{'latitude': 33.839319, 'longitude': -84.238616}",
+Marcel,"['1170 Howell Mill Rd', 'Atlanta, GA 30318']",Atlanta,4.5,597,"{'latitude': 33.7859278550014, 'longitude': -84.4122927718277}",4.0
+Fleming's Prime Steakhouse & Wine Bar,"['4501 Olde Perimeter Way', 'Atlanta, GA 30346']",Atlanta,4.0,337,"{'latitude': 33.9281295382287, 'longitude': -84.343154}",3.0
+True Food Kitchen,"['3393 Peachtree Rd NE', 'Atlanta, GA 30326']",Atlanta,4.0,1275,"{'latitude': 33.847652, 'longitude': -84.363745}",2.0
+PONKO Chicken,"['2896 Chamblee Tucker Rd', 'Atlanta, GA 30341']",Atlanta,4.0,481,"{'latitude': 33.8781544375495, 'longitude': -84.2703509330749}",2.0
+Marietta's New Theatre in the Square,"['11 Whitlock Ave NW', 'Marietta, GA 30060']",Marietta,5.0,8,"{'latitude': 33.952162, 'longitude': -84.550579}",
+High Museum of Art,"['1280 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,426,"{'latitude': 33.790042, 'longitude': -84.38565}",
+Seven Lamps,"['3400 Around Lenox Rd', 'Atlanta, GA 30326']",Atlanta,4.0,878,"{'latitude': 33.847036028129, 'longitude': -84.3656622761963}",2.0
+Folk Art Restaurant,"['465 N Highland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,987,"{'latitude': 33.7667368641747, 'longitude': -84.3528679828033}",2.0
+The Majestic Diner,"['1031 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,3.5,369,"{'latitude': 33.7736651, 'longitude': -84.353664}",2.0
+Hotel Indigo Atlanta Downtown,"['230 Peachtree St NW', 'Atlanta, GA 30303']",Atlanta,3.5,92,"{'latitude': 33.760121, 'longitude': -84.388077}",2.0
+O-Ku Sushi,"['1085 Howell Mill Rd', 'Ste A3', 'Atlanta, GA 30318']",Atlanta,4.0,460,"{'latitude': 33.78453852212427, 'longitude': -84.41123120223745}",3.0
+Ray's on the River,"['6700 Powers Ferry Rd', 'Sandy Springs, GA 30339']",Sandy Springs,4.0,947,"{'latitude': 33.9004850677804, 'longitude': -84.440807}",3.0
+STK Steakhouse,"['1075 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,1220,"{'latitude': 33.784176, 'longitude': -84.38283}",3.0
+Serpas True Food,"['659 Auburn Ave NE', 'Ste 501', 'Atlanta, GA 30312']",Atlanta,4.0,640,"{'latitude': 33.7570261571587, 'longitude': -84.3660265591654}",2.0
+Mellow Mushroom Atlanta - Emory,"['1679 Lavista Rd NE', 'Atlanta, GA 30329']",Atlanta,4.0,205,"{'latitude': 33.816166, 'longitude': -84.332824}",2.0
+Park Tavern,"['500 10th St NE', 'Atlanta, GA 30309']",Atlanta,3.0,631,"{'latitude': 33.7822, 'longitude': -84.369286}",2.0
+Meatballerz,"['3781 Presidential Pkwy', 'Ste 3 Unit FP307', 'Atlanta, GA 30340']",Atlanta,5.0,45,"{'latitude': 33.88627, 'longitude': -84.265569}",
+Jackson Associates Research - Perimeter,"['1140 Hammond Dr NE', 'Ste H-8100', 'Atlanta, GA 30328']",Atlanta,3.0,9,"{'latitude': 33.9204978942871, 'longitude': -84.3496856689453}",
+Cuts Steakhouse,"['60 Andrew Young International Blvd NE', 'Atlanta, GA 30303']",Atlanta,3.5,509,"{'latitude': 33.7599264, 'longitude': -84.3857822}",3.0
+Bar Margot,"['75 14th St NE', 'Four Seasons Hotel Atlanta', 'Atlanta, GA 30309']",Atlanta,4.0,154,"{'latitude': 33.7868794367165, 'longitude': -84.3855107579268}",3.0
+Maggiano's Little Italy,"['1601 Cumberland Mall SE', 'Ste 200', 'Atlanta, GA 30339']",Atlanta,3.5,345,"{'latitude': 33.880942242392, 'longitude': -84.467529562698}",2.0
+Zunzi's,"['1971 Howell Mill Rd', 'Atlanta, GA 30318']",Atlanta,4.5,230,"{'latitude': 33.80853, 'longitude': -84.41232}",2.0
+The Sutton,"['2965 Peachtree Rd NW', 'Atlanta, GA 30305']",Atlanta,5.0,9,"{'latitude': 33.83592023432343, 'longitude': -84.38155003172463}",
+Bellina Alimentari,"['675 Ponce De Leon Ave NE', 'N 131', 'Atlanta, GA 30308']",Atlanta,4.0,292,"{'latitude': 33.772601, 'longitude': -84.365541}",2.0
+Old School Fool's Productions,"['Sugar Hill, GA 30518']",Sugar Hill,5.0,1,"{'latitude': 34.1067085266113, 'longitude': -84.0350494384766}",
+Okiboru Tsukemen & Ramen,"['6125 Roswell Rd', 'Ste 800', 'Sandy Springs, GA 30328']",Sandy Springs,4.5,212,"{'latitude': 33.922127642, 'longitude': -84.3789853937}",2.0
+18.21 Bitters,"['675 Ponce De Leon Ave', 'Atlanta, GA 30308']",Atlanta,4.5,37,"{'latitude': 33.773091, 'longitude': -84.365875}",2.0
+Poke Bar Sandy Springs,"['6615 Roswell Rd NE', 'Ste 340', 'Sandy Springs, GA 30328']",Sandy Springs,4.5,345,"{'latitude': 33.935256, 'longitude': -84.378706}",2.0
+Hal's The Steakhouse,"['30 Old Ivy Rd', 'Atlanta, GA 30342']",Atlanta,4.0,621,"{'latitude': 33.85475, 'longitude': -84.38168}",3.0
+Hotel Indigo Atlanta Midtown,"['683 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,3.0,238,"{'latitude': 33.773209, 'longitude': -84.384571}",2.0
+JINYA Ramen Bar,"['5975 Roswell Rd', 'Ste B-217', 'Sandy Springs, GA 30328']",Sandy Springs,4.5,1256,"{'latitude': 33.918404, 'longitude': -84.377321}",2.0
+"The Ritz-Carlton, Atlanta","['181 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,3.5,316,"{'latitude': 33.7576860651763, 'longitude': -84.3869553329416}",3.0
+Roam,"['3365 Piedmont Rd NE', 'Ste 1400', 'Atlanta, GA 30305']",Atlanta,4.5,10,"{'latitude': 33.8467553211506, 'longitude': -84.3724523387619}",
+W Atlanta - Downtown,"['45 Ivan Allen Jr Blvd', 'Atlanta, GA 30308']",Atlanta,3.0,265,"{'latitude': 33.7649058541129, 'longitude': -84.3892081436837}",3.0
+PONKO Chicken,"['4279 Roswell Rd NE', 'Ste 101', 'Atlanta, GA 30342']",Atlanta,4.5,45,"{'latitude': 33.870106929989, 'longitude': -84.3792929484033}",
+Center For Puppetry Arts,"['1404 Spring St NW', 'Atlanta, GA 30309']",Atlanta,4.5,130,"{'latitude': 33.7928759681261, 'longitude': -84.3898928478972}",
+7 Stages,"['1105 Euclid Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,18,"{'latitude': 33.76374, 'longitude': -84.35043}",
+Monday Night Brewing - Garage,"['933 Lee St SW', 'Atlanta, GA 30310']",Atlanta,4.5,83,"{'latitude': 33.7290043, 'longitude': -84.4162512}",1.0
+Cypress Street Pint & Plate,"['817 W Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,4.0,1284,"{'latitude': 33.777327, 'longitude': -84.386122}",2.0
+R. Thomas Deluxe Grill,"['1812 Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,4.0,1055,"{'latitude': 33.804511, 'longitude': -84.393731}",2.0
+Ann Jackson Gallery,"['1101 Alpharetta St', 'Roswell, GA 30075']",Roswell,5.0,4,"{'latitude': 34.02867, 'longitude': -84.35671}",2.0
+Portico Global Cuisine,"['111 Perimeter Ctr W', 'Le Méridien Atlanta Perimeter', 'Atlanta, GA 30346']",Atlanta,4.0,22,"{'latitude': 33.92781683, 'longitude': -84.3384475}",3.0
+EATaliano Kitchen,"['2480 Briarcliff Rd NE', 'Ste 21', 'Atlanta, GA 30329']",Atlanta,4.0,293,"{'latitude': 33.826192, 'longitude': -84.333298}",2.0
+Grindhouse Killer Burgers,"['701 Memorial Dr SE', 'Atlanta, GA 30316']",Atlanta,4.0,243,"{'latitude': 33.74634, 'longitude': -84.36465}",2.0
+Ecco Midtown,"['40 7th St NE', 'Atlanta, GA 30308']",Atlanta,4.0,901,"{'latitude': 33.7789, 'longitude': -84.38604}",3.0
+Momonoki,"['95 8th St NW', 'Ste 100', 'Atlanta, GA 30308']",Atlanta,4.0,363,"{'latitude': 33.779797, 'longitude': -84.390193}",2.0
+Varuni Napoli,"['1540 Monroe Dr NE', 'Atlanta, GA 30324']",Atlanta,4.0,490,"{'latitude': 33.7965075, 'longitude': -84.3687998}",2.0
+Containment Haunted House,"['1320 Blairs Bridge Rd', 'Lithia Springs, GA 30122']",Lithia Springs,4.0,12,"{'latitude': 33.7745130325138, 'longitude': -84.6178765817535}",
+Mellow Mushroom Atlanta - Buckhead,"['1770 Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,3.5,141,"{'latitude': 33.802353, 'longitude': -84.393173}",2.0
+Dad's Garage Theatre,"['569 Ezzard St', 'Atlanta, GA 30312']",Atlanta,5.0,76,"{'latitude': 33.75316, 'longitude': -84.36863}",2.0
+The Goat Farm,"['1200 Foster St', 'Atlanta, GA 30318']",Atlanta,4.0,55,"{'latitude': 33.78642, 'longitude': -84.414617}",1.0
+Ruth's Chris Steak House,"['267 Marietta St NW', 'Atlanta, GA 30313']",Atlanta,3.0,380,"{'latitude': 33.760765, 'longitude': -84.394531}",3.0
+Fox Bros. Bar-B-Q,"['1238 Dekalb Ave NE', 'Atlanta, GA 30307']",Atlanta,4.5,3828,"{'latitude': 33.7610514725111, 'longitude': -84.3475019931793}",2.0
+Full Commission,"['519 Memorial Dr SE', 'Ste C-01', 'Atlanta, GA 30312']",Atlanta,4.5,164,"{'latitude': 33.7461018373789, 'longitude': -84.3702585250139}",2.0
+Bacchanalia,"['1460 Ellsworth Industrial Blvd', 'Ste A', 'Atlanta, GA 30318']",Atlanta,4.5,684,"{'latitude': 33.794608, 'longitude': -84.427268}",4.0
+Mellow Mushroom Atlanta - Midtown,"['931 Monroe Dr NE', 'Atlanta, GA 30308']",Atlanta,3.5,226,"{'latitude': 33.780343502759045, 'longitude': -84.36844137307264}",2.0
+Umi,"['3050 Peachtree Rd', 'Atlanta, GA 30305']",Atlanta,4.0,636,"{'latitude': 33.8394916972822, 'longitude': -84.3821457400918}",3.0
+Green's Beverage Stores,"['2614 Buford Hwy NE', 'Atlanta, GA 30324']",Atlanta,4.0,42,"{'latitude': 33.8263397, 'longitude': -84.3494263}",2.0
+Nonis,"['357 Edgewood Ave', 'Atlanta, GA 30312']",Atlanta,4.0,478,"{'latitude': 33.75427327027879, 'longitude': -84.37596786286022}",2.0
+Eight Sushi Lounge,"['930 Howell Mill Rd NW', 'Ste B', 'Atlanta, GA 30318']",Atlanta,4.5,916,"{'latitude': 33.78025, 'longitude': -84.41095}",2.0
+Bocado,"['887 Howell Mill Rd', 'Atlanta, GA 30318']",Atlanta,4.0,724,"{'latitude': 33.77941, 'longitude': -84.40971}",2.0
+MJQ Concourse,"['736 Ponce De Leon Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,319,"{'latitude': 33.774002, 'longitude': -84.363165}",1.0
+Circle Poke,"['1000 Northside Dr NW', 'Ste 950', 'Atlanta, GA 30318']",Atlanta,4.5,90,"{'latitude': 33.7818665, 'longitude': -84.4076149}",2.0
+Cloud 9.5,"['Atlanta, GA 30301']",Atlanta,5.0,2,"{'latitude': 33.7554893493652, 'longitude': -84.3906097412109}",
+Schiff Real Estate Team,"['3035 Peachtree Rd NE', 'Ste 202', 'Atlanta, GA 30305']",Atlanta,5.0,30,"{'latitude': 33.8373665, 'longitude': -84.3802425}",
+101 Steak,"['3621 Vinings Slope SE', 'Atlanta, GA 30339']",Atlanta,4.0,196,"{'latitude': 33.86482, 'longitude': -84.471816}",3.0
+BNSpired Production,"['Atlanta, GA 30341']",Atlanta,1.0,1,"{'latitude': 33.89222, 'longitude': -84.30452}",
+Fontaine's Oyster House,"['1026 1/2 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,3.5,468,"{'latitude': 33.782617, 'longitude': -84.354491}",2.0
+gusto!,"['782 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,4.5,292,"{'latitude': 33.7742385864258, 'longitude': -84.3617706298828}",2.0
+Center Stage Theatre,"['1374 W Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,4.0,97,"{'latitude': 33.7920875549316, 'longitude': -84.3882064819336}",2.0
+The Crossing Steak House,"['40 S Peachtree St', 'Norcross, GA 30071']",Norcross,4.0,342,"{'latitude': 33.9421620832636, 'longitude': -84.2133820525735}",2.0
+Ruth's Chris Steak House - Buckhead Atlanta,"['3285 Peachtree Rd NE', 'Buckhead, GA 30305']",Buckhead,3.5,284,"{'latitude': 33.844748, 'longitude': -84.368837}",3.0
+Atlanta Home Theater,"['10140 Swaybranch Dr', 'Roswell, GA 30075']",Roswell,4.0,11,"{'latitude': 34.0277856, 'longitude': -84.337299}",
+Six Feet Under Pub & Fish House- Grant Park,"['437 Memorial Dr SE', 'Atlanta, GA 30312']",Atlanta,3.5,977,"{'latitude': 33.74645, 'longitude': -84.372834}",2.0
+Truist Park,"['755 Battery Ave SE', 'Atlanta, GA 30339']",Atlanta,3.5,440,"{'latitude': 33.890721, 'longitude': -84.467663}",
+Atlas,"['88 W Paces Ferry Rd NW', 'Atlanta, GA 30305']",Atlanta,4.0,154,"{'latitude': 33.83985, 'longitude': -84.38262}",3.0
+La Tavola Trattoria,"['992 Virginia Ave NE', 'Atlanta, GA 30306']",Atlanta,4.5,511,"{'latitude': 33.7824462, 'longitude': -84.3549399}",2.0
+Payne-Corley House,"['2987 Main St', 'Duluth, GA 30096']",Duluth,5.0,11,"{'latitude': 34.00555, 'longitude': -84.14076}",
+There,"['305 Brookhaven Ave', 'Ste 1200', 'Atlanta, GA 30319']",Atlanta,3.5,226,"{'latitude': 33.8712015509765, 'longitude': -84.3355122325409}",2.0
+Empire State South,"['999 Peachtree St NE', 'Ste 140', 'Atlanta, GA 30309']",Atlanta,4.0,791,"{'latitude': 33.7811208, 'longitude': -84.3836503}",3.0
+1910 Public House,"['107 Main St NW', 'Lilburn, GA 30047']",Lilburn,4.0,548,"{'latitude': 33.8864328, 'longitude': -84.1352601}",2.0
+The Lawrence,"['905 Juniper St NE', 'Atlanta, GA 30309']",Atlanta,4.0,694,"{'latitude': 33.779413, 'longitude': -84.382475}",2.0
+FASTSIGNS - Atlanta,"['141 North Ave', 'Atlanta, GA 30308']",Atlanta,4.5,16,"{'latitude': 33.7710493, 'longitude': -84.382875}",
+Interactive Automation,"['5593 Peachtree Rd', 'Atlanta, GA 30341']",Atlanta,5.0,3,"{'latitude': 33.8961698, 'longitude': -84.2943879}",
+Bambinelli's,"['3202 Northlake Pkwy NE', 'Atlanta, GA 30345']",Atlanta,4.0,356,"{'latitude': 33.8524649, 'longitude': -84.2585}",2.0
+Uncle Jack's Meat House,"['6590 Sugarloaf Pkwy', 'Ste 201', 'Duluth, GA 30097']",Duluth,3.5,379,"{'latitude': 33.996942365983, 'longitude': -84.0932450070977}",2.0
+No. 246,"['129 E Ponce De Leon Ave', 'Decatur, GA 30030']",Decatur,4.0,684,"{'latitude': 33.77550626193, 'longitude': -84.2953127840056}",2.0
+FLIP burger boutique,"['1587 Howell Mill Rd', 'Atlanta, GA 30318']",Atlanta,4.0,1913,"{'latitude': 33.7983428, 'longitude': -84.4157486}",2.0
+Little Azio,"['749 Moreland Ave', 'Atlanta, GA 30316']",Atlanta,4.0,156,"{'latitude': 33.7339139, 'longitude': -84.3494749}",2.0
+JavaVino,"['579 N Highland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,180,"{'latitude': 33.7701416015625, 'longitude': -84.3521575927734}",1.0
+King + Duke,"['3060 Peachtree Rd NW', 'Atlanta, GA 30305']",Atlanta,4.0,835,"{'latitude': 33.8392039031944, 'longitude': -84.3807741437533}",3.0
+Ravine,"['1021 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,17,"{'latitude': 33.7824422, 'longitude': -84.3837591}",
+Marlow's Tavern,"['2355 Cumberland Blvd', 'Ste 10', 'Atlanta, GA 30339']",Atlanta,4.0,473,"{'latitude': 33.8591978, 'longitude': -84.4804482}",2.0
+9 Mile Station,"['675 Ponce De Leon Ave', 'Atlanta, GA 30308']",Atlanta,3.5,328,"{'latitude': 33.772831, 'longitude': -84.365785}",2.0
+JINYA Ramen Bar - Buckhead,"['3714 Roswell Rd', 'Unit 35', 'Atlanta, GA 30342']",Atlanta,4.5,874,"{'latitude': 33.8566085797099, 'longitude': -84.3827165980401}",2.0
+Aria,"['490 E Paces Ferry Rd NE', 'Atlanta, GA 30305']",Atlanta,4.0,400,"{'latitude': 33.83875, 'longitude': -84.37193}",3.0
+Earthshaking Music,"['648 McDonough Blvd SE', 'Atlanta, GA 30315']",Atlanta,4.0,14,"{'latitude': 33.713434, 'longitude': -84.366398}",
+Waffle House,"['2642 Windy Hill Rd SE', 'Marietta, GA 30067']",Marietta,3.0,42,"{'latitude': 33.9005967, 'longitude': -84.4770666}",1.0
+Two Urban Licks,"['820 Ralph McGill Blvd NE', 'Atlanta, GA 30306']",Atlanta,4.0,2739,"{'latitude': 33.7684555661887, 'longitude': -84.3612738994751}",2.0
+Farm Burger,"['410B W Ponce De Leon Ave', 'Decatur, GA 30030']",Decatur,4.0,835,"{'latitude': 33.77543342660049, 'longitude': -84.30291587278552}",2.0
+"The Westin Peachtree Plaza, Atlanta","['210 Peachtree St NW', 'Atlanta, GA 30303']",Atlanta,3.0,518,"{'latitude': 33.75942, 'longitude': -84.38837}",3.0
+Hilton Atlanta,"['255 Courtland St NE', 'Atlanta, GA 30303']",Atlanta,2.5,490,"{'latitude': 33.7615008, 'longitude': -84.3836006}",2.0
+il Giallo Osteria & Bar,"['5920 Roswell Rd NE', 'Ste B118', 'Sandy Springs, GA 30328']",Sandy Springs,4.5,322,"{'latitude': 33.916088, 'longitude': -84.380764}",2.0
+Boruboru sushi,"['1568 Avenue Pl', 'Ste 160', 'Atlanta, GA 30322']",Atlanta,4.0,197,"{'latitude': 33.800721189183, 'longitude': -84.3265157192945}",2.0
+Sushi Huku Japanese Restaurant,"['6300 Powers Ferry Rd NW', 'Atlanta, GA 30339']",Atlanta,4.0,312,"{'latitude': 33.905376, 'longitude': -84.428706}",2.0
+Iron Age Korean Steak House,"['5600 Roswell Rd', 'M011', 'Sandy Springs, GA 30342']",Sandy Springs,4.0,306,"{'latitude': 33.90797, 'longitude': -84.380293}",2.0
+BoccaLupo,"['753 Edgewood Ave NE', 'Atlanta, GA 30307']",Atlanta,4.5,553,"{'latitude': 33.7547495778871, 'longitude': -84.3628013134003}",2.0
+Publik Draft House,"['654 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,3.5,436,"{'latitude': 33.772547, 'longitude': -84.385}",2.0
+Great Smoke,"['2790 Lakewood Ave SW', 'Ste B', 'Atlanta, GA 30315']",Atlanta,5.0,6,"{'latitude': 33.696872, 'longitude': -84.409791}",
+HOBNOB Neighborhood Tavern - Dunwoody,"['1221 Ashford Crossing', 'Atlanta, GA 30346']",Atlanta,4.0,209,"{'latitude': 33.9290171091407, 'longitude': -84.3447320990111}",2.0
+Farm Burger,"['3365 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,4.0,724,"{'latitude': 33.847331, 'longitude': -84.372713}",1.0
+Jennifer M Spivey - PHP Commercial,"['2911 Piedmont Rd', 'Atlanta, GA 30305']",Atlanta,5.0,1,"{'latitude': 33.83498, 'longitude': -84.36724}",
+Gunshow,"['924 Garrett St', 'Ste C', 'Atlanta, GA 30316']",Atlanta,4.5,1196,"{'latitude': 33.7407023786913, 'longitude': -84.3580284818322}",3.0
+Bonnie J Heath Photography,"['283 Kirkwood Rd NE', 'Atlanta, GA 30317']",Atlanta,5.0,40,"{'latitude': 33.76088, 'longitude': -84.32145}",
+Stephanie Howard Photography,"['Atlanta, GA 30317']",Atlanta,5.0,5,"{'latitude': 33.7489954, 'longitude': -84.3879824}",
+Republic Social House,"['437 C Memorial Dr SE', 'Atlanta, GA 30312']",Atlanta,3.0,331,"{'latitude': 33.7461166381836, 'longitude': -84.372917175293}",2.0
+Antica Posta Ristorante Toscano,"['519 E Paces Ferry Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,177,"{'latitude': 33.8384116459789, 'longitude': -84.3708859000521}",3.0
+Eventide Brewing,"['1015 Grant St', 'Atlanta, GA 30315']",Atlanta,4.5,44,"{'latitude': 33.7266960144043, 'longitude': -84.3772964477539}",1.0
+One Eared Stag,"['1029 Edgewood Ave NE', 'Atlanta, GA 30307']",Atlanta,3.5,496,"{'latitude': 33.7567946660289, 'longitude': -84.354792087829}",2.0
+Blue Moon Pizza,"['325 E Paces Ferry Rd', 'Atlanta, GA 30305']",Atlanta,4.0,263,"{'latitude': 33.838711, 'longitude': -84.376879}",2.0
+Electronic Minions,"['5334 Lakesprings Dr', 'Dunwoody, GA 30338']",Dunwoody,5.0,14,"{'latitude': 33.944647, 'longitude': -84.3226488}",
+Zama Mexican Cuisine & Margarita Bar,"['4600 W Village Way SE', 'Ste 3007', 'Smyrna, GA 30080']",Smyrna,4.0,555,"{'latitude': 33.8437239265923, 'longitude': -84.4900205168071}",2.0
+Little Alley Steak,"['955 Canton St', 'Roswell, GA 30075']",Roswell,4.0,515,"{'latitude': 34.0246349, 'longitude': -84.3614903}",3.0
+Miller Union,"['999 Brady Ave NW', 'Atlanta, GA 30318']",Atlanta,4.0,675,"{'latitude': 33.7820167541504, 'longitude': -84.4131011962891}",3.0
+The Elder Tree Public House,"['469 Flat Shoals Ave SE', 'Atlanta, GA 30316']",Atlanta,4.0,139,"{'latitude': 33.7410627, 'longitude': -84.3466872}",2.0
+Georgia Ensemble Theatre and Conservatory,"['950 Forrest St', 'Roswell Cultural Arts Center', 'Roswell, GA 30075']",Roswell,4.0,9,"{'latitude': 34.0234667, 'longitude': -84.3574049}",
+Rain,"['2345 Cheshire Bridge Rd NE', 'Atlanta, GA 30324']",Atlanta,3.5,259,"{'latitude': 33.8188619999951, 'longitude': -84.3496381833282}",2.0
+Tin Lizzy's Cantina,"['3639 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,4.0,456,"{'latitude': 33.8541015885888, 'longitude': -84.381980533072}",2.0
+The Mission Motif,"['747 Miami Cir NE', 'Atlanta, GA 30324']",Atlanta,5.0,11,"{'latitude': 33.83042, 'longitude': -84.3624}",2.0
+The Historic Green Manor,"['6400 Westbrook Ave', 'Union City, GA 30291']",Union City,4.0,159,"{'latitude': 33.58069, 'longitude': -84.55149}",2.0
+Another Broken Egg Cafe,"['2355 Peachtree Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,502,"{'latitude': 33.81981, 'longitude': -84.386643}",2.0
+The Highland Inn Ballroom Lounge,"['644 N Highland Ave', 'Atlanta, GA 30306']",Atlanta,4.0,46,"{'latitude': 33.77194, 'longitude': -84.35289}",
+Max Lager's Wood-Fired Grill & Brewery,"['320 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,3.5,878,"{'latitude': 33.76337, 'longitude': -84.38708}",2.0
+Sandy Springs Performing Arts Center,"['1 Galambos Way', 'Sandy Springs, GA 30328']",Sandy Springs,4.0,3,"{'latitude': 33.92486, 'longitude': -84.38111}",
+Leesia Teh Photography,"['Atlanta, GA 30341']",Atlanta,5.0,2,"{'latitude': 33.8873901367188, 'longitude': -84.2901229858398}",
+Landmark Diner,"['3652 Roswell Rd NW', 'Atlanta, GA 30305']",Atlanta,2.5,307,"{'latitude': 33.85419, 'longitude': -84.3830359}",2.0
+Murphy's,"['997 Virginia Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,1104,"{'latitude': 33.7820899, 'longitude': -84.35487}",2.0
+Hotel Indigo Atlanta - Vinings,"['2857 Paces Ferry Rd SE', 'Atlanta, GA 30339']",Atlanta,3.5,58,"{'latitude': 33.8663063049316, 'longitude': -84.4711151123047}",2.0
+Soiree Catering and Events,"['1281 Collier Rd NW', 'Atlanta, GA 30318']",Atlanta,5.0,5,"{'latitude': 33.8122065, 'longitude': -84.4289866}",
+Earl and Rachel Smith Strand Theatre,"['117 North Park Square', 'Marietta, GA 30060']",Marietta,4.0,28,"{'latitude': 33.9533749, 'longitude': -84.5492738}",
+Agatha's,"['161 Peachtree Center Ave NE', 'Atlanta, GA 30303']",Atlanta,4.0,159,"{'latitude': 33.7592678026775, 'longitude': -84.3859186522537}",4.0
+One Flew South,"['6000 N Terminal Pkwy', 'Terminal E', 'Terminal E', 'Atlanta, GA 30320']",Atlanta,4.5,1066,"{'latitude': 33.6409035810701, 'longitude': -84.425792992115}",2.0
+JCT Kitchen & Bar,"['1198 Howell Mill Rd', 'Ste 18', 'Atlanta, GA 30318']",Atlanta,4.0,1750,"{'latitude': 33.7866310636518, 'longitude': -84.4124207264587}",2.0
+Varasano's Pizzeria,"['2171 Peachtree Rd NE', 'Atlanta, GA 30309']",Atlanta,3.5,562,"{'latitude': 33.813935, 'longitude': -84.391625}",2.0
+The Big Ketch Saltwater Grill,"['3279 Roswell Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,509,"{'latitude': 33.844712, 'longitude': -84.379519}",2.0
+Jimmy Carter Library,"['441 Freedom Pkwy', 'Atlanta, GA 30307']",Atlanta,4.5,115,"{'latitude': 33.766351, 'longitude': -84.356248}",
+Six Feet Under Pub & Fish House- Westside,"['685 11th St NW', 'Atlanta, GA 30318']",Atlanta,3.5,818,"{'latitude': 33.78337, 'longitude': -84.40973}",2.0
+Lightning Bug Electric,"['Marietta, GA 30066']",Marietta,4.5,57,"{'latitude': 34.0373333, 'longitude': -84.464259}",
+Yoi Yoi Japanese Steakhouse & Sushi,"['857 Collier Rd', 'Ste 11', 'Atlanta, GA 30318']",Atlanta,4.0,259,"{'latitude': 33.8104265, 'longitude': -84.4160075}",2.0
+Ladybird Grove & Mess Hall,"['684 John Wesley Dobbs Ave NE', 'Atlanta, GA 30312']",Atlanta,3.5,651,"{'latitude': 33.7597182911181, 'longitude': -84.3644041330658}",2.0
+Tin Lizzy's Cantina,"['415 Memorial Dr SE', 'Atlanta, GA 30312']",Atlanta,3.5,618,"{'latitude': 33.7465571807809, 'longitude': -84.3739493976983}",2.0
+Wing Factory,"['4279 Roswell Rd NE', 'Ste 605', 'Atlanta, GA 30342']",Atlanta,3.5,176,"{'latitude': 33.8708462084801, 'longitude': -84.3798487619611}",2.0
+House of Hookah,"['410 14th St NW', 'Atlanta, GA 30318']",Atlanta,3.0,131,"{'latitude': 33.7859465451036, 'longitude': -84.4002202817627}",2.0
+Houston's Restaurant,"['2166 Peachtree Rd NW', 'Atlanta, GA 30309']",Atlanta,3.5,525,"{'latitude': 33.81344, 'longitude': -84.39283}",2.0
+J. Alexander's Restaurant,"['4701 Ashford Dunwoody Rd', 'Atlanta, GA 30338']",Atlanta,4.0,390,"{'latitude': 33.93208542045, 'longitude': -84.336920409768}",2.0
+Nina & Rafi,"['661 Auburn Ave NE', 'Ste 220', 'Atlanta, GA 30312']",Atlanta,3.5,352,"{'latitude': 33.75610332701422, 'longitude': -84.36546923897178}",2.0
+Agave Restaurant,"['242 Blvd SE', 'Atlanta, GA 30312']",Atlanta,4.0,891,"{'latitude': 33.748041, 'longitude': -84.368078}",2.0
+Houston's Restaurant,"['3539 Northside Pkwy NW', 'Atlanta, GA 30327']",Atlanta,3.5,317,"{'latitude': 33.8512993187976, 'longitude': -84.4299898461716}",2.0
+Hajime,"['2345 Cheshire Bridge Rd NE', 'Ste 101', 'Atlanta, GA 30324']",Atlanta,4.0,492,"{'latitude': 33.8191873432516, 'longitude': -84.3497106029716}",2.0
+Chomp and Stomp Chili Cook-off and Bluegrass Festival,"['Cabbagetown Park', 'Atlanta, GA 30316']",Atlanta,4.5,31,"{'latitude': 33.75106, 'longitude': -84.36635}",
+Poke Burri,"['477 Flat Shoals Ave SE', 'Atlanta, GA 30316']",Atlanta,4.5,385,"{'latitude': 33.740908, 'longitude': -84.346454}",2.0
+Loews Atlanta Hotel,"['1065 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,273,"{'latitude': 33.7833312271361, 'longitude': -84.3835769126892}",3.0
+Carma Productions,"['1575 Northside Dr NW', 'Bldg 300, Ste 330', 'Atlanta, GA 30318']",Atlanta,2.0,5,"{'latitude': 33.7977534, 'longitude': -84.4076812}",
+Mellow Mushroom Atlanta - Brookhaven,"['4058 Peachtree Rd NE', 'Atlanta, GA 30319']",Atlanta,3.5,178,"{'latitude': 33.8614361, 'longitude': -84.3396365}",2.0
+Bad Daddy's Burger Bar,"['1575 Church St', 'Ste 240', 'Decatur, GA 30030']",Decatur,4.0,238,"{'latitude': 33.793739, 'longitude': -84.28352}",2.0
+Landmark Midtown Art Cinema,"['931 Monroe Dr', 'Atlanta, GA 30308']",Atlanta,3.5,242,"{'latitude': 33.77905, 'longitude': -84.36699}",
+Bold Catering & Design,"['King Plow Arts Ctr', '887 W Marietta St NW, Studio K102', 'Atlanta, GA 30318']",Atlanta,4.5,43,"{'latitude': 33.783517, 'longitude': -84.417168}",
+Kang Nam Japanese Restaurant,"['5715 Buford Hwy NE', 'Ste 101', 'Atlanta, GA 30340']",Atlanta,4.0,374,"{'latitude': 33.9065, 'longitude': -84.26862}",2.0
+The Legend Of Zelda Symphony Of The Goddesses,"['2800 Cobb Galleria Pkwy', 'Cobb Energy Performing Arts Centre', 'Atlanta, GA 30339']",Atlanta,4.0,8,"{'latitude': 33.884052845632, 'longitude': -84.4588351249695}",
+Steamhouse Lounge,"['1051 W Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,4.0,807,"{'latitude': 33.7834382, 'longitude': -84.3876564}",2.0
+Piubello,"['3330 Piedmont Rd NE', 'Ste 27A', 'Atlanta, GA 30305']",Atlanta,4.0,290,"{'latitude': 33.845612, 'longitude': -84.372903}",2.0
+Marlow's Tavern,"['3575 Durden Dr', 'Ste 301', 'Atlanta, GA 30319']",Atlanta,4.0,92,"{'latitude': 33.8914278066706, 'longitude': -84.3230895726303}",2.0
+H&F Burger,"['675 Ponce De Leon Ave NE', 'Ponce City Market', 'Atlanta, GA 30308']",Atlanta,3.5,468,"{'latitude': 33.771796979281, 'longitude': -84.365839910455}",2.0
+Local Three,"['3290 Northside Pkwy', 'Ste 120', 'Atlanta, GA 30327']",Atlanta,4.0,636,"{'latitude': 33.844578, 'longitude': -84.426564}",2.0
+E. 48th Street Market,"['2462 Jett Ferry', 'Dunwoody, GA 30338']",Dunwoody,4.5,222,"{'latitude': 33.958367, 'longitude': -84.304212}",1.0
+Stoneside Productions,"['837 Laurel St', 'Forest Park, GA 30297']",Forest Park,5.0,1,"{'latitude': 33.608192, 'longitude': -84.362846}",
+Tupelo Honey,"['4600 Roswell Rd', 'Ste 110', 'Sandy Springs, GA 30342']",Sandy Springs,3.5,993,"{'latitude': 33.88033269114058, 'longitude': -84.38013289513079}",2.0
+White Oak Kitchen & Cocktails,"['270 Peachtree St NW', 'Ste 100', 'Atlanta, GA 30303']",Atlanta,3.5,623,"{'latitude': 33.7619166493273, 'longitude': -84.3878592479542}",3.0
+Children's Museum of Atlanta,"['275 Centennial Olympic Park Dr NW', 'Atlanta, GA 30313']",Atlanta,3.5,134,"{'latitude': 33.76257, 'longitude': -84.39148}",
+Century House,"['125 E Main St', 'Woodstock, GA 30188']",Woodstock,4.5,418,"{'latitude': 34.0990104675293, 'longitude': -84.5196533203125}",2.0
+Ms. Icey's Kitchen & Bar,"['1371 Clairmont Rd', 'Decatur, GA 30033']",Decatur,4.0,558,"{'latitude': 33.792856, 'longitude': -84.304888}",2.0
+Pizza Bella,"['1799 Briarcliff Rd NE', 'Atlanta, GA 30306']",Atlanta,4.0,157,"{'latitude': 33.8041632, 'longitude': -84.3364021}",2.0
+Kirkyard Public House,"['1963 Hosea L Williams Dr SE', 'Ste R105', 'Atlanta, GA 30317']",Atlanta,3.5,113,"{'latitude': 33.751492, 'longitude': -84.3228477}",2.0
+Southbound,"['5394 Peachtree Rd', 'Chamblee, GA 30341']",Chamblee,4.0,694,"{'latitude': 33.89234, 'longitude': -84.30109}",2.0
+F & B Atlanta,"['3630 Peachtree Rd NE', 'Ste 160', 'Atlanta, GA 30326']",Atlanta,3.5,135,"{'latitude': 33.8547, 'longitude': -84.35859}",3.0
+Aurora Theatre,"['128 E Pike St', 'Lawrenceville, GA 30046']",Lawrenceville,4.5,30,"{'latitude': 33.9572019, 'longitude': -83.9879095}",
+Post Creek Mortgage,"['3348 Peachtree Rd NE', 'Ste 700', 'Atlanta, GA 30326']",Atlanta,5.0,26,"{'latitude': 33.848079, 'longitude': -84.3697443}",
+Apache Café,"['393 Marietta St NW', 'Atlanta, GA 30313']",Atlanta,3.5,163,"{'latitude': 33.763731, 'longitude': -84.397086}",2.0
+The Basement Theatre,"['175 W Wieuca Rd NE', 'Ste B1', 'Atlanta, GA 30342']",Atlanta,4.5,78,"{'latitude': 33.8770217895508, 'longitude': -84.3811950683594}",1.0
+Rosati's Pizza and Sports Pub,"['4629 Wieuca Rd NE', 'Atlanta, GA 30342']",Atlanta,3.5,180,"{'latitude': 33.87553, 'longitude': -84.37942}",2.0
+Little Alley Steak - Buckhead,"['3500 Lenox Rd NE', 'Ste 100', 'Atlanta, GA 30326']",Atlanta,4.0,288,"{'latitude': 33.85172, 'longitude': -84.36595}",3.0
+Rialto Center for the Arts,"['80 Forsyth St NW', 'Atlanta, GA 30303']",Atlanta,4.0,16,"{'latitude': 33.7568547208986, 'longitude': -84.3892478942871}",2.0
+Rumi's Kitchen,"['6112 Roswell Rd NE', 'Atlanta, GA 30328']",Atlanta,4.0,1321,"{'latitude': 33.9220491394552, 'longitude': -84.3795309497376}",2.0
+Varasano's Pizzeria,"['6000 N Terminal Pkwy', 'Concourse A', 'Atlanta, GA 30320']",Atlanta,4.0,361,"{'latitude': 33.6409288753313, 'longitude': -84.4396479265528}",2.0
+Jump All Around,"['Snellville, GA 30078']",Snellville,5.0,1,"{'latitude': 33.8570022583008, 'longitude': -84.020622253418}",
+Red Roof PLUS+ Atlanta - Buckhead,"['1960 N Druid Hills Rd NE', 'Atlanta, GA 30329']",Atlanta,2.0,55,"{'latitude': 33.834555, 'longitude': -84.340334}",2.0
+Negril ATL,"['30 N Ave NE', 'Atlanta, GA 30308']",Atlanta,3.5,1048,"{'latitude': 33.77158, 'longitude': -84.38643}",2.0
+Southwest Arts Center,"['915 New Hope Rd SW', 'Atlanta, GA 30331']",Atlanta,4.0,17,"{'latitude': 33.72955, 'longitude': -84.54311}",
+Taproom Coffee,"['1963 Hosea L Williams Dr', 'Ste R106', 'Atlanta, GA 30317']",Atlanta,4.5,195,"{'latitude': 33.7518499, 'longitude': -84.3233922}",1.0
+The Vortex Bar And Grill - Midtown,"['878 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.0,1741,"{'latitude': 33.779051, 'longitude': -84.384438}",2.0
+Atlanta Special FX,"['488 Maltbie St', 'Bldg B', 'Lawrenceville, GA 30046']",Lawrenceville,5.0,2,"{'latitude': 33.9651668, 'longitude': -84.0034804}",
+Stem Wine Bar,"['1311 Johnson Ferry Rd', 'Marietta, GA 30068']",Marietta,4.5,44,"{'latitude': 33.9804521, 'longitude': -84.4280164}",2.0
+Keystone Property Inspections,"['4355 Cobb Pkwy', 'Ste 504', 'Atlanta, GA 30339']",Atlanta,4.5,26,"{'latitude': 33.8722648620605, 'longitude': -84.4555435180664}",
+Leon's Full Service,"['131 E Ponce De Leon Ave', 'Decatur, GA 30030']",Decatur,4.0,979,"{'latitude': 33.775501989278, 'longitude': -84.2951466792275}",2.0
+Casseroles,"['1393 N Highland Ave', 'Atlanta, GA 30306']",Atlanta,5.0,39,"{'latitude': 33.79217, 'longitude': -84.35231}",1.0
+The Southern Gentleman,"['3035 Peachtree Rd NE', 'Ste A208', 'Atlanta, GA 30305']",Atlanta,3.5,662,"{'latitude': 33.8378456191596, 'longitude': -84.3807433521843}",2.0
+Pasta Vino,"['2391 Peachtree Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,100,"{'latitude': 33.820152, 'longitude': -84.387432}",2.0
+Waffle House,"['1227 Virginia Ave', 'East Point, GA 30344']",East Point,3.5,73,"{'latitude': 33.6593381, 'longitude': -84.429229}",1.0
+Dance 101,"['2480 Briarcliff Rd', 'Atlanta, GA 30329']",Atlanta,4.0,74,"{'latitude': 33.8260507, 'longitude': -84.3330149}",
+Atlanta Marriott Marquis,"['265 Peachtree Center Ave', 'Atlanta, GA 30303']",Atlanta,3.0,649,"{'latitude': 33.76159944042937, 'longitude': -84.38557423785068}",3.0
+The Mad Italian,"['2089 Savoy Dr', 'Chamblee, GA 30341']",Chamblee,4.0,577,"{'latitude': 33.919491, 'longitude': -84.3033448}",2.0
+Chatel Group - Keller Williams Realty Atlanta Midtown,"['1420 Peachtree St NE', 'Ste 100', 'Atlanta, GA 30309']",Atlanta,5.0,4,"{'latitude': 33.7933806, 'longitude': -84.38734529999999}",
+LongHorn Steakhouse,"['2430 Piedmont Rd NE', 'Atlanta, GA 30324']",Atlanta,3.0,191,"{'latitude': 33.821673790646, 'longitude': -84.3679177836509}",2.0
+All Fired Up,"['1563 N Decatur Rd', 'Atlanta, GA 30307']",Atlanta,4.0,63,"{'latitude': 33.787827, 'longitude': -84.326475}",2.0
+Blue Moon Pizza,"['5610 Glenridge Dr', 'Ste 110', 'Sandy Springs, GA 30342']",Sandy Springs,3.5,214,"{'latitude': 33.9085463847382, 'longitude': -84.3634682391479}",2.0
+Mellow Mushroom Decatur,"['340 W Ponce De Leon Ave', 'Decatur, GA 30030']",Decatur,3.5,96,"{'latitude': 33.7753999888263, 'longitude': -84.3011009333609}",2.0
+Drift Fish House & Oyster Bar,"['4475 Roswell Rd', 'Ste 1410', 'Marietta, GA 30062']",Marietta,4.0,300,"{'latitude': 33.98819, 'longitude': -84.422286}",2.0
+Velvet Taco Buckhead,"['77 W Paces Ferry Rd NW', 'Ste 35A', 'Atlanta, GA 30305']",Atlanta,4.0,253,"{'latitude': 33.83985, 'longitude': -84.3810005042992}",2.0
+Gino's NY Pizza Bar,"['1740 Cheshire Bridge Rd', 'Atlanta, GA 30324']",Atlanta,3.0,314,"{'latitude': 33.80831, 'longitude': -84.36558}",2.0
+Sweet Georgia's Juke Joint,"['200 Peachtree St NE', 'Ste L05', 'Atlanta, GA 30303']",Atlanta,3.5,1260,"{'latitude': 33.7586934669823, 'longitude': -84.387763728836}",2.0
+Spondivits,"['1219 Virginia Ave', 'East Point, GA 30344']",East Point,3.0,1166,"{'latitude': 33.659193, 'longitude': -84.4290421}",2.0
+Poke City,"['931 Monroe Dr NE', 'Ste A101', 'Atlanta, GA 30308']",Atlanta,4.0,145,"{'latitude': 33.780356, 'longitude': -84.368616}",2.0
+The Pig & The Pearl,"['1380 Atlantic Ave NW', 'Ste 14180', 'Atlanta, GA 30363']",Atlanta,3.5,582,"{'latitude': 33.793365793502, 'longitude': -84.397706283992}",2.0
+5Church Atlanta,"['1197 Peachtree St NE', 'Atlanta, GA 30361']",Atlanta,4.0,839,"{'latitude': 33.787526, 'longitude': -84.383007}",2.0
+Fat Matt's Rib Shack,"['1811 Piedmont Ave NE', 'Atlanta, GA 30324']",Atlanta,4.0,2164,"{'latitude': 33.804595, 'longitude': -84.367137}",2.0
+New Realm Brewing,"['550 Somerset Ter NE', 'Unit 101', 'Atlanta, GA 30306']",Atlanta,4.0,516,"{'latitude': 33.7690333817904, 'longitude': -84.3619148284263}",2.0
+Mezza Luna,"['1669 Spring Rd SE', 'Smyrna, GA 30080']",Smyrna,4.5,509,"{'latitude': 33.882797, 'longitude': -84.504883}",2.0
+InterContinental Buckhead Atlanta,"['3315 Peachtree Rd NE', 'Atlanta, GA 30326']",Atlanta,3.5,302,"{'latitude': 33.84535, 'longitude': -84.368}",3.0
+Bad Daddys Burger Bar,"['5070 Peachtree Blvd', 'Ste B150', 'Chamblee, GA 30341']",Chamblee,3.5,418,"{'latitude': 33.88851, 'longitude': -84.31489}",2.0
+Arnette's Chop Shop,"['2700 Apple Valley Rd NE', 'Brookhaven, GA 30319']",Brookhaven,4.0,124,"{'latitude': 33.86536, 'longitude': -84.3356}",3.0
+"Inn at the Peachtrees, an Ascend Hotel Collection Member","['330 West Peachtree St, NW', 'Atlanta, GA 30308']",Atlanta,2.5,94,"{'latitude': 33.76355995123, 'longitude': -84.3878187146402}",2.0
+Wings 101,"['2625 Piedmont Rd', 'Ste 54', 'Atlanta, GA 30324']",Atlanta,4.0,192,"{'latitude': 33.8262711489949, 'longitude': -84.3661474571174}",2.0
+Viewpoint Condos,"['855 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,4.0,6,"{'latitude': 33.7778204, 'longitude': -84.3838068}",
+Another Broken Egg Cafe,"['4745 B Ashford Dunwoody Rd', 'Atlanta, GA 30338']",Atlanta,3.5,432,"{'latitude': 33.9332779739069, 'longitude': -84.3362850681951}",2.0
+Marlow's Tavern,"['5590 Prado Pl', 'Atlanta, GA 30342']",Atlanta,4.0,184,"{'latitude': 33.90767, 'longitude': -84.3798599}",2.0
+Johnny's New York Style Pizza,"['1465 Chattahoochee Ave NW', 'Ste 850', 'Atlanta, GA 30318']",Atlanta,3.0,103,"{'latitude': 33.8079066322792, 'longitude': -84.4345764012754}",1.0
+Gypsy Kitchen,"['3035 Peachtree Rd NE', 'Ste A209', 'Atlanta, GA 30305']",Atlanta,4.0,647,"{'latitude': 33.8379356717529, 'longitude': -84.3805140011813}",2.0
+Monday Night Brewing,"['670 Trabert Ave NW', 'Atlanta, GA 30318']",Atlanta,4.5,235,"{'latitude': 33.794817, 'longitude': -84.40992}",1.0
+Lifting Noodles Ramen,"['477 Flat Shoals Ave SE', 'Atlanta, GA 30316']",Atlanta,4.5,122,"{'latitude': 33.74075, 'longitude': -84.3467299}",2.0
+D Cafe and Catering,"['1550 Ralph David Abernathy Blvd', 'Atlanta, GA 30310']",Atlanta,4.0,26,"{'latitude': 33.743689, 'longitude': -84.4384772}",1.0
+Marietta Diner,"['306 Cobb Pkwy S', 'Marietta, GA 30060']",Marietta,3.5,1704,"{'latitude': 33.94474, 'longitude': -84.51804}",2.0
+IHOP,"['2741 Clairmont Rd NE', 'Atlanta, GA 30329']",Atlanta,2.5,90,"{'latitude': 33.8368, 'longitude': -84.3110781}",1.0
+Red Pepper Taqueria,"['3135 Piedmont Rd', 'Atlanta, GA 30305']",Atlanta,3.5,521,"{'latitude': 33.84267, 'longitude': -84.37027}",2.0
+HOBNOB Neighborhood Tavern - Town Brookhaven,"['804 Town Blvd NE', 'Ste A1010', 'Brookhaven, GA 30319']",Brookhaven,3.5,342,"{'latitude': 33.870588, 'longitude': -84.336451}",2.0
+Flying Biscuit Café - Midtown,"['1001 Piedmont Ave', 'Atlanta, GA 30309']",Atlanta,4.0,1577,"{'latitude': 33.782, 'longitude': -84.38015}",2.0
+Strongbox West,"['1040 W Marietta St NW', 'Atlanta, GA 30318']",Atlanta,5.0,10,"{'latitude': 33.784682, 'longitude': -84.42167}",
+Relapse Theatre,"['380 14th St NW', 'Atlanta, GA 30318']",Atlanta,4.0,39,"{'latitude': 33.78591, 'longitude': -84.39944}",1.0
+Milton's Cuisine & Cocktails,"['800 Mayfield Rd', 'Milton, GA 30009']",Milton,4.0,355,"{'latitude': 34.090672, 'longitude': -84.338935}",3.0
+Renaissance Atlanta Waverly Hotel & Convention Center,"['2450 Galleria Pkwy', 'Atlanta, GA 30339']",Atlanta,3.5,144,"{'latitude': 33.8850087242379, 'longitude': -84.4643688601188}",3.0
+CO,"['675 N Highland Ave NE', 'Ste 6000', 'Atlanta, GA 30306']",Atlanta,4.0,321,"{'latitude': 33.772891, 'longitude': -84.351836}",2.0
+Old Mill Park,"['95 Mill St', 'Roswell, GA 30075']",Roswell,4.5,65,"{'latitude': 34.013436, 'longitude': -84.3588}",
+Liberty Pizza,"['1275 Powers Ferry Rd SE', 'Ste 130', 'Ste 130 (Next to Microcenter)', 'Marietta, GA 30067']",Marietta,4.5,291,"{'latitude': 33.9211202, 'longitude': -84.4662105}",2.0
+gusto!,"['1935 Peachtree Rd NE', 'Atlanta, GA 30309']",Atlanta,4.5,451,"{'latitude': 33.8075938694564, 'longitude': -84.3935011499407}",1.0
+Taki Japanese Sushi & Hibachi,"['4711 Ashford Dunwoody Rd', 'Ste 12', 'Dunwoody, GA 30338']",Dunwoody,3.5,360,"{'latitude': 33.931199, 'longitude': -84.332333}",2.0
+Yuzu Sushi,"['5193 Peachtree Blvd', 'Ste E', 'Chamblee, GA 30341']",Chamblee,4.5,202,"{'latitude': 33.88974, 'longitude': -84.30965}",2.0
+Urban Tree Cidery,"['1465 Howell Mill Rd NW', 'Atlanta, GA 30318']",Atlanta,4.5,121,"{'latitude': 33.7948218371632, 'longitude': -84.4148407556039}",2.0
+Cupanion’s Kitchen & Coffee,"['4920 Roswell Rd', 'Ste 14', 'Atlanta, GA 30342']",Atlanta,4.5,179,"{'latitude': 33.88918, 'longitude': -84.382094}",2.0
+Hattie B's Hot Chicken - Atlanta,"['299 Moreland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.5,1532,"{'latitude': 33.7624, 'longitude': -84.34882}",2.0
+Stone Mountain Manor,"['1037 Main St', 'Stone Mountain, GA 30083']",Stone Mountain,4.5,22,"{'latitude': 33.8104061, 'longitude': -84.1706312}",2.0
+Jess Kamm Photography,"['Atlanta, GA 30327']",Atlanta,4.0,4,"{'latitude': 33.7489954, 'longitude': -84.3879824}",
+Peace Love and Pizza,"['1050 E Piedmont Rd', 'Ste 154', 'Marietta, GA 30062']",Marietta,4.0,109,"{'latitude': 33.9753268470548, 'longitude': -84.478629565176}",2.0
+Grand Lux Cafe,"['3500 Peachtree Rd NE', 'Ste 2093', 'Atlanta, GA 30326']",Atlanta,3.5,257,"{'latitude': 33.8525561, 'longitude': -84.3622013}",2.0
+Atlanta Marriott Suites Midtown,"['35 14th St NE', 'Atlanta, GA 30309']",Atlanta,3.5,116,"{'latitude': 33.7863261709599, 'longitude': -84.3865149328485}",2.0
+The Sivas,"['794 Juniper St NE', 'Atlanta, GA 30308']",Atlanta,3.5,472,"{'latitude': 33.7761595298754, 'longitude': -84.3831407132901}",2.0
+KR SteakBar,"['349 Peachtree Hills Ave NE', 'Atlanta, GA 30305']",Atlanta,4.0,239,"{'latitude': 33.8176633959101, 'longitude': -84.3762013609024}",3.0
+gusto!,"['4945 Peachtree Blvd', 'Atlanta, GA 30341']",Atlanta,4.0,50,"{'latitude': 33.88363, 'longitude': -84.31634}",2.0
+Twain's Brewpub & Billiards,"['211 E Trinity Pl', 'Decatur, GA 30030']",Decatur,3.5,387,"{'latitude': 33.7723503112793, 'longitude': -84.2946624755859}",2.0
+Campania,"['800 N Main St', 'Ste 100', 'Alpharetta, GA 30009']",Alpharetta,4.5,525,"{'latitude': 34.0930486577521, 'longitude': -84.2826213816147}",2.0
+Wagaya - Westside,"['339 14th St NW', 'Atlanta, GA 30318']",Atlanta,4.0,565,"{'latitude': 33.786349, 'longitude': -84.398266}",2.0
+The Porter Beer Bar,"['1156 Euclid Ave NE', 'Atlanta, GA 30307']",Atlanta,4.5,1048,"{'latitude': 33.76534, 'longitude': -84.349827}",2.0
+Condesa Coffee,"['480 John Wesley Dobbs Ave', 'Ste 100', 'Atlanta, GA 30312']",Atlanta,4.0,295,"{'latitude': 33.75975, 'longitude': -84.37183}",1.0
+Osteria Mattone,"['1095 Canton St', 'Roswell, GA 30075']",Roswell,4.5,302,"{'latitude': 34.028478, 'longitude': -84.360902}",2.0
+Dale Corley,"['980 Hammond Dr', 'Ste 850B', 'ATLANTA, GA 30328']",ATLANTA,5.0,1,"{'latitude': 33.920924, 'longitude': -84.3560945}",
+Atlanta Lyric Theatre,"['548 S Marietta Pkwy', 'Jennie T Anderson Theatre', 'Marietta, GA 30060']",Marietta,5.0,13,"{'latitude': 33.942877, 'longitude': -84.537397}",
+Wahoo! Grill,"['1042 W College Ave', 'Decatur, GA 30030']",Decatur,4.0,467,"{'latitude': 33.76488, 'longitude': -84.31074}",2.0
+Under the Cork Tree,"['5600 Roswell Rd NE', 'Sandy Springs, GA 30342']",Sandy Springs,4.0,253,"{'latitude': 33.9077934377929, 'longitude': -84.3800507817535}",2.0
+Huey Luey's,"['6650 Roswell Rd', 'Sandy Springs, GA 30328']",Sandy Springs,3.5,339,"{'latitude': 33.9361939083884, 'longitude': -84.3800332635849}",2.0
+Vero Pizzeria,"['1441 Dresden Dr NE', 'Atlanta, GA 30319']",Atlanta,4.0,84,"{'latitude': 33.8606338500977, 'longitude': -84.330078125}",2.0
+Barcelona Westside Ironworks,"['1085 Howell Mill Rd NW', 'Atlanta, GA 30318']",Atlanta,4.0,458,"{'latitude': 33.78451, 'longitude': -84.41113}",2.0
+Ticonderoga Club,"['99 Krog St NE', 'Atlanta, GA 30307']",Atlanta,4.5,196,"{'latitude': 33.7565306825249, 'longitude': -84.3639687914017}",2.0
+GIK Acoustics,"['3731 Northcrest Rd', 'Ste 29', 'Atlanta, GA 30340']",Atlanta,3.0,2,"{'latitude': 33.89947, 'longitude': -84.25288}",
+Nancy's Pizza,"['265 Ponce De Leon Ave', 'Atlanta, GA 30308']",Atlanta,3.5,640,"{'latitude': 33.7722004, 'longitude': -84.3788054}",2.0
+Terminal West,"['887 W Marietta St NW', 'Ste C', 'Atlanta, GA 30318']",Atlanta,4.5,114,"{'latitude': 33.7814778763, 'longitude': -84.4154587761}",2.0
+Ted's Montana Grill - Luckie Street,"['133 Luckie St', 'Atlanta, GA 30303']",Atlanta,4.0,858,"{'latitude': 33.75879, 'longitude': -84.39054}",2.0
+Marlow's Tavern,"['950 West Peachtree St', 'Ste 215', 'Atlanta, GA 30309']",Atlanta,4.0,565,"{'latitude': 33.77968, 'longitude': -84.387493}",2.0
+Ration & Dram,"['130 Arizona Ave NE', 'Atlanta, GA 30307']",Atlanta,3.5,200,"{'latitude': 33.7585855959122, 'longitude': -84.3315408587914}",2.0
+Out of Box Theatre,"['585 Cobb Pkwy S', 'Ste C-1', 'Marietta, GA 30060']",Marietta,4.5,5,"{'latitude': 33.937939, 'longitude': -84.512428}",
+Corner Cafe,"['3070 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,213,"{'latitude': 33.8391723632812, 'longitude': -84.3694763183594}",2.0
+Depalma's Porch,"['1201 Collier Rd NW', 'Atlanta, GA 30318']",Atlanta,3.5,89,"{'latitude': 33.8116073608398, 'longitude': -84.4250259399414}",2.0
+Fred's Meat & Bread,"['99 Krog St NE', 'Atlanta, GA 30307']",Atlanta,4.0,571,"{'latitude': 33.7567626027753, 'longitude': -84.3640063423279}",2.0
+Blue India,"['933 Peachtree St NE', 'Ste 915', 'Atlanta, GA 30309']",Atlanta,4.0,229,"{'latitude': 33.7797200205361, 'longitude': -84.3835182227681}",2.0
+Nori Nori,"['6690 Roswell Rd', 'Ste 2110', 'Sandy Springs, GA 30328']",Sandy Springs,4.0,1065,"{'latitude': 33.937542087484, 'longitude': -84.378845126181}",2.0
+Ted's Montana Grill - Midtown,"['1874 Peachtree Rd', 'Atlanta, GA 30309']",Atlanta,3.5,232,"{'latitude': 33.8063588101002, 'longitude': -84.3943347603804}",2.0
+Goldbergs Fine Foods - Battery,"['875 Battery Ave SE', 'Atlanta, GA 30339']",Atlanta,3.5,180,"{'latitude': 33.889169, 'longitude': -84.469482}",2.0
+Estrella Rooftop,"['550 Somerset Ter NE', 'Ste 102', 'Atlanta, GA 30306']",Atlanta,3.5,130,"{'latitude': 33.7703514502516, 'longitude': -84.3623656046363}",2.0
+The Loft,"['1374 W Peachtree St', 'Atlanta, GA 30309']",Atlanta,3.5,36,"{'latitude': 33.792087, 'longitude': -84.388206}",2.0
+Chin Chin II Chinese Restaurant,"['699 Ponce De Leon Ave NE', 'Ste 8', 'Atlanta, GA 30308']",Atlanta,3.0,195,"{'latitude': 33.7729192, 'longitude': -84.3640217}",2.0
+Whitehall Tavern,"['2391 Peachtree Rd NW', 'Atlanta, GA 30305']",Atlanta,3.5,148,"{'latitude': 33.8201241214503, 'longitude': -84.3874516360147}",2.0
+Hyatt Regency Atlanta,"['265 Peachtree St', 'Atlanta, GA 30303']",Atlanta,3.0,489,"{'latitude': 33.7611878060702, 'longitude': -84.3873931434046}",3.0
+El Bandido Mex Mex Grill,"['1083 Euclid Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,288,"{'latitude': 33.7633330863735, 'longitude': -84.3515967635537}",2.0
+El Super Pan,"['675 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,317,"{'latitude': 33.7726312767445, 'longitude': -84.3656354044907}",2.0
+Flying Biscuit Café - Sandy Springs,"['5975 Roswell Rd', 'Ste G-25', 'Atlanta, GA 30328']",Atlanta,3.5,378,"{'latitude': 33.9180627429319, 'longitude': -84.3787760394256}",2.0
+Carroll Street Café,"['208 Carroll St SE', 'Atlanta, GA 30312']",Atlanta,4.0,498,"{'latitude': 33.7489815, 'longitude': -84.3678513}",2.0
+AG,"['181 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,3.5,186,"{'latitude': 33.758659, 'longitude': -84.387156}",3.0
+Emory Conference Center Hotel,"['1615 Clifton Rd', 'Atlanta, GA 30329']",Atlanta,4.0,113,"{'latitude': 33.801574, 'longitude': -84.324207}",2.0
+Banshee,"['1271 Glenwood Ave SE', 'Atlanta, GA 30316']",Atlanta,4.5,57,"{'latitude': 33.73995, 'longitude': -84.3459}",2.0
+Piu Bello,"['2014 Powers Ferry Rd', 'Atlanta, GA 30339']",Atlanta,4.0,92,"{'latitude': 33.9034336606001, 'longitude': -84.4606124080559}",1.0
+Carriage House Catering Inc,"['999 Whitlock Ave SW', 'Ste 5', 'Marietta, GA 30064']",Marietta,4.5,11,"{'latitude': 33.951000213623, 'longitude': -84.5791702270508}",
+Alma Cocina - Downtown,"['191 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,4.0,1124,"{'latitude': 33.759156314923, 'longitude': -84.3874444429916}",2.0
+Sushiology,"['1615 Ridenour Blvd', 'Ste 207', 'Kennesaw, GA 30152']",Kennesaw,4.5,398,"{'latitude': 33.994634, 'longitude': -84.592345}",2.0
+Golden Eagle,"['904 Memorial Dr SE', 'Atlanta, GA 30316']",Atlanta,4.0,153,"{'latitude': 33.746909, 'longitude': -84.358001}",2.0
+The One Sushi +,"['2523 Caldwell Rd NE', 'Ste 1000', 'Brookhaven, GA 30319']",Brookhaven,4.0,319,"{'latitude': 33.86121, 'longitude': -84.33189}",2.0
+Pea Ridge Kitchen and Bar,"['2607 Lawrenceville Hwy', 'Decatur, GA 30033']",Decatur,4.0,192,"{'latitude': 33.82287, 'longitude': -84.26185}",2.0
+Baconfest,"['695 N Ave NE', 'Atlanta, GA 30308']",Atlanta,4.0,6,"{'latitude': 33.7708725, 'longitude': -84.3645437}",
+Carlyle's Catering,"['1500 Southland Cir', 'Ste M', 'Atlanta, GA 30318']",Atlanta,4.0,22,"{'latitude': 33.7990958, 'longitude': -84.4322467}",
+Cafe Intermezzo - Midtown,"['1065 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,3.5,1152,"{'latitude': 33.7833110141092, 'longitude': -84.3835566220902}",2.0
+Atlanta House Surgeons,"['260 Peachtree St NW', 'Atlanta, GA 30303']",Atlanta,3.0,4,"{'latitude': 33.7605251, 'longitude': -84.3875815}",
+Shezmu Cellars,"['562 Wylie Rd SE', 'Ste 3', 'Marietta, GA 30067']",Marietta,4.5,14,"{'latitude': 33.9378816969, 'longitude': -84.5116580008}",
+Makimono,"['99 Krog St NE', 'Ste X', 'Atlanta, GA 30307']",Atlanta,4.0,137,"{'latitude': 33.756519, 'longitude': -84.364207}",2.0
+The Sleepy Potato,"['2841 Greenbriar Pkwy SW', 'Ste N 63', 'Atlanta, GA 30331']",Atlanta,3.5,36,"{'latitude': 33.688562, 'longitude': -84.493229}",2.0
+Gaja Korean Bar,"['491 Flat Shoals Ave SE', 'Ste A', 'Atlanta, GA 30316']",Atlanta,4.0,222,"{'latitude': 33.7405273584781, 'longitude': -84.3462919816375}",2.0
+The Village Corner,"['6655 James B Rivers Dr', 'Stone Mountain, GA 30083']",Stone Mountain,3.5,335,"{'latitude': 33.8114943, 'longitude': -84.170715}",2.0
+Meatballerz,"['3781 Presidential Pkwy', 'Ste 3 , FP307', 'Atlanta, GA 30340']",Atlanta,4.5,78,"{'latitude': 33.88627050111368, 'longitude': -84.2655821}",1.0
+Aloft Atlanta Downtown,"['300 Ted Turner Dr NW', 'Atlanta, GA 30308']",Atlanta,3.0,176,"{'latitude': 33.7624824910737, 'longitude': -84.3896240741014}",2.0
+Wonderkid,"['777 Memorial Dr SE', 'Atlanta, GA 30316']",Atlanta,4.0,69,"{'latitude': 33.74647, 'longitude': -84.36203}",2.0
+Roswell Ghost Tour,"['610 Atlanta St', 'Roswell, GA 30075']",Roswell,4.0,50,"{'latitude': 34.0151195, 'longitude': -84.3629018}",
+Pampas Steakhouse,"['10970 State Bridge Rd', 'Alpharetta, GA 30022']",Alpharetta,4.0,388,"{'latitude': 34.0481044, 'longitude': -84.22471038990345}",3.0
+Yeye's Botanica,"['2260 Campbellton Rd', 'Atlanta, GA 30311']",Atlanta,3.5,10,"{'latitude': 33.7347348773915, 'longitude': -84.2116600998678}",2.0
+Alpine Bakery and Trattoria,"['12315 Crabapple Rd', 'Ste 100', 'Alpharetta, GA 30004']",Alpharetta,4.0,450,"{'latitude': 34.0836161304169, 'longitude': -84.3556081325409}",2.0
+FIGO Pasta,"['2080 Defoor Ave', 'Ste 100', 'Atlanta, GA 30318']",Atlanta,3.5,173,"{'latitude': 33.811966, 'longitude': -84.426416}",2.0
+JW Marriott Atlanta Buckhead,"['3300 Lenox Rd NE', 'Atlanta, GA 30326']",Atlanta,3.5,164,"{'latitude': 33.8456305902333, 'longitude': -84.3598653681329}",3.0
+Vortex Bar & Grill,"['438 Moreland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,1292,"{'latitude': 33.7662727, 'longitude': -84.3493438}",2.0
+Serenbe Playhouse,"['10950 Hutchesons Ferry Rd', 'Chattahoochee Hills, GA 30268']",Chattahoochee Hills,4.0,35,"{'latitude': 33.528262, 'longitude': -84.744431}",
+Muss & Turner's - Smyrna,"['1675 Cumberland Pkwy', 'Ste 309', 'Smyrna, GA 30080']",Smyrna,4.0,640,"{'latitude': 33.8493273227158, 'longitude': -84.4918500582908}",2.0
+Pricci,"['500 Pharr Rd NE', 'Atlanta, GA 30305']",Atlanta,4.0,343,"{'latitude': 33.8372080429177, 'longitude': -84.3728507732757}",3.0
+Artmore Hotel,"['1302 W Peachtree St', 'Atlanta, GA 30309']",Atlanta,3.5,214,"{'latitude': 33.7902118339254, 'longitude': -84.3880196623298}",2.0
+Terra Terroir,"['3974 Peachtree Rd NE', 'Ste C', 'Brookhaven, GA 30319']",Brookhaven,4.0,219,"{'latitude': 33.85943, 'longitude': -84.3413929602924}",2.0
+Sushi Itto,"['2173 Briarcliff Rd NE', 'Atlanta, GA 30329']",Atlanta,4.0,232,"{'latitude': 33.8170582, 'longitude': -84.3343049}",2.0
+Fast Signs,"['141 North Ave NE', 'Atlanta, GA 30308']",Atlanta,2.5,3,"{'latitude': 33.77103, 'longitude': -84.3828599}",
+Frameworks Gallery,"['1205 Johnson Ferry Rd', 'Ste 110', 'Marietta, GA 30068']",Marietta,5.0,9,"{'latitude': 33.977206, 'longitude': -84.419289}",2.0
+Mojito's - Norcross,"['35 S Peachtree St NW', 'Norcross, GA 30071']",Norcross,4.5,603,"{'latitude': 33.941845, 'longitude': -84.21306}",2.0
+R.A.R.E. TEAM,"['Atlanta, GA 30341']",Atlanta,5.0,1,"{'latitude': 33.88309, 'longitude': -84.25186}",
+Community Q BBQ,"['1361 Clairmont Rd', 'Decatur, GA 30033']",Decatur,4.0,887,"{'latitude': 33.7925662792117, 'longitude': -84.305025}",2.0
+Newk's Eatery,"['305 Brookhaven Ave', 'Ste A1100', 'Atlanta, GA 30319']",Atlanta,4.0,203,"{'latitude': 33.87024828366323, 'longitude': -84.33557724892859}",1.0
+Grub Burger Bar,"['2955 Cobb Pkwy SE', 'Ste 820', 'Atlanta, GA 30339']",Atlanta,4.0,569,"{'latitude': 33.8811811087996, 'longitude': -84.4600948700385}",2.0
+Buckhead Diner,"['3073 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,660,"{'latitude': 33.83935, 'longitude': -84.36873}",2.0
+Taste of Atlanta,"['680 Dallas St NE', 'Atlanta, GA 30339']",Atlanta,4.0,140,"{'latitude': 33.769179, 'longitude': -84.364943}",
+Cigar City Club,"['5006 Roswell Rd', 'Atlanta, GA 30342']",Atlanta,4.0,128,"{'latitude': 33.89149, 'longitude': -84.38165}",2.0
+Chin Chin - Howell Mill,"['1715 Howell Mill Rd', 'Ste C-16', 'Atlanta, GA 30318']",Atlanta,3.5,236,"{'latitude': 33.8012432677404, 'longitude': -84.4134847458484}",2.0
+First Watch,"['2571 Blackmon Dr', 'Ste 100', 'Decatur, GA 30033']",Decatur,3.5,244,"{'latitude': 33.793278, 'longitude': -84.286995}",2.0
+J Buffalo Wings,"['6595 Roswell Rd', 'Ste H', 'Atlanta, GA 30328']",Atlanta,3.0,64,"{'latitude': 33.9358062744141, 'longitude': -84.3775482177734}",1.0
+Steinbeck's Ale House,"['659 E Lake Dr', 'Ste B', 'Decatur, GA 30030']",Decatur,4.0,159,"{'latitude': 33.7592364295441, 'longitude': -84.3034870017105}",2.0
+Grand Hyatt Atlanta in Buckhead,"['3300 Peachtree Rd NE', 'Atlanta, GA 30305']",Atlanta,4.0,210,"{'latitude': 33.845245, 'longitude': -84.370386}",3.0
+The Oceanaire Seafood Room,"['1100 Peachtree St', 'Atlanta, GA 30309']",Atlanta,3.5,454,"{'latitude': 33.784629, 'longitude': -84.383237}",3.0
+St Angelo's Pizza,"['4687 S Atlanta Rd SE', 'Ste 128', 'Atlanta, GA 30339']",Atlanta,3.5,211,"{'latitude': 33.8400808604027, 'longitude': -84.4840721356514}",2.0
+Stockyard Burgers & Bones,"['2850 Paces Ferry Rd', 'Ste 300', 'Atlanta, GA 30339']",Atlanta,4.0,448,"{'latitude': 33.865369502627, 'longitude': -84.4687330259779}",2.0
+Cibo e Beve,"['4969 Roswell Rd', 'Ste 245', 'Atlanta, GA 30342']",Atlanta,4.0,292,"{'latitude': 33.890189, 'longitude': -84.381239}",2.0
+Mac McGee,"['111 Sycamore St', 'Decatur, GA 30030']",Decatur,4.0,165,"{'latitude': 33.7743899, 'longitude': -84.29618}",2.0
+MudFire,"['175 Laredo Dr', 'Decatur, GA 30030']",Decatur,4.0,26,"{'latitude': 33.7802269, 'longitude': -84.267967}",2.0
+Il Bacio Pizzeria & Trattoria,"['2571 Piedmont Rd NE', 'Ste 120', 'Atlanta, GA 30324']",Atlanta,3.5,237,"{'latitude': 33.824874, 'longitude': -84.3670361}",2.0
+Pancho's Mexican Restaurant & Cantina,"['2641 Buford Hwy NE', 'Atlanta, GA 30324']",Atlanta,3.0,226,"{'latitude': 33.8262, 'longitude': -84.34794}",2.0
+Mojo Pizza N' Pub,"['657 E Lake Dr', 'Decatur, GA 30030']",Decatur,3.0,145,"{'latitude': 33.7593506946192, 'longitude': -84.3034721921968}",2.0
+Ton Ton,"['675 Ponce De Leon Ave NE', 'Ste N151', 'Ponce City Market', 'Atlanta, GA 30308']",Atlanta,4.0,561,"{'latitude': 33.773011, 'longitude': -84.365651}",2.0
+Renaissance Atlanta Midtown Hotel,"['866 W Peachtree St NW', 'Atlanta, GA 30308']",Atlanta,3.5,181,"{'latitude': 33.7782109710563, 'longitude': -84.3876380324036}",3.0
+Escorpión,"['800 Peachtree St NE', 'Ste F1', 'Atlanta, GA 30308']",Atlanta,3.5,556,"{'latitude': 33.7765774, 'longitude': -84.3847848}",2.0
+DJ Louie Productions,"['131 Hamway Ln', 'Winder, GA 30680']",Winder,5.0,6,"{'latitude': 34.0435295, 'longitude': -83.7631378}",
+Apres Diem,"['931 Monroe Dr NE', 'Ste C103', 'Atlanta, GA 30308']",Atlanta,3.5,589,"{'latitude': 33.779196, 'longitude': -84.367238}",2.0
+AMC Phipps Plaza 14,"['3500 Peachtree Road N.e.', 'Atlanta, GA 30326']",Atlanta,4.0,326,"{'latitude': 33.8514221470799, 'longitude': -84.3619668245775}",
+Paces & Vine,"['4300 Paces Ferry Rd SE', 'Atlanta, GA 30339']",Atlanta,3.5,350,"{'latitude': 33.8650988743631, 'longitude': -84.4664315800947}",2.0
+Tech Genius,"['590 Ponce De Leon Ave', 'Atlanta, GA 30308']",Atlanta,4.5,63,"{'latitude': 33.77389, 'longitude': -84.36755}",
+J's Cigar,"['2072 Defoors Ferry Rd NW', 'Ste F', 'Atlanta, GA 30318']",Atlanta,5.0,44,"{'latitude': 33.812144, 'longitude': -84.426276}",2.0
+Taverna Plaka,"['2196 Cheshire Bridge Rd NE', 'Atlanta, GA 30324']",Atlanta,3.5,321,"{'latitude': 33.8149, 'longitude': -84.353754}",2.0
+District Atlanta,"['269 Armour Dr NE', 'Atlanta, GA 30324']",Atlanta,3.0,36,"{'latitude': 33.81205, 'longitude': -84.37849}",
+Circle Noodle,"['1570 Holcomb Bridge Rd', 'Ste 820', 'Roswell, GA 30076']",Roswell,4.5,190,"{'latitude': 34.0188083688862, 'longitude': -84.3122126214996}",2.0
+Kaleidoscope Bistro & Pub,"['1410 Dresden Dr NE', 'Ste 100', 'Atlanta, GA 30319']",Atlanta,3.5,422,"{'latitude': 33.860888, 'longitude': -84.331869}",2.0
+Melton's App & Tap,"['2500 N Decatur Rd', 'Decatur, GA 30033']",Decatur,4.0,213,"{'latitude': 33.7940643860375, 'longitude': -84.290921336766}",2.0
+Trederick’s Seafood & Grill,"['609 Whitehall St SW', 'Atlanta, GA 30303']",Atlanta,4.0,75,"{'latitude': 33.74268, 'longitude': -84.4078}",2.0
+MF Sushi Atlanta,"['299 N Highland Ave NE', 'Ste K', 'Atlanta, GA 30307']",Atlanta,4.0,256,"{'latitude': 33.7617045484184, 'longitude': -84.3588645011187}",3.0
+Industry Tavern,"['3280 Peachtree Rd NE', 'Ste 185', 'Atlanta, GA 30305']",Atlanta,4.0,504,"{'latitude': 33.8452336367562, 'longitude': -84.3712960294998}",2.0
+Atlanta Christkindl Market,"['265 Park Ave W NW', 'Atlanta, GA 30313']",Atlanta,4.0,18,"{'latitude': 33.76189667, 'longitude': -84.39472833}",
+Recess,"['99-V Krog St NE', 'Ste V', 'Atlanta, GA 30307']",Atlanta,4.5,103,"{'latitude': 33.756595, 'longitude': -84.364182}",2.0
+Zachary Toth Photography,"['170 Blvd SE', 'Atlanta, GA 30312']",Atlanta,4.0,5,"{'latitude': 33.7503545, 'longitude': -84.3698329}",
+Nanas Chicken N Waffles,"['1040 Flat Shoals Rd SE', 'Conyers, GA 30013']",Conyers,4.0,674,"{'latitude': 33.64306, 'longitude': -84.0133}",2.0
+Elevation Chophouse and Skybar,"['1723 Mccollum Pkwy', 'Bldg 600', 'Kennesaw, GA 30144']",Kennesaw,3.5,361,"{'latitude': 34.0151850078922, 'longitude': -84.6015006767212}",2.0
+Fado Irish Pub,"['273 Buckhead Ave', 'Atlanta, GA 30305']",Atlanta,3.5,478,"{'latitude': 33.83789, 'longitude': -84.37841}",2.0
+Prime Meridian,"['100 Cnn Ctr', 'Atlanta, GA 30303']",Atlanta,3.5,59,"{'latitude': 33.759517, 'longitude': -84.395108}",2.0
+Buteco,"['1039 Grant St SE', 'Ste C-10', 'Atlanta, GA 30315']",Atlanta,4.5,90,"{'latitude': 33.725074, 'longitude': -84.377053}",2.0
+Avondale Pizza Cafe,"['2823 E College Ave', 'Decatur, GA 30030']",Decatur,3.5,141,"{'latitude': 33.77474, 'longitude': -84.27372}",1.0
+Texas Roadhouse,"['2475 Barrett Creek Pkwy', 'Marietta, GA 30066']",Marietta,3.5,192,"{'latitude': 34.01279, 'longitude': -84.555435}",2.0
+Babylon Cafe,"['2257 Lenox Rd NE', 'Atlanta, GA 30324']",Atlanta,3.5,170,"{'latitude': 33.816704, 'longitude': -84.351807}",2.0
+"The Whitley, A Luxury Collection Hotel, Atlanta Buckhead","['3434 Peachtree Road NE', 'Atlanta, GA 30326']",Atlanta,3.0,119,"{'latitude': 33.85039, 'longitude': -84.36314}",3.0
+Atlanta Symphony Orchestra,"['1280 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,4.5,70,"{'latitude': 33.788758, 'longitude': -84.385507}",
+Victory Sandwich Bar,"['913 Bernina Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,347,"{'latitude': 33.7639617919922, 'longitude': -84.3575592041016}",1.0
+The Rental Place,"['8650 Nesbit Ferry Rd', 'Alpharetta, GA 30022']",Alpharetta,4.0,5,"{'latitude': 33.9901199, 'longitude': -84.2736664}",
+The Consulate,"['10 10th St NW', 'Atlanta, GA 30309']",Atlanta,4.0,310,"{'latitude': 33.7817942, 'longitude': -84.3871875}",2.0
+Stoney River Steakhouse and Grill,"['5800 State Bridge Rd', 'Duluth, GA 30097']",Duluth,3.5,336,"{'latitude': 34.01698, 'longitude': -84.189623}",3.0
+Portrait On a Plate Catering,"['1588 Veterans Memorial Hwy', 'Ste 206', 'Austell, GA 30168']",Austell,4.5,21,"{'latitude': 33.816463, 'longitude': -84.600923}",
+Hartsfield-Jackson Atlanta International Airport - ATL,"['6000 N Terminal Pkwy', 'Ste 4000', 'Atlanta, GA 30320']",Atlanta,3.5,3949,"{'latitude': 33.6407227071805, 'longitude': -84.4276356697082}",
+The Brass Tap,"['4505 Ashford Dunwoody Rd', 'Ste 32', 'Atlanta, GA 30346']",Atlanta,3.5,125,"{'latitude': 33.92511, 'longitude': -84.33598}",2.0
+Monster Mansion,"['275 Riverside Pkwy', 'Six Flags Over Georgia', 'Austell, GA 30168']",Austell,4.0,4,"{'latitude': 33.768410613046, 'longitude': -84.5505559845127}",
+Le Fais Do-Do,"['5442 Frontage Rd', 'Forest Park, GA 30297']",Forest Park,4.0,34,"{'latitude': 33.6067717, 'longitude': -84.39334}",
+Center For Civil and Human Rights,"['100 Ivan Allen Jr Blvd', 'Atlanta, GA 30313']",Atlanta,4.5,264,"{'latitude': 33.7640534322558, 'longitude': -84.3930839243591}",
+Elliott Street Deli & Pub,"['51 Elliott St SW', 'Atlanta, GA 30313']",Atlanta,4.0,158,"{'latitude': 33.7531547546387, 'longitude': -84.3982315063477}",2.0
+Dantanna's,"['3400 Around Lenox Rd NE', 'Atlanta, GA 30326']",Atlanta,3.5,637,"{'latitude': 33.84744145917, 'longitude': -84.3650990123032}",2.0
+Inman Park Festival,"['167 Elizabeth St NE', 'Atlanta, GA 30307']",Atlanta,4.5,35,"{'latitude': 33.75896, 'longitude': -84.35634}",
+Mike's Hot Dogs,"['5948 Roswell Rd NE', 'Atlanta, GA 30328']",Atlanta,4.5,210,"{'latitude': 33.9180568584414, 'longitude': -84.3814399479132}",1.0
+Fresh To Order,"['1333 Johnson Ferry Rd', 'Marietta, GA 30068']",Marietta,4.0,132,"{'latitude': 33.98226, 'longitude': -84.4274}",2.0
+Bakaris Pizza & Kava Lounge,"['576 Lee St SW', 'Ste A', 'Atlanta, GA 30310']",Atlanta,3.0,88,"{'latitude': 33.7393507, 'longitude': -84.4133867}",1.0
+Big Easy Grille,"['1193 Collier Rd NW', 'Atlanta, GA 30318']",Atlanta,3.5,152,"{'latitude': 33.811701, 'longitude': -84.4245536}",2.0
+Gio's Chicken Amalfitano,"['1099 Hemphill Ave', 'Atlanta, GA 30318']",Atlanta,4.0,389,"{'latitude': 33.78489, 'longitude': -84.40566}",2.0
+Cameli's Pizza,"['337 Moreland Ave NE', 'Atlanta, GA 30307']",Atlanta,3.5,164,"{'latitude': 33.763561, 'longitude': -84.348831}",2.0
+Outback Steakhouse,"['2145 Lavista Rd', 'Atlanta, GA 30329']",Atlanta,3.0,174,"{'latitude': 33.816790482249125, 'longitude': -84.3152915}",2.0
+Marlow's Tavern,"['4156 LaVista Rd', 'Tucker, GA 30084']",Tucker,3.5,368,"{'latitude': 33.8474999, 'longitude': -84.24858}",2.0
+Umaido,"['2790 Lawrenceville Suwanee Rd', 'Ste 140', 'Suwanee, GA 30024']",Suwanee,4.0,928,"{'latitude': 34.0233003341495, 'longitude': -84.0449438804088}",2.0
+Sushi Osaka,"['6590 Sugarloaf Pkwy', 'Ste 107', 'Duluth, GA 30097']",Duluth,4.0,121,"{'latitude': 33.997476, 'longitude': -84.093509}",2.0
+The BQE Restaurant & Lounge,"['262 Edgewood Ave NE', 'Atlanta, GA 30303']",Atlanta,3.5,1081,"{'latitude': 33.7546, 'longitude': -84.37913}",2.0
+"Twelve Midtown, Autograph Collection","['361 17th Street NW', 'Atlanta, GA 30363']",Atlanta,3.0,89,"{'latitude': 33.7915131788664, 'longitude': -84.3983363233019}",3.0
+Moxie Burger,"['255 Village Pkwy NE', 'Ste 120', 'Marietta, GA 30067']",Marietta,4.0,335,"{'latitude': 33.9508954547354, 'longitude': -84.4133497535706}",2.0
+Octopus Bar,"['560 Gresham Ave', 'Atlanta, GA 30316']",Atlanta,3.5,188,"{'latitude': 33.7394022, 'longitude': -84.34564}",2.0
+Mercedes-Benz Stadium,"['1 AMB Dr', 'Atlanta, GA 30313']",Atlanta,4.0,267,"{'latitude': 33.7555059715783, 'longitude': -84.4009642033808}",
+Goodfellas Pizza & Wings,"['615 Spring St NW', 'Atlanta, GA 30308']",Atlanta,2.5,246,"{'latitude': 33.7714378, 'longitude': -84.3886951}",2.0
+10th & Piedmont,"['991 Piedmont Ave NE', 'Atlanta, GA 30309']",Atlanta,3.5,690,"{'latitude': 33.7816037982702, 'longitude': -84.3804334849119}",2.0
+Engineered Solutions of Georgia,"['2260 Northwest Pkwy', 'Ste H', 'Marietta, GA 30067']",Marietta,3.0,14,"{'latitude': 33.918904, 'longitude': -84.4895389}",
+Variety Playhouse,"['1099 Euclid Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,167,"{'latitude': 33.76357, 'longitude': -84.35035}",2.0
+Kimpton Overland Hotel,"['2 Porsche Dr', 'Atlanta, GA 30354']",Atlanta,3.5,25,"{'latitude': 33.652889, 'longitude': -84.400409}",2.0
+IHOP,"['428 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,2.5,148,"{'latitude': 33.77333, 'longitude': -84.37326}",2.0
+The Midway Pub,"['552 Flat Shoals Ave', 'Atlanta, GA 30316']",Atlanta,3.5,300,"{'latitude': 33.739462, 'longitude': -84.344155}",2.0
+Orient Express of Vinings,"['2921 Paces Ferry Rd', 'Atlanta, GA 30339']",Atlanta,3.5,451,"{'latitude': 33.8661673, 'longitude': -84.4681176}",2.0
+Raging Burrito & Taco,"['141 Sycamore St', 'Decatur, GA 30030']",Decatur,4.0,706,"{'latitude': 33.77442, 'longitude': -84.29547}",2.0
+First Watch,"['1675 Cumberland Pkwy SE', 'Ste 417', 'Smyrna, GA 30080']",Smyrna,3.5,355,"{'latitude': 33.84976, 'longitude': -84.4928953037204}",2.0
+Kura Revolving Sushi Bar,"['6035 Peachtree Blvd', 'Ste A107-A110', 'Doraville, GA 30360']",Doraville,3.5,607,"{'latitude': 33.908159, 'longitude': -84.287725}",2.0
+Candler Park Fall Fest,"['599 Candler Park Dr', 'Atlanta, GA 30307']",Atlanta,4.5,9,"{'latitude': 33.7710070610046, 'longitude': -84.3392756581306}",
+Camden Midtown Atlanta Apartments,"['265 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,3.5,54,"{'latitude': 33.771426623657, 'longitude': -84.3787929689453}",
+W Atlanta - Midtown,"['188 14th Street, NE', 'Atlanta, GA 30361']",Atlanta,3.0,448,"{'latitude': 33.78694, 'longitude': -84.38138}",3.0
+My Clayground,"['12050 Etris Rd', 'Ste E130', 'Roswell, GA 30075']",Roswell,4.5,24,"{'latitude': 34.0737225, 'longitude': -84.3633926}",2.0
+Augustine's,"['327 Memorial Dr', 'Atlanta, GA 30312']",Atlanta,3.5,275,"{'latitude': 33.746551, 'longitude': -84.376747}",2.0
+Red Pepper Taqueria,"['2149 Briarcliff Rd', 'Atlanta, GA 30329']",Atlanta,3.5,327,"{'latitude': 33.8167199, 'longitude': -84.33433}",2.0
+Lips - Atlanta,"['3011 Buford Hwy NE', 'Atlanta, GA 30329']",Atlanta,4.0,317,"{'latitude': 33.835595, 'longitude': -84.337109}",2.0
+Corporate Square,"['3 Corporate Blvd NE', 'Atlanta, GA 30329']",Atlanta,4.0,2,"{'latitude': 33.83566, 'longitude': -84.33112}",
+The Wing Bar,"['494 Flat Shoals Ave', 'Atlanta, GA 30316']",Atlanta,4.0,154,"{'latitude': 33.7407379150391, 'longitude': -84.3455429077148}",2.0
+Frost Bistro & Bar,"['281 Peters St SW', 'Atlanta, GA 30313']",Atlanta,2.5,166,"{'latitude': 33.747, 'longitude': -84.4025}",2.0
+Omega 1,"['589 Atlanta St', 'Roswell, GA 30075']",Roswell,5.0,1,"{'latitude': 34.0146901, 'longitude': -84.3627651}",
+DaVinci's Pizzeria,"['1270 W Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,3.5,428,"{'latitude': 33.78927, 'longitude': -84.38821}",2.0
+Ormsbys,"['1170 Howell Mill Rd NW', 'Ste 20', 'Atlanta, GA 30318']",Atlanta,3.5,698,"{'latitude': 33.785819, 'longitude': -84.411958}",2.0
+Wing Factory,"['2997 Cumberland Blvd SE', 'Atlanta, GA 30339']",Atlanta,3.5,163,"{'latitude': 33.8820046, 'longitude': -84.4744552}",2.0
+South City Kitchen Vinings,"['1675 Cumberland Pkwy SE', 'Ste 401', 'Smyrna, GA 30080']",Smyrna,4.0,559,"{'latitude': 33.84933, 'longitude': -84.4923305511475}",2.0
+The Westin Buckhead Atlanta,"['3391 Peachtree Rd NE', 'Atlanta, GA 30326']",Atlanta,3.0,172,"{'latitude': 33.84868685166, 'longitude': -84.3653790260448}",3.0
+BurgerFi,"['One Cnn Center Plz', 'Atlanta, GA 30303']",Atlanta,3.0,112,"{'latitude': 33.7579401575518, 'longitude': -84.3946177249146}",2.0
+Nan Thai Fine Dining,"['1350 Spring St NW', 'Atlanta, GA 30309']",Atlanta,4.0,506,"{'latitude': 33.7916352, 'longitude': -84.3893652}",3.0
+Lickety Split Southern Kitchen & Bar,"['1155 Virginia Ave', 'Ste F', 'Hapeville, GA 30354']",Hapeville,4.0,209,"{'latitude': 33.659695, 'longitude': -84.428259}",2.0
+Seasons 52,"['90 Perimeter Ctr W', 'Dunwoody, GA 30346']",Dunwoody,4.0,731,"{'latitude': 33.9262630965362, 'longitude': -84.3395846107287}",2.0
+Sage Woodfire Tavern Perimeter,"['4505 Ashford Dunwoody Rd', 'Ste 8', 'Atlanta, GA 30346']",Atlanta,3.5,477,"{'latitude': 33.9249241, 'longitude': -84.3357354}",2.0
+Maura Neill & Associates - RE/MAX Around Atlanta Realty,"['11800 Amber Park Dr', 'Bldg 1, Ste 240', 'Alpharetta, GA 30009']",Alpharetta,5.0,14,"{'latitude': 34.0672799, 'longitude': -84.2779978}",
+Ruth's Chris Steak House- Alpharetta,"['11655 Haynes Bridge Rd', 'Alpharetta, GA 30009']",Alpharetta,4.0,150,"{'latitude': 34.0650834, 'longitude': -84.2921328}",3.0
+Scout,"['321 W Hill St', 'Decatur, GA 30030']",Decatur,4.0,157,"{'latitude': 33.7599980031247, 'longitude': -84.3026099517273}",2.0
+Polaris,"['265 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,4.0,306,"{'latitude': 33.7613764442732, 'longitude': -84.3866796520455}",3.0
+8ARM,"['710 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,3.5,225,"{'latitude': 33.7738023, 'longitude': -84.364226}",2.0
+Staybridge Suites Atlanta - Midtown,"['23 Linden Ave NW', 'Atlanta, GA 30308']",Atlanta,3.5,24,"{'latitude': 33.770218, 'longitude': -84.388248}",2.0
+Tokyo Sushi & Steak House,"['4624 Camp Highlands Rd', 'Ste 700', 'Smyrna, GA 30082']",Smyrna,4.0,112,"{'latitude': 33.8418, 'longitude': -84.50566}",2.0
+Mellow Mushroom College Park,"['1477 Virginia Ave', 'College Park, GA 30337']",College Park,3.0,159,"{'latitude': 33.65966, 'longitude': -84.43767}",2.0
+Jo's Grille,"['2120 Johnson Ferry Rd NE', 'Atlanta, GA 30319']",Atlanta,3.5,79,"{'latitude': 33.89289, 'longitude': -84.32665}",2.0
+Renaissance Concourse Atlanta Airport Hotel,"['One Hartsfield Centre Pkwy', 'Atlanta, GA 30354']",Atlanta,3.5,145,"{'latitude': 33.653909, 'longitude': -84.427255}",2.0
+Callanwold Arts Festival,"['980 Briarcliff Rd NE', 'Atlanta, GA 30306']",Atlanta,3.0,1,"{'latitude': 33.781845, 'longitude': -84.345085}",
+Taco Mac - Cumberland,"['3101 Cobb Pkwy SE', 'Ste 210', 'Atlanta, GA 30339']",Atlanta,2.5,369,"{'latitude': 33.87865, 'longitude': -84.456613}",2.0
+Lilli Midtown,"['693 Peachtree St NE', 'Atlanda, GA 30308']",Atlanda,5.0,5,"{'latitude': 33.7736045968965, 'longitude': -84.3844707901783}",
+AgileInfoways,"['3675 Crestwood Pkwy NW', 'Ste 202', 'Duluth, GA 30096']",Duluth,5.0,1,"{'latitude': 33.947617, 'longitude': -84.1300112}",
+Embassy Suites by Hilton Atlanta at Centennial Olympic Park,"['267 Marietta St', 'Centennial Olympic Park', 'Atlanta, GA 30313']",Atlanta,3.0,144,"{'latitude': 33.7605431, 'longitude': -84.3950598}",3.0
+Kuroshio Sushi Bar and Grille - Cumberland,"['2700 Cobb Pkwy', 'Ste B3', 'Smyrna, GA 30080']",Smyrna,4.0,612,"{'latitude': 33.8871192649708, 'longitude': -84.4753530155288}",2.0
+Holiday Inn Atlanta-Northlake,"['2158 Ranchwood Dr NE', 'Atlanta, GA 30345']",Atlanta,3.0,40,"{'latitude': 33.8476867675781, 'longitude': -84.2520523071289}",2.0
+Atlanta TV Install,"['3041 Ne Expy', 'Ste 1', 'Atlanta, GA 30341']",Atlanta,4.0,38,"{'latitude': 33.8698454271602, 'longitude': -84.2807149887084}",
+Another Broken Egg Cafe,"['4300 Paces Ferry Rd SE', 'Vinings, GA 30339']",Vinings,4.0,649,"{'latitude': 33.865474, 'longitude': -84.466126}",2.0
+Main Street School Of The Arts,"['2323 Main St', 'Tucker, GA 30084']",Tucker,4.5,4,"{'latitude': 33.8529849, 'longitude': -84.213937}",
+HOKI Japanese Restaurant,"['3300 Cobb Pkwy SE', 'Ste 114', 'Atlanta, GA 30339']",Atlanta,4.0,188,"{'latitude': 33.872599, 'longitude': -84.457768}",2.0
+City Barbeque,"['2511 Blackmon Dr', 'Decatur, GA 30033']",Decatur,4.0,245,"{'latitude': 33.7947657970313, 'longitude': -84.28729478980884}",2.0
+Thinking Man Tavern,"['537 W Howard Ave', 'Decatur, GA 30030']",Decatur,4.0,186,"{'latitude': 33.7677841186523, 'longitude': -84.3045806884766}",2.0
+Lazy Dog Restaurant & Bar,"['5224 Peachtree Pkwy', 'Peachtree Corners, GA 30092']",Peachtree Corners,4.0,330,"{'latitude': 33.979533, 'longitude': -84.21571961154547}",2.0
+Atlanta Audio & Automation,"['631 Miami Cir', 'Ste 15', 'Atlanta, GA 30324']",Atlanta,2.5,3,"{'latitude': 33.8283423, 'longitude': -84.366297}",
+UniverSoul Circus,"['Atlanta, GA 20784']",Atlanta,3.0,41,"{'latitude': 33.74832, 'longitude': -84.39111}",
+Olive Garden Italian Restaurant,"['2467 Cobb Pkwy SE', 'Smyrna, GA 30080']",Smyrna,2.5,230,"{'latitude': 33.89209, 'longitude': -84.47645}",2.0
+Mellow Mushroom Atlanta - Downtown,"['400 W Peachtree St', 'Ste 1', 'Atlanta, GA 30308']",Atlanta,3.5,268,"{'latitude': 33.7649533, 'longitude': -84.388648}",2.0
+The Olive Tree Greek And Italian Restaurant,"['849 Thornton Rd', 'Lithia Springs, GA 30122']",Lithia Springs,4.0,133,"{'latitude': 33.7812080383301, 'longitude': -84.6099395751953}",2.0
+Oy!,"['2355 Cumberland Pkwy SE', 'Ste 80', 'Atlanta, GA 30339']",Atlanta,3.5,682,"{'latitude': 33.85984, 'longitude': -84.48038}",2.0
+Rock Steady - Atlanta,"['907 Marietta St NW', 'Atlanta, GA 30318']",Atlanta,4.0,89,"{'latitude': 33.77722, 'longitude': -84.40768}",2.0
+Brick Store Pub,"['125 E Court Sq', 'Decatur, GA 30030']",Decatur,4.5,1265,"{'latitude': 33.7752295322651, 'longitude': -84.295852392792}",2.0
+Beef Grill,"['8599 Roswell Rd', 'Sandy Springs, GA 30350']",Sandy Springs,4.5,143,"{'latitude': 33.9887737, 'longitude': -84.3508846}",2.0
+Miller's Ale House - Alpharetta,"['10750 Davis Dr', 'Alpharetta, GA 30004']",Alpharetta,3.0,247,"{'latitude': 34.0420003577459, 'longitude': -84.3139141542249}",2.0
+Atlanta Jazz Festival,"['1071 Piedmont Ave NE', 'Piedmont Park', 'Atlanta, GA 30309']",Atlanta,4.5,26,"{'latitude': 33.7868168345605, 'longitude': -84.3730476475769}",1.0
+Paul Mitchell The School Atlanta,"['887 W Marietta St NW', 'Ste A', 'Atlanta, GA 30318']",Atlanta,3.5,87,"{'latitude': 33.781481, 'longitude': -84.41537}",1.0
+Avellino's,"['1328 Windsor Pkwy', 'Atlanta, GA 30319']",Atlanta,4.0,252,"{'latitude': 33.88111, 'longitude': -84.34266}",2.0
+Yebisuya,"['6035 Peachtree Rd', 'Ste A-105', 'Doraville, GA 30360']",Doraville,3.5,181,"{'latitude': 33.90782034440966, 'longitude': -84.28681672470418}",2.0
+Flying Biscuit Café,"['3280 Peachtree Rd NE', 'Ste 145', 'Atlanta, GA 30305']",Atlanta,3.5,501,"{'latitude': 33.8448716649604, 'longitude': -84.3715132785736}",2.0
+AIX,"['956 Brady Ave NW', 'Ste 100', 'Atlanta, GA 30318']",Atlanta,4.0,60,"{'latitude': 33.7811060009468, 'longitude': -84.4131068987056}",
+Gu's Dumplings,"['99 Krog St NE', 'Ste M', 'Atlanta, GA 30307']",Atlanta,3.5,455,"{'latitude': 33.7567055924841, 'longitude': -84.3641988024076}",2.0
+Golden Corral Buffet & Grill,"['2211 Cobb Pkwy. Se', 'Smyrna, GA 30080']",Smyrna,3.0,48,"{'latitude': 33.896291, 'longitude': -84.48017}",2.0
+Ru Sans,"['1220 Caroline St NE', 'Ste A200', 'Atlanta, GA 30307']",Atlanta,3.0,403,"{'latitude': 33.7589598122, 'longitude': -84.3489396572}",2.0
+Highland Tap,"['1026 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,3.5,303,"{'latitude': 33.7824913457336, 'longitude': -84.3545348905031}",2.0
+Hyatt Regency Suites Atlanta Northwest,"['2999 Windy Hill Rd', 'Marietta, GA 30067']",Marietta,3.5,85,"{'latitude': 33.9061347828752, 'longitude': -84.4661404564977}",2.0
+Renaissance Atlanta Airport Gateway Hotel,"['2081 Convention Center Concourse', 'Atlanta, GA 30337']",Atlanta,4.0,55,"{'latitude': 33.6429066226084, 'longitude': -84.456201027265}",3.0
+Sukoshi Atlanta,"['1201 Peachtree St NE', 'Ste 140', 'Atlanta, GA 30309']",Atlanta,3.5,39,"{'latitude': 33.7863036728799, 'longitude': -84.3830002425048}",
+Colletta,"['900 Third St', 'Alpharetta, GA 30009']",Alpharetta,4.0,319,"{'latitude': 34.0706691, 'longitude': -84.278951}",2.0
+Osteria 832,"['832 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,3.5,257,"{'latitude': 33.777239164269, 'longitude': -84.3528109656067}",2.0
+Buckhead Pizza,"['3324 Peachtree Rd', 'Ste B', 'Atlanta, GA 30326']",Atlanta,3.0,460,"{'latitude': 33.84582, 'longitude': -84.36988}",2.0
+La Costilla Grill,"['3979 Buford Hwy', 'St 109', 'Atlanta, GA 30345']",Atlanta,3.5,176,"{'latitude': 33.8585091, 'longitude': -84.3097076}",2.0
+3 Parks Wine Shop,"['451 Bill Kennedy Way SE', 'Atlanta, GA 30316']",Atlanta,5.0,40,"{'latitude': 33.7411361603277, 'longitude': -84.3582025459321}",2.0
+Four Seasons Hotel Atlanta,"['75 14th St NE', 'Atlanta, GA 30309']",Atlanta,4.0,126,"{'latitude': 33.7861665203699, 'longitude': -84.3853814132106}",3.0
+Fairfield Inn & Suites by Marriott Atlanta Vinings/Galleria,"['2450 Paces Ferry Road SE', 'Atlanta, GA 30339']",Atlanta,3.0,39,"{'latitude': 33.8622953820852, 'longitude': -84.4816553592681}",2.0
+"International School of Skin, Nailcare & Massage Therapy","['5600 Roswell Rd NE', 'Ste 014', 'Atlanta, GA 30342']",Atlanta,3.5,69,"{'latitude': 33.8811974876553, 'longitude': -84.3788574920654}",1.0
+Hoboken Cafe on Whitlock,"['688 Whitlock Ave', 'Marietta, GA 30064']",Marietta,4.5,221,"{'latitude': 33.95255, 'longitude': -84.57267}",1.0
+Victory Sandwich Bar,"['340 Church St', 'Decatur, GA 30030']",Decatur,4.0,457,"{'latitude': 33.7738122, 'longitude': -84.2950894}",1.0
+Maduros Cigars,"['2997 Cumberland Blvd', 'Ste 210', 'Atlanta, GA 30339']",Atlanta,4.5,24,"{'latitude': 33.8820046, 'longitude': -84.4744552}",2.0
+From the Earth Brewing Company,"['1570 Holcomb Bridge Rd', 'Ste 405', 'Roswell, GA 30076']",Roswell,4.5,149,"{'latitude': 34.0196967951366, 'longitude': -84.3128926625656}",2.0
+Ru San's,"['3365 Piedmont Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,412,"{'latitude': 33.84686141712818, 'longitude': -84.37241475029718}",2.0
+Kat's Cafe,"['970 Piedmont Ave', 'Atlanta, GA 30309']",Atlanta,4.0,232,"{'latitude': 33.78112, 'longitude': -84.38103}",2.0
+Atlanta Airport Marriott,"['4711 Best Rd', 'Atlanta, GA 30337']",Atlanta,3.5,242,"{'latitude': 33.626625284589, 'longitude': -84.4576093554497}",2.0
+Ocean Wave By Harry And Sons,"['820 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,429,"{'latitude': 33.7769336, 'longitude': -84.352722}",2.0
+The Imperial,"['726 W College Ave', 'Decatur, GA 30030']",Decatur,4.0,93,"{'latitude': 33.766089, 'longitude': -84.30631}",2.0
+The Glenwood,"['1263 Glenwood Ave SE', 'Atlanta, GA 30316']",Atlanta,3.5,167,"{'latitude': 33.7400151, 'longitude': -84.3461773}",2.0
+Over The Top Burger Bar,"['2685 Buford Hwy NE', 'Ste 800', 'Buford, GA 30518']",Buford,4.0,65,"{'latitude': 34.124298, 'longitude': -83.984685}",
+"The Sun Dial Restaurant, Bar & View","['210 Peachtree St NW', 'Atlanta, GA 30303']",Atlanta,3.5,1105,"{'latitude': 33.759349, 'longitude': -84.388573}",3.0
+Little Five Points Halloween Parade and Festival,"['Euclid/Moreland', 'Atlanta, GA 30307']",Atlanta,4.0,13,"{'latitude': 33.76552, 'longitude': -84.34913}",
+Sweet Tuna,"['6330 Halcyon Way', 'Ste 730', 'Alpharetta, GA 30005']",Alpharetta,4.5,23,"{'latitude': 34.06742, 'longitude': -84.20581}",2.0
+Lucky Key & Fuji Ya,"['4135 Lavista Rd', 'Tucker, GA 30084']",Tucker,3.0,205,"{'latitude': 33.8450761470374, 'longitude': -84.2497245482074}",2.0
+Shirt Shanty,"['2373 Ventura Rd SE', 'Smyrna, GA 30080']",Smyrna,4.0,7,"{'latitude': 33.89543, 'longitude': -84.53721}",
+Biltong Bar,"['675 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,4.0,187,"{'latitude': 33.773052, 'longitude': -84.365341}",2.0
+Thaicoon & Sushi Bar,"['1799 Briarcliff Rd NE', 'Atlanta, GA 30306']",Atlanta,4.0,362,"{'latitude': 33.8044395664894, 'longitude': -84.3355759796234}",2.0
+Newk's Eatery,"['4280 Lavista Rd', 'Ste C 109', 'Tucker, GA 30084']",Tucker,3.5,67,"{'latitude': 33.8484215660504, 'longitude': -84.244276}",2.0
+The Sipping Plant,"['6450 Roswell Rd', 'Ste B', 'Sandy Springs, GA 30328']",Sandy Springs,4.5,28,"{'latitude': 33.93112, 'longitude': -84.38066}",
+Link Your House,"['3695 Burnette Park Dr', 'Ste 5', 'Suwanee, GA 30024']",Suwanee,3.5,3,"{'latitude': 34.039231, 'longitude': -84.078453}",
+Red Sky Tapas & Bar,"['1255 Johnson Ferry Rd', 'Ste 16', 'Marietta, GA 30068']",Marietta,4.0,323,"{'latitude': 33.97933, 'longitude': -84.42305}",2.0
+FIGO Pasta - Edgewood / L5P,"['1220 Caroline St', 'Atlanta, GA 30307']",Atlanta,3.5,248,"{'latitude': 33.7586089801905, 'longitude': -84.3489823022162}",2.0
+Red Lobster,"['2579 Cobb Pkwy', 'Smyrna, GA 30080']",Smyrna,3.0,98,"{'latitude': 33.889744, 'longitude': -84.474448}",2.0
+Bantam Pub,"['737 Ralph Mcgill Blvd Ne', 'Atlanta, GA 30312']",Atlanta,4.0,330,"{'latitude': 33.76619, 'longitude': -84.36298}",2.0
+My Coffee Shop @ Eastlake,"['2462 Memorial Dr SE', 'Atlanta, GA 30317']",Atlanta,4.5,170,"{'latitude': 33.7473521, 'longitude': -84.3059586}",1.0
+Aldo's Italian Restaurant,"['6690 Roswell Rd NE', 'Atlanta, GA 30328']",Atlanta,3.5,109,"{'latitude': 33.9376620566223, 'longitude': -84.3787240912628}",2.0
+EAV Thai & Sushi,"['467 Flat Shoals Ave SE', 'Atlanta, GA 30316']",Atlanta,3.5,355,"{'latitude': 33.7411600343218, 'longitude': -84.3466898023248}",2.0
+Tin Lizzy's Cantina,"['77 12th St NE', 'Atlanta, GA 30309']",Atlanta,3.5,396,"{'latitude': 33.7843124, 'longitude': -84.3849641}",2.0
+Hudson Grille,"['942 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,3.0,507,"{'latitude': 33.7805935931214, 'longitude': -84.3843493888855}",2.0
+Realty Associates of Atlanta,"['3350 Northlake Pkwy', 'Atlanta, GA 30345']",Atlanta,3.0,2,"{'latitude': 33.8519736, 'longitude': -84.2506054}",
+Eddie Owen Presents at Red Clay Music Foundry,"['3116 Main St', 'Duluth, GA 30096']",Duluth,4.5,27,"{'latitude': 34.0025428, 'longitude': -84.1448136}",2.0
+Pacific Rim Bistro,"['303 Peachtree Ctr Ave NE', 'Atlanta, GA 30303']",Atlanta,3.5,243,"{'latitude': 33.762348, 'longitude': -84.385888}",2.0
+Regency Fine Art & Frame,"['1580 Holcomb Bridge Rd', 'Ste 5', 'Roswell, GA 30076']",Roswell,5.0,10,"{'latitude': 34.018021, 'longitude': -84.30983}",2.0
+Falafel King,"['1405 Oxford Rd NE', 'Atlanta, GA 30307']",Atlanta,4.0,261,"{'latitude': 33.7884536, 'longitude': -84.3262452}",1.0
+Marietta Fish Market,"['3185 Canton Rd', 'Marietta, GA 30066']",Marietta,3.5,635,"{'latitude': 34.029576328977, 'longitude': -84.5283856050531}",2.0
+Redlands Grill by J. Alexander's,"['5245 Peachtree Pkwy', 'Peachtree Corners, GA 30092']",Peachtree Corners,3.5,293,"{'latitude': 33.97851, 'longitude': -84.21798}",2.0
+The Corner Grille,"['3823 Main St', 'College Park, GA 30337']",College Park,4.0,860,"{'latitude': 33.6509524467712, 'longitude': -84.4498098127475}",2.0
+US Cafe,"['4499 S Cobb Dr', 'Smyrna, GA 30080']",Smyrna,3.5,180,"{'latitude': 33.845173, 'longitude': -84.501363}",1.0
+Uncle Maddio's Pizza - Tucker,"['3983 Lavista Rd', 'Ste 115', 'Tucker, GA 30084']",Tucker,3.5,76,"{'latitude': 33.8449551477867, 'longitude': -84.2550477848898}",1.0
+El Azteca,"['1412 Dunwoody Village Pkwy', 'Atlanta, GA 30338']",Atlanta,3.0,120,"{'latitude': 33.9505126163699, 'longitude': -84.3330961838364}",2.0
+The Original Hot Dog Factory,"['1529 Spring Rd Se', 'Unit E', 'Smyrna, GA 30080']",Smyrna,4.0,236,"{'latitude': 33.88174, 'longitude': -84.50653}",1.0
+Baraonda Italian Restaurant,"['710 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,3.5,542,"{'latitude': 33.773842, 'longitude': -84.384963}",2.0
+Hot Box Smoke & Vape,"['6225 Atlanta Hwy', 'Ste 105', 'Alpharetta, GA 30004']",Alpharetta,4.5,10,"{'latitude': 34.131467, 'longitude': -84.251103}",
+Seed Kitchen & Bar,"['1311 Johnson Ferry Rd', 'Ste 504', 'Marietta, GA 30068']",Marietta,4.0,593,"{'latitude': 33.97971, 'longitude': -84.42837}",2.0
+McCormick & Schmick's Seafood & Steaks,"['190 Marietta St', 'Atlanta, GA 30303']",Atlanta,3.0,388,"{'latitude': 33.757945103177605, 'longitude': -84.3938747}",3.0
+AMC Parkway Pointe 15,"['3101 Cobb Pkwy Ste 201', 'Ste 201', 'Atlanta, GA 30339']",Atlanta,3.5,207,"{'latitude': 33.87853, 'longitude': -84.45603}",
+Vespucci's Italian Kitchen,"['4805 Canton Rd', 'Ste 100', 'Marietta, GA 30066']",Marietta,4.0,133,"{'latitude': 34.06824, 'longitude': -84.52221}",2.0
+The Stratford,"['17 N Avondale Rd', 'Avondale Estates, GA 30002']",Avondale Estates,4.0,61,"{'latitude': 33.7766035681339, 'longitude': -84.2672866666667}",2.0
+"The Hotel at Avalon, Autograph Collection","['9000 Avalon Boulevard', 'Alpharetta, GA 30009']",Alpharetta,3.5,82,"{'latitude': 34.0707883609941, 'longitude': -84.273099}",3.0
+Chick-a-Biddy,"['264 19th St NW', 'Ste 2140', 'Atlanta, GA 30363']",Atlanta,3.0,575,"{'latitude': 33.7932715498028, 'longitude': -84.3966648416641}",2.0
+Tin Roof Cantina,"['2591 Briarcliff Rd NE', 'Atlanta, GA 30329']",Atlanta,3.0,194,"{'latitude': 33.82757, 'longitude': -84.32752}",2.0
+Mali Restaurant,"['961 Amsterdam Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,397,"{'latitude': 33.7874551, 'longitude': -84.3557158}",2.0
+Wahlburgers,"['455 Legends Pl SE', 'Ste 874', 'Atlanta, GA 30339']",Atlanta,3.5,435,"{'latitude': 33.888094, 'longitude': -84.470173}",2.0
+Monticello,"['2000 Powers Ferry Rd', 'Ste 1200', 'Marietta, GA 30067']",Marietta,3.5,114,"{'latitude': 33.9065763855571, 'longitude': -84.4654202833772}",2.0
+Cafe Intermezzo,"['4505 Ashford-Dunwoody Rd', 'Dunwoody, GA 30346']",Dunwoody,3.5,1001,"{'latitude': 33.9251099, 'longitude': -84.33598}",2.0
+El Sol,"['3599 Atlanta Rd SE', 'Smyrna, GA 30080']",Smyrna,3.5,103,"{'latitude': 33.86573, 'longitude': -84.49224}",2.0
+Cirque du Soleil - VOLTA,"['241 20th St', 'Atlanta, GA 30363']",Atlanta,3.0,29,"{'latitude': 33.7942914, 'longitude': -84.3964528}",
+ZuZZu,"['42 Oak St', 'Ste B', 'Roswell, GA 30075']",Roswell,4.5,161,"{'latitude': 34.02006, 'longitude': -84.3605199}",2.0
+Hop City Craft Beer and Wine,"['99 Krog St NE', 'Atlanta, GA 30307']",Atlanta,4.0,116,"{'latitude': 33.7568837868753, 'longitude': -84.3639648478851}",2.0
+BrickStone Cafe,"['66 Broad St NW', 'Atlanta, GA 30303']",Atlanta,4.0,57,"{'latitude': 33.7558538, 'longitude': -84.3894285}",1.0
+American Deli,"['2566 Shallowford Rd', 'Ste 103', 'Atlanta, GA 30318']",Atlanta,3.5,47,"{'latitude': 33.8623589850249, 'longitude': -84.28803548445096}",1.0
+Jack's Pizza & Wings,"['676 Highland Ave NE', 'Atlanta, GA 30312']",Atlanta,3.5,632,"{'latitude': 33.7614220974009, 'longitude': -84.3651514296633}",2.0
+Staybridge Suites Atlanta-Buckhead,"['540 Pharr Rd NE', 'Atlanta, GA 30305']",Atlanta,3.5,33,"{'latitude': 33.8371061, 'longitude': -84.3707634}",2.0
+HelloTech,"['Atlanta, GA 30301']",Atlanta,4.5,29,"{'latitude': 33.79755, 'longitude': -84.3899}",
+Shake Shack,"['3035 Peachtree Rd NE', 'Ste A146', 'Atlanta, GA 30305']",Atlanta,3.5,652,"{'latitude': 33.8377650451961, 'longitude': -84.3807818766296}",2.0
+Stockyard Burgers and Bones,"['26 Mill St', 'Marietta, GA 30060']",Marietta,4.0,750,"{'latitude': 33.9532241963646, 'longitude': -84.5516076147987}",2.0
+Local Expedition Wood Fired Grill,"['5315 Windward Pkwy', 'Ste B', 'Alpharetta, GA 30004']",Alpharetta,5.0,818,"{'latitude': 34.089366, 'longitude': -84.2749784}",2.0
+Mix'D UP Burgers,"['313 Blvd SE', 'Atlanta, GA 30312']",Atlanta,4.0,139,"{'latitude': 33.7459289510232, 'longitude': -84.3684092123774}",1.0
+Blue Moon Pizza,"['2359 Windy Hill Rd SE', 'Marietta, GA 30067']",Marietta,4.0,258,"{'latitude': 33.9043818528756, 'longitude': -84.4856345915405}",2.0
+Metro Café Diner,"['229 Peachtree St NE', 'Ste B17', 'Atlanta, GA 30303']",Atlanta,3.0,514,"{'latitude': 33.760412, 'longitude': -84.387102}",2.0
+Clash Graphics,"['2233 Peachtree Rd NE', 'Ste 202', 'Atlanta, GA 30309']",Atlanta,3.5,26,"{'latitude': 33.8396515, 'longitude': -84.379528}",
+Shoya Izakaya,"['6035 Peachtree Rd', 'Ste A101', 'Doraville, GA 30360']",Doraville,4.0,896,"{'latitude': 33.9078676264943, 'longitude': -84.2867246367364}",2.0
+Camden Paces Apartments,"['77 E Andrews Dr NW', 'Atlanta, GA 30305']",Atlanta,4.5,19,"{'latitude': 33.8437354, 'longitude': -84.3823238}",
+Applebee's Grill + Bar,"['4705 Memorial Dr', 'Decatur, GA 30032']",Decatur,2.0,69,"{'latitude': 33.783041, 'longitude': -84.236067}",2.0
+Little 5 Points Pizza,"['422 Seminole Ave NE', 'Atlanta, GA 30307']",Atlanta,3.5,192,"{'latitude': 33.765713, 'longitude': -84.349386}",1.0
+Newk's Eatery,"['1181 Hammond Dr', 'Ste 1000', 'Dunwoody, GA 30346']",Dunwoody,4.0,147,"{'latitude': 33.9196385, 'longitude': -84.341381}",2.0
+Peach State Party Rentals,"['745 Atlanta Hwy', 'Ste 200', 'Cumming, GA 30040']",Cumming,5.0,4,"{'latitude': 34.1831628, 'longitude': -84.1467762}",
+Twisted Kitchen,"['930 Spring St NW', 'Atlanta, GA 30309']",Atlanta,3.5,54,"{'latitude': 33.7803652540877, 'longitude': -84.3892112241129}",1.0
+Apex Museum,"['135 Auburn Ave NE', 'Atlanta, GA 30303']",Atlanta,3.5,30,"{'latitude': 33.75527, 'longitude': -84.38309}",
+Vintage Pizzeria,"['5510 Chamblee Dunwoody Rd', 'Dunwoody, GA 30338']",Dunwoody,3.5,68,"{'latitude': 33.948542, 'longitude': -84.337139}",2.0
+The Comet Pub & Lanes,"['2619 N Decatur Rd', 'Decatur, GA 30033']",Decatur,3.0,104,"{'latitude': 33.790579, 'longitude': -84.2877315}",2.0
+Lets Booth It,"['700 Dalrymple Rd', 'Ste 207', 'Atlanta, GA 30328']",Atlanta,4.5,34,"{'latitude': 33.9554363, 'longitude': -84.3635859}",
+Chicago Pizza And Sports Grille,"['3150 Highlands Pkwy SE', 'Smyrna, GA 30082']",Smyrna,3.5,203,"{'latitude': 33.827169, 'longitude': -84.496303}",2.0
+Ike's Cafe and Grill,"['1250 Tech Dr', 'Ste 200', 'Norcross, GA 30093']",Norcross,3.5,202,"{'latitude': 33.9139771923254, 'longitude': -84.1651610602577}",2.0
+J. R. Crickets,"['4479 S Cobb Dr', 'Smyrna, GA 30080']",Smyrna,3.0,114,"{'latitude': 33.8458251953125, 'longitude': -84.5024948120117}",2.0
+Fritti,"['309 N Highland Ave NE', 'Atlanta, GA 30307']",Atlanta,4.0,654,"{'latitude': 33.762945, 'longitude': -84.357776}",2.0
+Robin Gaucher Photography,"['1195 Cameron Ct NE', 'Atlanta, GA 30306']",Atlanta,3.5,3,"{'latitude': 33.7842330932617, 'longitude': -84.3408584594727}",
+Bare Bones Steakhouse,"['115 E Main St', 'Ste C-12', 'Buford, GA 30518']",Buford,4.0,267,"{'latitude': 34.12125, 'longitude': -84.00322}",3.0
+Three Sheets,"['6017 Sandy Springs Cir', 'Atlanta, GA 30328']",Atlanta,3.5,180,"{'latitude': 33.920061, 'longitude': -84.383397}",2.0
+Flatiron Restaurant & Bar,"['520 Flat Shoals Ave SE', 'Atlanta, GA 30316']",Atlanta,3.5,185,"{'latitude': 33.740046897504, 'longitude': -84.3451001336222}",2.0
+Bangkok Thyme,"['4969 Roswell Rd NE', 'Atlanta, GA 30342']",Atlanta,3.5,271,"{'latitude': 33.89016, 'longitude': -84.38077}",2.0
+Varuni Napoli - Krog,"['99 Krog St NE', 'Atlanta, GA 30307']",Atlanta,4.0,96,"{'latitude': 33.757111, 'longitude': -84.363843}",2.0
+Habanero's Taqueria,"['9550 Main St', 'Ste 120', 'Woodstock, GA 30188']",Woodstock,4.5,312,"{'latitude': 34.086726, 'longitude': -84.519574}",1.0
+Delta Sky Club - Concourse E,"['6000 N Terminal Pkwy', 'Atlanta, GA 30320']",Atlanta,3.5,135,"{'latitude': 33.640403, 'longitude': -84.424777}",2.0
+Kani House,"['10820 Abbotts Bridge Rd', 'Duluth, GA 30097']",Duluth,3.0,133,"{'latitude': 34.0462717735296, 'longitude': -84.1771220500926}",2.0
+Apron,"['2 Porsche Dr', 'Atlanta, GA 30354']",Atlanta,4.0,43,"{'latitude': 33.6530043717561, 'longitude': -84.400081771169}",
+Hungry Ghost,"['345 Edgewood Ave SE', 'Atlanta, GA 30312']",Atlanta,3.5,153,"{'latitude': 33.75414, 'longitude': -84.37639}",2.0
+Taco Mac - Lindbergh,"['573 Main St', 'Atlanta, GA 30324']",Atlanta,2.5,367,"{'latitude': 33.822309, 'longitude': -84.368353}",2.0
+China Garden,"['1579 Monroe Dr NE', 'Atlanta, GA 30324']",Atlanta,2.5,64,"{'latitude': 33.7992432, 'longitude': -84.3708551}",1.0
+ARI Korean BBQ,"['9700 Medlock Bridge Rd', 'Unit 112', 'Johns Creek, GA 30097']",Johns Creek,4.0,294,"{'latitude': 34.01751, 'longitude': -84.19246}",3.0
+Suite Food Lounge,"['375 Luckie St', 'Atlanta, GA 30313']",Atlanta,3.5,494,"{'latitude': 33.765005, 'longitude': -84.395784}",2.0
+Bread & Butterfly,"['290 Elizabeth St', 'Ste F', 'Atlanta, GA 30307']",Atlanta,4.0,381,"{'latitude': 33.7624231212812, 'longitude': -84.3580997362733}",2.0
+Atlanta Dogwood Festival,"['400 Park Dr', 'Atlanta, GA 30306']",Atlanta,4.0,67,"{'latitude': 33.788686, 'longitude': -84.373048}",
+Pisano's Pizzeria,"['2740 Summers St', 'Kennesaw, GA 30144']",Kennesaw,3.5,170,"{'latitude': 34.020389, 'longitude': -84.6140419251714}",1.0
+97 Estoria,"['727 Wylie St SE', 'Atlanta, GA 30316']",Atlanta,3.5,159,"{'latitude': 33.7520109574455, 'longitude': -84.3634582220696}",1.0
+Volare Bistro,"['603 N Central Ave', 'Hapeville, GA 30354']",Hapeville,4.5,308,"{'latitude': 33.6588025, 'longitude': -84.4088282}",2.0
+The Westin Atlanta Airport,"['4736 Best Rd', 'Atlanta, GA 30337']",Atlanta,3.0,270,"{'latitude': 33.6268488912393, 'longitude': -84.4572609670142}",2.0
+Museum of Design Atlanta,"['1315 Peachtree St', 'Atlanta, GA 30309']",Atlanta,3.5,41,"{'latitude': 33.790719, 'longitude': -84.384635}",
+Murph's,"['1 Galleria Pkwy SE', 'Atlanta, GA 30339']",Atlanta,4.0,88,"{'latitude': 33.884095, 'longitude': -84.466356}",2.0
+Your Event Solution,"['2970 S Waterworks Rd', 'Buford, GA 30518']",Buford,5.0,6,"{'latitude': 34.1447246074677, 'longitude': -83.9839547127485}",
+Blue Ribbon Grill,"['4006 Lavista Rd', 'Tucker, GA 30084']",Tucker,3.5,183,"{'latitude': 33.846856, 'longitude': -84.2547}",2.0
+Highland Cigar,"['245 N Highland Ave', 'Ste 140', 'Atlanta, GA 30307']",Atlanta,4.0,136,"{'latitude': 33.761709, 'longitude': -84.359652}",2.0
+Waffle House,"['1825 Pleasant Hill Rd', 'Duluth, GA 30096']",Duluth,3.0,43,"{'latitude': 33.9499207, 'longitude': -84.1289411}",1.0
+Courtyard by Marriott Atlanta Decatur Downtown/Emory,"['130 Clairemont Ave', 'Decatur, GA 30030']",Decatur,3.5,51,"{'latitude': 33.776813, 'longitude': -84.296952}",2.0
+The Bowl,"['369 Cobb Pkwy S', 'Marietta, GA 30062']",Marietta,4.5,330,"{'latitude': 33.943047, 'longitude': -84.5158}",2.0
+Umai Sushi and Noodles,"['701 Highland Ave', 'Atlanta, GA 30312']",Atlanta,3.5,408,"{'latitude': 33.76076, 'longitude': -84.36415}",2.0
+Taco Mac - Perimeter,"['1211 Ashford Crossing', 'Atlanta, GA 30346']",Atlanta,3.0,473,"{'latitude': 33.929126802, 'longitude': -84.3452194333077}",2.0
+Hyatt Place Atlanta Downtown,"['330 Peachtree St', 'Atlanta, GA 30308']",Atlanta,3.0,56,"{'latitude': 33.7633745661784, 'longitude': -84.3869318111791}",2.0
+Holiday Inn Express & Suites Atlanta-Emory University Area,"['2183 North Decatur Rd', 'Decatur, GA 30033']",Decatur,2.5,26,"{'latitude': 33.78993, 'longitude': -84.3028999}",2.0
+Italia Mediterranean Grill,"['2655 Cobb Pkwy NW', 'Kennesaw, GA 30152']",Kennesaw,4.5,129,"{'latitude': 34.0178225891952, 'longitude': -84.6195390075445}",2.0
+ATL Fusion BBQ,"['3801 Austell Rd', 'Marietta, GA 30008']",Marietta,3.5,102,"{'latitude': 33.86061, 'longitude': -84.59787}",1.0
+Mellow Mushroom Tucker,"['4135 Lavista Rd', 'Ste 630', 'Tucker, GA 30084']",Tucker,3.5,185,"{'latitude': 33.8449974021114, 'longitude': -84.2503883176329}",2.0
+Cirque Daiquiri Bar and Grill,"['2160 Monroe Dr NE', 'Atlanta, GA 30324']",Atlanta,2.5,521,"{'latitude': 33.810978, 'longitude': -84.370056}",2.0
+Hop's Chicken,"['675 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,3.0,479,"{'latitude': 33.7724257265375, 'longitude': -84.3658560037048}",1.0
+The Cheesecake Factory,"['4400 Ashford-Dunwoody Rd', 'Ste 3005', 'Atlanta, GA 30346']",Atlanta,3.0,535,"{'latitude': 33.9241702075311, 'longitude': -84.3392469334113}",2.0
+Rumi's Kitchen,"['7105 Avalon Blvd', 'Alpharetta, GA 30009']",Alpharetta,4.0,487,"{'latitude': 34.0709333984135, 'longitude': -84.274759413275}",3.0
+Cafe Istanbul 3,"['2880 Holcomb Bridge Rd', 'Ste D-108', 'Alpharetta, GA 30022']",Alpharetta,3.0,99,"{'latitude': 33.9904633036855, 'longitude': -84.2746906814624}",2.0
+Thank U Chicken,"['3473 Old Norcross Rd', 'Duluth, GA 30096']",Duluth,4.0,343,"{'latitude': 33.9662153972521, 'longitude': -84.1335720196366}",2.0
+Chef Rob's Caribbean Cafe & Upscale Lounge,"['5920 Roswell Rd', 'Ste A117', 'Atlanta, GA 30328']",Atlanta,3.0,529,"{'latitude': 33.9170740785912, 'longitude': -84.3806239349182}",2.0
+Sunbelt Technology,"['174 W Wieuca Road NE', 'Atlanta, GA 30342']",Atlanta,2.5,3,"{'latitude': 33.8706639335305, 'longitude': -84.3803738343239}",
+Harold's Chicken & Ice Bar,"['349 Edgewood Ave SE', 'Atlanta, GA 30312']",Atlanta,3.0,628,"{'latitude': 33.75414, 'longitude': -84.37614}",2.0
+Stats,"['300 Marietta St NW', 'Atlanta, GA 30313']",Atlanta,3.5,592,"{'latitude': 33.7616943, 'longitude': -84.3965409}",2.0
+BurgerFi,"['6141 Peachtree Pkwy', 'Ste 200', 'Peachtree Corners, GA 30092']",Peachtree Corners,4.0,210,"{'latitude': 33.95147, 'longitude': -84.23549}",2.0
+LunsPro Home Inspections,"['576 Sigman Rd NE', 'Ste 800', 'Conyers, GA 30013']",Conyers,4.5,153,"{'latitude': 33.64781, 'longitude': -83.97293}",
+Pizza Hut,"['3255 Buford Hwy', 'Atlanta, GA 30329']",Atlanta,2.0,29,"{'latitude': 33.842042, 'longitude': -84.32900887275262}",1.0
+Siracusa's NY Pizzeria,"['5350 United Dr SE', 'Ste 106', 'Smyrna, GA 30082']",Smyrna,3.5,111,"{'latitude': 33.842313, 'longitude': -84.524553}",2.0
+Padriac's,"['2460 Cumberland Pkwy', 'Ste 110', 'Atlanta, GA 30339']",Atlanta,3.5,104,"{'latitude': 33.86424, 'longitude': -84.4763049}",2.0
+Cafe Delight,"['63 Broad St NW', 'Atlanta, GA 30303']",Atlanta,3.5,48,"{'latitude': 33.753601, 'longitude': -84.390145}",1.0
+CMX CineBistro Peachtree Corners,"['5180 Town Center Blvd', 'Peachtree Corners, GA 30092']",Peachtree Corners,3.5,66,"{'latitude': 33.978951, 'longitude': -84.21398}",
+Sapori di Napoli,"['314 Church St', 'Decatur, GA 30030']",Decatur,4.0,265,"{'latitude': 33.77348, 'longitude': -84.29536}",2.0
+Teel Blue Innovations,"['3330 Cobb Pkwy', 'Acworth, GA 30101']",Acworth,5.0,1,"{'latitude': 34.036042, 'longitude': -84.677096}",
+The Juicy Crab,"['3650 Marketplace Blvd', 'Ste 920', 'East Point, GA 30344']",East Point,3.0,370,"{'latitude': 33.6581693, 'longitude': -84.5020409}",2.0
+Ja Biztown & Financial Park,"['Old Norcross Rd', 'Lawrenceville, GA 30046']",Lawrenceville,5.0,2,"{'latitude': 33.9546591064253, 'longitude': -84.0348294363708}",
+Chin Chin,"['2800 Spring Rd SE', 'Ste A', 'Atlanta, GA 30339']",Atlanta,3.0,133,"{'latitude': 33.88414, 'longitude': -84.47384}",2.0
+Zucca Bar & Pizzeria,"['2860 Atlanta Rd SE', 'Smyrna, GA 30080']",Smyrna,3.5,170,"{'latitude': 33.883751218577, 'longitude': -84.51469728437}",2.0
+Waffle House,"['3180 Tucker Norcross Rd', 'Tucker, GA 30084']",Tucker,2.5,17,"{'latitude': 33.882369, 'longitude': -84.220137}",1.0
+Paizanos,"['7 Jones St', 'Norcross, GA 30071']",Norcross,3.5,205,"{'latitude': 33.94262, 'longitude': -84.21298}",2.0
+Freeflight,"['186 Fay Dr', 'Kennesaw, GA 30144']",Kennesaw,4.0,1,"{'latitude': 34.0631980895996, 'longitude': -84.5566177368164}",
+Diesel Filling Station,"['870 N Highland Ave', 'Atlanta, GA 30306']",Atlanta,3.0,165,"{'latitude': 33.7783, 'longitude': -84.35307}",2.0
+Roswell Historic Cottage,"['972 Alpharetta St', 'Roswell, GA 30075']",Roswell,3.5,27,"{'latitude': 34.0251198, 'longitude': -84.3608017}",
+Cool Geekz,"['Lawrenceville, GA 30045']",Lawrenceville,5.0,59,"{'latitude': 33.9318504333496, 'longitude': -83.9169235229492}",
+The Butcher the Baker,"['23 N Park Sq', 'Marietta, GA 30060']",Marietta,4.0,240,"{'latitude': 33.9533662, 'longitude': -84.5501326}",2.0
+George's Restaurant & Bar,"['1041 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,165,"{'latitude': 33.7830260594339, 'longitude': -84.3543011137454}",2.0
+Izumi Asian Bistro,"['2035 Towne Lake Pkwy', 'Ste 150', 'Woodstock, GA 30189']",Woodstock,4.0,275,"{'latitude': 34.108437, 'longitude': -84.552442}",2.0
+Vingenzo's,"['105 E Main St', 'Ste 100', 'Woodstock, GA 30188']",Woodstock,3.5,270,"{'latitude': 34.1020897426087, 'longitude': -84.5186177453537}",2.0
+Elleven45 Lounge,"['2110 Peachtree Rd NW', 'Atlanta, GA 30309']",Atlanta,2.0,56,"{'latitude': 33.8120346069336, 'longitude': -84.3927459716797}",2.0
+SharpShooters USA,"['11261 Alpharetta Hwy', 'Roswell, GA 30076']",Roswell,4.0,82,"{'latitude': 34.05555739170335, 'longitude': -84.327854}",
+Tokyo Bay Japanese Buffet,"['925 Holcomb Bridge Rd', 'Roswell, GA 30076']",Roswell,3.5,421,"{'latitude': 34.02629, 'longitude': -84.33386}",2.0
+Little Spirit,"['299 N Highland Ave NE', 'Ste R3', 'Atlanta, GA 30307']",Atlanta,4.0,68,"{'latitude': 33.76232668678114, 'longitude': -84.359065}",
+Sugar Factory,"['1080 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,2.0,292,"{'latitude': 33.783451, 'longitude': -84.384036}",3.0
+Hoyle's Kitchen + Bar,"['1440 Roswell Rd', 'Marietta, GA 30062']",Marietta,4.0,143,"{'latitude': 33.95014, 'longitude': -84.50996}",2.0
+Tin Lizzy's Cantina,"['26 Andrew Young International Blvd NE', 'Atlanta, GA 30303']",Atlanta,3.5,315,"{'latitude': 33.759783, 'longitude': -84.386689}",2.0
+Cold Beer,"['670 Dekalb Ave NE', 'Ste 101', 'Atlanta, GA 30312']",Atlanta,4.0,101,"{'latitude': 33.75355, 'longitude': -84.36557}",2.0
+Nancy's Pizza Camp Creek,"['3360 Shelby Ln', 'East Point, GA 30344']",East Point,3.5,332,"{'latitude': 33.657718, 'longitude': -84.500541}",2.0
+Xengo Fusion Kitchen & Sushi,"['3162 Johnson Ferry', 'Ste 420', 'Marietta, GA 30062']",Marietta,3.5,107,"{'latitude': 34.0266480128128, 'longitude': -84.4223544193371}",2.0
+Neighbor's Pub,"['752 N Highland Ave NE', 'Ste C', 'Atlanta, GA 30306']",Atlanta,3.0,163,"{'latitude': 33.77501, 'longitude': -84.35288}",2.0
+Georgia Tech Hotel and Conference Center,"['800 Spring St', 'Atlanta, GA 30308']",Atlanta,3.5,92,"{'latitude': 33.7764479666866, 'longitude': -84.3892587276821}",2.0
+AVS Digital Lifestyles,"['Johns Creek, GA 30005']",Johns Creek,5.0,4,"{'latitude': 34.0952227, 'longitude': -84.2173403}",
+Farm Burger - Dunwoody,"['4514B Chamblee Dunwoody Rd', 'Dunwoody, GA 30338']",Dunwoody,4.0,554,"{'latitude': 33.9228345817657, 'longitude': -84.3153043064143}",2.0
+Landmark Diner - Downtown,"['60 Luckie St NW', 'Atlanta, GA 30303']",Atlanta,2.5,261,"{'latitude': 33.7566087737517, 'longitude': -84.3891067427183}",2.0
+Sips n Strokes,"['230 Hammond Dr', 'Bldg 400', 'Sandy Springs, GA 30328']",Sandy Springs,5.0,50,"{'latitude': 33.9202967570882, 'longitude': -84.3834693087372}",2.0
+Coca Cola Company,"['284 Centennial Olympic Park Dr NW', 'Atlanta, GA 30313']",Atlanta,4.0,25,"{'latitude': 33.762373, 'longitude': -84.392369}",2.0
+Eleventh Street Pub,"['1041 W Peachtree St NW', 'Atlanta, GA 30309']",Atlanta,3.5,101,"{'latitude': 33.783151, 'longitude': -84.387689}",2.0
+The Farmhouse,"['10950 Hutcheson Ferry Rd', 'Palmetto, GA 30268']",Palmetto,3.5,175,"{'latitude': 33.5282139932649, 'longitude': -84.7448585259606}",3.0
+Hyatt Centric Midtown Atlanta,"['125 10th St NE', 'Atlanta, GA 30309']",Atlanta,3.5,109,"{'latitude': 33.7814843, 'longitude': -84.3830344}",2.0
+Glow Galaxy,"['6527 Jimmy Carter Blvd', 'Norcross, GA 30071']",Norcross,3.5,33,"{'latitude': 33.9363861083984, 'longitude': -84.226806640625}",
+Minato Japanese Restaurant,"['2697 Spring Rd', 'Ste A', 'Smyrna, GA 30080']",Smyrna,4.0,215,"{'latitude': 33.88464, 'longitude': -84.47482}",2.0
+Pizzeria Lucca,"['96 Bulloch Ave', 'Roswell, GA 30075']",Roswell,4.0,239,"{'latitude': 34.01473, 'longitude': -84.36497}",2.0
+Certified Estate Sales,"['1930 Airport Industrial Park Dr', 'Marietta, GA 30060']",Marietta,3.5,9,"{'latitude': 33.9597105, 'longitude': -84.535878}",
+Smith's Olde Bar,"['1578 Piedmont Ave NE', 'Atlanta, GA 30324']",Atlanta,3.5,211,"{'latitude': 33.797614, 'longitude': -84.368852}",2.0
+The Juicy Crab,"['2205 Pleasant Hill Rd', 'Duluth, GA 30096']",Duluth,4.0,758,"{'latitude': 33.960427, 'longitude': -84.137894}",2.0
+Hudson Grille,"['6317 Roswell Rd', 'Sandy Springs, GA 30328']",Sandy Springs,3.5,319,"{'latitude': 33.9274566129277, 'longitude': -84.3784777563446}",2.0
+Caffé Gio,"['1099 Hemphill Ave', 'Atlanta, GA 30318']",Atlanta,2.5,90,"{'latitude': 33.78489, 'longitude': -84.405665}",1.0
+L'Thai Organic Cuisine & Wine Bar - Smyrna,"['4500 W Village Pl SE', 'Ste 1017', 'Smyrna, GA 30080']",Smyrna,3.5,219,"{'latitude': 33.843389, 'longitude': -84.490469}",2.0
+Twelve Eighty,"['1280 Peachtree St NE', 'Atlanta, GA 30309']",Atlanta,3.5,165,"{'latitude': 33.789483, 'longitude': -84.385685}",2.0
+Bach to Rock - Alpharetta,"['12315 Crabapple Rd', 'Ste 118', 'Alpharetta, GA 30004']",Alpharetta,5.0,6,"{'latitude': 34.08257, 'longitude': -84.3557}",2.0
+Revolving Sushi Factory,"['2700 Town Center Dr', 'Ste 112', 'Kennesaw, GA 30144']",Kennesaw,4.0,213,"{'latitude': 34.014516, 'longitude': -84.56447}",2.0
+Mellow Mushroom Dunwoody,"['5575 Chamblee Dunwoody Rd', 'Dunwoody, GA 30338']",Dunwoody,3.5,104,"{'latitude': 33.9505111144279, 'longitude': -84.3359547478504}",2.0
+Treehills Apartments Homes,"['100 Tree Hills Pkwy', 'Stone Mountain, GA 30083']",Stone Mountain,4.5,2,"{'latitude': 33.752935, 'longitude': -84.191707}",
+Yu-Ka Sushi Bar Roll & Pho,"['1197 Old Peachtree Rd', 'Suwanee, GA 30024']",Suwanee,3.5,251,"{'latitude': 34.0022928066412, 'longitude': -84.0798609933686}",2.0
+Eats,"['600 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,4.0,547,"{'latitude': 33.773711, 'longitude': -84.3672046}",1.0
+Samba Steakhouse,"['5690 Cumming Hwy', 'Sugar Hill, GA 30518']",Sugar Hill,4.0,140,"{'latitude': 34.1127100854505, 'longitude': -84.0728059948986}",2.0
+The Highlander,"['931 Monroe Dr NE', 'Ste C101', 'Atlanta, GA 30308']",Atlanta,3.5,339,"{'latitude': 33.779433, 'longitude': -84.367581}",2.0
+Applebee's Grill + Bar,"['3690 Cascade Rd', 'Atlanta, GA 30331']",Atlanta,1.5,139,"{'latitude': 33.723068, 'longitude': -84.508979}",2.0
+Zapata Tacos and Tequila Bar,"['15 Jones St NW', 'Norcross, GA 30071']",Norcross,4.0,353,"{'latitude': 33.9424666909958, 'longitude': -84.2128765754631}",2.0
+The Red Eyed Mule,"['430 S Marietta Pkwy SE', 'Marietta, GA 30060']",Marietta,4.5,678,"{'latitude': 33.94293, 'longitude': -84.54018}",1.0
+Senor Patron,"['3005 Old Alabama Rd', 'Ste 2000', 'Johns Creek, GA 30022']",Johns Creek,3.5,167,"{'latitude': 34.0210647357135, 'longitude': -84.2704232357919}",2.0
+Chin Chin 5,"['1100 Hammond Dr NE', 'Ste 40A', 'Atlanta, GA 30328']",Atlanta,2.5,127,"{'latitude': 33.91993, 'longitude': -84.35281}",2.0
+Embassy Suites by Hilton Atlanta Perimeter Center,"['1030 Crown Pointe Pkwy', 'Atlanta, GA 30338']",Atlanta,2.5,111,"{'latitude': 33.9309356, 'longitude': -84.3467893}",2.0
+Sutra Lounge,"['1136 Crescent Ave NE', 'Atlanta, GA 30309']",Atlanta,3.0,109,"{'latitude': 33.7857437133789, 'longitude': -84.3845367431641}",2.0
+Delta Sky Club - Concourse B - Gate 18,"['6000 N Terminal Rd', 'Atlanta, GA 30320']",Atlanta,4.0,124,"{'latitude': 33.6411087124035, 'longitude': -84.4359606997919}",2.0
+Art of Cuisine Catering,"['Ellenwood, GA 30273']",Ellenwood,3.0,2,"{'latitude': 33.606532396565, 'longitude': -84.2891042679548}",
+Pappadeaux Seafood Kitchen,"['10795 Davis Dr', 'Alpharetta, GA 30009']",Alpharetta,4.0,564,"{'latitude': 34.0416093481868, 'longitude': -84.3118503517342}",2.0
+The Wing Cafe & Tap House,"['2145 Roswell Rd', 'Ste 170', 'Marietta, GA 30062']",Marietta,3.5,260,"{'latitude': 33.968948, 'longitude': -84.491232}",2.0
+"Glenn Hotel, Autograph Collection","['110 Marietta St NW', 'Atlanta, GA 30303']",Atlanta,3.5,174,"{'latitude': 33.7570198228627, 'longitude': -84.3930412121927}",2.0
+Ruth's Chris Steak House - Kennesaw,"['620 Chastain Rd', 'Kennesaw, GA 30144']",Kennesaw,3.5,212,"{'latitude': 34.038191, 'longitude': -84.569345}",3.0
+Thompson Brothers Barbeque,"['2445 Cobb Pkwy SE', 'Smyrna, GA 30080']",Smyrna,4.0,234,"{'latitude': 33.8936112312537, 'longitude': -84.476483572422}",1.0
+The Legacy Theatre,"['1175 Senoia Rd', 'Ste C', 'Tyrone, GA 30290']",Tyrone,4.0,12,"{'latitude': 33.4891510009766, 'longitude': -84.5822982788086}",
+Barber Bistro,"['1871 Cobb Pkwy S', 'Marietta, GA 30060']",Marietta,3.5,87,"{'latitude': 33.90632, 'longitude': -84.489909}",2.0
+Path & Post Real Estate,"['214 River Park N Dr', 'Woodstock, GA 30188']",Woodstock,5.0,10,"{'latitude': 34.1400986, 'longitude': -84.5122411}",
+Rent The Occasion,"['500 Pike Park Dr', 'Ste A', 'Lawrenceville, GA 30046']",Lawrenceville,4.5,2,"{'latitude': 33.95637, 'longitude': -84.004583}",
+RosaMia Ristorante Italiano,"['11730 A Jones Bridge Rd', 'Johns Creek, GA 30005']",Johns Creek,4.0,193,"{'latitude': 34.06571, 'longitude': -84.21209}",2.0
+Main Event - Atlanta,"['3101 Cobb Pkwy SE', 'Ste 104', 'Atlanta, GA 30339']",Atlanta,2.5,327,"{'latitude': 33.8789326490419, 'longitude': -84.456336858197}",2.0
+Sushinobo,"['4500 W Village Pl', 'Ste 1005', 'Smyrna, GA 30080']",Smyrna,4.0,112,"{'latitude': 33.8441053364956, 'longitude': -84.490721291367}",2.0
+Good Word Brewing & Public House,"['3085 Main St', 'Ste 520', 'Duluth, GA 30096']",Duluth,4.5,277,"{'latitude': 34.003293, 'longitude': -84.144245}",2.0
+Standard at Roswell,"['994 Alpharetta St', 'Atlanta, GA 30075']",Atlanta,3.5,115,"{'latitude': 34.02562, 'longitude': -84.36054}",1.0
+Cantera by Cortland,"['3311 Flowerrs Rd S', 'Atlanta, GA 30341']",Atlanta,3.0,17,"{'latitude': 33.874841, 'longitude': -84.255896}",
+Johnny's New York Style Pizza,"['834 Virginia Ave', 'Hapeville, GA 30354']",Hapeville,3.5,99,"{'latitude': 33.6588203007646, 'longitude': -84.4161086953863}",1.0
+The Westin Atlanta Perimeter North,"['7 Concourse Pkwy NE', 'Atlanta, GA 30328']",Atlanta,3.0,177,"{'latitude': 33.91565, 'longitude': -84.3549587}",3.0
+Magnolia's Kitchen Catering,"['12881 Deer Park Ln', 'Alpharetta, GA 30004']",Alpharetta,3.0,2,"{'latitude': 34.09484, 'longitude': -84.26577}",
+Amnesia Club & Lounge,"['3220 Butner Rd', 'Stte 230', 'Atlanta, GA 30331']",Atlanta,2.0,21,"{'latitude': 33.666974, 'longitude': -84.549074}",2.0
+St James Live,"['3220 Butner Rd', 'Atlanta, GA 30331']",Atlanta,3.5,102,"{'latitude': 33.6664810180664, 'longitude': -84.5494155883789}",2.0
+Charlton's Grill and Tap,"['3005 Old Alabama Rd', 'Ste 100', 'Johns Creek, GA 30022']",Johns Creek,4.0,91,"{'latitude': 34.020385, 'longitude': -84.271565}",2.0
+Embassy Suites by Hilton Atlanta Buckhead,"['3285 Peachtree Rd NE', 'Atlanta, GA 30305']",Atlanta,2.0,211,"{'latitude': 33.8445899053212, 'longitude': -84.3686474165065}",2.0
+Twelve Oaks Bed and Breakfast,"['2176 Monticello St', 'Covington, GA 30014']",Covington,5.0,22,"{'latitude': 33.591877, 'longitude': -83.860603}",3.0
+CNN Center,"['190 Marietta St NW', 'Atlanta, GA 30303']",Atlanta,3.5,197,"{'latitude': 33.756595482973, 'longitude': -84.3968100600803}",
+Johnny's New York Style Pizza,"['1435 Highlands Ridge Rd SE', 'Ste A', 'Smyrna, GA 30082']",Smyrna,2.5,54,"{'latitude': 33.840172, 'longitude': -84.5188549}",2.0
+Porsche Experience Center,"['One Porsche Dr', 'Atlanta, GA 30354']",Atlanta,4.0,42,"{'latitude': 33.64929, 'longitude': -84.399075}",
+Bluetop,"['5362 Peachtree Rd', 'Chamblee, GA 30341']",Chamblee,4.0,173,"{'latitude': 33.8914300831849, 'longitude': -84.3018199503422}",2.0
+Adda Sports Pub & Eatery,"['3455 Peachtree Pkwy', 'Ste 212', 'Suwanee, GA 30024']",Suwanee,4.0,56,"{'latitude': 34.0780939125253, 'longitude': -84.1619536730163}",2.0
+Hudson Grille- Kennesaw,"['2500 Cobb Place Ln NW', 'Kennesaw, GA 30144']",Kennesaw,4.0,152,"{'latitude': 34.0134697574835, 'longitude': -84.5719779200989}",2.0
+IHOP,"['6120 Roswell Rd', 'Sandy Springs, GA 30328']",Sandy Springs,2.5,86,"{'latitude': 33.9222, 'longitude': -84.37957}",1.0
+Roma Italiano Ristorante,"['3455 Peachtree Industrial Blvd', 'Ste 840', 'Duluth, GA 30096']",Duluth,4.5,236,"{'latitude': 34.006417, 'longitude': -84.170745}",2.0
+Taco Mac - Virginia Highlands,"['1006 N Highland Ave NE', 'Atlanta, GA 30306']",Atlanta,3.0,208,"{'latitude': 33.781967, 'longitude': -84.354628}",2.0
+Blake's On The Park,"['227 10th St NE', 'Atlanta, GA 30309']",Atlanta,3.5,171,"{'latitude': 33.7815399169922, 'longitude': -84.3799057006836}",2.0
+1920 Tavern,"['948 Canton St', 'Roswell, GA 30075']",Roswell,4.0,346,"{'latitude': 34.02437, 'longitude': -84.3618}",2.0
+Bella's Pizzeria,"['3599 Atlanta Rd SE', 'Ste A13', 'Smyrna, GA 30080']",Smyrna,3.0,173,"{'latitude': 33.86573, 'longitude': -84.49224}",2.0
+Kuroshio Sushi Bar and Grille,"['840 Ernest Barrett Pkwy', 'Ste 500', 'Kennesaw, GA 30144']",Kennesaw,4.0,408,"{'latitude': 34.0093596611965, 'longitude': -84.5764525965729}",2.0
+IHOP,"['2530 Cobb Pkwy SE', 'Smyrna, GA 30080']",Smyrna,2.5,73,"{'latitude': 33.89257, 'longitude': -84.47849}",1.0
+Shake Shack,"['670 DeKalb Ave NE', 'Ste 103', 'Atlanta, GA 30307']",Atlanta,3.5,90,"{'latitude': 33.75355, 'longitude': -84.36557}",
+The American Hotel Atlanta Downtown - a DoubleTree by Hilton,"['160 Ted Turner Dr NW', 'Atlanta, GA 30303']",Atlanta,2.5,165,"{'latitude': 33.7593076824979, 'longitude': -84.3899184465408}",2.0
+Park West Vintage,"['17 Whitlock Ave SW', 'Marietta, GA 30064']",Marietta,3.5,25,"{'latitude': 33.9521446, 'longitude': -84.5511398}",2.0
+Buca di Beppo Italian Restaurant,"['2335 Mansell Rd', 'Alpharetta, GA 30022']",Alpharetta,3.0,265,"{'latitude': 34.0374132606901, 'longitude': -84.3073815107345}",2.0
+Brooklyn Joe's,"['13065 Hwy 9', 'Milton, GA 30004']",Milton,3.5,120,"{'latitude': 34.1010152, 'longitude': -84.2704554}",2.0
+Boogalou,"['239 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,3.0,425,"{'latitude': 33.7723821771461, 'longitude': -84.3794678896666}",2.0
+Mezzo Apartment Homes,"['2171 Peachtree Rd NE', 'Atlanta, GA 30309']",Atlanta,4.0,11,"{'latitude': 33.813699, 'longitude': -84.3922757}",
+The Murder Mystery Co - Tucker,"['4431 Hugh Howell Rd', 'Tucker, GA 30084']",Tucker,1.5,21,"{'latitude': 33.8502419, 'longitude': -84.2065793}",
+Three Blind Mice,"['1066 Killian Hill Rd', 'Lilburn, GA 30047']",Lilburn,3.5,215,"{'latitude': 33.867115020752, 'longitude': -84.0905227661133}",2.0
+Sonesta Atlanta Airport North,"['1325 Virginia Ave', 'Atlanta, GA 30344']",Atlanta,3.0,128,"{'latitude': 33.660125, 'longitude': -84.431834}",2.0
+Crowne Plaza Atlanta Perimeter at Ravinia,"['4355 Ashford Dunwoody Rd', 'Atlanta, GA 30346']",Atlanta,3.0,159,"{'latitude': 33.920926, 'longitude': -84.33779}",2.0
+SpringHill Suites by Marriott Atlanta Perimeter Center,"['1005 Crestline Pkwy', 'Atlanta, GA 30328']",Atlanta,3.0,61,"{'latitude': 33.9291515236475, 'longitude': -84.3568455276585}",2.0
+Hudson Grille,"['120 Marietta St', 'Atlanta, GA 30303']",Atlanta,3.0,498,"{'latitude': 33.7574775607951, 'longitude': -84.3934767477506}",2.0
+Peace Love and Pizza,"['3960 Mary Eliza Trace NW', 'Ste 1100', 'Marietta, GA 30064']",Marietta,4.0,117,"{'latitude': 33.9676003791338, 'longitude': -84.6673455305542}",2.0
+Addis X Hookah Lounge,"['1920 Manville Dr', 'Chamblee, GA 30341']",Chamblee,3.5,29,"{'latitude': 33.8666170835495, 'longitude': -84.3106578290462}",1.0
+Vg bistro + bar,"['70 W Crossville Rd', 'Roswell, GA 30075']",Roswell,3.5,205,"{'latitude': 34.048753, 'longitude': -84.36324}",3.0
+"Ellis Hotel, Atlanta, a Tribute Portfolio Hotel","['176 Peachtree Street NW', 'Atlanta, GA 30303']",Atlanta,3.5,176,"{'latitude': 33.758323, 'longitude': -84.387857}",2.0
+The Inn at Serenbe,"['10950 Hutchesons Ferry Rd', 'Chatt Hills, GA 30268']",Chatt Hills,3.5,20,"{'latitude': 33.5279947442673, 'longitude': -84.744140064045}",
+Office Depot,"['1155 Mount Vernon Hwy', 'Ste 700', 'Atlanta, GA 30338']",Atlanta,3.0,16,"{'latitude': 33.932628, 'longitude': -84.349403}",2.0
+The Loaded Burger,"['Atlanta, GA 30339']",Atlanta,3.0,34,"{'latitude': 33.86624, 'longitude': -84.4698}",2.0
+DyverCity,"['6199 GA-92', 'Ste 200', 'Acworth, GA 30102']",Acworth,3.5,7,"{'latitude': 34.0899958458337, 'longitude': -84.5843910287377}",
+Comfort Inn Atlanta Downtown South,"['795 Pollard Blvd', 'Atlanta, GA 30315']",Atlanta,3.0,12,"{'latitude': 33.733017, 'longitude': -84.391293}",1.0
+AMC North Dekalb 16,"['2042 Lawrenceville Hwy', 'Decatur, GA 30033']",Decatur,3.0,156,"{'latitude': 33.806943069392, 'longitude': -84.2775315629038}",
+Mariscos Mazatlan Seafood Bar and Grill,"['1650 Pleasant Hill Rd', 'Duluth, GA 30096']",Duluth,3.5,69,"{'latitude': 33.94619, 'longitude': -84.12514}",3.0
+Primo's Pizza & Italian Kitchen,"['12910 Ga 92', 'Ste 100', 'Woodstock, GA 30188']",Woodstock,4.0,26,"{'latitude': 34.086968, 'longitude': -84.472772}",
+Hilton Garden Inn Atlanta Downtown,"['275 Baker St NW', 'Atlanta, GA 30313']",Atlanta,3.5,92,"{'latitude': 33.7618814, 'longitude': -84.3956335}",2.0
+Kwan's Deli and Korean Kitchen,"['267 Marietta St NW', 'Ste 100', 'Atlanta, GA 30313']",Atlanta,4.0,342,"{'latitude': 33.76089682176553, 'longitude': -84.39419350429588}",2.0
+Hooters,"['209 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,2.0,404,"{'latitude': 33.7595139, 'longitude': -84.387442}",2.0
+Atlanta Greek Festival,"['2500 Clairmont Rd NE', 'Greek Orthodox Cathedral of the Annunciation', 'Atlanta, GA 30329']",Atlanta,3.0,23,"{'latitude': 33.8301779, 'longitude': -84.309603}",
+Kani House,"['3208 Buford Dr', 'Buford, GA 30519']",Buford,3.5,169,"{'latitude': 34.0633572633332, 'longitude': -83.9912827407032}",2.0
+Mondo Italian Kitchen,"['14155 Hwy 9 N', 'Ste 500', 'Milton, GA 30004']",Milton,4.0,80,"{'latitude': 34.125402, 'longitude': -84.267678}",2.0
+Tannery Row Ale House,"['554 W Main St', 'Buford, GA 30518']",Buford,3.5,271,"{'latitude': 34.114444, 'longitude': -84.012311}",2.0
+Memorial Tattoo,"['809 Moreland Ave SE', 'Atlanta, GA 30316']",Atlanta,4.5,82,"{'latitude': 33.7322976, 'longitude': -84.349517}",2.0
+Luxe Rentalry of Atlanta,"['4360 Commerce Cir SW', 'Ste C', 'Atlanta, GA 30336']",Atlanta,3.0,7,"{'latitude': 33.7621455, 'longitude': -84.5300008}",
+Molly B's,"['1 Amb Dr NW', 'Atlanta, GA 30313']",Atlanta,3.0,24,"{'latitude': 33.79388, 'longitude': -84.48362}",2.0
+Cafe Hot Wing 8,"['1153 Roswell Rd', 'Marietta, GA 30062']",Marietta,3.5,22,"{'latitude': 33.95121, 'longitude': -84.518158}",1.0
+La Quinta by Wyndham Atlanta Midtown - Buckhead,"['2535 Chantilly Dr Northeast', 'Atlanta, GA 30324']",Atlanta,3.0,41,"{'latitude': 33.823703, 'longitude': -84.350058}",2.0
+Starlight Drive-In Theatre & Flea Market,"['2000 Moreland Ave SE', 'Atlanta, GA 30316']",Atlanta,4.0,320,"{'latitude': 33.7024189804245, 'longitude': -84.3490904710693}",1.0
+Butcher & Brew,"['3 S Main St', 'Alpharetta, GA 30009']",Alpharetta,4.5,249,"{'latitude': 34.0753936767578, 'longitude': -84.2948837280273}",2.0
+Tin Plate Conyers,"['914 Commercial St', 'Conyers, GA 30012']",Conyers,4.0,136,"{'latitude': 33.66663, 'longitude': -84.01743}",2.0
+EVEN Hotel Alpharetta - Avalon Area,"['2715 Old Milton Pkwy', 'Alpharetta, GA 30009']",Alpharetta,4.0,10,"{'latitude': 34.067747, 'longitude': -84.281392}",
+Peace Love and Pizza,"['14205 Hwy 92', 'Ste 110', 'Woodstock, GA 30188']",Woodstock,3.5,88,"{'latitude': 34.081907, 'longitude': -84.452548}",2.0
+LongHorn Steakhouse,"['4721 Lower Roswell Rd', 'Marietta, GA 30068']",Marietta,3.0,60,"{'latitude': 33.9664917, 'longitude': -84.414299}",2.0
+Alphagraphics,"['993 Mansell Rd', 'Ste C', 'Roswell, GA 30076']",Roswell,3.0,9,"{'latitude': 34.0426469, 'longitude': -84.3324171}",
+Secreto Southern Kitchen & Bar,"['6195 Windward Pkwy', 'Ste 102', 'Alpharetta, GA 30005']",Alpharetta,4.5,330,"{'latitude': 34.09353, 'longitude': -84.23733}",3.0
+Benihana,"['2143 Peachtree Rd NE', 'Atlanta, GA 30309']",Atlanta,2.0,615,"{'latitude': 33.8127687910815, 'longitude': -84.3917998445591}",2.0
+Rootstock,"['8558 Main St', 'Woodstock, GA 30188']",Woodstock,3.5,118,"{'latitude': 34.10153215128977, 'longitude': -84.51957424957031}",2.0
+Capozzi's,"['2960 Shallowford Rd', 'Ste101', 'Marietta, GA 30066']",Marietta,4.0,79,"{'latitude': 34.0339151342653, 'longitude': -84.4654279080833}",2.0
+Medieval Times Dinner & Tournament,"['5900 Sugarloaf Pkwy', 'Lawrenceville, GA 30043']",Lawrenceville,4.0,249,"{'latitude': 33.9801012609285, 'longitude': -84.0797633492432}",3.0
+Reel Seafood,"['8670 Main St', 'Woodstock, GA 30188']",Woodstock,4.0,344,"{'latitude': 34.099904, 'longitude': -84.520197}",2.0
+Restaurant Holmes,"['50 S Main St', 'Alpharetta, GA 30009']",Alpharetta,4.0,145,"{'latitude': 34.0742914897477, 'longitude': -84.2942964945112}",
+Fernbank Museum of Natural History,"['767 Clifton Rd NE', 'Atlanta, GA 30307']",Atlanta,3.5,257,"{'latitude': 33.77402, 'longitude': -84.328051}",
+Eleven85 Apartments,"['1185 Collier Rd NW', 'Atlanta, GA 30318']",Atlanta,3.0,46,"{'latitude': 33.81154, 'longitude': -84.42399}",
+Sushi Mio,"['11030 Medlock Bridge Rd', 'Ste 150', 'Johns Creek, GA 30097']",Johns Creek,4.0,67,"{'latitude': 34.050834, 'longitude': -84.176997}",2.0
+Ru San's,"['425 Ernest Barret Pkwy', 'Ste 1090', 'Kennesaw, GA 30144']",Kennesaw,3.0,187,"{'latitude': 34.0118102, 'longitude': -84.5613678}",2.0
+Red Robin Gourmet Burgers and Brews,"['1250 Scenic Hwy', 'Ste 1500', 'Lawrenceville, GA 30045']",Lawrenceville,2.5,193,"{'latitude': 33.900412, 'longitude': -84.004805}",2.0
+Traton Homes,"['720 Kennesaw Ave NW', 'Marietta, GA 30060']",Marietta,3.5,7,"{'latitude': 33.9707269, 'longitude': -84.5631546}",
+Signarama Buford & Duluth,"['4737 Thompson Mill Rd', 'Buford, GA 30518']",Buford,5.0,3,"{'latitude': 34.1221065, 'longitude': -83.983616}",
+The Reserve At Johns Creek Walk,"['6215 Johns Creek Commons', 'Johns Creek, GA 30097']",Johns Creek,3.5,4,"{'latitude': 34.0509275, 'longitude': -84.1789466}",
+Omni Atlanta Hotel at CNN Center,"['100 Cnn Ctr', 'Atlanta, GA 30303']",Atlanta,3.0,481,"{'latitude': 33.7585359254548, 'longitude': -84.3943332688945}",3.0
+Atlanta Marriott Northwest at Galleria,"['200 Interstate N Pkwy SE', 'Atlanta, GA 30339']",Atlanta,2.5,114,"{'latitude': 33.8985116977709, 'longitude': -84.4669890403748}",2.0
+Atlanta International Auto Show,"['235 Northside Dr SW', 'Bldg C', 'Atlanta, GA 30313']",Atlanta,2.5,9,"{'latitude': 33.7612760119451, 'longitude': -84.4015801595643}",
+Hibachi,"['3230 Medlock Bridge Rd', 'Ste 106', 'Norcross, GA 30092']",Norcross,3.5,39,"{'latitude': 33.96267, 'longitude': -84.20741}",1.0
+Mazzy's Sports Bar & Grill - Marietta,"['2217 Roswell Rd Ne', 'Marietta, GA 30062']",Marietta,3.5,146,"{'latitude': 33.971535815617, 'longitude': -84.4884746615226}",1.0
+IHOP,"['3130 Johnson Ferry Rd', 'Marietta, GA 30062']",Marietta,4.0,41,"{'latitude': 34.02376, 'longitude': -84.42486}",1.0
+Pearl Lian Restaurant & Bar,"['11600 Medlock Bridge Rd', 'Ste 100', 'Duluth, GA 30097']",Duluth,3.5,173,"{'latitude': 34.0638226323532, 'longitude': -84.1717785533859}",2.0
+Andrews Security Inc,"['1875 Old Alabama Rd', 'Roswell, GA 30076']",Roswell,3.5,3,"{'latitude': 34.023988, 'longitude': -84.306262}",
+The Hill,"['9110 Selborne Ln', 'Ste 110', 'Serenbe', 'Chattahoochee Hills, GA 30268']",Chattahoochee Hills,4.0,159,"{'latitude': 33.524884, 'longitude': -84.735872}",2.0
+Set The Stage,"['Kennesaw, GA 30152']",Kennesaw,5.0,2,"{'latitude': 33.9940452575684, 'longitude': -84.6482009887695}",
+Burger 21 - Kennesaw,"['1300 Ernest W Barrett Pkwy NW', 'Ste 310', 'Kennesaw, GA 30144']",Kennesaw,3.5,190,"{'latitude': 33.9981617963156, 'longitude': -84.5903488621116}",2.0
+Atlanta Marriott Northeast/Emory Area,"['2000 Century Boulevard  NE', 'Atlanta, GA 30345']",Atlanta,3.5,71,"{'latitude': 33.84407, 'longitude': -84.30796}",2.0
+Ceviche Taqueria & Margarita Bar,"['963 Canton St', 'Roswell, GA 30075']",Roswell,3.5,304,"{'latitude': 34.0248260498047, 'longitude': -84.3612518310547}",2.0
+Piastra,"['45 W Park Sq', 'Marietta, GA 30060']",Marietta,4.0,162,"{'latitude': 33.9531, 'longitude': -84.55028}",2.0
+Keegan's Public House,"['1085 Buckhead Crossing', 'Ste 140', 'Woodstock, GA 30189']",Woodstock,3.5,88,"{'latitude': 34.1068646949937, 'longitude': -84.5416034013033}",2.0
+Newk's Eatery,"['5185 Peachtree Pkwy', 'Ste 105', 'Norcross, GA 30092']",Norcross,3.0,68,"{'latitude': 33.979177, 'longitude': -84.219603}",2.0
+Comfort Inn & Suites Ballpark Area,"['2221 Corporate Plaza Pkwy S', 'Smyrna, GA 30080']",Smyrna,3.5,23,"{'latitude': 33.89988, 'longitude': -84.47685}",2.0
+Westmar Student Lofts,"['800 W Marietta St NW', 'Atlanta, GA 30318']",Atlanta,2.5,92,"{'latitude': 33.778974, 'longitude': -84.4128554}",
+The Stout Brothers,"['1265 W Spring St', 'Ste D', 'Smyrna, GA 30080']",Smyrna,4.5,91,"{'latitude': 33.8838202561538, 'longitude': -84.5153241606178}",2.0
+Sports & Social,"['825 Battery Ave SE', 'Ste 300', 'Atlanta, GA 30339']",Atlanta,2.5,227,"{'latitude': 33.889773, 'longitude': -84.469588}",2.0
+Casanova Mexican Restaurant,"['1651 Powder Springs Rd SW', 'Marietta, GA 30064']",Marietta,3.5,107,"{'latitude': 33.9078182590972, 'longitude': -84.6008017659187}",2.0
+DoubleTree by Hilton,"['2061 N Druid Hills Rd NE', 'Atlanta, GA 30329']",Atlanta,2.5,93,"{'latitude': 33.831868, 'longitude': -84.338117}",2.0
+Okinawa Restaurant,"['1605 East-West Connector', 'Austell, GA 30106']",Austell,4.0,122,"{'latitude': 33.854147432951, 'longitude': -84.5983773842454}",2.0
+Alessio's Restaurant & Pizzeria,"['6955 McGinnis Ferry Rd', 'Johns Creek, GA 30097']",Johns Creek,4.0,87,"{'latitude': 34.0610181766621, 'longitude': -84.1577582076889}",2.0
+Soul Food Train,"['585 Franklin Rd SE', 'Marietta, GA 30067']",Marietta,4.0,50,"{'latitude': 33.938607, 'longitude': -84.50623}",1.0
+Chuy's,"['585 Ernest Barrett Pkwy', 'Kennesaw, GA 30144']",Kennesaw,3.5,250,"{'latitude': 34.0067704621665, 'longitude': -84.5718038189845}",2.0
+Salt Factory Pub,"['952 Canton St', 'Roswell, GA 30075']",Roswell,4.0,469,"{'latitude': 34.024672, 'longitude': -84.361789}",2.0
+Brake Pad,"['3403 Main St', 'College Park, GA 30337']",College Park,3.5,371,"{'latitude': 33.662856, 'longitude': -84.44664}",2.0
+Terrapin Taproom,"['755 Battery Ave SE', 'Atlanta, GA 30339']",Atlanta,3.5,179,"{'latitude': 33.8898593, 'longitude': -84.4684341}",2.0
+The Local,"['758 Ponce De Leon Ave NE', 'Atlanta, GA 30306']",Atlanta,4.0,311,"{'latitude': 33.77403, 'longitude': -84.362278}",1.0
+Schlotzsky's,"['1625 Pleasant Hill Rd', 'Ste 110', 'Duluth, GA 30096']",Duluth,3.0,18,"{'latitude': 33.9438687, 'longitude': -84.128239}",1.0
+Ted's Montana Grill - East Cobb,"['640 Johnson Ferry Rd', 'Marietta, GA 30068']",Marietta,3.0,104,"{'latitude': 33.96436, 'longitude': -84.411149}",2.0
+Capers,"['1635 Old 41 Hwy NW', 'Ste 403', 'Kennesaw, GA 30152']",Kennesaw,4.0,508,"{'latitude': 33.9933388, 'longitude': -84.5976964}",2.0
+Studio Movie Grill,"['40 Powers Ferry Manor SE', 'Marietta, GA 30067']",Marietta,2.5,342,"{'latitude': 33.94753, 'longitude': -84.50498}",2.0
+Uber,"['Atlanta, GA 30301']",Atlanta,2.5,236,"{'latitude': 33.7554893493652, 'longitude': -84.3906097412109}",
+Utopian Events,"['6425 Industrial Way', 'Alpharetta, GA 30004']",Alpharetta,4.5,16,"{'latitude': 34.1367453, 'longitude': -84.2573055}",
+Manhattan NY Deli & Bagels - Alpharetta,"['4160 Old Milton Pkwy', 'Alpharetta, GA 30005']",Alpharetta,3.5,161,"{'latitude': 34.0599212646484, 'longitude': -84.236905}",1.0
+Andrea de Anda Photography,"['1345 Haberdam Trace', 'Cumming, CA 30041']",Cumming,5.0,23,"{'latitude': 34.125059, 'longitude': -84.161052}",
+Clarion Hotel & Conference Center North Atlanta,"['2001 Clearview Ave', 'Atlanta, GA 30340']",Atlanta,2.0,22,"{'latitude': 33.899934, 'longitude': -84.271948}",2.0
+Alamo Rent A Car,"['2200 Rental Car Cntr Pkwy 2255', 'College Park, GA 30337']",College Park,3.5,260,"{'latitude': 33.639871, 'longitude': -84.4644784927368}",
+Topgolf,"['10900 Westside Pkwy', 'Alpharetta, GA 30009']",Alpharetta,4.0,487,"{'latitude': 34.0448269, 'longitude': -84.3085054}",2.0
+Capo's NY Pizza & Italian Restaurant,"['3450 Cobb Pkwy NW', 'Acworth, GA 30101']",Acworth,3.5,129,"{'latitude': 34.03919, 'longitude': -84.68983}",2.0
+Hard Rock Cafe,"['215 Peachtree St NE', 'Atlanta, GA 30303']",Atlanta,3.0,487,"{'latitude': 33.759867, 'longitude': -84.387367}",2.0
+A1 Tent and Party Rentals,"['Marietta, GA 30060']",Marietta,2.0,4,"{'latitude': 33.938439, 'longitude': -84.5393409}",
+THAT Burger Spot! #2,"['10249 Tara Blvd', 'Jonesboro, GA 30238']",Jonesboro,4.0,57,"{'latitude': 33.4753803, 'longitude': -84.337594}",2.0
+Hertz Rent A Car,"['3230 NE Peachtree Rd', 'Atlanta, GA 30305']",Atlanta,2.0,46,"{'latitude': 33.8428993, 'longitude': -84.3736267}",
+Del Taco,"['4300 E W Connector', 'Smyrna, GA 30082']",Smyrna,3.0,51,"{'latitude': 33.842721156802, 'longitude': -84.5015755529199}",1.0
+Alltype Home Improvements,"['Hiram, GA 30141']",Hiram,5.0,3,"{'latitude': 33.888729095459, 'longitude': -84.7560424804688}",
+Hott Ashes II Cigar Lounge,"['8200 Mall Pkwy', 'Ste 135', 'Lithonia, GA 30038']",Lithonia,4.5,10,"{'latitude': 33.6927311729735, 'longitude': -84.0877655893564}",2.0
+Infinite Energy Theater,"['6400 Sugarloaf Pkwy', 'Duluth, GA 30097']",Duluth,4.0,1,"{'latitude': 33.99149, 'longitude': -84.09302}",
+Angel Oak Home Loans,"['980 Hammond Dr', 'Ste 200', 'Atlanta, GA 30328']",Atlanta,2.0,41,"{'latitude': 33.9209089, 'longitude': -84.3560945}",
+Flying Biscuit Café - Peachtree Corners,"['5270 Peachtree Pkwy', 'Ste 120', 'Peachtree Corners, GA 30092']",Peachtree Corners,3.5,416,"{'latitude': 33.976045, 'longitude': -84.21786}",2.0
+Alessio's Restaurant & Pizzeria,"['3775 Windermere Pkwy', 'Cumming, GA 30041']",Cumming,3.5,68,"{'latitude': 34.13254472181999, 'longitude': -84.12388402009604}",2.0
+Hotel Indigo Atlanta Airport - College Park,"['1776 Harvard Ave', 'College Park, GA 30337']",College Park,3.5,104,"{'latitude': 33.65306, 'longitude': -84.44718}",2.0
+High Velocity,"['265 Peachtree Center Ave', 'Atlanta Marriott Marquis', 'Atlanta, GA 30303']",Atlanta,3.0,124,"{'latitude': 33.7615267124752, 'longitude': -84.3857753216736}",2.0
+"Regal Atlantic Station ScreenX, IMAX, RPX & VIP","['261 19th St NW', 'Ste 1250', 'Atlanta, GA 30363']",Atlanta,2.5,477,"{'latitude': 33.793857, 'longitude': -84.396232}",
+Atlanta Marriott Alpharetta,"['5750 Windward Pkwy', 'Alpharetta, GA 30005']",Alpharetta,3.5,75,"{'latitude': 34.089789, 'longitude': -84.25883}",2.0
+Sushi Yoko,"['7124 Peachtree Indstrial Blvd', 'Norcross, GA 30071']",Norcross,3.5,223,"{'latitude': 33.93081, 'longitude': -84.2634099}",2.0
+National Car Rental,"['2200 Rental Car Cntr Pkwy', 'Ste 2250', 'College Park, GA 30337']",College Park,4.0,281,"{'latitude': 33.6397014, 'longitude': -84.463644}",
+FASTSIGNS,"['440 Ernest W Barrett Pkwy NW', 'Ste 33', 'Kennesaw, GA 30144']",Kennesaw,5.0,6,"{'latitude': 34.0137284053062, 'longitude': -84.5628140386231}",
+Pure Taqueria,"['1143 Alpharetta St', 'Roswell, GA 30075']",Roswell,3.0,190,"{'latitude': 34.02968, 'longitude': -84.3546}",2.0
+Windy City Grill,"['4017 Canton Rd', 'Marietta, GA 30066']",Marietta,4.0,46,"{'latitude': 34.0482788085938, 'longitude': -84.5285110473633}",1.0
+Reformation Brewery - Woodstock,"['105 Elm St', 'Woodstock, GA 30188']",Woodstock,4.5,74,"{'latitude': 34.1001523796275, 'longitude': -84.5208550923023}",
+Livingston Restaurant & Bar,"['659 Peachtree St NE', 'Atlanta, GA 30308']",Atlanta,3.0,245,"{'latitude': 33.77258, 'longitude': -84.3844699}",2.0
+California Pizza Kitchen at Atlantic Station,"['264 19th St NW', 'Ste 2150', 'Atlanta, GA 30363']",Atlanta,3.5,303,"{'latitude': 33.792998, 'longitude': -84.397079}",2.0
+Parma Tavern,"['3350 Buford Dr', 'Bldg B, Ste 200', 'Buford, GA 30519']",Buford,4.0,339,"{'latitude': 34.072861, 'longitude': -83.984805}",2.0
+Mom's Table,"['1207 Canton St', 'Roswell, GA 30075']",Roswell,3.5,11,"{'latitude': 34.0313204, 'longitude': -84.3613722}",
+Lucky's Burger & Brew,"['1144 Alpharetta St', 'Roswell, GA 30075']",Roswell,4.0,453,"{'latitude': 34.03036, 'longitude': -84.35547}",2.0
+Microtel Inn,"['6280 Peachtree Dunwoody Rd NE', 'Atlanta, GA 30328']",Atlanta,2.0,14,"{'latitude': 33.9257659912109, 'longitude': -84.3520431518555}",2.0
+Major Q BBQ & Catering,"['3600 Dallas Hwy NW', 'Ste 130', 'Marietta, GA 30064']",Marietta,4.5,76,"{'latitude': 33.955114, 'longitude': -84.656921}",
+Atlantic Buffet,"['270 Cobb Pkwy SE', 'Marietta, GA 30060']",Marietta,3.0,126,"{'latitude': 33.94534, 'longitude': -84.51879}",1.0
+The Rotisserie Shop,"['2615 George Busbee Pkwy', 'Kennesaw, GA 30144']",Kennesaw,4.5,597,"{'latitude': 34.0136946869881, 'longitude': -84.5675291148193}",2.0
+Casa Grande,"['2810 East West Connector', 'Austell, GA 30106']",Austell,3.5,262,"{'latitude': 33.866757, 'longitude': -84.625899}",2.0
+Matthews Cafeteria,"['2299 Main St', 'Tucker, GA 30084']",Tucker,4.0,303,"{'latitude': 33.852316, 'longitude': -84.2138278}",1.0
+Eagle's Landing Cafe and Grill,"['3001 River Dr', 'Lawrenceville, GA 30044']",Lawrenceville,4.0,110,"{'latitude': 33.887856, 'longitude': -84.061362}",2.0
+Sushi Avenue on Ponce,"['308 W Ponce De Leon Ave', 'Decatur, GA 30030']",Decatur,3.5,127,"{'latitude': 33.7751716875678, 'longitude': -84.3001690773801}",2.0
+Premium Title,"['1000 Abernathy Rd NE', 'Ste 200', 'Atlanta, GA 30328']",Atlanta,1.5,48,"{'latitude': 33.934829, 'longitude': -84.354604}",
+Volcano Steak & Sushi,"['1985 Cobb Pkwy NW', 'Ste 130', 'Kennesaw, GA 30152']",Kennesaw,3.0,132,"{'latitude': 34.0000998784371, 'longitude': -84.5917820824692}",2.0
+Cans Taqueria...tequila Bar,"['12635 Crabapple Rd', 'Alpharetta, GA 30004']",Alpharetta,3.0,149,"{'latitude': 34.088981, 'longitude': -84.343201}",2.0
+Gone With the Wind Museum,"['472 Powder Springs St', 'Marietta, GA 30064']",Marietta,4.0,19,"{'latitude': 33.943779, 'longitude': -84.552151}",
+Taco Mac - Prado,"['5600 Roswell Rd', 'Ste M-003', 'Sandy Springs, GA 30342']",Sandy Springs,2.5,368,"{'latitude': 33.907859, 'longitude': -84.379671}",2.0
+Sushi Osawa,"['5270 Peachtree Pkwy', 'Ste 119', 'Norcross, GA 30092']",Norcross,3.5,253,"{'latitude': 33.9760041496865, 'longitude': -84.2175217385318}",2.0
+JapanFest,"['6400 Sugarloaf Pkwy', 'Gwinnett Center', 'Duluth, GA 30097']",Duluth,4.0,24,"{'latitude': 33.991377, 'longitude': -84.093859}",
+Ramen Bar by Hajime,"['4180 Old Milton Pkwy', 'Ste 1-H', 'Alpharetta, GA 30005']",Alpharetta,4.0,364,"{'latitude': 34.05921, 'longitude': -84.23445}",2.0
+Enzo,"['3630 Peachtree Pkwy', 'Ste 602', 'Suwanee, GA 30024']",Suwanee,4.0,79,"{'latitude': 34.0694310695682, 'longitude': -84.1691738563648}",2.0
+Mac McGee,"['936 Canton St', 'Roswell, GA 30075']",Roswell,3.5,163,"{'latitude': 34.024029, 'longitude': -84.361818}",2.0

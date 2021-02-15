@@ -1,0 +1,562 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+Los Angeles Camera Rentals,"['6212 Banner Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,37,"{'latitude': 34.0914696, 'longitude': -118.3249855}",2.0
+Large Format Cameras,"['Las Vegas, NV 89123']",Las Vegas,5.0,6,"{'latitude': 36.02428, 'longitude': -115.1407}",4.0
+Samy's Camera,"['431 S Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,996,"{'latitude': 34.0688960236427, 'longitude': -118.361727791908}",3.0
+Pro HD Rentals,"['2201 Hollywood Way', 'Ste 1', 'Burbank, CA 91505']",Burbank,5.0,51,"{'latitude': 34.188555, 'longitude': -118.34928}",2.0
+Castex Rentals,"['1044 Cole Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,29,"{'latitude': 34.0902989663147, 'longitude': -118.329701932541}",
+FD Photo Studio - ART Stages,"['1048 Santee St', 'Ste 510', 'Los Angeles, CA 90015']",Los Angeles,5.0,24,"{'latitude': 34.03773, 'longitude': -118.25573}",
+Cinema Camera Rentals,"['4700 W Jefferson Blvd', 'Ste 102', 'Los Angeles, CA 90016']",Los Angeles,5.0,2,"{'latitude': 34.02525, 'longitude': -118.34738}",
+Bokeh Rentals,"['3921 W Jefferson Blvd', 'Ste 103', 'Los Angeles, CA 90016']",Los Angeles,4.5,15,"{'latitude': 34.02588863806784, 'longitude': -118.3389418}",
+Samy's Camera,"['1759 E Colorado Blvd', 'Pasadena, CA 91106']",Pasadena,4.0,490,"{'latitude': 34.14637, 'longitude': -118.11401}",3.0
+FD Photo Studio,"['530 E 8th St', 'Fl 5', 'Los Angeles, CA 90014']",Los Angeles,4.5,256,"{'latitude': 34.03938, 'longitude': -118.25}",
+Woodland Hills Camera and Telescopes,"['5348 Topanga Canyon Blvd', 'Woodland Hills, CA 91364']",Woodland Hills,4.0,135,"{'latitude': 34.1673, 'longitude': -118.60533}",2.0
+Paul's Photo Inc,"['23845 Hawthorne Blvd', 'Torrance, CA 90505']",Torrance,4.5,201,"{'latitude': 33.8075867590572, 'longitude': -118.351535936738}",3.0
+Lightstone Rentals,"['1441 Gardena Ave', 'Ste 1', 'Glendale, CA 91204']",Glendale,5.0,16,"{'latitude': 34.126851, 'longitude': -118.2601382}",
+Top Lens Rental,"['21151 S Western Ave', 'Ste 100', 'Torrance, CA 90501']",Torrance,5.0,22,"{'latitude': 33.837166, 'longitude': -118.309797}",2.0
+EVS,"['1819 Victory Blvd', 'Glendale, CA 91201']",Glendale,4.5,45,"{'latitude': 34.1632843017578, 'longitude': -118.302536010742}",
+Samy's Camera Rentals - Playa Vista,"['12636 Beatrice St', 'Los Angeles, CA 90066']",Los Angeles,4.0,12,"{'latitude': 33.979576023524, 'longitude': -118.416681848466}",
+Tuttle Cameras,"['5467 E Carson St', 'Long Beach, CA 90808']",Long Beach,4.0,162,"{'latitude': 33.832545, 'longitude': -118.1264294}",2.0
+Rare Breeds Camera Rentals,"['2762 S La Cienega Blvd', 'Los Angeles, CA 90034']",Los Angeles,5.0,1,"{'latitude': 34.033051, 'longitude': -118.3748}",
+AbelCine,"['801 S Main St', 'Burbank, CA 91506']",Burbank,4.0,18,"{'latitude': 34.1651614, 'longitude': -118.3134033}",2.0
+The Camera Division,"['7351 Fulton Ave', 'North Hollywood, CA 91605']",North Hollywood,5.0,12,"{'latitude': 34.2043857, 'longitude': -118.4225506}",
+Fullerton Cameras,"['809 N Harbor Blvd', 'Fullerton, CA 92832']",Fullerton,4.0,147,"{'latitude': 33.8778629153967, 'longitude': -117.924384176731}",2.0
+T-Stop Camera Rentals,"['957 Cole Ave', 'Hollywood, CA 90038']",Hollywood,5.0,5,"{'latitude': 34.08876, 'longitude': -118.33022}",
+Stray Angel Films,"['11318 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.5,26,"{'latitude': 34.045868, 'longitude': -118.448799}",
+Deck of Aces Camera Rentals,"['1118 Chestnut St', 'Ste 102', 'Burbank, CA 91506']",Burbank,4.5,17,"{'latitude': 34.1801943784914, 'longitude': -118.323339271164}",2.0
+Skye Rentals,"['164 W Providencia Ave', 'Burbank, CA 91502']",Burbank,5.0,5,"{'latitude': 34.1722606, 'longitude': -118.3089797}",
+Deck Hand Camera Rentals,"['1905 S Victory Blvd', 'Ste 8', 'Glendale, CA 91201']",Glendale,5.0,8,"{'latitude': 34.1644835, 'longitude': -118.3040923}",2.0
+Silvio's Photoworks,"['22409 Hawthorne Blvd', 'Torrance, CA 90505']",Torrance,4.0,130,"{'latitude': 33.8245156, 'longitude': -118.3514791}",2.0
+Standard Camera,"['12023 Vose St', 'Ste 23', 'North Hollywood, CA 91605']",North Hollywood,5.0,2,"{'latitude': 34.0944043, 'longitude': -118.3201786}",
+General Camera Repair,"['2218 E Colorado Blvd', 'Pasadena, CA 91107']",Pasadena,4.0,84,"{'latitude': 34.1458955, 'longitude': -118.1046798}",2.0
+HD Creative Services,"['369 N Fairfax Ave', 'Ste 5', 'Los Angeles, CA 90036']",Los Angeles,5.0,1,"{'latitude': 34.0777801, 'longitude': -118.3616049}",
+Birns & Sawyer,"['3039 Roswell St', 'Los Angeles, CA 90065']",Los Angeles,3.5,17,"{'latitude': 34.115214, 'longitude': -118.2441879}",2.0
+Antagonist Camera,"['4610 Valley Blvd', 'Los Angeles, CA 90032']",Los Angeles,5.0,6,"{'latitude': 34.062362, 'longitude': -118.18356}",
+Filmtools,"['1400 W Burbank Blvd', 'Burbank, CA 91506']",Burbank,3.5,108,"{'latitude': 34.182204, 'longitude': -118.327003}",2.0
+IE Photo Rentals,"['558 W 2nd St', 'Unit B', 'Pomona, CA 91766']",Pomona,5.0,106,"{'latitude': 34.05744, 'longitude': -117.75514}",1.0
+Camtec Motion Picture Cameras,"['4221 W Magnolia Blvd', 'Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.16625, 'longitude': -118.35296}",
+Panavision Hollywood,"['6735 Selma Ave', 'Los Angeles, CA 90028']",Los Angeles,5.0,4,"{'latitude': 34.1000653537516, 'longitude': -118.337260627532}",3.0
+Keslow Camera,"['5900 Blackwelder St', 'Culver City, CA 90232']",Culver City,4.0,4,"{'latitude': 34.0302728, 'longitude': -118.374859}",
+BrainBox Cameras,"['6700 S Centinela Ave', 'Fl 2', 'Culver City, CA 90230']",Culver City,3.5,24,"{'latitude': 33.983879, 'longitude': -118.404642}",
+Teleprompter Rental - Los Angeles,"['12050 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,5.0,2,"{'latitude': 34.0406978130341, 'longitude': -118.462810814381}",
+EDGE Studios & Grip,"['1388 S Longwood Ave', 'Los Angeles, CA 90019']",Los Angeles,4.5,15,"{'latitude': 34.0487221781467, 'longitude': -118.341844218063}",2.0
+Evidence Cameras,"['3370 N San Fernando Rd', 'UNIT 201', 'Los Angeles, CA 90065']",Los Angeles,4.0,4,"{'latitude': 34.117626181893854, 'longitude': -118.2514745}",
+Red Letter Rentals,"['4209 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,9,"{'latitude': 34.172996, 'longitude': -118.356129}",
+New Circuit Films,"['4529 San Fernando Rd', 'Ste B', 'Glendale, CA 91204']",Glendale,5.0,2,"{'latitude': 34.1348483, 'longitude': -118.2638617}",
+Samy's Cinema Works,"['431 S Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,5.0,7,"{'latitude': 34.0689, 'longitude': -118.36171}",
+Sim Digital,"['1017 N Las Palmas Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,2,"{'latitude': 34.0895585, 'longitude': -118.3365466}",4.0
+Source One Rentals,"['441 E Columbine Ave', 'Unit E', 'Santa Ana, CA 92707']",Santa Ana,5.0,19,"{'latitude': 33.703704, 'longitude': -117.8615085}",
+Alternative Rentals,"['5805 W Jefferson Blvd', 'Los Angeles, CA 90016']",Los Angeles,5.0,5,"{'latitude': 34.0268556028605, 'longitude': -118.37601788342}",
+SirReel Studio Rentals,"['8500 Lankershim Blvd', 'Sun Valley, CA 91352']",Sun Valley,3.5,13,"{'latitude': 34.224164, 'longitude': -118.387476}",
+Bluewater Photo,"['3961 Sepulveda Blvd', 'Ste 206', 'Culver City, CA 90230']",Culver City,4.0,14,"{'latitude': 34.0094819, 'longitude': -118.4146487}",2.0
+Audio Video LA,"['600 S Spring St', 'Los Angeles, CA 90014']",Los Angeles,5.0,20,"{'latitude': 34.0455701, 'longitude': -118.250927}",
+Alan Gordon Enterprises,"['5625 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.0,10,"{'latitude': 34.0837554931641, 'longitude': -118.323196411133}",2.0
+Radiant Images,"['2702 Media Center Dr', 'Los Angeles, CA 90065']",Los Angeles,3.5,14,"{'latitude': 34.1080423, 'longitude': -118.2435245}",
+Line 204,"['1034 Seward St', 'Los Angeles, CA 90038']",Los Angeles,4.5,15,"{'latitude': 34.0900192260742, 'longitude': -118.332855224609}",
+Central Station Media,"['11440 Ventura Blvd', 'Unit 200', 'Studio City, CA 91604']",Studio City,5.0,8,"{'latitude': 34.1391862, 'longitude': -118.3803122}",
+FD Productions,"['14631 Dickens St', 'Sherman Oaks, CA 91403']",Sherman Oaks,5.0,4,"{'latitude': 34.15081, 'longitude': -118.45293}",
+"Hollywood Camera, Inc.","['3100 N Damon Way', 'Burbank, CA 91505']",Burbank,5.0,4,"{'latitude': 34.2049499, 'longitude': -118.3608}",
+Green Screen Downtown,"['214 W 14th St', 'Los Angeles, CA 90015']",Los Angeles,5.0,7,"{'latitude': 34.03623083405482, 'longitude': -118.26400688220886}",
+Ocean Front Entertainment,"['1235 West El Segundo Blvd', 'Gardena, CA 90247']",Gardena,5.0,2,"{'latitude': 33.9168271, 'longitude': -118.2975647}",
+Noho Photo Studio Rentals,"['7421 Laurel Canyon Blvd', 'Los Angeles, CA 91605']",Los Angeles,5.0,9,"{'latitude': 34.205322265625, 'longitude': -118.397109985352}",
+Otto Nemenz Intl,"['5700 Buckingham Pkwy', 'Culver City, CA 90230']",Culver City,4.5,6,"{'latitude': 33.990916, 'longitude': -118.37934}",
+Bertone Visuals,"['229 California St', 'El Segundo, CA 90245']",El Segundo,5.0,3,"{'latitude': 33.91857, 'longitude': -118.40188}",
+Best Buy,"['2909 Los Feliz Blvd', 'Los Angeles, CA 90039']",Los Angeles,2.0,547,"{'latitude': 34.1277208072098, 'longitude': -118.265316296015}",2.0
+Ametron,"['10919 Vanowen St', 'North Hollywood, CA 91605']",North Hollywood,3.5,76,"{'latitude': 34.194612, 'longitude': -118.3692321}",2.0
+Frankie's Photo Booth,"['29619 S Western Ave', 'Rancho Palos Verdes, CA 90275']",Rancho Palos Verdes,5.0,4,"{'latitude': 33.7479553222656, 'longitude': -118.309913635254}",
+PeppDigital Media,"['9811 Owensmouth Ave', 'Los Angeles, CA 91311']",Los Angeles,5.0,1,"{'latitude': 34.248636, 'longitude': -118.602473}",
+Advanced Media,"['369 N Fairfax Ave', 'Ste A', 'Los Angeles, CA 90036']",Los Angeles,4.5,69,"{'latitude': 34.0777801, 'longitude': -118.3616049}",
+F22 Studios,"['610 N Victory Blvd', 'Burbank, CA 91502']",Burbank,5.0,1,"{'latitude': 34.1798235, 'longitude': -118.3190594}",
+Wooden Nickel Lighting,"['6920 Tujunga Ave', 'North Hollywood, CA 91605']",North Hollywood,4.0,36,"{'latitude': 34.1959227188522, 'longitude': -118.37754324954}",2.0
+Video Equipment Rentals,"['912 Ruberta Ave', 'Glendale, CA 91201']",Glendale,3.0,10,"{'latitude': 34.1659202575684, 'longitude': -118.289619445801}",
+KitSplit,"['Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.15592, 'longitude': -118.34321}",
+Pollution Studios,"['3239 E Union Pacific', 'Los Angeles, CA 90023']",Los Angeles,5.0,27,"{'latitude': 34.01679, 'longitude': -118.20969}",
+Third Eye Photo Booth,"['Los Angeles, CA 90017']",Los Angeles,5.0,112,"{'latitude': 34.0523986816406, 'longitude': -118.26335144043}",
+Beyond Cinema,"['5700 Wilshire Blvd', 'Ste 250', 'Los Angeles, CA 90036']",Los Angeles,5.0,3,"{'latitude': 34.0622559, 'longitude': -118.3527069}",
+Film Independent,"['5670 Wilshire Blvd', '9th Floor', 'Los Angeles, CA 90036']",Los Angeles,4.0,9,"{'latitude': 34.061668, 'longitude': -118.352289}",
+Manhattan Beach Studios,"['1600 Rosecrans Ave', 'Bldg 7, Ste 101', 'Manhattan Beach, CA 90266']",Manhattan Beach,5.0,8,"{'latitude': 33.901611, 'longitude': -118.3842111}",
+WOVA World of Video & Audio,"['1155 S Robertson Blvd', 'Los Angeles, CA 90035']",Los Angeles,5.0,53,"{'latitude': 34.0555809, 'longitude': -118.38399}",
+Location Sound,"['10639 Riverside Dr', 'North Hollywood, CA 91602']",North Hollywood,4.5,23,"{'latitude': 34.152511, 'longitude': -118.363042}",1.0
+Best Buy,"['1015 N La Brea Ave', 'West Hollywood, CA 90038']",West Hollywood,2.5,717,"{'latitude': 34.0893264938506, 'longitude': -118.344666434988}",2.0
+Action Audio & Visual,"['5907 Yarmouth Ave', 'Encino, CA 91316']",Encino,4.0,35,"{'latitude': 34.1778465477661, 'longitude': -118.519774523636}",
+Cam Photo & Imaging,"['519 N Glenoaks Blvd', 'Burbank, CA 91502']",Burbank,4.0,70,"{'latitude': 34.186183, 'longitude': -118.310675}",2.0
+Hollywood Audio Video Transfer House,"['4900 Santa Monica Blvd', 'Los Angeles, CA 90029']",Los Angeles,5.0,48,"{'latitude': 34.090599, 'longitude': -118.296249}",
+CGLA Studios,"['5353 Denny Ave', 'Ste A', 'Los Angeles, CA 91601']",Los Angeles,5.0,2,"{'latitude': 34.1680718, 'longitude': -118.3646011}",
+Anton Video Concept,"['7719 Somerset Blvd', 'Paramount, CA 90723']",Paramount,5.0,2,"{'latitude': 33.8965849, 'longitude': -118.1649399}",
+Blacklist Digital,"['6666 Lexington Ave', 'Los Angeles, CA 90038']",Los Angeles,3.5,5,"{'latitude': 34.092091, 'longitude': -118.335488}",
+PAL Camera and Crew Hire,"['6750 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,5.0,1,"{'latitude': 34.1012153625488, 'longitude': -118.337608337402}",
+Fanciful Fox Studio,"['857 S San Pedro St', 'Los Angeles, CA 90014']",Los Angeles,5.0,3,"{'latitude': 34.037553, 'longitude': -118.2502721}",
+Provenance Rentals,"['10412 S La Cienega Blvd', 'Inglewood, CA 90304']",Inglewood,5.0,47,"{'latitude': 33.9413089, 'longitude': -118.3697418}",
+Los Angeles Photobooth,"['3124 S Sepulveda Blvd', 'Los Angeles, CA 90034']",Los Angeles,3.0,7,"{'latitude': 34.0259926021099, 'longitude': -118.427504897118}",
+Cast Locations,"['536 N Larchmont Blvd', 'Los Angeles, CA 90004']",Los Angeles,3.0,5,"{'latitude': 34.0800628662109, 'longitude': -118.323318481445}",
+Slomovidbooth,"['Pico Rivera, CA 90601']",Pico Rivera,5.0,1,"{'latitude': 33.98491, 'longitude': -118.03728}",
+Studio X,"['3031 N San Fernando Blvd', 'Ste 110', 'Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.2014110833406, 'longitude': -118.343156799674}",
+Beverly Hills Studios,"['8929 Wilshire Blvd', 'Ste 325', 'Beverly Hills, CA 90211']",Beverly Hills,5.0,2,"{'latitude': 34.0673904, 'longitude': -118.3863525}",
+Get Dapper Photo Booths - Los Angeles,"['4647 Kingswell Ave', 'Ste 121', 'Los Angeles, CA 90027']",Los Angeles,4.5,23,"{'latitude': 34.1028249, 'longitude': -118.29116}",
+Zynderia Studios,"['1741 Naud St', 'Los Angeles, CA 90012']",Los Angeles,5.0,2,"{'latitude': 34.0689743, 'longitude': -118.2259671}",
+Ragtime Rentals,"['11970 Borden Ave', 'San Fernando, CA 91340']",San Fernando,4.0,2,"{'latitude': 34.28789, 'longitude': -118.42022}",
+Santa Monica Picnic Co,"['Santa Monica, CA 90405']",Santa Monica,5.0,10,"{'latitude': 34.0091781616211, 'longitude': -118.471603393555}",
+LH Productions,"['1453 Virginia Ave', 'Ste E', 'Baldwin Park, CA 91706']",Baldwin Park,5.0,5,"{'latitude': 34.0673098, 'longitude': -117.9766551}",
+Fromex One Hour Photo Systems,"['745 E Valley Blvd', 'San Gabriel, CA 91776']",San Gabriel,4.5,153,"{'latitude': 34.080705, 'longitude': -118.090964}",1.0
+MelroseMAC,"['6614 Melrose Ave', 'Hollywood, CA 90038']",Hollywood,4.0,388,"{'latitude': 34.083239, 'longitude': -118.33922}",3.0
+Astro Audio Video Lighting,"['6615 San Fernando Rd', 'Glendale, CA 91201']",Glendale,4.5,83,"{'latitude': 34.1690755, 'longitude': -118.2928008}",
+Hollywood Divers,"['3575 Cahuenga Blvd W', 'Los Angeles, CA 90068']",Los Angeles,5.0,148,"{'latitude': 34.133642956981, 'longitude': -118.357721541}",2.0
+Coe Camera Rental,"['5609 Colfax Ave', 'North Hollywood, CA 91607']",North Hollywood,1.0,1,"{'latitude': 34.17311, 'longitude': -118.38867}",1.0
+Flashy Image Photo Booths and Bartending,"['Los Angeles, CA 90061']",Los Angeles,5.0,40,"{'latitude': 33.9260101318359, 'longitude': -118.272132873535}",
+Tomato Wedding,"['2707 W Olympic Blvd', 'Ste 201', 'Los Angeles, CA 90006']",Los Angeles,4.5,146,"{'latitude': 34.0529228, 'longitude': -118.2919798}",2.0
+Indie Lab Film Studios,"['2525 W 7th St', 'Los Angeles, CA 90057']",Los Angeles,2.5,2,"{'latitude': 34.0589629, 'longitude': -118.2823237}",1.0
+Photogenic Photobooth,"['Los Angeles, CA 90001']",Los Angeles,5.0,3,"{'latitude': 33.9697897, 'longitude': -118.2468148}",
+Jovial Events and Rentals,"['Pasadena, CA 91106']",Pasadena,5.0,10,"{'latitude': 34.14746, 'longitude': -118.12542}",
+Imagecraft Productions,"['3318 Burton Ave', 'Burbank, CA 91504']",Burbank,4.5,11,"{'latitude': 34.19679, 'longitude': -118.34748}",
+Snapbar,"['Los Angeles, CA 90028']",Los Angeles,5.0,16,"{'latitude': 34.1004791259766, 'longitude': -118.333610534668}",
+Picopix Photobooth,"['Los Angeles, CA 90001']",Los Angeles,5.0,7,"{'latitude': 33.9788, 'longitude': -118.2498}",
+Social Photo Events,"['Studio City, CA 91604']",Studio City,4.5,2,"{'latitude': 34.14453125, 'longitude': -118.395606994629}",
+Silvino's Pro Flash Rx,"['1301 Mccadden Pl', 'Los Angeles, CA 90028']",Los Angeles,4.5,22,"{'latitude': 34.0927125826413, 'longitude': -118.337714669273}",2.0
+King Film USA Group,"['1909 W Burbank Blvd', 'Burbank, CA 91506']",Burbank,2.5,12,"{'latitude': 34.1810340881348, 'longitude': -118.332138061523}",
+Ostrich Farm Studio,"['1010 Sycamore Ave', 'Studio 107', 'South Pasadena, CA 91030']",South Pasadena,5.0,52,"{'latitude': 34.11129, 'longitude': -118.17481}",
+Creative Photo Booths,"['2537 D Pacific Coast Hwy', 'Ste 363', 'Torrance, CA 90505']",Torrance,4.0,42,"{'latitude': 33.7899803370237, 'longitude': -118.330089077353}",
+Elite Reels,"['5019 Willowcrest Ave', 'North Hollywood, CA 91601']",North Hollywood,5.0,2,"{'latitude': 34.16184, 'longitude': -118.36298}",
+SAS Studios,"['501 S Ave 17', 'Los Angeles, CA 90031']",Los Angeles,5.0,3,"{'latitude': 34.0674401, 'longitude': -118.2216856}",
+Blue Holic Scuba,"['3636 W Olympic Blvd', 'Los Angeles, CA 90019']",Los Angeles,5.0,32,"{'latitude': 34.05274, 'longitude': -118.31841}",
+14K Photo Booth,"['Encino, CA 91316']",Encino,5.0,7,"{'latitude': 34.16642, 'longitude': -118.52013}",
+AB Sea Photo,"['9136 S Sepulveda Blvd', 'Los Angeles, CA 90045']",Los Angeles,3.5,8,"{'latitude': 33.95367, 'longitude': -118.39565}",2.0
+Los Angeles Center of Photography,"['5566 W Washington Blvd', 'Los Angeles, CA 90016']",Los Angeles,4.5,26,"{'latitude': 34.0363478, 'longitude': -118.3652596}",2.0
+Life Storage,"['700 E Slauson Ave', 'Los Angeles, CA 90011']",Los Angeles,3.5,5,"{'latitude': 33.98868, 'longitude': -118.2632377}",
+Bella Wedding Bridal,"['210 N Western Ave', 'Ste 101', 'Los Angeles, CA 90004']",Los Angeles,4.0,242,"{'latitude': 34.075127, 'longitude': -118.308774}",1.0
+Aero Mock-Ups,"['13126 Saticoy St', 'North Hollywood, CA 91605']",North Hollywood,5.0,2,"{'latitude': 34.2073613, 'longitude': -118.4188975}",
+Lights Camera Party Events,"['Ventura, CA 93065']",Ventura,4.5,8,"{'latitude': 34.2692636, 'longitude': -118.7501041}",
+Eco Dive Center,"['4027 Sepulveda Blvd', 'West Los Angeles, CA 90230']",West Los Angeles,4.5,462,"{'latitude': 34.0078458, 'longitude': -118.413581}",2.0
+BLARE Video,"['326 Mira Loma Ave', 'Glendale, CA 91204']",Glendale,5.0,1,"{'latitude': 34.123677, 'longitude': -118.256461}",
+Transylvania Film & Tv Corp,"['10619 Burbank Blvd', 'North Hollywood, CA 91601']",North Hollywood,5.0,10,"{'latitude': 34.17242, 'longitude': -118.36232}",
+Pixster Photo Booths,"['1111 S Figueroa St', 'Los Angeles, CA 90015']",Los Angeles,5.0,106,"{'latitude': 34.043021, 'longitude': -118.2668356}",
+Magic Jump Rentals,"['9130 Glenoaks Blvd', 'Ste C', 'Sun Valley, CA 91352']",Sun Valley,4.5,538,"{'latitude': 34.2356577062482, 'longitude': -118.3714872}",
+Hanbok Bidanhyang,"['210 N Western Ave', 'Ste 105A', 'Los Angeles, CA 90004']",Los Angeles,5.0,62,"{'latitude': 34.07513, 'longitude': -118.30878}",
+Shoot Cut Deliver,"['18420 Vincennes St', 'Ste 102', 'Northridge, CA 91325']",Northridge,5.0,13,"{'latitude': 34.2404363, 'longitude': -118.5347001}",
+The Room Downtown,"['704 S Spring St', 'Fl 4', 'Los Angeles, CA 90014']",Los Angeles,4.5,21,"{'latitude': 34.04419, 'longitude': -118.25215}",
+TCC Film Equipment Rentals,"['7056 De Celis Pl', 'Van Nuys, CA 91406']",Van Nuys,5.0,1,"{'latitude': 34.19915, 'longitude': -118.49431}",
+Xpressions Photo Booth Services,"['Porter Ranch, CA 91326']",Porter Ranch,5.0,1,"{'latitude': 34.2822134, 'longitude': -118.5506158}",
+Petite Pix - A Photo Booth Company,"['5870 Melrose Ave', 'Ste 3690', 'Los Angeles, CA 90038']",Los Angeles,5.0,27,"{'latitude': 34.083221, 'longitude': -118.328471}",
+Rail Productions,"['Burbank, CA 91505']",Burbank,5.0,13,"{'latitude': 34.1729478, 'longitude': -118.3562091}",
+Pic Me Photobooth,"['Glendale, CA 91205']",Glendale,5.0,23,"{'latitude': 34.1366004943848, 'longitude': -118.243522644043}",
+Geronimo Creek,"['2920 N Naomi St', 'Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.206595, 'longitude': -118.3547464}",
+Jason Lanier Photography,"['Beverly Hills, CA 90211']",Beverly Hills,4.0,15,"{'latitude': 34.0648422241211, 'longitude': -118.383117675781}",
+Greenery Studios,"['7764 San Fernando Rd', 'Burbank, CA 91352']",Burbank,5.0,2,"{'latitude': 34.2122675453821, 'longitude': -118.358138190006}",
+A-1 Self Storage,"['4427 San Fernando Rd', 'Glendale, CA 91204']",Glendale,4.5,63,"{'latitude': 34.13244, 'longitude': -118.262951}",
+Buckley Videography,"['Los Angeles, CA 90014']",Los Angeles,5.0,107,"{'latitude': 34.0434783, 'longitude': -118.2519314}",
+Midas Mount,"['Culver City, CA 90230']",Culver City,5.0,1,"{'latitude': 33.9955215454102, 'longitude': -118.399909973145}",
+Proud Digital Media,"['1933 11th St', 'Ste B', 'Upland, CA 91786']",Upland,5.0,4,"{'latitude': 34.1035083, 'longitude': -117.6878084}",
+Pivotal Video Productions,"['3625 E Thousand Oaks Blvd', 'Ste 118', 'Westlake Village, CA 91362']",Westlake Village,5.0,24,"{'latitude': 34.1655307, 'longitude': -118.8294559}",
+Studio Depot,"['2212 Kenmere Ave', 'Burbank, CA 91504']",Burbank,3.0,18,"{'latitude': 34.1934664, 'longitude': -118.3349627}",3.0
+DigitalFusion,"['6060 Center Dr', 'Ste 150', 'Los Angeles, CA 90045']",Los Angeles,4.0,7,"{'latitude': 33.975993, 'longitude': -118.3908877}",3.0
+Loyal Studios,"['3513 Pacific Ave', 'Burbank, CA 91505']",Burbank,4.5,14,"{'latitude': 34.1884819, 'longitude': -118.3497641}",
+Target Props,"['7100 Fair Ave', 'North Hollywood, CA 91605']",North Hollywood,4.5,13,"{'latitude': 34.1996706, 'longitude': -118.3749767}",
+PhotoCreds,"['Los Angeles, CA 91606']",Los Angeles,5.0,91,"{'latitude': 34.18591, 'longitude': -118.38516}",
+Photo Booth Mania,"['La Canada Flintridge, CA 91011']",La Canada Flintridge,5.0,42,"{'latitude': 34.20541, 'longitude': -118.20218}",
+Traveling Baby Company,"['Los Angeles, CA 90012']",Los Angeles,5.0,42,"{'latitude': 34.050828632408, 'longitude': -118.243891}",2.0
+ActionBooth,"['519 Justin Ave', 'Glendale, CA 91201']",Glendale,4.5,3,"{'latitude': 34.162776, 'longitude': -118.295516}",
+Westside Media Group,"['21600 Oxnard St', 'Ste 1140', 'Woodland Hills, CA 91367']",Woodland Hills,5.0,9,"{'latitude': 34.178379, 'longitude': -118.600133}",
+Party Unlimited Rental,"['13320 S Figueroa', 'Los Angeles, CA 90061']",Los Angeles,3.0,34,"{'latitude': 33.9102349831733, 'longitude': -118.28221419092}",
+Executive Party Rentals,"['Downey, CA 90242']",Downey,5.0,81,"{'latitude': 33.92188, 'longitude': -118.13938}",
+Nestled in Time Photography,"['4 East Holly St', 'Ste 215', 'Pasadena, CA 91103']",Pasadena,5.0,37,"{'latitude': 34.1475144, 'longitude': -118.1502407}",
+Western Costume Company,"['11041 Vanowen St', 'North Hollywood, CA 91605']",North Hollywood,4.0,43,"{'latitude': 34.194758, 'longitude': -118.3715827}",2.0
+WebCam Riot Studios,"['172 W Providencia Ave', 'Ste 103', 'Burbank, CA 91502']",Burbank,5.0,1,"{'latitude': 34.172008, 'longitude': -118.3078687}",
+The Jesus Wall  Studio,"['600 Moulton Ave', 'Ste 205', 'Los Angeles, CA 90031']",Los Angeles,5.0,44,"{'latitude': 34.0657134, 'longitude': -118.2188679}",
+Splendid Studio Photo Booth,"['1920 Hillhurst Ave', 'Ste V913', 'Los Angeles, CA 90027']",Los Angeles,4.5,71,"{'latitude': 34.1060608, 'longitude': -118.2871422}",
+Second Song,"['1501 W Washington Blvd', 'Los Angeles, CA 90007']",Los Angeles,5.0,127,"{'latitude': 34.0401643, 'longitude': -118.2899408}",
+Best Buy Burbank,"['1501 N Victory Pl', 'Burbank, CA 91502']",Burbank,2.5,596,"{'latitude': 34.1884541153658, 'longitude': -118.327793588955}",2.0
+Crimson Photo Booth,"['209 S Montebello Blvd', 'Montebello, CA 90640']",Montebello,5.0,5,"{'latitude': 34.0078699, 'longitude': -118.1090798}",
+Ab1photobooth,"['Downey, CA 94158']",Downey,5.0,9,"{'latitude': 33.94042, 'longitude': -118.12795}",
+Life of the Party Photobooths,"['Los Angeles, CA 90012']",Los Angeles,5.0,33,"{'latitude': 34.0569114685059, 'longitude': -118.243949890137}",
+Cinefile Video,"['11280 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.0,108,"{'latitude': 34.0463992256609, 'longitude': -118.448135841929}",1.0
+Life Storage,"['801 E Commercial St', 'Los Angeles, CA 90012']",Los Angeles,3.5,26,"{'latitude': 34.0528869628906, 'longitude': -118.230743408203}",2.0
+Borrowed BLU,"['Los Angeles, CA 90232']",Los Angeles,3.5,7,"{'latitude': 34.01989, 'longitude': -118.39441}",
+Zen Studios LA,"['3923 W 6th St', 'Ste 411', 'Los Angeles, CA 90020']",Los Angeles,5.0,32,"{'latitude': 34.063704, 'longitude': -118.30871}",
+Flash Life Photo Booth Rental,"['550 N Figuaroa St', 'Ste 6009', 'Los Angeles, CA 90012']",Los Angeles,5.0,100,"{'latitude': 34.061678, 'longitude': -118.245583}",
+JK Wedding Events,"['Los Angeles, CA 90020']",Los Angeles,5.0,188,"{'latitude': 34.06698, 'longitude': -118.29979}",
+Authorized Camera Service,"['21250 Califa St', 'Ste110', 'Woodland Hills, CA 91367']",Woodland Hills,3.0,31,"{'latitude': 34.176614, 'longitude': -118.593892}",2.0
+Los Angeles Partyworks,"['9712 Alpaca St', 'South El Monte, CA 91733']",South El Monte,3.5,51,"{'latitude': 34.04853, 'longitude': -118.05731}",
+Duclos Lenses,"['20222 Bahama St', 'Chatsworth, CA 91311']",Chatsworth,4.5,6,"{'latitude': 34.23266, 'longitude': -118.57412}",
+Jennifer Esteban Photography,"['Los Angeles, CA 91604']",Los Angeles,5.0,10,"{'latitude': 34.14584, 'longitude': -118.39872}",
+iHart Photo Booth,"['Glendale, CA 91204']",Glendale,5.0,79,"{'latitude': 34.138370513916, 'longitude': -118.260772705078}",
+Shin Bu Bridal,"['1250 Long Beach Ave', 'Ste 321', 'Los Angeles, CA 90021']",Los Angeles,4.5,100,"{'latitude': 34.026415, 'longitude': -118.240925}",3.0
+Silver Dream Factory,"['1181 N Knollwood Cir', 'Anaheim, CA 92801']",Anaheim,3.5,24,"{'latitude': 33.84971, 'longitude': -117.98027}",
+Smart and Cool Photobooth,"['2017 20th St', 'Santa Monica, CA 90404']",Santa Monica,5.0,4,"{'latitude': 34.020389, 'longitude': -118.469844}",
+Ambience Lighting For Your Events,"['Artesia, CA 90701']",Artesia,5.0,4,"{'latitude': 33.8636093139648, 'longitude': -118.083053588867}",
+Nick Metropolis Collectible Furniture,"['1846 W Adams Blvd', 'Los Angeles, CA 90018']",Los Angeles,4.5,217,"{'latitude': 34.032499, 'longitude': -118.3045956}",2.0
+Fotoboothguy,"['745 E 5th St', 'Azusa, CA 91702']",Azusa,5.0,2,"{'latitude': 34.13037, 'longitude': -117.89525}",
+The Greystone Stage and Green Screen Studio,"['8123 Foothill Blvd', 'Sunland, CA 91040']",Sunland,5.0,10,"{'latitude': 34.259953, 'longitude': -118.309988}",
+Jay Studio Photography,"['1330 Factory Pl', 'Los Angeles, CA 90013']",Los Angeles,5.0,25,"{'latitude': 34.0390333, 'longitude': -118.2349443}",
+Audio Crafters,"['50 N Rosemead Blvd', 'Pasadena, CA 91107']",Pasadena,5.0,224,"{'latitude': 34.147315, 'longitude': -118.0730906}",2.0
+In Focus Photobooths,"['Fountain Valley, CA 92708']",Fountain Valley,5.0,5,"{'latitude': 33.70907, 'longitude': -117.95349}",
+Adele's Of Hollywood,"['5034 Hollywood Blvd', 'Los Angeles, CA 90027']",Los Angeles,4.5,54,"{'latitude': 34.10155, 'longitude': -118.29922}",2.0
+Skyline Entertainment,"['2046 Hillhurst Ave', 'Ste 109', 'Los Angeles, CA 90027']",Los Angeles,5.0,138,"{'latitude': 34.10897, 'longitude': -118.287172}",
+Ambient Pro,"['8039 Beach Blvd Buena Park', 'Ste A', 'California, CA 90620']",California,5.0,2,"{'latitude': 33.844367, 'longitude': -118.00198}",
+In2Deep Diving,"['3103 Pico Blvd', 'Santa Monica, CA 90405']",Santa Monica,5.0,37,"{'latitude': 34.0261078, 'longitude': -118.4575081}",
+Hollywood Photo Booth,"['Sherman Oaks, CA 91403']",Sherman Oaks,5.0,73,"{'latitude': 34.1510581970215, 'longitude': -118.444343566895}",
+Samson Productions,"['9125 Archibald Ave', 'Rancho Cucamonga, CA 91730']",Rancho Cucamonga,4.5,20,"{'latitude': 34.085209, 'longitude': -117.592924}",
+Rockstar Photo Booth,"['Los Angeles, CA 90024']",Los Angeles,4.5,58,"{'latitude': 34.0652923583984, 'longitude': -118.435012817383}",
+Pro Photo Booth Group,"['1718 Ximeno', 'Long Beach, CA 90815']",Long Beach,5.0,61,"{'latitude': 33.7883493, 'longitude': -118.1387802}",
+Blank Booth,"['Santa Monica, CA 90404']",Santa Monica,5.0,16,"{'latitude': 34.0266342163086, 'longitude': -118.47184753418}",
+BTS Event Rentals,"['Santa ana, CA 92704']",Santa ana,5.0,3,"{'latitude': 33.7149082, 'longitude': -117.9131742}",
+Cliques Photo Booth,"['Los Angeles, CA 91325']",Los Angeles,5.0,20,"{'latitude': 34.0522342, 'longitude': -118.2436849}",
+Jump-N-Hop Party Rentals and Jumpers,"['Whittier, CA 90606']",Whittier,4.5,188,"{'latitude': 33.97635, 'longitude': -118.07224}",
+LA Color,"['Los Angeles, CA 90034']",Los Angeles,5.0,63,"{'latitude': 34.0306777954102, 'longitude': -118.399559020996}",
+Best Buy,"['4500 Van Nuys Blvd', 'Sherman Oaks, CA 91403']",Sherman Oaks,3.5,843,"{'latitude': 34.1532774859011, 'longitude': -118.448133628311}",2.0
+Oceanic Arts,"['12414 Whittier Blvd', 'Whittier, CA 90602']",Whittier,5.0,49,"{'latitude': 33.9725404, 'longitude': -118.0455635}",2.0
+Arrow Photobooth,"['13666 Harbor Blvd', 'Garden Grove, CA 92683']",Garden Grove,5.0,100,"{'latitude': 33.8022976799634, 'longitude': -117.959166575913}",
+Sliekgraph Photo Booth,"['Lucerne Ave', 'Los Angeles, CA 90016']",Los Angeles,3.0,2,"{'latitude': 34.0331878376046, 'longitude': -118.344158333344}",
+Cannabis Cafe,"['1201 N La Brea Ave', 'West Hollywood, CA 90038']",West Hollywood,3.5,681,"{'latitude': 34.092688, 'longitude': -118.344421}",
+Printing Fly,"['10586 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,5.0,111,"{'latitude': 34.0433731079102, 'longitude': -118.421531677246}",
+Sosa Photography,"['860 E La Habra Blvd', 'Ste 230', 'La Habra, CA 90631']",La Habra,5.0,4,"{'latitude': 34.22657537609, 'longitude': -118.383976161163}",
+Project Photobooth,"['Los Angeles, CA 90013']",Los Angeles,5.0,30,"{'latitude': 34.0443153381348, 'longitude': -118.240760803223}",
+Stay Golden Photo Booth,"['Pasadena, CA 91101']",Pasadena,5.0,267,"{'latitude': 34.1436958312988, 'longitude': -118.138412475586}",
+Time Machine - Slow Motion Photo Booth,"['Los Angeles, CA 90004']",Los Angeles,5.0,27,"{'latitude': 34.052187, 'longitude': -118.243425}",
+Emily Winnie Photography,"['3926 Tilden Ave', 'Culver City, CA 90232']",Culver City,5.0,27,"{'latitude': 34.0119946, 'longitude': -118.4128118}",
+Triumph Photobooth,"['7560 Hollywood Blvd', 'Ste 301', 'Los Angeles, CA 90046']",Los Angeles,5.0,256,"{'latitude': 34.1013548, 'longitude': -118.354398}",
+A Cut Above The Rest Productions,"['7100 Hayvenhurst Ave', 'Ste 103', 'Van Nuys, CA 91406']",Van Nuys,3.5,31,"{'latitude': 34.2702685161688, 'longitude': -118.614921569824}",
+A-1 Self Storage,"['10811 Vanowen St', 'North Hollywood, CA 91605']",North Hollywood,5.0,84,"{'latitude': 34.194697, 'longitude': -118.366462}",1.0
+South Bay Storage Center,"['1234 W Anaheim St', 'Harbor City, CA 90710']",Harbor City,4.5,47,"{'latitude': 33.782837, 'longitude': -118.299343834393}",
+Yell Cut,"['7684 Clybourn Ave', 'Sun Valley, CA 91352']",Sun Valley,4.5,8,"{'latitude': 34.20949, 'longitude': -118.36258}",
+CPG Photo Booths,"['Los Angeles, CA 90063']",Los Angeles,5.0,42,"{'latitude': 34.04621, 'longitude': -118.18603}",
+Life Storage,"['5045 Old Scandia Ln', 'Calabasas, CA 91302']",Calabasas,4.0,20,"{'latitude': 34.1562965134573, 'longitude': -118.650371306082}",2.0
+Steve Chacon Weddings,"['21307 Fries Ave', 'Carson, CA 90745']",Carson,5.0,22,"{'latitude': 33.835075378418, 'longitude': -118.266639709473}",
+Fotobooth+,"['70 Harkness Ave', 'Pasadena, CA 91106']",Pasadena,5.0,60,"{'latitude': 34.14743, 'longitude': -118.11938}",
+LiteGear,"['4406 Vanowen St', 'Burbank, CA 91505']",Burbank,2.5,3,"{'latitude': 34.1937385, 'longitude': -118.3587831}",
+"Primo Prints, a Photo Booth Co","['145 W Broadway', 'Long Beach, CA 90802']",Long Beach,5.0,108,"{'latitude': 33.768931, 'longitude': -118.193022}",
+Irene Party Rentals,"['18601 Sherman Way', 'Ste A', 'Reseda, CA 91335']",Reseda,4.5,30,"{'latitude': 34.201413, 'longitude': -118.538943}",
+TENTEN Wilshire,"['1010 Wilshire Blvd', 'Los Angeles, CA 90017']",Los Angeles,3.5,84,"{'latitude': 34.0515060424805, 'longitude': -118.262214660645}",4.0
+PBX Booths Rental,"['4075 Schaefer Ave', 'Chino, CA 91710']",Chino,4.0,10,"{'latitude': 34.0040813, 'longitude': -117.7162955}",
+Rockstar Booths,"['Los Angeles, CA 90001']",Los Angeles,1.0,20,"{'latitude': 33.9740867614746, 'longitude': -118.24983215332}",
+Patricia Maureen Photography - PMP,"['Encino, CA 91316']",Encino,5.0,5,"{'latitude': 34.16642, 'longitude': -118.52013}",
+The Dreamshot,"['Los Angeles, CA 90025']",Los Angeles,5.0,39,"{'latitude': 34.0453109741211, 'longitude': -118.448333740234}",
+Umbra Photobooth,"['Los Angeles, CA 91423']",Los Angeles,5.0,36,"{'latitude': 34.1483955383301, 'longitude': -118.432647705078}",
+Mobeon,"['1158 26th St', 'Ste 365', 'Santa Monica, CA 90403']",Santa Monica,1.0,1,"{'latitude': 34.0361328, 'longitude': -118.4778214}",
+Unique Photography,"['130 S Mission Dr', 'Ste 103', 'San Gabriel, CA 91776']",San Gabriel,4.5,166,"{'latitude': 34.1012438, 'longitude': -118.1104194}",
+Party Unlimited Supplies,"['5567 Sepulveda Blvd', 'Culver City, CA 90230']",Culver City,4.0,68,"{'latitude': 33.9912631, 'longitude': -118.3957776}",
+Nova Realty,"['8409 Florence Ave', 'Downey, CA 90240']",Downey,3.0,2,"{'latitude': 33.9508743286133, 'longitude': -118.123374938965}",
+A-1 Self Storage,"['14908 Downey Ave', 'Paramount, CA 90723']",Paramount,4.5,34,"{'latitude': 33.8981574106266, 'longitude': -118.151212196295}",1.0
+The Brewery Artist Lofts,"['1920 N Main St', 'Los Angeles, CA 90031']",Los Angeles,4.5,57,"{'latitude': 34.06461, 'longitude': -118.21853}",1.0
+BoothZilla,"['Los Angeles, CA 90011']",Los Angeles,5.0,8,"{'latitude': 34.00566, 'longitude': -118.25849}",
+Studio Kappa,"['1125 Crenshaw Blvd', 'Los Angeles, CA 90019']",Los Angeles,5.0,20,"{'latitude': 34.0522605962826, 'longitude': -118.324630658896}",
+JS Wedding Studio,"['556 W Las Tunas Dr', 'San Gabriel, CA 91776']",San Gabriel,5.0,12,"{'latitude': 34.102279, 'longitude': -118.108519}",
+The Last Bookstore,"['453 S Spring St', 'Ground Floor', 'Los Angeles, CA 90013']",Los Angeles,4.5,2148,"{'latitude': 34.0477188519695, 'longitude': -118.24989597368}",1.0
+A-1 Self Storage,"['2300 Poplar Blvd', 'Alhambra, CA 91801']",Alhambra,5.0,57,"{'latitude': 34.09145, 'longitude': -118.14835}",
+EZ Wireless Repair,"['323 N Western Ave', 'Los Angeles, CA 90004']",Los Angeles,4.5,57,"{'latitude': 34.0767971, 'longitude': -118.3092849}",1.0
+Focus Photo Suites,"['2201 Pacific Ave', 'Ste 3b', 'Costa Mesa, CA 92627']",Costa Mesa,5.0,47,"{'latitude': 33.6544811, 'longitude': -117.9456967}",
+Mad Mochi Photo Booth Rental,"['Diamond Bar, CA 91765']",Diamond Bar,5.0,40,"{'latitude': 34.00223, 'longitude': -117.81387}",
+VOX DJs,"['2988 Columbia St', 'Torrance, CA 90503']",Torrance,5.0,1206,"{'latitude': 33.843987, 'longitude': -118.339599}",
+Leader Photo Booth Rental,"['Los Angeles, CA 91745']",Los Angeles,4.0,5,"{'latitude': 33.99665, 'longitude': -117.97027}",
+Quick Pix Photo Booth Company,"['2321 Magnolia Ave', 'Ste 8E', 'Ontario, CA 91762']",Ontario,5.0,2,"{'latitude': 34.031749, 'longitude': -117.671099}",
+Stor-Mor Self Storage,"['8635 Valley Blvd', 'Rosemead, CA 91770']",Rosemead,4.5,59,"{'latitude': 34.08122, 'longitude': -118.08111}",3.0
+Magical Events by Yami,"['Los Angeles, CA 91335']",Los Angeles,5.0,64,"{'latitude': 34.2005653381348, 'longitude': -118.540672302246}",
+Los Angeles iPhone Screen Repair IPad Repair,"['1415 S La Cienega Blvd', 'Los Angeles, CA 90035']",Los Angeles,4.5,1097,"{'latitude': 34.052701, 'longitude': -118.376582}",1.0
+King Kong 1 Hour Photo & Studio,"['1617 E Anaheim St', 'Long Beach, CA 90813']",Long Beach,4.5,69,"{'latitude': 33.7829132080078, 'longitude': -118.171440124512}",
+Memories,"['7291 Garden Grove Blvd', 'Ste F', 'Garden Grove, CA 92841']",Garden Grove,5.0,2,"{'latitude': 33.77432033, 'longitude': -118.00447}",
+99 Cents Only Stores,"['5270 Sunset Blvd', 'Los Angeles, CA 90027']",Los Angeles,3.5,92,"{'latitude': 34.097762, 'longitude': -118.304952}",1.0
+Kait McKay Photography,"['Costa Mesa, CA 92626']",Costa Mesa,5.0,35,"{'latitude': 33.67667, 'longitude': -117.92187}",
+Hollywood Toys & Costumes,"['6600 Hollywood Blvd', 'Hollywood, CA 90028']",Hollywood,3.5,164,"{'latitude': 34.101313, 'longitude': -118.333386}",2.0
+The Home Depot,"['5600 Sunset Blvd', 'Hollywood, CA 90028']",Hollywood,2.5,563,"{'latitude': 34.09759734384819, 'longitude': -118.31277106913832}",2.0
+Lovisa Photo,"['Long Beach, CA 90803']",Long Beach,5.0,111,"{'latitude': 33.76041, 'longitude': -118.13276}",
+Fry’s Electronics,"['13401 Crossroads Pkwy N', 'City of Industry, CA 91746']",City of Industry,2.0,805,"{'latitude': 34.030684099776, 'longitude': -118.007155843349}",2.0
+Red Feather Photography,"['Encino, CA 91436']",Encino,5.0,3,"{'latitude': 33.721051, 'longitude': -118.0478826}",
+Strike The Pose Photobooth,"['Buena Park, CA 90620']",Buena Park,5.0,32,"{'latitude': 33.8395, 'longitude': -118.01147}",
+REI,"['1900 W Empire Ave', 'Burbank, CA 91504']",Burbank,3.5,148,"{'latitude': 34.191655, 'longitude': -118.3315911}",3.0
+Best Buy - West Covina,"['1800 Plaza Dr', 'West Covina, CA 91790']",West Covina,2.5,366,"{'latitude': 34.07128, 'longitude': -117.930891}",2.0
+Hermosa Cyclery,"['20 13th St', 'Hermosa Beach, CA 90254']",Hermosa Beach,5.0,358,"{'latitude': 33.86254, 'longitude': -118.40145}",1.0
+Free Air Photo Booth,"['San Gabriel, CA 91775']",San Gabriel,5.0,23,"{'latitude': 34.1219100952148, 'longitude': -118.074409484863}",
+Foxy Photo Booth and Events,"['Long Beach, CA 90803']",Long Beach,5.0,13,"{'latitude': 33.76148, 'longitude': -118.13825}",
+WiPi Photo Booth,"['Huntington Beach, CA 92648']",Huntington Beach,5.0,3,"{'latitude': 33.6823272705078, 'longitude': -118.012626647949}",
+The Home Depot,"['1675 Wilshire Blvd', 'Los Angeles, CA 90017']",Los Angeles,3.0,266,"{'latitude': 34.0569281, 'longitude': -118.2707166}",2.0
+U-Haul Neighborhood Dealer,"['600 S Garfield Av', 'Alhambra, CA 91801']",Alhambra,4.0,5,"{'latitude': 34.0892460219815, 'longitude': -118.122789622754}",
+Duane Peck Wedding Photography,"['Orange, CA 90701']",Orange,5.0,140,"{'latitude': 33.8617343889759, 'longitude': -118.07588299082}",
+CVS Pharmacy,"['3751 Wilshire Boulevard', 'Los Angeles, CA 90010']",Los Angeles,2.0,203,"{'latitude': 34.062049, 'longitude': -118.308229}",2.0
+Just Ride LA,"['1626 S Hill St', 'Los Angeles, CA 90015']",Los Angeles,4.5,402,"{'latitude': 34.0343634, 'longitude': -118.2646379}",2.0
+Steve Giraud Photography,"['2960 Airway Ave', 'Ste B-103', 'Costa Mesa, CA 92626']",Costa Mesa,5.0,4,"{'latitude': 33.66927, 'longitude': -117.87631}",
+Ace of Spades Casino Experience,"['10401 Perdido St', 'Anaheim, CA 92804']",Anaheim,5.0,71,"{'latitude': 33.81166, 'longitude': -117.96308}",
+Melrose Trading Post,"['7850 Melrose Ave', 'Fairfax High School', 'Los Angeles, CA 90036']",Los Angeles,4.0,455,"{'latitude': 34.08196, 'longitude': -118.3599}",2.0
+Silly Photo Booth Rental,"['Los Angeles, CA 91316']",Los Angeles,5.0,51,"{'latitude': 34.1652526855469, 'longitude': -118.516052246094}",
+west elm,"['8366 Beverly Blvd', 'Los Angeles, CA 90048']",Los Angeles,2.5,271,"{'latitude': 34.075767, 'longitude': -118.372469}",3.0
+Bresson Photo Booths,"['Long Beach, CA 90853']",Long Beach,1.5,7,"{'latitude': 33.7589912414551, 'longitude': -118.131469726562}",
+A-1 Self Storage,"['5081 Lincoln Ave', 'Cypress, CA 90630']",Cypress,5.0,18,"{'latitude': 33.8319570851836, 'longitude': -118.044092465082}",
+Aesthetic Visuals.OC,"['Westminster, CA 92655']",Westminster,5.0,8,"{'latitude': 33.7695592217564, 'longitude': -117.994725099103}",
+Robinson Beautilities,"['12402 Washington Pl', 'Culver City, CA 90066']",Culver City,3.5,100,"{'latitude': 33.999003, 'longitude': -118.43042}",2.0
+The Home Depot,"['2055 N Figueroa St', 'Los Angeles, CA 90065']",Los Angeles,3.0,369,"{'latitude': 34.0836782, 'longitude': -118.2251101}",2.0
+Anawalt Lumber,"['641 N Robertson Blvd', 'West Hollywood, CA 90069']",West Hollywood,4.0,88,"{'latitude': 34.08195, 'longitude': -118.38596}",2.0
+Life Storage,"['4320 W 190th St', 'Torrance, CA 90504']",Torrance,4.5,92,"{'latitude': 33.85773, 'longitude': -118.35057}",3.0
+SoCal Self Storage,"['9000 Corbin Ave', 'Northridge, CA 91324']",Northridge,5.0,86,"{'latitude': 34.23445, 'longitude': -118.56158}",2.0
+Zak's Pawn Shop,"['6767 Santa Monica Blvd', 'Los Angeles, CA 90038']",Los Angeles,4.5,100,"{'latitude': 34.090868063518926, 'longitude': -118.33790851061728}",1.0
+U-Haul of North Hollywood,"['11666 Victory Blvd', 'North Hollywood, CA 91606']",North Hollywood,2.5,59,"{'latitude': 34.1865380371698, 'longitude': -118.386728557672}",
+E. Wireless,"['2139 Pontius Ave', 'Los Angeles, CA 90025']",Los Angeles,3.0,32,"{'latitude': 34.04007, 'longitude': -118.43907}",4.0
+LAX Firing Range,"['927 W Manchester Blvd', 'Inglewood, CA 90301']",Inglewood,3.5,651,"{'latitude': 33.96079, 'longitude': -118.373}",2.0
+Love Angeles Photography,"['Los Angeles, CA 91335']",Los Angeles,5.0,8,"{'latitude': 34.2006301879883, 'longitude': -118.54027557373}",
+Life Storage,"['1727 Buena Vista St', 'Duarte, CA 91010']",Duarte,5.0,19,"{'latitude': 34.132616, 'longitude': -117.978074}",
+Eleven Photo Booth Rental,"['Orange, CA 92868']",Orange,4.0,46,"{'latitude': 33.78659, 'longitude': -117.8750976}",
+Lowe's Home Improvement,"['4550 West Pico Boulevard', 'Unit D-101', 'Los Angeles, CA 90019']",Los Angeles,2.0,649,"{'latitude': 34.0476948564064, 'longitude': -118.335403084755}",2.0
+Irin Studio Photography,"['8362 Artesia Blvd', 'Unit A', 'Buena Park, CA 90621']",Buena Park,5.0,231,"{'latitude': 33.8730115, 'longitude': -117.98723}",
+Peterson Design & Photography,"['Fullerton, CA 92833']",Fullerton,5.0,64,"{'latitude': 33.8799781799316, 'longitude': -117.961074829102}",
+Lacey Wood Photography,"['11856 Balboa Blvd', 'Granada Hills, CA 91344']",Granada Hills,5.0,23,"{'latitude': 34.28566, 'longitude': -118.50068}",
+Oak Tree Gun Club,"['23121 Coltrane Ave', 'Newhall, CA 91321']",Newhall,4.5,835,"{'latitude': 34.34346, 'longitude': -118.535417}",2.0
+Harley-Davidson of Glendale,"['3717 San Fernando Rd', 'Glendale, CA 91204']",Glendale,4.5,304,"{'latitude': 34.12426, 'longitude': -118.25593}",3.0
+Photo Booth SoCal,"['20311 Valley Blvd', 'Ste C', 'Walnut, CA 91789']",Walnut,5.0,7,"{'latitude': 34.0099317, 'longitude': -117.8601267}",
+Cheers To You Photo Booth,"['Huntington Beach, CA 92647']",Huntington Beach,5.0,46,"{'latitude': 33.7099418640137, 'longitude': -117.99047088623}",
+Blue Star Jumpers,"['San Fernando Valley, CA 91406']",San Fernando Valley,5.0,75,"{'latitude': 34.1985119, 'longitude': -118.4980744}",
+Men's Wearhouse,"['1403 N Victory Pl', 'Burbank Empire Shopping Center', 'BURBANK, CA 91502']",BURBANK,2.5,135,"{'latitude': 34.1894124782343, 'longitude': -118.3269237371}",3.0
+Photo Touch Booth Rentals,"['Valencia, CA 91355']",Valencia,5.0,19,"{'latitude': 34.4435997009277, 'longitude': -118.610000610352}",
+The Booth & Bus Co,"['4262 Lindblade Dr', 'Ste 410', 'Los Angeles, CA 90066']",Los Angeles,5.0,113,"{'latitude': 33.996521, 'longitude': -118.422157}",
+Funtastic Images,"['West Covina, CA 91790']",West Covina,5.0,14,"{'latitude': 34.0682415769724, 'longitude': -117.939212733838}",
+Target Range,"['16140 Cohasset St', 'Van Nuys, CA 91406']",Van Nuys,4.5,361,"{'latitude': 34.20635, 'longitude': -118.48511}",2.0
+Helping Hand Thrift Shop,"['1033 S Fairfax Ave', 'Los Angeles, CA 90019']",Los Angeles,4.0,56,"{'latitude': 34.05722, 'longitude': -118.36459}",2.0
+Pinata Fiesta Party Supply & Rentals,"['Long Beach, CA 90813']",Long Beach,4.0,108,"{'latitude': 33.78245, 'longitude': -118.19225}",
+The Pressbox Photobooth,"['14343 Rockenbach St', 'Baldwin Park, CA 91706']",Baldwin Park,4.5,11,"{'latitude': 34.094835, 'longitude': -117.961691}",
+Box-n-Go Storage and Moving,"['Los Angeles, CA 90040']",Los Angeles,4.5,135,"{'latitude': 33.996429443359375, 'longitude': -118.1482162475586}",
+MO STUDIO,"['9502 Las Tunas Dr', 'Temple City, CA 91780']",Temple City,5.0,152,"{'latitude': 34.1061793, 'longitude': -118.0635071}",
+Jadis,"['2701 Main St', 'Santa Monica, CA 90405']",Santa Monica,4.5,14,"{'latitude': 34.001, 'longitude': -118.48218}",3.0
+Spotlight Groove Productions,"['811 S Del Mar Ave', 'San Gabriel, CA 91776']",San Gabriel,5.0,274,"{'latitude': 34.076295, 'longitude': -118.1000453}",
+Big Blue Photo Booth,"['Azusa, CA 91702']",Azusa,5.0,89,"{'latitude': 34.1336097717285, 'longitude': -117.905891418457}",
+Insight Indoor Shooting Range,"['17020 Alburtis Ave', 'Artesia, CA 90701']",Artesia,4.5,507,"{'latitude': 33.87576, 'longitude': -118.08512}",2.0
+Wow Party Rental,"['14575 Firestone Blvd', 'La Mirada, CA 90638']",La Mirada,2.0,326,"{'latitude': 33.8803, 'longitude': -118.02085}",
+J & M Entertainment,"['26027 Huntington Ln', 'Ste E', 'Valencia, CA 91355']",Valencia,4.5,67,"{'latitude': 34.4372581848166, 'longitude': -118.591469075749}",
+The Grove,"['189 The Grove Dr', 'Los Angeles, CA 90036']",Los Angeles,4.0,2313,"{'latitude': 34.0738577336164, 'longitude': -118.36126081767}",3.0
+Weller Court Shopping Center,"['123 Astronaut E S Onizuka St', 'Los Angeles, CA 90012']",Los Angeles,3.0,67,"{'latitude': 34.050227, 'longitude': -118.24234}",2.0
+"Stoneville USA, Inc","['12906 Saticoy St', 'North Hollywood, CA 91605']",North Hollywood,4.5,141,"{'latitude': 34.206576, 'longitude': -118.414888}",
+Treasure Booth,"['941 W Foothill Blvd', 'Ste 4', 'Azusa, CA 91702']",Azusa,4.5,81,"{'latitude': 34.133918, 'longitude': -117.919351}",
+Fry's Electronics,"['3600 N Sepulveda Blvd', 'Manhattan Beach, CA 90266']",Manhattan Beach,2.0,734,"{'latitude': 33.9013, 'longitude': -118.39527}",2.0
+Photo Booths for Parties,"['1160 E Mariposa Ave', 'El Segundo, CA 90245']",El Segundo,5.0,101,"{'latitude': 33.923387, 'longitude': -118.4045808}",
+AV Photo Booth,"['Garden Grove, CA 92840']",Garden Grove,4.5,56,"{'latitude': 33.7858924865723, 'longitude': -117.931816101074}",
+Trader Joe's,"['263 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,3.5,312,"{'latitude': 34.0690865, 'longitude': -118.3444142}",1.0
+Two Rodeo Drive,"['9480 Dayton Way', 'Beverly Hills, CA 90210']",Beverly Hills,3.5,44,"{'latitude': 34.067978278035, 'longitude': -118.401123331646}",4.0
+OC Estate Photos,"['Santa Ana, CA 92705']",Santa Ana,5.0,3,"{'latitude': 33.76342, 'longitude': -117.79557}",
+Extravagant Photo Booth Rental,"['Orange, CA 92618']",Orange,5.0,5,"{'latitude': 33.671783, 'longitude': -117.748775}",
+Malibu Surf Shack,"['22935 Pacific Coast Hwy', 'Malibu, CA 90265']",Malibu,4.0,191,"{'latitude': 34.03819, 'longitude': -118.67581}",2.0
+Freedom Photo Booth,"['Long Beach, CA 90808']",Long Beach,5.0,68,"{'latitude': 33.8394, 'longitude': -118.12962}",
+A-1 Self Storage,"['1415 W Commonwealth Ave', 'Fullerton, CA 92833']",Fullerton,5.0,76,"{'latitude': 33.870607, 'longitude': -117.945879}",
+Costco Wholesale,"['1051 W Burbank Blvd', 'Burbank, CA 91506']",Burbank,3.0,553,"{'latitude': 34.185412, 'longitude': -118.32365}",2.0
+Westwood Kelton Towers,"['1395 Kelton Ave', 'Los Angeles, CA 90024']",Los Angeles,1.0,6,"{'latitude': 34.05435, 'longitude': -118.4439}",
+Mickey Hargitay Plants,"['1255 N Sycamore Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,647,"{'latitude': 34.09414, 'longitude': -118.34314}",2.0
+Perfect Shot Photo Booth,"['17765 Appaloosa Ct', 'Yorba Linda, CA 92886']",Yorba Linda,5.0,69,"{'latitude': 33.881416, 'longitude': -117.823494}",
+Endless Photobooth,"['Oxnard, CA 93036']",Oxnard,5.0,22,"{'latitude': 34.2328937, 'longitude': -119.179765}",
+Image Wireless,"['1009 Broxton Ave', 'Los Angeles, CA 90024']",Los Angeles,4.5,282,"{'latitude': 34.0621591, 'longitude': -118.4471047}",2.0
+Aquafuzion,"['517 S Myrtle Ave', 'Ste 100', 'Monrovia, CA 91016']",Monrovia,5.0,114,"{'latitude': 34.1464058, 'longitude': -118.0013064}",3.0
+Lucy's Bridal & Photography,"['9224 Las Tunas Dr', 'Temple City, CA 91780']",Temple City,4.0,42,"{'latitude': 34.1056716, 'longitude': -118.0672465}",
+Best Buy Hawthorne,"['5000 W 147th St', 'Hawthorne, CA 90250']",Hawthorne,2.5,251,"{'latitude': 33.89741, 'longitude': -118.36549}",2.0
+Cinderella Bridal,"['340 S Broadway', 'Los Angeles, CA 90013']",Los Angeles,2.5,24,"{'latitude': 34.0497620839545, 'longitude': -118.248622007668}",4.0
+Kush Alley,"['16733 Schoenborn St', 'North Hills, CA 91343']",North Hills,4.5,86,"{'latitude': 34.222696104142, 'longitude': -118.497881285285}",2.0
+Life Storage,"['19106 Normandie Ave', 'Torrance, CA 90502']",Torrance,3.5,69,"{'latitude': 33.85669, 'longitude': -118.29806}",3.0
+Costco Wholesale,"['13463 Washington Blvd', 'Marina Del Rey, CA 90292']",Marina Del Rey,3.5,831,"{'latitude': 33.992771, 'longitude': -118.446533}",2.0
+T-Mobile,"['8632 S Sepulveda Blvd', 'Ste 105', 'Los Angeles, CA 90045']",Los Angeles,4.0,32,"{'latitude': 33.9589513299881, 'longitude': -118.3960083}",3.0
+Kevin Lee Studio,"['127 N Madison Ave', 'Ste 216', 'Pasadena, CA 91101']",Pasadena,5.0,41,"{'latitude': 34.1484011, 'longitude': -118.1389205}",
+Optic Photo Booth Rental,"['29839 Santa Margarita Parkway', 'Rancho Margarita, CA 92688']",Rancho Margarita,4.5,32,"{'latitude': 33.63803, 'longitude': -117.61139}",
+All City Party Supplies,"['1600 Cherry Ave', 'Long Beach, CA 90813']",Long Beach,3.5,62,"{'latitude': 33.78693, 'longitude': -118.16724}",
+Boss Brides,"['West Covina, CA 91791']",West Covina,5.0,213,"{'latitude': 34.0606269836426, 'longitude': -117.893623352051}",
+Joy Squad,"['Santa Clarita, CA 91351']",Santa Clarita,5.0,3,"{'latitude': 34.4223937988281, 'longitude': -118.494018554688}",
+Group Micro,"['1036 Broxton Ave', 'Ste A', 'Los Angeles, CA 90024']",Los Angeles,5.0,531,"{'latitude': 34.061787, 'longitude': -118.446269}",1.0
+Grand Central Market,"['317 S Broadway', 'Los Angeles, CA 90013']",Los Angeles,4.0,2609,"{'latitude': 34.0506285480471, 'longitude': -118.248635262566}",2.0
+Thai Bridal & Florist,"['14441 Brookhurst St', 'Ste 5', 'Garden Grove, CA 92843']",Garden Grove,4.5,122,"{'latitude': 33.7528, 'longitude': -117.9555}",2.0
+Wackyface Photo Booth,"['20528 Devlin Ave', 'Lakewood, CA 90715']",Lakewood,5.0,19,"{'latitude': 33.8433380126953, 'longitude': -118.077194213867}",
+Mr Smiley's Photo Booth,"['13337 S St', 'Ste 683', 'Cerritos, CA 90703']",Cerritos,5.0,106,"{'latitude': 33.8601004, 'longitude': -118.0472447}",
+Malibu Divers,"['21231 Pacific Coast Hwy', 'Malibu, CA 90265']",Malibu,4.5,55,"{'latitude': 34.0371784, 'longitude': -118.6373966}",
+A-1 Self Storage,"['420 E Lambert Rd', 'La Habra, CA 90631']",La Habra,4.0,25,"{'latitude': 33.92437824481, 'longitude': -117.941087071164}",
+Assured AudioVisual,"['2941 E Miraloma Ave', 'Ste 3', 'Anaheim, CA 92806']",Anaheim,4.5,30,"{'latitude': 33.8565903397438, 'longitude': -117.866875470148}",2.0
+The Home Depot,"['12975 W Jefferson Blvd', 'Los Angeles, CA 90066']",Los Angeles,2.5,685,"{'latitude': 33.9764345, 'longitude': -118.4233122}",2.0
+Appliance & Kitchen Outlet,"['6415 De Soto Ave', 'Woodland Hills, CA 91367']",Woodland Hills,5.0,45,"{'latitude': 34.1869275, 'longitude': -118.5892278}",2.0
+All That Photo Booth,"['Irvine, CA 92614']",Irvine,4.5,37,"{'latitude': 33.67454, 'longitude': -117.81939}",
+Angeles Shooting Ranges,"['12651 Little Tujunga Canyon Rd', 'Sylmar, CA 91342']",Sylmar,4.5,790,"{'latitude': 34.30769962334558, 'longitude': -118.36311271164891}",2.0
+Cateraoke Weddings + Events,"['1515 E 3rd St', 'Long Beach, CA 90802']",Long Beach,4.5,19,"{'latitude': 33.770099, 'longitude': -118.172813}",
+A-1 Self Storage,"['3535 W Ball Rd', 'Anaheim, CA 92804']",Anaheim,5.0,79,"{'latitude': 33.8176865044438, 'longitude': -118.011668152115}",2.0
+Willy's Bikes,"['11968 Foothill Blvd', 'Lake View Terrace, CA 91342']",Lake View Terrace,5.0,73,"{'latitude': 34.2759482009462, 'longitude': -118.397647116672}",1.0
+Jet Rag,"['825 N La Brea Ave', 'Los Angeles, CA 90038']",Los Angeles,3.0,302,"{'latitude': 34.08617, 'longitude': -118.34439}",2.0
+IM Real Estate Photography,"['West Covina, CA 91792']",West Covina,5.0,59,"{'latitude': 34.0332214, 'longitude': -117.9073244}",
+Le Marriage Couture,"['11900 W Olympic Blvd', 'Ste 100', 'Los Angeles, CA 90064']",Los Angeles,4.0,388,"{'latitude': 34.0321006928241, 'longitude': -118.453238552917}",2.0
+Best Buy - Signal Hill,"['2701 Cherry Ave', 'Signal Hill, CA 90755']",Signal Hill,2.5,438,"{'latitude': 33.8070793151855, 'longitude': -118.16828918457}",2.0
+Heritage Costumes,"['1423 Marcelina Ave', 'Torrance, CA 90501']",Torrance,4.0,59,"{'latitude': 33.83397, 'longitude': -118.31578}",2.0
+Citadel Outlets,"['100 Citadel Dr', 'Los Angeles, CA 90040']",Los Angeles,3.5,1243,"{'latitude': 34.006352, 'longitude': -118.152957}",2.0
+Venice Beach Boardwalk,"['1800 Ocean Front Walk', 'Venice, CA 90291']",Venice,4.0,925,"{'latitude': 33.9865964450219, 'longitude': -118.473995993074}",1.0
+Chez Rose Floral Designs,"['7261 Garden Grove Blvd', 'Ste A', 'Garden Grove, CA 92841']",Garden Grove,5.0,52,"{'latitude': 33.776287, 'longitude': -118.0039243}",
+On Cue Photo Booth,"['Yorba Linda, CA 92886']",Yorba Linda,5.0,7,"{'latitude': 33.8922691345215, 'longitude': -117.809951782227}",
+The PhotoBooth Guy,"['14182 Central Ave', 'Ste E', 'Chino, CA 91710']",Chino,5.0,322,"{'latitude': 33.9957502, 'longitude': -117.6899126}",
+Life Storage,"['8041 Edinger Ave', 'Westminster, CA 92683']",Westminster,4.5,68,"{'latitude': 33.73062, 'longitude': -117.98792}",2.0
+Rose Bowl Flea Market,"['1001 Rose Bowl Dr', 'Pasadena, CA 91103']",Pasadena,4.0,479,"{'latitude': 34.161272, 'longitude': -118.167649}",2.0
+Apple The Americana at Brand,"['877 Americana Way', 'Glendale, CA 91210']",Glendale,3.0,489,"{'latitude': 34.1444262617741, 'longitude': -118.256996464194}",3.0
+Ninfa's Flowers & Gifts,"['2405 Whittier Blvd', 'Los Angeles, CA 90023']",Los Angeles,4.5,110,"{'latitude': 34.0343384, 'longitude': -118.2153026}",2.0
+Make It Last Events,"['Fullerton, CA 92834']",Fullerton,5.0,62,"{'latitude': 33.87412, 'longitude': -117.90317}",
+Grace Events,"['263 W Olive Ave', 'Ste 224', 'Burbank, CA 91502']",Burbank,4.5,36,"{'latitude': 34.1740866, 'longitude': -118.3158893}",
+Events Worldwide OC,"['3455 E La Palma Ave', 'Anaheim, CA 92806']",Anaheim,4.5,76,"{'latitude': 33.85502, 'longitude': -117.84332}",
+The Bloc,"['750 W 7th St', 'Los Angeles, CA 90017']",Los Angeles,2.5,60,"{'latitude': 34.0482763, 'longitude': -118.2585607}",2.0
+909 Jumpers and Party Rentals,"['Fontana, CA 92336']",Fontana,4.0,154,"{'latitude': 34.1376647949219, 'longitude': -117.462760925293}",
+AAFES,"['200 N Douglas St', 'El Segundo, CA 90245']",El Segundo,3.5,23,"{'latitude': 33.9170471169739, 'longitude': -118.379969962013}",2.0
+Fisherman's Village,"['13755 Fiji Way', 'Marina Del Rey, CA 90292']",Marina Del Rey,3.0,63,"{'latitude': 33.972615, 'longitude': -118.446338}",2.0
+Hollywood & Highland Center,"['6801 Hollywood Blvd', 'Hollywood, CA 90028']",Hollywood,3.5,411,"{'latitude': 34.1022785139798, 'longitude': -118.340385071933}",2.0
+Boxed Owl,"['19800 MacArthur', 'Ste 270', 'Irvine, CA 92612']",Irvine,5.0,3,"{'latitude': 33.655261, 'longitude': -117.8599893}",
+The D Jay Company,"['7147 Amethyst Ave', 'Rancho Cucamonga, CA 91701']",Rancho Cucamonga,4.0,169,"{'latitude': 34.12424, 'longitude': -117.59796}",
+Incycle Bicycles,"['175 S Fair Oaks Ave', 'Pasadena, CA 91105']",Pasadena,4.0,385,"{'latitude': 34.1428289, 'longitude': -118.1505849}",3.0
+Mollusk Surf Shop,"['1600 Pacific Ave', 'Venice, CA 90291']",Venice,3.5,53,"{'latitude': 33.9876802, 'longitude': -118.4720604}",3.0
+Santa Storage,"['11284 Westminster Ave', 'Garden Grove, CA 92843']",Garden Grove,4.0,38,"{'latitude': 33.7594829, 'longitude': -117.9322993}",2.0
+Tees On Demand,"['1840 Lincoln Blvd', 'Santa Monica, CA 90404']",Santa Monica,4.5,352,"{'latitude': 34.0128927, 'longitude': -118.4838693}",
+Anawalt Lumber,"['11060 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,3.0,190,"{'latitude': 34.0367491092421, 'longitude': -118.433937067459}",2.0
+UltraStar Event Productions,"['Huntington Beach, CA 92708']",Huntington Beach,5.0,152,"{'latitude': 33.70999, 'longitude': -117.94892}",
+Tri-Zone,"['3380 Cerritos Ave', 'Los Alamitos, CA 90720']",Los Alamitos,4.5,89,"{'latitude': 33.809989, 'longitude': -118.073355}",2.0
+Lowe's Home Improvement,"['2000 W Empire Ave', 'Burbank, CA 91504']",Burbank,2.5,664,"{'latitude': 34.189997, 'longitude': -118.332974}",2.0
+Something New and Blue Photography Videography,"['130 E Dyer Rd', 'Ste C', 'Santa Ana, CA 92707']",Santa Ana,5.0,56,"{'latitude': 33.7083835, 'longitude': -117.8663097}",
+Americana at Brand,"['889 Americana Way', 'Glendale, CA 91210']",Glendale,3.5,1322,"{'latitude': 34.1438760471104, 'longitude': -118.256813740655}",3.0
+Westfield Century City,"['10250 Santa Monica Blvd', 'Los Angeles, CA 90067']",Los Angeles,3.5,1135,"{'latitude': 34.058663, 'longitude': -118.419032}",3.0
+Universal CityWalk,"['100 Universal City Plz', 'Universal City, CA 91608']",Universal City,3.5,832,"{'latitude': 34.136114, 'longitude': -118.353715}",2.0
+REI,"['1800 Rosecrans Ave', 'Ste E', 'Manhattan Beach, CA 90266']",Manhattan Beach,4.0,292,"{'latitude': 33.9004752710074, 'longitude': -118.379699885845}",2.0
+Men's Wearhouse,"['18407 Hawthorne Blvd', 'Between 182nd & 186th', 'TORRANCE, CA 90504']",TORRANCE,3.0,142,"{'latitude': 33.8635421659516, 'longitude': -118.35316992715}",2.0
+The Home Depot,"['4925 W Slauson Ave', 'Los Angeles, CA 90056']",Los Angeles,2.5,207,"{'latitude': 33.9886595, 'longitude': -118.364321}",2.0
+Closer to Love Photography,"['Fullerton, CA 92833']",Fullerton,5.0,28,"{'latitude': 33.8702923, 'longitude': -117.925338}",
+Beach Cities Scuba,"['6021 Orange Ave', 'Cypress, CA 90630']",Cypress,4.5,35,"{'latitude': 33.82476, 'longitude': -118.0274}",2.0
+The Home Depot,"['1200 Flower St', 'Burbank, CA 91502']",Burbank,2.5,374,"{'latitude': 34.1698298, 'longitude': -118.2993369}",2.0
+Glamour Closet,"['8340 Beverly Blvd', 'Los Angeles, CA 90048']",Los Angeles,4.5,378,"{'latitude': 34.0759311, 'longitude': -118.3716233}",2.0
+The Home Depot,"['5040 San Fernando Rd', 'Glendale, CA 91204']",Glendale,2.5,333,"{'latitude': 34.1438106, 'longitude': -118.2685791}",2.0
+So Smitten Special Events,"['3764 Orange Ave', 'Long Beach, CA 90807']",Long Beach,5.0,90,"{'latitude': 33.826405, 'longitude': -118.176025}",
+HD Buttercup,"['3225 Helms Ave', 'Los Angeles, CA 90034']",Los Angeles,3.0,337,"{'latitude': 34.0306035, 'longitude': -118.3850036}",3.0
+Palisades Village,"['15225 Palisades Village Ln', 'Pacific Palisades, CA 90272']",Pacific Palisades,4.0,49,"{'latitude': 34.047615, 'longitude': -118.5248}",
+Harmonious Events,"['Whittier, CA 90604']",Whittier,5.0,69,"{'latitude': 33.932918548584, 'longitude': -118.014671325684}",
+SnapCam Photo Booth,"['Irvine, CA 92618']",Irvine,5.0,128,"{'latitude': 33.66111, 'longitude': -117.7419}",
+U-Haul Neighborhood Dealer,"['5557 Reseda Blvd', 'Ste D', 'Tarzana, CA 91356']",Tarzana,1.5,15,"{'latitude': 34.1713975701404, 'longitude': -118.536109101852}",
+Frank Zhen Photography,"['352 Paseo Sonrisa', 'Walnut, CA 91789']",Walnut,5.0,5,"{'latitude': 34.0119016, 'longitude': -117.8576691}",
+Swings and More Things,"['22035 Ventura Blvd', 'Woodland Hills, CA 91364']",Woodland Hills,2.5,14,"{'latitude': 34.168868, 'longitude': -118.607135}",
+Phone Logistics,"['1500 E Village Way', 'Ste 2271', 'Orange, CA 92865']",Orange,4.5,267,"{'latitude': 33.8255553, 'longitude': -117.838103}",2.0
+The Home Depot,"['8801 S La Cienega Blvd', 'Inglewood, CA 90301']",Inglewood,3.0,146,"{'latitude': 33.9577953895804, 'longitude': -118.370912969112}",2.0
+Shmily Wedding Photography,"['17891 Sky Park Cir', 'Ste C', 'Irvine, CA 92614']",Irvine,5.0,89,"{'latitude': 33.691487, 'longitude': -117.859442}",
+Michael Kors Outlet,"['100 Citadel Dr', 'Ste 446', 'Commerce, CA 90040']",Commerce,3.0,133,"{'latitude': 34.0050583, 'longitude': -118.1530304}",3.0
+HD Supply Home Improvement Solutions,"['5950 Paramount Blvd', 'Long Beach, CA 90805']",Long Beach,3.0,39,"{'latitude': 33.8637578, 'longitude': -118.1597122}",2.0
+Sit 'n Sleep,"['130 N Central Ave', 'Glendale, CA 91203']",Glendale,4.5,279,"{'latitude': 34.1475526, 'longitude': -118.2575094}",2.0
+The Home Depot,"['11600 Sherman Way', 'North Hollywood, CA 91605']",North Hollywood,2.5,289,"{'latitude': 34.199781, 'longitude': -118.383502}",2.0
+Kovacs-Frey Pharmacy & Home Health Care,"['2860 Artesia Blvd', 'Redondo Beach, CA 90278']",Redondo Beach,4.5,49,"{'latitude': 33.8726651, 'longitude': -118.3572002}",1.0
+Goodwill Southern California Retail Store,"['1600 E Colorado St', 'Eagle Rock, CA 91205']",Eagle Rock,3.0,68,"{'latitude': 34.142627, 'longitude': -118.229219}",1.0
+U-Haul of Pico Rivera,"['4425 Rosemead Bl', 'Pico Rivera, CA 90660']",Pico Rivera,2.0,50,"{'latitude': 34.0103817750004, 'longitude': -118.08137}",2.0
+CenterpiecEvents DJ & MC,"['Anaheim, CA 92802']",Anaheim,5.0,86,"{'latitude': 33.8080596923828, 'longitude': -117.923500061035}",
+The Exotic Green Garden,"['31364 Via Colinas', 'Ste 103', 'Westlake Village, CA 91362']",Westlake Village,5.0,159,"{'latitude': 34.154999, 'longitude': -118.8071502}",2.0
+Apsara Bridal & Photography,"['1067 E Anaheim St', 'Long Beach, CA 90813']",Long Beach,4.5,63,"{'latitude': 33.78286367198961, 'longitude': -118.17930949999995}",
+REI,"['6220 Topanga Canyon Blvd', 'Los Angeles, CA 91367']",Los Angeles,3.5,137,"{'latitude': 34.1832336160901, 'longitude': -118.604929706813}",2.0
+Men's Wearhouse,"['6400 Owensmouth Ave', 'Woodland Hills Retail Center', 'WOODLAND HILLS, CA 91367']",WOODLAND HILLS,3.0,86,"{'latitude': 34.1864344856446, 'longitude': -118.60104021842}",3.0
+Men's Wearhouse,"['4447 Candlewood St', 'Lakewood, CA 90712']",Lakewood,3.0,119,"{'latitude': 33.8541349, 'longitude': -118.1394077}",2.0
+Viral Booth OC,"['7431 Mountjoy Dr', 'Huntington Beach, CA 92648']",Huntington Beach,5.0,97,"{'latitude': 33.69568, 'longitude': -117.99875}",
+Pacific Wilderness,"['1719 S Pacific Ave', 'San Pedro, CA 90731']",San Pedro,4.5,108,"{'latitude': 33.72833, 'longitude': -118.28825}",2.0
+Appliance Doctor,"['10735 Burbank Blvd', 'North Hollywood, CA 91601']",North Hollywood,2.0,68,"{'latitude': 34.17246, 'longitude': -118.3651}",4.0
+Watts Towers Arts Center,"['1727 E 107th St', 'Los Angeles, CA 90002']",Los Angeles,4.5,227,"{'latitude': 33.93885, 'longitude': -118.24179}",1.0
+Redondo Beach Pier,"[""100 Fisherman's Wharf"", 'Redondo Beach, CA 90277']",Redondo Beach,4.0,455,"{'latitude': 33.838981797723, 'longitude': -118.391332626343}",2.0
+Best Buy,"['500 Westminster Mall Rd', 'Westminster, CA 92683']",Westminster,2.5,423,"{'latitude': 33.7502013290214, 'longitude': -118.014925535649}",2.0
+The Source,"['6940 Beach Blvd', 'Buena Park, CA 90621']",Buena Park,3.5,175,"{'latitude': 33.85965, 'longitude': -117.99779}",2.0
+The Home Depot,"['14603 Ocean Gate Ave', 'Hawthorne, CA 90250']",Hawthorne,2.5,251,"{'latitude': 33.898454, 'longitude': -118.3691393}",2.0
+I Promise Studio,"['137 S 8th Ave', 'Ste L', 'La Puente, CA 91746']",La Puente,5.0,38,"{'latitude': 34.0317825, 'longitude': -117.9721599}",
+Verizon,"['5070 W Rosecrans Ave', 'Hawthorne, CA 90250']",Hawthorne,2.5,109,"{'latitude': 33.9013695, 'longitude': -118.366841375828}",3.0
+IKEA,"['20700 Avalon Blvd', 'Carson, CA 90746']",Carson,3.0,936,"{'latitude': 33.8418748623276, 'longitude': -118.260222807587}",2.0
+U-Haul Neighborhood Dealer,"['25333 Railroad Av', 'Santa Clarita, CA 91350']",Santa Clarita,1.5,13,"{'latitude': 34.3989000581388, 'longitude': -118.538569890738}",
+Sit 'n Sleep,"['6170 Telegraph Rd', 'Commerce, CA 90040']",Commerce,4.5,267,"{'latitude': 33.99665, 'longitude': -118.14555}",
+CPR Cell Phone Repair Cypress,"['6891 Katella Ave', 'Cypress, CA 90630']",Cypress,4.0,192,"{'latitude': 33.804161, 'longitude': -118.012111}",2.0
+All The Best Locksmiths,"['Brea, CA 92821']",Brea,5.0,406,"{'latitude': 33.9150199890137, 'longitude': -117.897239685059}",1.0
+Book-Off,"['21712 Hawthorne Blvd', 'Del Amo Fashion Center', 'Torrance, CA 90503']",Torrance,3.5,120,"{'latitude': 33.83269, 'longitude': -118.35025}",1.0
+Crafted At the Port of Los Angeles,"['112 E 22nd St', 'Warehouse 10', 'San Pedro, CA 90731']",San Pedro,4.0,212,"{'latitude': 33.7278629643571, 'longitude': -118.279715001061}",2.0
+Children's Orchard,"['2701 N Sepulveda Blvd', 'Manhattan Beach, CA 90266']",Manhattan Beach,3.0,142,"{'latitude': 33.89593, 'longitude': -118.39633}",1.0
+iHeart Momo Photo Booth,"['1801 E Heim Ave', 'Ste 208', 'Orange, CA 92865']",Orange,4.5,159,"{'latitude': 33.8305168151855, 'longitude': -117.835273742676}",
+Ruggable,"['17809 S Broadway St', 'Gardena, CA 90248']",Gardena,2.5,79,"{'latitude': 33.8690915, 'longitude': -118.2794303}",
+The Home Depot,"['740 182nd St', 'Gardena, CA 90248']",Gardena,3.0,131,"{'latitude': 33.8683728, 'longitude': -118.2873269}",2.0
+Best Buy - Lakewood,"['5101 Clark Ave', 'Lakewood, CA 90712']",Lakewood,2.5,359,"{'latitude': 33.8506002, 'longitude': -118.1339049}",2.0
+Love Boat Bridal Boutique,"['9564 Las Tunas Dr', 'Temple City, CA 91780']",Temple City,3.5,127,"{'latitude': 34.1063635, 'longitude': -118.0615567}",2.0
+The Home Depot,"['16800 Roscoe Blvd', 'Van Nuys, CA 91406']",Van Nuys,2.5,300,"{'latitude': 34.2200757, 'longitude': -118.500072}",2.0
+Lamps Plus,"['18989 Hawthorne Blvd', 'Torrance, CA 90504']",Torrance,3.5,81,"{'latitude': 33.85882, 'longitude': -118.35383}",2.0
+The Home Depot,"['3363 Century Blvd', 'Inglewood, CA 90303']",Inglewood,2.0,106,"{'latitude': 33.9479645, 'longitude': -118.3307905}",2.0
+Costco Wholesale,"['2640 Lomita Blvd', 'Torrance, CA 90505']",Torrance,3.5,532,"{'latitude': 33.8069709151961, 'longitude': -118.334312176689}",2.0
+Ashley HomeStore,"['401 N 1St Street', 'Burbank, CA 91502']",Burbank,2.0,904,"{'latitude': 34.18195, 'longitude': -118.31392}",2.0
+DICK'S Sporting Goods,"['435 Los Cerritos Ctr', 'Space F17', 'Cerritos, CA 90703']",Cerritos,2.0,245,"{'latitude': 33.860863, 'longitude': -118.094029}",2.0
+REI,"['7777 Edinger Ave', 'Huntington Beach, CA 92647']",Huntington Beach,4.0,228,"{'latitude': 33.7303649, 'longitude': -117.9944999}",3.0
+Hollywood Casting and Film,"['7080 Hollywood Blvd', 'Ste 312', 'Los Angeles, CA 90028']",Los Angeles,4.5,119,"{'latitude': 34.1012703829078, 'longitude': -118.344595}",
+Sprint Store,"['21017 Hawthorne Blvd', 'Torrance, CA 90503']",Torrance,2.5,248,"{'latitude': 33.8393471412358, 'longitude': -118.3541531}",2.0
+The Home Depot,"['9700 Lower Azusa Rd', 'El Monte, CA 91731']",El Monte,3.0,243,"{'latitude': 34.0884385, 'longitude': -118.0548677}",2.0
+The Home Depot,"['1625 S Mountain Ave', 'Monrovia, CA 91016']",Monrovia,3.0,271,"{'latitude': 34.1339916, 'longitude': -117.9897691}",2.0
+Meathead Movers,"['1401 Maulhardt Ave', 'Oxnard, CA 93030']",Oxnard,4.0,386,"{'latitude': 34.21539, 'longitude': -119.14451}",
+AT&T Store,"['6000 Lankershim Blvd', 'North Hollywood, CA 91606']",North Hollywood,2.5,168,"{'latitude': 34.179753, 'longitude': -118.383115}",2.0
+The Home Depot,"['12322 Washington Blvd', 'Whittier, CA 90606']",Whittier,3.0,152,"{'latitude': 33.9654139, 'longitude': -118.0493196}",2.0
+Dannhiflowers,"['831 E Valley Blvd', 'San Gabriel, CA 91776']",San Gabriel,4.5,110,"{'latitude': 34.080409, 'longitude': -118.089314}",2.0
+Walmart Supercenter,"['1827 Walnut Grove Ave', 'Rosemead, CA 91770']",Rosemead,2.0,672,"{'latitude': 34.050105870723414, 'longitude': -118.084772173194}",1.0
+Triangle Hardware,"['403 Pacific Coast Hwy', 'Hermosa Beach, CA 90254']",Hermosa Beach,4.0,112,"{'latitude': 33.8580536439669, 'longitude': -118.391278106264}",2.0
+Vroman's Bookstore,"['695 E Colorado Blvd', 'Pasadena, CA 91101']",Pasadena,4.5,717,"{'latitude': 34.146086, 'longitude': -118.136088}",2.0
+Graphic Studio & Bridal Collection,"['3338 San Gabriel Blvd', 'Rosemead, CA 91770']",Rosemead,5.0,55,"{'latitude': 34.0689, 'longitude': -118.09023}",2.0
+Spectrum,"['328 Santa Monica Blvd', 'Santa Monica, CA 90401']",Santa Monica,1.5,452,"{'latitude': 34.016009, 'longitude': -118.495262}",
+99 Cents Only Stores,"['140 E Duarte Rd', 'Arcadia, CA 91006']",Arcadia,3.5,62,"{'latitude': 34.129894, 'longitude': -118.026364}",1.0
+Panache Bridal - Pasadena,"['78 S Fair Oaks Ave', 'Pasadena, CA 91105']",Pasadena,4.0,849,"{'latitude': 34.1439949, 'longitude': -118.1502911}",3.0
+Tattoo Love,"['4871 Eagle Rock Blvd', 'Los Angeles, CA 90041']",Los Angeles,4.5,264,"{'latitude': 34.13467, 'longitude': -118.21576}",2.0
+Cell Phone Pro Repair,"['825 N Tustin St', 'Orange, CA 92867']",Orange,5.0,232,"{'latitude': 33.8010551, 'longitude': -117.8355051}",1.0
+The Home Depot,"['6345 Variel Ave', 'Woodland Hills, CA 91367']",Woodland Hills,2.5,290,"{'latitude': 34.1853086, 'longitude': -118.5943}",2.0
+Lowe's Home Improvement,"['8600 Washington Boulevard', 'Pico Rivera, CA 90660']",Pico Rivera,2.5,214,"{'latitude': 33.9843683633848, 'longitude': -118.102452637959}",2.0
+Westfield Topanga & The Village,"['6600 Topanga Canyon Blvd', 'Canoga Park, CA 91303']",Canoga Park,4.0,842,"{'latitude': 34.1901855, 'longitude': -118.6038464}",2.0
+Costco Wholesale,"['2200 E Willow St', 'Signal Hill, CA 90755']",Signal Hill,3.0,489,"{'latitude': 33.8032651, 'longitude': -118.1647399}",2.0
+T-Mobile,"['5825 Lincoln Ave', 'Ste E', 'Buena Park, CA 90620']",Buena Park,3.0,66,"{'latitude': 33.8322454, 'longitude': -118.0314223}",2.0
+The Home Depot,"['5000 Hardwick St', 'Lakewood, CA 90712']",Lakewood,3.0,213,"{'latitude': 33.8489677, 'longitude': -118.134634}",2.0
+Lili Bridals & Formals,"['18663 Ventura Blvd', 'Tarzana, CA 91356']",Tarzana,4.0,449,"{'latitude': 34.1708061, 'longitude': -118.5401571}",2.0
+Yoramco Properties,"['10106 Hillhaven Ave', 'Tujunga, CA 91042']",Tujunga,1.0,37,"{'latitude': 34.25266, 'longitude': -118.28947}",
+Walgreens,"['1344 W Redondo Beach Blvd', 'Gardena, CA 90247']",Gardena,2.0,49,"{'latitude': 33.8910223, 'longitude': -118.2995005}",1.0
+Billings Paint & Hardware,"['5006-5004 E 2Nd St', 'Long Beach, CA 90803']",Long Beach,4.0,94,"{'latitude': 33.76072, 'longitude': -118.13656}",2.0
+Walmart,"['2100 N Long Beach Blvd', 'Compton, CA 90221']",Compton,2.0,92,"{'latitude': 33.91007, 'longitude': -118.20777}",2.0
+A Plus Appliance Sales & Service,"['823 Foothill Blvd', 'La Canada Flintridge, CA 91011']",La Canada Flintridge,3.0,219,"{'latitude': 34.20305, 'longitude': -118.19655}",
+Downtown Disney District,"['1580 S Disneyland Dr', 'Anaheim, CA 92802']",Anaheim,3.5,1461,"{'latitude': 33.8091327, 'longitude': -117.9236622}",2.0
+Foto Cabina Premium Photo Booths,"['1010 E Lacy Ave', 'Anaheim, CA 92805']",Anaheim,4.5,27,"{'latitude': 33.8241996765137, 'longitude': -117.89966583252}",
+Lowe's Home Improvement,"['2800 W 120th St', 'Hawthorne, CA 90250']",Hawthorne,2.0,337,"{'latitude': 33.922017, 'longitude': -118.324703}",2.0
+The Home Depot,"['500 S Marengo Ave', 'Alhambra, CA 91803']",Alhambra,2.5,377,"{'latitude': 34.0852756, 'longitude': -118.1411204}",2.0
+The Home Depot,"['3200 Puente Ave', 'Baldwin Park, CA 91706']",Baldwin Park,2.5,115,"{'latitude': 34.0725197668742, 'longitude': -117.957710623741}",2.0
+Identity Boardshop,"['7886 Beach Blvd', 'Buena Park, CA 90620']",Buena Park,3.5,69,"{'latitude': 33.84837, 'longitude': -117.99725}",2.0
+The Home Depot,"['12300 La Mirada Blvd', 'La Mirada, CA 90638']",La Mirada,3.0,123,"{'latitude': 33.9184296, 'longitude': -118.0094252}",2.0
+Walmart Supercenter,"['12701 Towne Center Dr', 'Cerritos, CA 90703']",Cerritos,2.5,256,"{'latitude': 33.87178, 'longitude': -118.06174}",2.0
+Metro by T-Mobile,"['5555 Stearns Ave', 'Ste 101', 'Long Beach, CA 90815']",Long Beach,3.0,40,"{'latitude': 33.7963444, 'longitude': -118.122855}",1.0
+The Home Depot,"['2115 N Gaffey St', 'San Pedro, CA 90731']",San Pedro,3.0,139,"{'latitude': 33.7653327501961, 'longitude': -118.294944763184}",2.0
+The Home Depot,"['24451 Crenshaw Blvd', 'Torrance, CA 90505']",Torrance,3.0,270,"{'latitude': 33.803444528365, 'longitude': -118.330639600754}",2.0
+Walmart Supercenter,"['2770 Carson St', 'Lakewood, CA 90712']",Lakewood,2.0,318,"{'latitude': 33.8306766, 'longitude': -118.1587067}",1.0
+The Home Depot,"['800 N Brookhurst St', 'Anaheim, CA 92801']",Anaheim,3.0,169,"{'latitude': 33.8416135, 'longitude': -117.9577668}",2.0
+H&M,"['37 Aquarium Way', 'Pike Outlets', 'Long Beach, CA 90802']",Long Beach,3.0,67,"{'latitude': 33.7648676, 'longitude': -118.1941749}",2.0
+The Home Depot,"['110 E Sepulveda Blvd', 'Carson, CA 90745']",Carson,2.5,90,"{'latitude': 33.806325, 'longitude': -118.2741655}",2.0
+Jaclyn's Bridal,"['3930 S Bristol St', 'Fl 2, Ste 204', 'Santa Ana, CA 92704']",Santa Ana,4.0,260,"{'latitude': 33.694874, 'longitude': -117.8859099}",2.0
+Verizon,"['19943 Rinaldi St', 'Northridge, CA 91326']",Northridge,2.0,180,"{'latitude': 34.2760453, 'longitude': -118.5695085}",3.0
+The Home Depot,"['10801 Garden Grove Blvd', 'Garden Grove, CA 92843']",Garden Grove,3.0,205,"{'latitude': 33.7749536, 'longitude': -117.944218}",2.0
+iRepair,"['1235 N Grand Ave', 'Walnut, CA 91789']",Walnut,5.0,356,"{'latitude': 34.0438039505908, 'longitude': -117.84922573443}",2.0
+Apple Store - Northridge,"['9301 Tampa Ave', 'Northridge, CA 91324']",Northridge,2.5,380,"{'latitude': 34.2398684297944, 'longitude': -118.556168669728}",3.0
+Orange Box Photo Booth,"['Dana Point, CA 92629']",Dana Point,5.0,22,"{'latitude': 33.494159, 'longitude': -117.719291}",
+Costco Wholesale,"['5401 Katella Ave', 'Cypress, CA 90720']",Cypress,3.5,326,"{'latitude': 33.804481, 'longitude': -118.039483}",2.0
+Floor & Decor,"['202 E Imperial Hwy', 'Fullerton, CA 92835']",Fullerton,4.0,257,"{'latitude': 33.9161822777004, 'longitude': -117.929880023003}",2.0
+The Home Depot,"['5800 Lincoln Ave', 'Cypress, CA 90630']",Cypress,3.0,225,"{'latitude': 33.8304689, 'longitude': -118.0309158}",2.0
+Walgreens,"['22930 S Western Ave', 'Torrance, CA 90501']",Torrance,2.5,56,"{'latitude': 33.8174334639607, 'longitude': -118.308326303959}",1.0
+Westfield Santa Anita,"['400 S Baldwin Ave', 'Arcadia, CA 91007']",Arcadia,3.5,808,"{'latitude': 34.134393, 'longitude': -118.051569229916}",2.0
+Party City,"['410 N Euclid St', 'Anaheim, CA 92801']",Anaheim,2.0,54,"{'latitude': 33.8366657, 'longitude': -117.9414551}",2.0
+Sears,"['3801 E Foothill Blvd', 'Pasadena, CA 91107']",Pasadena,2.0,242,"{'latitude': 34.151272, 'longitude': -118.070433}",2.0
+The Home Depot,"['2450 Cherry Ave', 'Signal Hill, CA 90755']",Signal Hill,3.0,233,"{'latitude': 33.801942, 'longitude': -118.16598}",2.0
+Turner's Outdoorsman,"['2201 E Willow St', 'Signal Hill, CA 90755']",Signal Hill,3.0,200,"{'latitude': 33.8047351071045, 'longitude': -118.165136837398}",2.0
+Party City,"['7571 Carson Blvd', 'Long Beach, CA 90808']",Long Beach,2.5,109,"{'latitude': 33.8297316338378, 'longitude': -118.086287062793}",2.0
+The Pike Outlets,"['95 S Pine Ave', 'Long Beach, CA 90802']",Long Beach,3.5,157,"{'latitude': 33.764441, 'longitude': -118.194592}",2.0
+AT&T Store,"['7501 Edinger Ave', 'Ste 101', 'Huntington Beach, CA 92647']",Huntington Beach,3.0,104,"{'latitude': 33.7305602, 'longitude': -117.997245}",2.0
+Living Spaces,"['1519 Hawthorne Blvd', 'Redondo Beach, CA 90278']",Redondo Beach,2.5,751,"{'latitude': 33.868381, 'longitude': -118.355738}",2.0
+Mariposa Boutique,"['316 N Anaheim Blvd', 'Anaheim, CA 92805']",Anaheim,4.5,523,"{'latitude': 33.838429, 'longitude': -117.914438}",2.0
+Torres Home Appliances,"['2406 W Eddinger Ave', 'Santa Ana, CA 92704']",Santa Ana,3.5,252,"{'latitude': 33.72695676366493, 'longitude': -117.90127928578688}",2.0
+Lowe's Home Improvement,"['8383 Topanga Canyon Blvd', 'West Hills, CA 91304']",West Hills,2.5,254,"{'latitude': 34.2206, 'longitude': -118.607606}",2.0
+Lowe's Home Improvement,"['17789 Castleton Street', 'City Of Industry, CA 91748']",City Of Industry,2.5,192,"{'latitude': 33.993694, 'longitude': -117.9163}",2.0
+Lowe's Home Improvement,"['19601 Nordhoff St', 'Northridge, CA 91324']",Northridge,2.5,333,"{'latitude': 34.236412, 'longitude': -118.560948}",2.0
+David’s Bridal,"['19240-2D Nordhoff Ave', 'Northridge, CA 91324']",Northridge,4.0,661,"{'latitude': 34.234848, 'longitude': -118.552645}",2.0
+Sam Ash Music Stores,"['14200 Beach Blvd', 'Westminster, CA 92683']",Westminster,3.0,204,"{'latitude': 33.7559259, 'longitude': -117.9886537}",2.0
+Creative DJs & Photo Booth,"['Rialto, CA 92377']",Rialto,4.5,51,"{'latitude': 34.1650848388672, 'longitude': -117.424949645996}",
+Costco Wholesale,"['900 S Harbor Blvd', 'Fullerton, CA 92832']",Fullerton,3.0,402,"{'latitude': 33.8625190424479, 'longitude': -117.921841346183}",2.0
+Puente Hills Mall,"['1600 S Azusa Ave', 'City Of Industry, CA 91748']",City Of Industry,2.5,360,"{'latitude': 33.993805, 'longitude': -117.928597}",2.0
+Lowe's Home Improvement,"['2840 N Bellflower Blvd', 'Long Beach, CA 90815']",Long Beach,2.5,261,"{'latitude': 33.8077498741819, 'longitude': -118.121959716082}",2.0
+Anaheim GardenWalk,"['400 W Disney Way', 'Anaheim, CA 92802']",Anaheim,2.5,407,"{'latitude': 33.803824, 'longitude': -117.912192}",2.0
+Ashley Homestore,"['7212 Edinger Ave', 'Huntington Beach, CA 92647']",Huntington Beach,3.0,743,"{'latitude': 33.72924733, 'longitude': -118.00357617}",2.0
+Living Spaces,"['14501 Artesia Blvd', 'La Mirada, CA 90638']",La Mirada,2.0,905,"{'latitude': 33.8747452, 'longitude': -118.02217}",2.0
+Simply Photo Booths,"['San Juan Capistrano, CA 92675']",San Juan Capistrano,5.0,12,"{'latitude': 33.50101, 'longitude': -117.66191}",
+Pixarity,"['4533 MacArthur Blvd', 'Ste 5114', 'Newport Beach, CA 92660']",Newport Beach,5.0,71,"{'latitude': 33.669682, 'longitude': -117.8654376}",
+Amoeba Music,"['6200 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.5,1747,"{'latitude': 34.097598, 'longitude': -118.329071}",2.0
+Atmosphere Events,"['1226 Puerta Del Sol', 'Ste A', 'SAN CLEMENTE, CA 92673']",SAN CLEMENTE,4.5,107,"{'latitude': 33.45675, 'longitude': -117.590852}",
+Redefine Rentals,"['127 East State St', 'Redlands, CA 92373']",Redlands,5.0,7,"{'latitude': 34.056709, 'longitude': -117.180642}",2.0
+Desert Luna Photobooths,"['Redlands, CA 92373']",Redlands,4.5,14,"{'latitude': 34.04929, 'longitude': -117.18183}",
+Garrett Goerl Photo,"['Wildomar, CA 92530']",Wildomar,5.0,7,"{'latitude': 33.6123580932617, 'longitude': -117.262367248535}",
+Split Second,"['Nashville, TN 37203']",Nashville,5.0,4,"{'latitude': 34.0401863675399, 'longitude': -117.076399535965}",
+The Narrative Loft,"['1 N Calle Cesar Chavez', 'Ste 240', 'Santa Barbara, CA 93103']",Santa Barbara,5.0,54,"{'latitude': 34.4179699, 'longitude': -119.68376}",
+Get DJs Event Services,"['Costa Mesa, CA 92626']",Costa Mesa,5.0,3,"{'latitude': 33.5273381, 'longitude': -117.1147095}",
+Monocle Project,"['Palm Springs, CA 92262']",Palm Springs,5.0,27,"{'latitude': 33.8355955704182, 'longitude': -116.549666240235}",
+Nicholas Gonzalez Photography,"['33175 Linda Rosea Rd', 'Temecula, CA 92592']",Temecula,5.0,41,"{'latitude': 33.49716, 'longitude': -117.07041}",
+Roland Photography,"['Santa Barbara, CA 93109']",Santa Barbara,5.0,23,"{'latitude': 34.4038238525391, 'longitude': -119.709297180176}",
+Illuminate Photo Booths,"['San Diego, CA 92117']",San Diego,5.0,9,"{'latitude': 32.6033589, 'longitude': -117.035061}",
+Bradley Schweit Photography,"['San Diego, CA 92105']",San Diego,5.0,46,"{'latitude': 32.74603, 'longitude': -117.10094}",
+Sound Prodigy,"['205 Claydelle Ave', 'EL Cajon, CA 92020']",EL Cajon,5.0,169,"{'latitude': 32.79375, 'longitude': -116.95846}",
+Photo Darkroom,"['1102 Industrial Ave', 'Escondido, CA 92029']",Escondido,4.5,46,"{'latitude': 33.1181163, 'longitude': -117.1028623}",2.0
+Burgundy Blue Photography,"['1100 Anacapa St', 'Santa Barbara, CA 93101']",Santa Barbara,5.0,146,"{'latitude': 34.4241261, 'longitude': -119.7022869}",
+Event Booth Rentals,"['2821 Morena Blvd', 'Ste 19', 'San Diego, CA 92117']",San Diego,5.0,26,"{'latitude': 32.79245, 'longitude': -117.206047}",
+Pixster Photo Booths,"['San Diego, CA 92117']",San Diego,5.0,241,"{'latitude': 32.8270591, 'longitude': -117.2299556}",
+The PCS Connection,"['4344 Convoy St', 'Ste N', 'San Diego, CA 92111']",San Diego,5.0,565,"{'latitude': 32.8196366953516, 'longitude': -117.155865350127}",2.0
+The Platinum Photo Booth,"['Modesto, CA 95354']",Modesto,5.0,17,"{'latitude': 37.6432952880859, 'longitude': -120.994682312012}",

@@ -1,0 +1,1001 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+Lucky Break Reels,"['Los Angeles, CA 90028']",Los Angeles,5.0,65,"{'latitude': 34.1004791259766, 'longitude': -118.333610534668}",
+Relentless Filmworks,"['12023 1/2 Ventura Blvd', 'Los Angeles, CA 91604']",Los Angeles,5.0,16,"{'latitude': 34.14391, 'longitude': -118.394262}",
+Fancy Film Post Services,"['4212 Santa Monica Blvd', 'Los Angeles, CA 90029']",Los Angeles,5.0,5,"{'latitude': 34.0907199, 'longitude': -118.2841042}",
+Studio X,"['3031 N San Fernando Blvd', 'Ste 110', 'Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.2014110833406, 'longitude': -118.343156799674}",
+Live House Hollywood,"['1534 N Highland Ave', 'Los Angeles, CA 90028']",Los Angeles,5.0,1,"{'latitude': 34.09906, 'longitude': -118.33823}",2.0
+The Camera Division,"['7351 Fulton Ave', 'North Hollywood, CA 91605']",North Hollywood,5.0,12,"{'latitude': 34.2043857, 'longitude': -118.4225506}",
+Audition House,"['7274 Fountain Ave', 'West Hollywood, CA 90046']",West Hollywood,4.5,35,"{'latitude': 34.0942618, 'longitude': -118.348801}",
+Fanciful Fox Studio,"['857 S San Pedro St', 'Los Angeles, CA 90014']",Los Angeles,5.0,3,"{'latitude': 34.037553, 'longitude': -118.2502721}",
+Dream Reach Media,"['Santa Monica, CA 90404']",Santa Monica,4.5,19,"{'latitude': 34.0334815979004, 'longitude': -118.473663330078}",
+Wheelhouse LA Production/Talent Motorhomes Rental Company,"['Burbank, CA 91502']",Burbank,5.0,5,"{'latitude': 34.1776237487793, 'longitude': -118.307220458984}",
+Deja Vu Productions,"['3767 Clarington Ave', 'Los Angeles, CA 90034']",Los Angeles,5.0,46,"{'latitude': 34.0227607, 'longitude': -118.401562}",
+Lacy Street Production Center,"['2630 Lacy St', 'Los Angeles, CA 90031']",Los Angeles,4.5,3,"{'latitude': 34.0821533, 'longitude': -118.2197573}",
+The Rose Room,"['6 Rose Ave', 'Los Angeles, CA 90291']",Los Angeles,5.0,7,"{'latitude': 33.9947194648502, 'longitude': -118.480286767107}",
+ADS,"['948 N Cahuenga Blvd', 'Los Angeles, CA 90038']",Los Angeles,5.0,2,"{'latitude': 34.0883278101683, 'longitude': -118.328787535429}",
+ReKon Productions,"['4200 Sepulveda Blvd', 'Ste 102', 'Culver City, CA 90230']",Culver City,5.0,7,"{'latitude': 34.0061556, 'longitude': -118.4115555}",
+EVS,"['1819 Victory Blvd', 'Glendale, CA 91201']",Glendale,4.5,45,"{'latitude': 34.1632843017578, 'longitude': -118.302536010742}",
+Planet Video Demo Reels,"['1617 N El Centro Ave', 'Ste 12', 'Los Angeles, CA 90028']",Los Angeles,5.0,4,"{'latitude': 34.100409, 'longitude': -118.323864}",
+Castex Rentals,"['1044 Cole Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,29,"{'latitude': 34.0902989663147, 'longitude': -118.329701932541}",
+Warner Bros Studios,"['4000 Warner Blvd', 'Burbank, CA 91505']",Burbank,4.0,218,"{'latitude': 34.1481742858887, 'longitude': -118.338485717773}",
+Long Haul Films,"['1855 Industrial St', 'Los Angeles, CA 90021']",Los Angeles,5.0,7,"{'latitude': 34.0360135, 'longitude': -118.2331568}",
+Samy's Cinema Works,"['431 S Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,5.0,7,"{'latitude': 34.0689, 'longitude': -118.36171}",
+Illuminar,"['119 East Palmer Ave', 'Glendale, CA 91205']",Glendale,5.0,5,"{'latitude': 34.1328034036668, 'longitude': -118.25406172576}",
+Carondelet House,"['627 S Carondelet St', 'Los Angeles, CA 90057']",Los Angeles,4.5,98,"{'latitude': 34.06083, 'longitude': -118.2804}",
+Create Your Reel,"['4533 Van Nuys Blvd', 'Ste 301', 'Los Angeles, CA 91403']",Los Angeles,4.5,48,"{'latitude': 34.154054, 'longitude': -118.448992}",
+Soho House West Hollywood,"['9200 Sunset Blvd', 'West Hollywood, CA 90069']",West Hollywood,4.5,375,"{'latitude': 34.089801158221, 'longitude': -118.392811079327}",4.0
+Alpha Dogs,"['1612 W Olive Ave', 'Ste 200', 'Burbank, CA 91506']",Burbank,5.0,8,"{'latitude': 34.16744, 'longitude': -118.32242}",
+Scratch DJ Academy,"['2324 Cotner Ave', 'Los Angeles, CA 90064']",Los Angeles,5.0,28,"{'latitude': 34.0372906, 'longitude': -118.437427}",
+Dirt Dog,"['2528 S Figueroa St', 'Los Angeles, CA 90007']",Los Angeles,4.5,2282,"{'latitude': 34.0282923762355, 'longitude': -118.275208244705}",1.0
+Filmtools,"['1400 W Burbank Blvd', 'Burbank, CA 91506']",Burbank,3.5,108,"{'latitude': 34.182204, 'longitude': -118.327003}",2.0
+Hollywood Production Center,"['1149 N Gower St', 'Los Angeles, CA 90038']",Los Angeles,4.5,23,"{'latitude': 34.091831, 'longitude': -118.322464}",
+L.A. Castle Studios,"['154 S Victory Blvd', 'Burbank, CA 91502']",Burbank,5.0,1,"{'latitude': 34.1727178, 'longitude': -118.3159544}",
+MelroseMAC,"['6614 Melrose Ave', 'Hollywood, CA 90038']",Hollywood,4.0,388,"{'latitude': 34.083239, 'longitude': -118.33922}",3.0
+Champion Site + Sound - Formerly Swing House,"['3229 Casitas Ave', 'Los Angeles, CA 90039']",Los Angeles,4.5,24,"{'latitude': 34.1156729, 'longitude': -118.2509263}",
+Sharp Focus Creative Academy,"['1907 W Burbank Blvd', 'Ste C', 'Burbank, CA 91506']",Burbank,5.0,7,"{'latitude': 34.181116, 'longitude': -118.3320175}",
+Yard House,"['800 W Olympic Blvd', 'Los Angeles, CA 90015']",Los Angeles,3.5,2682,"{'latitude': 34.0449339896765, 'longitude': -118.265804750686}",2.0
+Loyal Studios,"['3513 Pacific Ave', 'Burbank, CA 91505']",Burbank,4.5,14,"{'latitude': 34.1884819, 'longitude': -118.3497641}",
+SmashWerks Films,"['Los Angeles, CA 90065']",Los Angeles,5.0,2,"{'latitude': 34.1149101257324, 'longitude': -118.240013122559}",
+Hollywood Pantages Theatre,"['6233 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.5,1553,"{'latitude': 34.10219, 'longitude': -118.32569}",
+DVD Your Memories,"['3272 Motor Ave', 'Ste B', 'Los Angeles, CA 90034']",Los Angeles,5.0,187,"{'latitude': 34.0298228, 'longitude': -118.4106966}",2.0
+Monk Space,"['4414 W 2nd St', 'Los Angeles, CA 90004']",Los Angeles,4.5,41,"{'latitude': 34.0709851, 'longitude': -118.3094999}",
+44th Floor Productions,"['Los Angeles, CA 90046']",Los Angeles,5.0,1,"{'latitude': 34.09961, 'longitude': -118.35074}",
+MIX Recording Studio,"['539 S Rampart Blvd', 'Los Angeles, CA 90057']",Los Angeles,4.0,9,"{'latitude': 34.062866, 'longitude': -118.2814104}",
+Beverly Hills Studios,"['8929 Wilshire Blvd', 'Ste 325', 'Beverly Hills, CA 90211']",Beverly Hills,5.0,2,"{'latitude': 34.0673904, 'longitude': -118.3863525}",
+Golden Retrofit & Foundation Repair,"['Los Angeles, CA 90232']",Los Angeles,5.0,240,"{'latitude': 34.01989, 'longitude': -118.39441}",
+JFA Studio,"['3062 N Lima St', 'Burbank, CA 91504']",Burbank,5.0,20,"{'latitude': 34.2055376929752, 'longitude': -118.346444862549}",
+Yard House,"['100 E Palm Ave', 'Burbank, CA 91502']",Burbank,3.5,594,"{'latitude': 34.181227, 'longitude': -118.311761}",2.0
+Dream Team Directors,"['Los Angeles, CA 90042']",Los Angeles,5.0,10,"{'latitude': 34.1175895, 'longitude': -118.188329}",
+Stray Angel Films,"['11318 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.5,26,"{'latitude': 34.045868, 'longitude': -118.448799}",
+Grandma's House Catering,"['3748 W El Segundo Blvd', 'Unit B', 'Hawthorne, CA 90250']",Hawthorne,5.0,69,"{'latitude': 33.916177, 'longitude': -118.33903146}",
+Central Station Media,"['11440 Ventura Blvd', 'Unit 200', 'Studio City, CA 91604']",Studio City,5.0,8,"{'latitude': 34.1391862, 'longitude': -118.3803122}",
+ADC Digital,"['1011 N Fuller Ave', 'Ste M', 'Los Angeles, CA 90046']",Los Angeles,4.5,2,"{'latitude': 34.089323, 'longitude': -118.350243}",
+AB Video Productions,"['5950 Buckingham Pkwy', 'Ste 1', 'Culver City, CA 90230']",Culver City,5.0,14,"{'latitude': 33.98631283, 'longitude': -118.38220017}",
+Actors Co-op Theatre Company,"['1760 N Gower St', 'Los Angeles, CA 90028']",Los Angeles,4.5,42,"{'latitude': 34.1028938, 'longitude': -118.3222275}",
+Yard House,"['13455 Maxella Ave', 'Marina del Rey, CA 90292']",Marina del Rey,3.5,954,"{'latitude': 33.9867211335012, 'longitude': -118.441693526459}",2.0
+Point of Blue Studios,"['10545 Burbank Blvd', 'Ste 105', 'North Hollywood, CA 91601']",North Hollywood,5.0,6,"{'latitude': 34.1724269, 'longitude': -118.3608191}",
+MainStream Ent,"['5649 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.5,2,"{'latitude': 34.1018882325353, 'longitude': -118.313213302278}",
+Lightstone Rentals,"['1441 Gardena Ave', 'Ste 1', 'Glendale, CA 91204']",Glendale,5.0,16,"{'latitude': 34.126851, 'longitude': -118.2601382}",
+The Antaeus Theatre Company,"['110 E Broadway', 'Glendale, CA 91205']",Glendale,5.0,19,"{'latitude': 34.14613, 'longitude': -118.25442}",
+NeueHouse Hollywood,"['6121 Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,45,"{'latitude': 34.098174, 'longitude': -118.323419}",
+Hurry Curry of Tokyo,"['2131 Sawtelle Blvd', 'Los Angeles, CA 90025']",Los Angeles,3.5,1538,"{'latitude': 34.0388040048905, 'longitude': -118.442234554705}",2.0
+The Strand House,"['117 Manhattan Beach Blvd', 'Manhattan Beach, CA 90266']",Manhattan Beach,4.0,1839,"{'latitude': 33.88478, 'longitude': -118.41135}",3.0
+Buster Brown Productions,"['Los Angeles, CA 90048']",Los Angeles,5.0,21,"{'latitude': 34.07316, 'longitude': -118.37407}",
+Photo House Photography,"['244 S Oxford Ave', 'Ste 20', 'Los Angeles, CA 90004']",Los Angeles,5.0,133,"{'latitude': 34.0698635, 'longitude': -118.307535}",2.0
+The Cupcake Theater,"['671 N Berendo St', 'Los Angeles, CA 90027']",Los Angeles,4.5,330,"{'latitude': 34.0832878, 'longitude': -118.2941745}",2.0
+Capital Gain Productions,"['3221 Carter Ave', 'Ste 414', 'Marina Del Rey, CA 90292']",Marina Del Rey,5.0,1,"{'latitude': 33.986594, 'longitude': -118.44654}",
+Grant Larson Studios,"['Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.1990814208984, 'longitude': -118.332138061523}",
+BOXeight,"['1446 E Washington Blvd', 'Los Angeles, CA 90021']",Los Angeles,3.5,32,"{'latitude': 34.022048, 'longitude': -118.246833}",
+Dan Ortega - Sotheby's International Realty,"['1801 Hillhurst Ave', 'Los Angeles, CA 90027']",Los Angeles,5.0,49,"{'latitude': 34.104083, 'longitude': -118.287646}",
+CML Studios,"['326 Mira Loma Ave', 'Glendale, CA 91204']",Glendale,4.0,10,"{'latitude': 34.1238485, 'longitude': -118.2566823}",
+Center Theatre Group Ahmanson Theatre,"['135 N Grand Ave', 'Los Angeles, CA 90012']",Los Angeles,4.5,510,"{'latitude': 34.056601, 'longitude': -118.248946}",2.0
+Spot On Media,"['Glendale, CA 91205']",Glendale,5.0,14,"{'latitude': 34.13809, 'longitude': -118.24403}",
+Human Element,"['453 S Spring St', 'Ste 536', 'Los Angeles, CA 90013']",Los Angeles,5.0,1,"{'latitude': 34.04779, 'longitude': -118.24975}",
+Luma House Wedding Films,"['Los Angeles, CA 91411']",Los Angeles,5.0,28,"{'latitude': 34.18429, 'longitude': -118.45607}",
+Burrata House,"['3272 Motor Ave', 'Los Angeles, CA 90034']",Los Angeles,4.5,391,"{'latitude': 34.0298228, 'longitude': -118.4106966}",2.0
+The Production Truck,"['1120 Chestnut St', 'Burbank, CA 91506']",Burbank,5.0,16,"{'latitude': 34.1806487, 'longitude': -118.3236037}",
+Viken Productions,"['Los Angeles, CA 90291']",Los Angeles,5.0,9,"{'latitude': 33.9989508586739, 'longitude': -118.45760509577}",
+Bao Dim Sum House,"['8256 Beverly Blvd', 'Los Angeles, CA 90048']",Los Angeles,4.0,3023,"{'latitude': 34.07577, 'longitude': -118.36982}",2.0
+Shabu Shabu House,"['127 Japanese Village Plaza Mall', 'Los Angeles, CA 90012']",Los Angeles,4.0,1404,"{'latitude': 34.049034, 'longitude': -118.240347}",2.0
+Lightning Media,"['1415 N Cahuenga Blvd', 'Los Angeles, CA 90028']",Los Angeles,5.0,7,"{'latitude': 34.096401, 'longitude': -118.329811}",
+The Fig House,"['6433 N Figueroa St', 'Los Angeles, CA 90042']",Los Angeles,4.0,36,"{'latitude': 34.118877, 'longitude': -118.183983}",
+ProCore Productions,"['1976 S La Cienega Blvd', 'Ste C-387', 'Los Angeles, CA 90034']",Los Angeles,5.0,6,"{'latitude': 34.0405, 'longitude': -118.37654}",
+Arpi Design,"['313 E Broadway', 'Ste 10763', 'Glendale, CA 91205']",Glendale,5.0,3,"{'latitude': 34.1466245, 'longitude': -118.2519928}",
+Ocean Front Entertainment,"['1235 West El Segundo Blvd', 'Gardena, CA 90247']",Gardena,5.0,2,"{'latitude': 33.9168271, 'longitude': -118.2975647}",
+New Legacy Productions,"['7057 Lexington Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,4,"{'latitude': 34.092757, 'longitude': -118.343138}",
+Flash Monkey Studios,"['335 W 31st St', 'Ste A', 'Los Angeles, CA 90007']",Los Angeles,5.0,4,"{'latitude': 34.0230555513913, 'longitude': -118.275994798781}",
+Bel Air Branding,"['Los Angeles, CA 90024']",Los Angeles,5.0,2,"{'latitude': 34.0513194161959, 'longitude': -118.236853336572}",
+Bokeh Rentals,"['3921 W Jefferson Blvd', 'Ste 103', 'Los Angeles, CA 90016']",Los Angeles,4.5,15,"{'latitude': 34.02588863806784, 'longitude': -118.3389418}",
+Greystone Mansion & Gardens - The Doheny Estate,"['905 Loma Vista Dr', 'Beverly Hills, CA 90210']",Beverly Hills,4.5,336,"{'latitude': 34.0926873932396, 'longitude': -118.401729777774}",
+Lawry's The Prime Rib - Beverly Hills,"['100 N La Cienega Blvd', 'Beverly Hills, CA 90211']",Beverly Hills,4.0,4081,"{'latitude': 34.067702, 'longitude': -118.376078}",3.0
+Pearywinkle,"['Hollywood, CA 90068']",Hollywood,5.0,1,"{'latitude': 34.1015586853027, 'longitude': -118.33708190918}",
+The Paramour Estate,"['1923 Micheltorena St', 'Los Angeles, CA 90026']",Los Angeles,5.0,4,"{'latitude': 34.094790621181, 'longitude': -118.271996363912}",
+ARTS LA,"['120 N Santa Fe Ave', 'Los Angeles, CA 90012']",Los Angeles,5.0,1,"{'latitude': 34.048938, 'longitude': -118.2322249}",
+LA Hangar Studios,"['2627 Medford St', 'Los Angeles, CA 90033']",Los Angeles,4.5,3,"{'latitude': 34.062858581543, 'longitude': -118.193794250488}",
+Smoke House Restaurant,"['4420 W Lakeside Dr', 'Burbank, CA 91505']",Burbank,3.5,1394,"{'latitude': 34.14555, 'longitude': -118.341316}",3.0
+Imperial Media Services,"['3202 Pennsylvania Ave', 'Santa Monica, CA 90404']",Santa Monica,4.5,43,"{'latitude': 34.0339369, 'longitude': -118.4637977}",
+Garnish Music Production School,"['7600 Melrose Ave', 'West Hollywood, CA 90046']",West Hollywood,5.0,30,"{'latitude': 34.0834679, 'longitude': -118.3555176}",
+WOVA World of Video & Audio,"['1155 S Robertson Blvd', 'Los Angeles, CA 90035']",Los Angeles,5.0,53,"{'latitude': 34.0555809, 'longitude': -118.38399}",
+Little Beast Restaurant,"['1496 Colorado Blvd', 'Los Angeles, CA 90041']",Los Angeles,4.0,1066,"{'latitude': 34.138895, 'longitude': -118.198003}",2.0
+Matrix Theatre,"['7657 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.5,15,"{'latitude': 34.0839958190918, 'longitude': -118.356651306152}",
+The Enchanted Manor,"['5235 Goodland Ave', 'Valley Village, CA 91607']",Valley Village,5.0,15,"{'latitude': 34.16614, 'longitude': -118.41238}",
+Kaleidoscope Content,"['Los Angeles, CA 90046']",Los Angeles,5.0,3,"{'latitude': 34.1072387695312, 'longitude': -118.364761352539}",
+Epiphany Space,"['1763 N Gower St', 'Los Angeles, CA 90028']",Los Angeles,5.0,17,"{'latitude': 34.103032, 'longitude': -118.322797}",
+Pro HD Rentals,"['2201 Hollywood Way', 'Ste 1', 'Burbank, CA 91505']",Burbank,5.0,51,"{'latitude': 34.188555, 'longitude': -118.34928}",2.0
+Pollution Studios,"['3239 E Union Pacific', 'Los Angeles, CA 90023']",Los Angeles,5.0,27,"{'latitude': 34.01679, 'longitude': -118.20969}",
+Alfred House Productions,"['1711 S Robertson Ave', 'No. 341', 'Los Angeles, CA 90035']",Los Angeles,5.0,8,"{'latitude': 34.0485771, 'longitude': -118.3857787}",
+Poko Event Productions,"['10683 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,5.0,6,"{'latitude': 34.052904, 'longitude': -118.430941}",
+Best Image Solutions Product Photography,"['608 S Hill St', 'Ste 900', 'Los Angeles, CA 90014']",Los Angeles,4.0,5,"{'latitude': 34.0469089, 'longitude': -118.2532384}",
+EYESTORM CREATIVE,"['1300 Factory Pl', 'Ste 208', 'Los Angeles, CA 90013']",Los Angeles,5.0,3,"{'latitude': 34.038894, 'longitude': -118.2359822}",
+Lit Party Rentals,"['Burbank, CA 91501']",Burbank,5.0,71,"{'latitude': 34.18805, 'longitude': -118.30115}",
+Jive Duck Studios,"['Burbank, CA 91501']",Burbank,5.0,30,"{'latitude': 34.1808392, 'longitude': -118.3089661}",
+Station 22,"['4346 Sepulveda Blvd', 'Culver City, CA 90230']",Culver City,5.0,8,"{'latitude': 34.003961, 'longitude': -118.40816}",
+Stage of Mind,"['Pasadena, CA 91115']",Pasadena,5.0,113,"{'latitude': 34.1477671417902, 'longitude': -118.144172177246}",
+Moving Images Entertainment,"['10801 National Blvd', 'Ste 348', 'Los Angeles, CA 90064']",Los Angeles,5.0,1,"{'latitude': 34.03122, 'longitude': -118.4204}",
+Geronimo Creek,"['2920 N Naomi St', 'Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.206595, 'longitude': -118.3547464}",
+Third Street Theatre @ YADA,"['8115 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,5.0,12,"{'latitude': 34.0724602, 'longitude': -118.3664322}",
+MidiCi The Neapolitan Pizza Company,"['14612 Ventura Blvd', 'Sherman Oaks, CA 91403']",Sherman Oaks,4.0,3174,"{'latitude': 34.15104, 'longitude': -118.45129}",2.0
+Shane Salk Productions,"['10707 Magnolia Blvd', 'Los Angeles, CA 91601']",Los Angeles,5.0,1,"{'latitude': 34.16502933, 'longitude': -118.36394767}",
+Mvmnt Product Photography,"['Los Angeles , CA 90014']",Los Angeles ,5.0,4,"{'latitude': 34.04507827758789, 'longitude': -118.2535171508789}",
+Lighthouse Graphics,"['Los Angeles, CA 90089']",Los Angeles,5.0,7,"{'latitude': 34.02139, 'longitude': -118.28963}",
+Studios 60,"['6000 Avalon Blvd', 'Ste 2', 'Los Angeles, CA 90003']",Los Angeles,4.0,5,"{'latitude': 33.98526, 'longitude': -118.264473}",
+Bunch of Munchies,"['14896 Springdale St', 'Huntington Beach, CA 92647']",Huntington Beach,5.0,24,"{'latitude': 33.7455071, 'longitude': -118.0242397}",
+Red Flame,"['15667 Brookhurst St', 'Westminster, CA 92683']",Westminster,4.5,2618,"{'latitude': 33.7350609785224, 'longitude': -117.955526970327}",2.0
+Steel House Productions,"['Sherman Oaks, CA 91411']",Sherman Oaks,5.0,5,"{'latitude': 34.1799855, 'longitude': -118.4601175}",
+EXPG Studio LA LDH,"['6060 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,5.0,1,"{'latitude': 34.10133, 'longitude': -118.32203}",
+Force of Nature Productions,"['4735 Lankershim Blvd', 'North  Hollywood, CA 91602']",North  Hollywood,5.0,5,"{'latitude': 34.1565287, 'longitude': -118.369796}",
+My Birth Movie,"['Los Angeles, CA 90068']",Los Angeles,5.0,4,"{'latitude': 34.1298675537109, 'longitude': -118.335456848145}",
+City Market Social House,"['1145 South San Pedro St', 'Los Angeles, CA 90015']",Los Angeles,5.0,4,"{'latitude': 34.03428, 'longitude': -118.25333}",
+Osteria La Buca,"['5210 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.0,1952,"{'latitude': 34.0833366755519, 'longitude': -118.31393718099}",2.0
+DJ Shanlynn,"['Los Angeles, CA 90012']",Los Angeles,5.0,2,"{'latitude': 34.05682, 'longitude': -118.24387}",
+Arroyo Chop House,"['536 S Arroyo Pkwy', 'Pasadena, CA 91105']",Pasadena,4.0,1419,"{'latitude': 34.136691, 'longitude': -118.147255}",3.0
+Brady Bunch House,"['11222 Dilling St', 'Los Angeles, CA 91604']",Los Angeles,4.5,43,"{'latitude': 34.142966, 'longitude': -118.375543}",
+Center For The Cinematic Arts,"['4949 Hollywood Blvd', 'Fl 2nd', 'Los Angeles, CA 90025']",Los Angeles,5.0,1,"{'latitude': 34.101812647942, 'longitude': -118.29751751017}",
+Soundworks,"['3401 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.1760063171387, 'longitude': -118.347183227539}",
+The Dream Factory LA Studio,"['1950 N Main St', 'Los Angeles, CA 90031']",Los Angeles,5.0,23,"{'latitude': 34.0652338, 'longitude': -118.2187862}",
+HI DEF Entertainment,"['Los Angeles, CA 90011']",Los Angeles,5.0,1,"{'latitude': 34.00566, 'longitude': -118.25849}",
+Imperial Art Studios,"['190 N Canon Dr', 'Ste 304', 'Beverly Hills, CA 90210']",Beverly Hills,3.5,3,"{'latitude': 34.0678152, 'longitude': -118.3977763}",
+Creative Combustion Acting Studio,"['3691 Wrightwood Dr', 'Studio City, CA 91604']",Studio City,5.0,2,"{'latitude': 34.13682, 'longitude': -118.37064}",
+Kirby Studios,"['2701 Signal Pkwy', 'Signal Hill, CA 90755']",Signal Hill,5.0,2,"{'latitude': 33.806495, 'longitude': -118.161697}",
+Ruth's Chris Steak House,"['369 E Colorado Blvd', 'Pasadena, CA 91101']",Pasadena,4.0,1895,"{'latitude': 34.1460256026692, 'longitude': -118.1425956}",3.0
+PirateWorX Media,"['Los Angeles, CA 90247']",Los Angeles,5.0,2,"{'latitude': 33.89478, 'longitude': -118.30032}",
+The Vision Field,"['Los Angeles, CA 90042']",Los Angeles,5.0,15,"{'latitude': 34.1143646240234, 'longitude': -118.192481994629}",
+New River Entertainment,"['5062 Lankershim Blvd', 'Ste 405', 'North Hollywood, CA 91601']",North Hollywood,5.0,6,"{'latitude': 34.1625538, 'longitude': -118.3731815}",
+The Raymond 1886,"['1250 S Fair Oaks Ave', 'Pasadena, CA 91105']",Pasadena,4.0,1307,"{'latitude': 34.124537, 'longitude': -118.150019}",3.0
+Home Restaurant - Los Feliz,"['1760 Hillhurst Ave', 'Los Angeles, CA 90027']",Los Angeles,4.0,3026,"{'latitude': 34.10296, 'longitude': -118.28719}",2.0
+Saavedra Design,"['548 S Spring St', 'Ste 1107', 'Los Angeles, CA 90013']",Los Angeles,5.0,4,"{'latitude': 34.0459518432617, 'longitude': -118.250473022461}",
+Beetle House LA,"['1714 N Las Palmas Ave', 'Los Angeles, CA 90028']",Los Angeles,3.5,2012,"{'latitude': 34.102092, 'longitude': -118.336032}",3.0
+Descanso Gardens,"['1418 Descanso Dr', 'La Canada Flintridge, CA 91011']",La Canada Flintridge,4.0,1436,"{'latitude': 34.201394, 'longitude': -118.210123}",
+The Oinkster,"['2005 Colorado Blvd', 'Los Angeles, CA 90041']",Los Angeles,4.0,3668,"{'latitude': 34.1395072937012, 'longitude': -118.210517883301}",2.0
+House of Kaya,"['Los Angeles, CA 90014']",Los Angeles,5.0,2,"{'latitude': 34.0448493, 'longitude': -118.2500246}",
+AbelCine,"['801 S Main St', 'Burbank, CA 91506']",Burbank,4.0,18,"{'latitude': 34.1651614, 'longitude': -118.3134033}",2.0
+LA Opera,"['135 N Grand Ave', 'Dorothy Chandler Pavilion', 'Los Angeles, CA 90012']",Los Angeles,4.0,138,"{'latitude': 34.05683178588, 'longitude': -118.248651816743}",
+The Penthouse at Mastro's,"['246 N Canon Dr', 'Fl 3', 'Beverly Hills, CA 90210']",Beverly Hills,4.0,4694,"{'latitude': 34.0688094, 'longitude': -118.3988906}",4.0
+Vydeo,"['Beverly Hills, CA 90212']",Beverly Hills,5.0,2,"{'latitude': 34.06209, 'longitude': -118.39721}",
+Night & Day Productions,"['Los Angeles, CA 90001']",Los Angeles,5.0,7,"{'latitude': 33.9788284301758, 'longitude': -118.249931335449}",
+EDGE Studios & Grip,"['1388 S Longwood Ave', 'Los Angeles, CA 90019']",Los Angeles,4.5,15,"{'latitude': 34.0487221781467, 'longitude': -118.341844218063}",2.0
+Cross Campus Downtown LA,"['800 Wilshire Blvd', 'Los Angeles, CA 90017']",Los Angeles,4.5,46,"{'latitude': 34.0493889, 'longitude': -118.258664}",
+Cast Locations,"['536 N Larchmont Blvd', 'Los Angeles, CA 90004']",Los Angeles,3.0,5,"{'latitude': 34.0800628662109, 'longitude': -118.323318481445}",
+GM Acoustic Design,"['639 Stanford Ave', 'Unit 311B', 'Los Angeles, CA 90021']",Los Angeles,5.0,17,"{'latitude': 34.0398265, 'longitude': -118.2439367}",
+Mass Media Films,"['Santa Monica, CA 90404']",Santa Monica,4.0,1,"{'latitude': 34.02491760253906, 'longitude': -118.47552490234375}",
+Darlenas Jumpers & Party Rentals,"['Torrance, CA 90501']",Torrance,5.0,83,"{'latitude': 33.83332, 'longitude': -118.32134}",
+Grub House,"['4143 Lankershim Blvd', 'North Hollywood, CA 91602']",North Hollywood,4.5,192,"{'latitude': 34.1452, 'longitude': -118.3631}",2.0
+Imperial Media Services,"['5482 Wilshire Blvd', 'Ste 240', 'Los Angeles, CA 90036']",Los Angeles,5.0,9,"{'latitude': 34.0621643, 'longitude': -118.3478394}",
+Glitterati Tours,"['Beverly Hills, CA 90210']",Beverly Hills,5.0,23,"{'latitude': 34.0734596252441, 'longitude': -118.400321960449}",
+3 Cubed Studios,"['6322 Colbath Ave', 'Valley Glen, CA 91401']",Valley Glen,5.0,24,"{'latitude': 34.185511, 'longitude': -118.436378}",
+Tres LA,"['627 S Carondelet St', 'Los Angeles, CA 90057']",Los Angeles,5.0,150,"{'latitude': 34.06083, 'longitude': -118.2804}",
+Sunset Bronson Studios,"['5800 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,13,"{'latitude': 34.09778, 'longitude': -118.3163}",
+East West Players,"['120 Judge John Aiso St', 'Los Angeles, CA 90012']",Los Angeles,4.5,60,"{'latitude': 34.0507851, 'longitude': -118.2404022}",
+J Concepts Productions,"['Toluca Lake, CA 91602']",Toluca Lake,5.0,3,"{'latitude': 34.1502, 'longitude': -118.3657}",
+Otto Nemenz Intl,"['5700 Buckingham Pkwy', 'Culver City, CA 90230']",Culver City,4.5,6,"{'latitude': 33.990916, 'longitude': -118.37934}",
+Compost Productions,"['10707 Magnolia Blvd', 'North Hollywood, CA 91601']",North Hollywood,5.0,12,"{'latitude': 34.1650349, 'longitude': -118.363995}",
+House Of One Studios,"['El Monte, CA 91731']",El Monte,5.0,2,"{'latitude': 34.0786361694336, 'longitude': -118.041091918945}",
+Oracle Post,"['2917 West Olive Ave', 'Burbank, CA 91505']",Burbank,5.0,6,"{'latitude': 34.1578238, 'longitude': -118.3335472}",
+Metal Flowers Media,"['6715 Hollywood Blvd', 'Ste 218', 'Los Angeles, CA 90028']",Los Angeles,5.0,4,"{'latitude': 34.1016979, 'longitude': -118.3365463}",
+Shotgun Digital,"['2020 North Main St', 'Ste 231', 'Los Angeles, CA 90031']",Los Angeles,5.0,8,"{'latitude': 34.0655975, 'longitude': -118.2178457}",
+Legends Of Hollywood Tours,"['6333 West 3rd St', 'Los Angeles, CA 90036']",Los Angeles,5.0,118,"{'latitude': 34.072519, 'longitude': -118.359792}",
+Ground Level Studios,"['1028 S Los Angeles', 'Los Angeles, CA 90015']",Los Angeles,5.0,1,"{'latitude': 34.03878, 'longitude': -118.25659}",
+Panton Real Estate Video Tours,"['1728 Glendale Blvd', 'Los Angeles, CA 90026']",Los Angeles,5.0,1,"{'latitude': 34.0192691, 'longitude': -118.4943443}",
+Digital Mind Productions,"['1925 N Manning St', 'Burbank, CA 91505']",Burbank,5.0,9,"{'latitude': 34.18215, 'longitude': -118.35887}",
+BrainBox Cameras,"['6700 S Centinela Ave', 'Fl 2', 'Culver City, CA 90230']",Culver City,3.5,24,"{'latitude': 33.983879, 'longitude': -118.404642}",
+Anchorstrong Construction,"['11379 Playa St', 'Culver City, CA 90230']",Culver City,5.0,225,"{'latitude': 33.990953, 'longitude': -118.3944633}",
+Claudia Hipolito - Coldwell Banker Realty,"['1917 North Hillhurst Ave', 'Los Angeles, CA 90027']",Los Angeles,5.0,16,"{'latitude': 34.106045, 'longitude': -118.287827}",
+Chart House,"['231 Yacht Club Way', 'Redondo Beach, CA 90277']",Redondo Beach,3.5,707,"{'latitude': 33.851307, 'longitude': -118.399153}",3.0
+Mosaic Student Communities,"['2703 S Hoover St', 'Los Angeles, CA 90007']",Los Angeles,3.5,143,"{'latitude': 34.030065, 'longitude': -118.284382}",
+Casual Living Murals,"['Los Angeles, CA 90033']",Los Angeles,5.0,1,"{'latitude': 34.0467834472656, 'longitude': -118.211181640625}",
+Guerrilla Tacos,"['2000 E 7th St', 'Los Angeles, CA 90021']",Los Angeles,4.0,832,"{'latitude': 34.034399, 'longitude': -118.232130253186}",2.0
+Spoon House Bakery & Restaurant,"['1601 W Redondo Beach Blvd', 'Gardena, CA 90247']",Gardena,4.0,1214,"{'latitude': 33.890031343097, 'longitude': -118.30492459071}",2.0
+Amberd Design Studio,"['Los Angeles, CA 91343']",Los Angeles,5.0,12,"{'latitude': 34.2369499206543, 'longitude': -118.479972839355}",
+Bertone Visuals,"['229 California St', 'El Segundo, CA 90245']",El Segundo,5.0,3,"{'latitude': 33.91857, 'longitude': -118.40188}",
+Cassell's Hamburgers,"['3600 W 6th St', 'Los Angeles, CA 90020']",Los Angeles,4.0,1625,"{'latitude': 34.06333, 'longitude': -118.30072}",2.0
+Lombardi House,"['1717 N Bronson Ave', 'Los Angeles, CA 90028']",Los Angeles,4.0,33,"{'latitude': 34.1022313527805, 'longitude': -118.318110065901}",
+Image Locations,"['9663 Santa Monica Blvd', 'Ste 842', 'Beverly Hills, CA 90210']",Beverly Hills,5.0,1,"{'latitude': 34.0595734, 'longitude': -118.2799762}",
+Artisan Creative,"['Los Angeles, CA 90025']",Los Angeles,5.0,1,"{'latitude': 34.04518, 'longitude': -118.45026}",
+The House At Haunted Hill,"['4400 Saltillo St', 'Los Angeles, CA 91364']",Los Angeles,5.0,26,"{'latitude': 34.14972, 'longitude': -118.59432}",
+Express Label,"['3655 Beverly Blvd', 'Los Angeles, CA 90004']",Los Angeles,5.0,5,"{'latitude': 34.07656, 'longitude': -118.2888}",
+Blacklist Digital,"['6666 Lexington Ave', 'Los Angeles, CA 90038']",Los Angeles,3.5,5,"{'latitude': 34.092091, 'longitude': -118.335488}",
+Fresh Nest,"['Los Angeles, CA 90029']",Los Angeles,5.0,38,"{'latitude': 34.0880507, 'longitude': -118.2965121}",
+Alana's Coffee Roasters,"['12511 Venice Blvd', 'Los Angeles, CA 90066']",Los Angeles,4.5,339,"{'latitude': 34.0032514463348, 'longitude': -118.434970032203}",2.0
+Party On Rentals,"['3233 N San Fernando Rd', 'Ste 8', 'Los Angeles, CA 90065']",Los Angeles,4.5,408,"{'latitude': 34.117104, 'longitude': -118.246141}",
+I do Coffee,"['Los Angeles, CA 90210']",Los Angeles,5.0,27,"{'latitude': 34.09577, 'longitude': -118.41512}",
+いざかや おせん- IZAKAYA OSEN,"['2903 Sunset Blvd', 'Los Angeles, CA 90026']",Los Angeles,4.5,885,"{'latitude': 34.08319167, 'longitude': -118.273245}",2.0
+The Location Connection,"['Los Angeles, CA 90069']",Los Angeles,4.0,19,"{'latitude': 34.08841, 'longitude': -118.37783}",
+Funnel Mill,"['930 Broadway', 'Ste A', 'Santa Monica, CA 90401']",Santa Monica,4.5,738,"{'latitude': 34.0194183, 'longitude': -118.4880865}",2.0
+BOA Steakhouse,"['9200 Sunset Blvd', 'West Hollywood, CA 90069']",West Hollywood,4.0,1913,"{'latitude': 34.0897786576692, 'longitude': -118.39275836136}",4.0
+Sake House Miro,"['809 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,445,"{'latitude': 34.0601827, 'longitude': -118.3449713}",2.0
+Homes by Price + Hou,"['2115 Main St', 'Santa Monica, CA 90405']",Santa Monica,5.0,199,"{'latitude': 34.0063061, 'longitude': -118.4879022}",
+Transglobal Entertainment,"['1244 23rd St', 'Santa Monica, CA 90404']",Santa Monica,5.0,2,"{'latitude': 34.03228, 'longitude': -118.47982}",
+House of Meatballs,"['1076 Gayley Ave', 'Los Angeles, CA 90024']",Los Angeles,4.0,454,"{'latitude': 34.0608564, 'longitude': -118.4466571}",2.0
+Genius Pictures,"['1400 N Pass Ave', 'Burbank, CA 91505']",Burbank,5.0,1,"{'latitude': 34.173439, 'longitude': -118.3544998}",
+"Create ""N"" Evolve","['1245 N Orange Dr', 'Los Angeles, CA 90038']",Los Angeles,5.0,1,"{'latitude': 34.0938409018074, 'longitude': -118.34196086973}",
+Digital Video Lab - Beverly Hills,"['468 N Camden Dr', 'Ste 200', 'Beverly Hills, CA 90210']",Beverly Hills,5.0,9,"{'latitude': 34.0698858, 'longitude': -118.404944}",1.0
+Installation King TV Mounting,"['Los Angeles, CA 91607']",Los Angeles,5.0,557,"{'latitude': 34.16821, 'longitude': -118.39846}",
+Rappahannock Oyster Bar,"['777 S Alameda St', 'Ste 154', 'Los Angeles, CA 90021']",Los Angeles,4.0,275,"{'latitude': 34.033558, 'longitude': -118.240512}",2.0
+The Fountain Theatre,"['5060 Fountain Ave', 'Los Angeles, CA 90029']",Los Angeles,4.5,65,"{'latitude': 34.0950952, 'longitude': -118.2997751}",
+Zuno Productions,"['Los Angeles, CA 90189']",Los Angeles,5.0,32,"{'latitude': 34.052222, 'longitude': -118.242778}",
+Greek Theatre,"['2700 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,4.0,1002,"{'latitude': 34.119661101674, 'longitude': -118.29609811306}",2.0
+Magnolia House,"['492 S Lake Ave', 'Pasadena, CA 91101']",Pasadena,4.0,984,"{'latitude': 34.137366, 'longitude': -118.132006}",2.0
+Gamble House,"['4 Westmoreland Pl', 'Pasadena, CA 91103']",Pasadena,4.5,145,"{'latitude': 34.1517066955566, 'longitude': -118.160797119141}",
+XStudio Group  LLC,"['3031 N San Fernando Blvd', 'Ste 110', 'Burbank, CA 91504']",Burbank,5.0,1,"{'latitude': 34.2019473, 'longitude': -118.3441509}",
+Majordomo,"['1725 Naud St', 'Los Angeles, CA 90012']",Los Angeles,4.0,1003,"{'latitude': 34.0690575, 'longitude': -118.226105}",3.0
+Daikokuya Little Tokyo,"['327 E 1st St', 'Los Angeles, CA 90012']",Los Angeles,4.0,8635,"{'latitude': 34.05008090944, 'longitude': -118.2401804513}",2.0
+Boney Island,"['5202 Zoo Dr', 'Los Angeles, CA 90027']",Los Angeles,4.5,103,"{'latitude': 34.1551744, 'longitude': -118.3016429}",
+Japan House Los Angeles,"['6801 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,24,"{'latitude': 34.1023934615596, 'longitude': -118.340050465117}",
+Fresh Wata,"['3604 Alma Avenue', 'Ste C', 'Manhattan Beach, CA 90266']",Manhattan Beach,5.0,1,"{'latitude': 33.90084, 'longitude': -118.41644}",
+Sqirl,"['720 N Virgil Ave', 'Ste 4', 'Los Angeles, CA 90029']",Los Angeles,4.0,2063,"{'latitude': 34.084366, 'longitude': -118.286636}",2.0
+DigitalFusion,"['6060 Center Dr', 'Ste 150', 'Los Angeles, CA 90045']",Los Angeles,4.0,7,"{'latitude': 33.975993, 'longitude': -118.3908877}",3.0
+Candela,"['831 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,669,"{'latitude': 34.0596284, 'longitude': -118.3451919}",2.0
+Pearl Remodeling,"['6803 Yarmouth Ave', 'Reseda, CA 91335']",Reseda,5.0,265,"{'latitude': 34.1939428, 'longitude': -118.5197107}",
+The Pump Station & Nurtury Santa Monica,"['2727 Main St', 'Ste A', 'Santa Monica, CA 90405']",Santa Monica,4.5,207,"{'latitude': 34.000411, 'longitude': -118.481723}",
+Hot Shot Muffler,"['5507 York Blvd', 'Los Angeles, CA 90042']",Los Angeles,5.0,10,"{'latitude': 34.11993, 'longitude': -118.197824}",
+DJ Matt Cornwall,"['Los Angeles, CA 90026']",Los Angeles,5.0,1,"{'latitude': 34.0760726928711, 'longitude': -118.262321472168}",
+Casa 0101,"['2102 E 1st St', 'Los Angeles, CA 90033']",Los Angeles,5.0,64,"{'latitude': 34.0447901934385, 'longitude': -118.213618174195}",
+Eataly Los Angeles,"['10250 Santa Monica Blvd', 'Los Angeles, CA 90067']",Los Angeles,3.5,2146,"{'latitude': 34.059609, 'longitude': -118.419437}",2.0
+Sit Catering,"['14706 Raymer St', 'Van Nuys, CA 91405']",Van Nuys,4.5,104,"{'latitude': 34.2122178, 'longitude': -118.453426}",
+Crafted Kitchen,"['672 S Santa Fe Ave', 'Los Angeles, CA 90021']",Los Angeles,4.5,10,"{'latitude': 34.03582, 'longitude': -118.22991}",
+Fogo de Chao Brazilian Steakhouse,"['133 N La Cienega Blvd', 'Beverly Hills, CA 90211']",Beverly Hills,4.0,4136,"{'latitude': 34.06855, 'longitude': -118.37667}",4.0
+Imagecraft Productions,"['3318 Burton Ave', 'Burbank, CA 91504']",Burbank,4.5,11,"{'latitude': 34.19679, 'longitude': -118.34748}",
+Paramount Pictures Studios,"['5555 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.0,75,"{'latitude': 34.0836149, 'longitude': -118.3218775}",
+Iconic Pinups,"['2718 W Ave 31', 'Los Angeles, CA 90065']",Los Angeles,5.0,93,"{'latitude': 34.110878, 'longitude': -118.240924}",2.0
+Geffen Playhouse,"['10886 Le Conte Ave', 'Los Angeles, CA 90024']",Los Angeles,4.5,179,"{'latitude': 34.063411, 'longitude': -118.444511}",
+Advanced Media,"['369 N Fairfax Ave', 'Ste A', 'Los Angeles, CA 90036']",Los Angeles,4.5,69,"{'latitude': 34.0777801, 'longitude': -118.3616049}",
+Republique,"['624 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,5638,"{'latitude': 34.06413, 'longitude': -118.34382}",2.0
+Spazio LA,"['10620 W Magnolia Blvd', 'North Hollywood, CA 91601']",North Hollywood,5.0,61,"{'latitude': 34.164664, 'longitude': -118.362368}",
+Evolve Project LA,"['1921 Blake Ave', 'Los Angeles, CA 90039']",Los Angeles,5.0,11,"{'latitude': 34.09916, 'longitude': -118.24325}",
+First Choice Housing,"['3036 S Hoover St', 'Ste 101', 'Los Angeles, CA 90007']",Los Angeles,3.5,211,"{'latitude': 34.026382, 'longitude': -118.283526}",
+Zephyr Theatre,"['7456 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.5,20,"{'latitude': 34.08334, 'longitude': -118.35239}",
+Millwick,"['800 E 4th Pl', 'Los Angeles, CA 90013']",Los Angeles,5.0,41,"{'latitude': 34.04419, 'longitude': -118.2368}",
+LJ's Partyland,"['Los Angeles, CA 90210']",Los Angeles,5.0,167,"{'latitude': 34.07141, 'longitude': -118.39741}",
+Theatre West,"['3333 Cahuenga Blvd W', 'Los Angeles, CA 90068']",Los Angeles,4.0,25,"{'latitude': 34.130773, 'longitude': -118.351071}",
+Chic Bites Catering & Event Planning,"['Los Angeles, CA 90001']",Los Angeles,4.5,21,"{'latitude': 33.9697897, 'longitude': -118.2468148}",
+REDCAT,"['631 W 2nd St', 'Los Angeles, CA 90012']",Los Angeles,4.5,45,"{'latitude': 34.0552070868374, 'longitude': -118.250290182604}",
+Magic Jump Rentals,"['9130 Glenoaks Blvd', 'Ste C', 'Sun Valley, CA 91352']",Sun Valley,4.5,538,"{'latitude': 34.2356577062482, 'longitude': -118.3714872}",
+MG Studio,"['1319 W 11th St', 'Los Angeles, CA 90015']",Los Angeles,4.5,10,"{'latitude': 34.0463, 'longitude': -118.27134}",
+NewRuleFX,"['7751 Densmore Ave', 'Los Angeles, CA 91406']",Los Angeles,4.5,10,"{'latitude': 34.2116286, 'longitude': -118.4772486}",
+"Huntington Library, Art Museum, & Botanical Gardens","['1151 Oxford Rd', 'San Marino, CA 91108']",San Marino,4.5,2097,"{'latitude': 34.129048, 'longitude': -118.11453554161156}",
+Nathalie Interior Motives,"['Tarzana, CA 91356']",Tarzana,5.0,39,"{'latitude': 34.1703, 'longitude': -118.53977}",
+Sticky Ickys Labeling & Printing,"['Los Angeles, CA 90007']",Los Angeles,4.5,11,"{'latitude': 34.0295114, 'longitude': -118.2848199}",
+HotBox Studios LA,"['1141 Seward St', 'Los Angeles, CA 90038']",Los Angeles,4.5,3,"{'latitude': 34.09186, 'longitude': -118.33359}",
+New Circuit Films,"['4529 San Fernando Rd', 'Ste B', 'Glendale, CA 91204']",Glendale,5.0,2,"{'latitude': 34.1348483, 'longitude': -118.2638617}",
+Alternative Rentals,"['5805 W Jefferson Blvd', 'Los Angeles, CA 90016']",Los Angeles,5.0,5,"{'latitude': 34.0268556028605, 'longitude': -118.37601788342}",
+studio/stage,"['520 N Western Ave', 'Los Angeles, CA 90004']",Los Angeles,4.0,13,"{'latitude': 34.08058, 'longitude': -118.308961}",
+UPSTAIRS 2,"['2311 Cotner Ave', 'Los Angeles, CA 90064']",Los Angeles,4.0,373,"{'latitude': 34.0374565124512, 'longitude': -118.438148498535}",
+Event Solutions,"['1922 12th St', 'Santa Monica, CA 90404']",Santa Monica,5.0,20,"{'latitude': 34.01505, 'longitude': -118.479363}",
+Birns & Sawyer,"['3039 Roswell St', 'Los Angeles, CA 90065']",Los Angeles,3.5,17,"{'latitude': 34.115214, 'longitude': -118.2441879}",2.0
+Geeky Teas & Games,"['2220 W Magnolia Blvd', 'Burbank, CA 91506']",Burbank,5.0,112,"{'latitude': 34.172358, 'longitude': -118.33236}",1.0
+The Complex Studios,"['2323 Corinth Ave', 'Los Angeles, CA 90064']",Los Angeles,5.0,1,"{'latitude': 34.035317, 'longitude': -118.440938}",
+Alcove Café & Bakery,"['1929 Hillhurst Ave', 'Los Angeles, CA 90027']",Los Angeles,4.0,4325,"{'latitude': 34.106215, 'longitude': -118.28776}",2.0
+Simply Organized by Kari Jane,"['Los Angeles, CA 90293']",Los Angeles,5.0,83,"{'latitude': 33.95809, 'longitude': -118.43948}",
+Marbled LA,"['743 Milford St', 'Glendale, CA 91203']",Glendale,5.0,75,"{'latitude': 34.152577, 'longitude': -118.271766}",
+Manny's Coffee Catering,"['Los Angeles, CA 90045']",Los Angeles,5.0,45,"{'latitude': 33.9722213745117, 'longitude': -118.375694274902}",
+Damon's Steak House,"['317 N Brand Blvd', 'Glendale, CA 91203']",Glendale,4.0,1066,"{'latitude': 34.15061, 'longitude': -118.25547}",2.0
+Lofty Thoughts Entertainment,"['Burbank, CA 91506']",Burbank,5.0,5,"{'latitude': 34.161833, 'longitude': -118.318264}",
+The Hollywood Bowl,"['2301 N Highland Ave', 'Los Angeles, CA 90068']",Los Angeles,4.0,2378,"{'latitude': 34.112226, 'longitude': -118.339127}",2.0
+Castaway - Burbank,"['1250 E Harvard Rd', 'Burbank, CA 91501']",Burbank,4.0,1807,"{'latitude': 34.204213, 'longitude': -118.3028088}",2.0
+Bacari W 3rd,"['8030 3/4 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.5,462,"{'latitude': 34.07172, 'longitude': -118.36485}",2.0
+Express Sign and Neon,"['1720 W Slauson Ave', 'Los Angeles, CA 90047']",Los Angeles,5.0,1,"{'latitude': 33.988842010498, 'longitude': -118.307563781738}",
+Three Borders Brunch & Grill,"['5269 W Olympic Blvd', 'Los Angeles, CA 90036']",Los Angeles,5.0,379,"{'latitude': 34.0574402282966, 'longitude': -118.345157057047}",2.0
+Diamond Mine Studios,"['2425 S Garfield Ave', 'Monterey Park, CA 91754']",Monterey Park,5.0,1,"{'latitude': 34.0342, 'longitude': -118.13052}",
+The Pivot Spot,"['5044 Bakman Ave', 'North Hollywood, CA 91601']",North Hollywood,5.0,1,"{'latitude': 34.16201, 'longitude': -118.37693}",
+Fleming's Prime Steakhouse & Wine Bar,"['800 W Olympic Blvd', 'Ste A-135', 'Los Angeles, CA 90015']",Los Angeles,4.0,1615,"{'latitude': 34.0446963342719, 'longitude': -118.26536453203}",3.0
+Anything & Everything Productions,"['Los Angeles, CA 90045']",Los Angeles,5.0,20,"{'latitude': 34.0583487, 'longitude': -118.2809682}",
+Independent Shakespeare Co,"['4730 Crystal Springs Dr', 'Griffith Park', 'Los Angeles, CA 90027']",Los Angeles,4.5,144,"{'latitude': 34.136558, 'longitude': -118.294197}",
+Pärdē Productions,"['West Hollywood, CA 90046']",West Hollywood,5.0,23,"{'latitude': 34.09289, 'longitude': -118.36068}",
+"The ""I Do"" Wedding Photography & Videography","['3521 S Bentley Ave', 'Los Angeles, CA 90034']",Los Angeles,5.0,182,"{'latitude': 34.0193358, 'longitude': -118.4205318}",
+CR&A Custom,"['312 W Pico Blvd', 'Los Angeles, CA 90015']",Los Angeles,4.5,7,"{'latitude': 34.03816, 'longitude': -118.26366}",
+Albertson Wedding Chapel,"['834 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,5.0,377,"{'latitude': 34.05959800962, 'longitude': -118.344744932541}",
+Evenas Design,"['4705 Laurel Canyon Blvd', 'Valley Village, CA 91607']",Valley Village,5.0,2,"{'latitude': 34.15604, 'longitude': -118.39689}",
+Ice Cream Occasions,"['Los Angeles, CA 90065']",Los Angeles,5.0,15,"{'latitude': 34.0858502, 'longitude': -118.2191513}",
+True Summit Promotions,"['5404 Whitsett Ave', 'Ste 57', 'Los Angeles, CA 91607']",Los Angeles,5.0,4,"{'latitude': 34.1688168620312, 'longitude': -118.404850715345}",
+Rise Motion Pictures Studio,"['11678 Pendleton St', 'Sun Valley, CA 91352']",Sun Valley,5.0,6,"{'latitude': 34.22788, 'longitude': -118.38721}",
+Beat Garage 2,"['6860 Farmdale Ave', 'Los Angeles, CA 91605']",Los Angeles,5.0,2,"{'latitude': 34.1956367492676, 'longitude': -118.380638122559}",
+The Backhouse,"['10915 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,915,"{'latitude': 34.03962, 'longitude': -118.4302}",2.0
+On The Mark,"['3371 Glendale Blvd', 'Ste 103', 'Los Angeles, CA 90039']",Los Angeles,5.0,55,"{'latitude': 34.120017, 'longitude': -118.259376}",
+FCI Fashion School,"['112 W 9th St', 'Ste 1030', 'Los Angeles, CA 90015']",Los Angeles,4.5,63,"{'latitude': 34.04164, 'longitude': -118.255489}",
+Slurpin' Ramen Bar - Los Angeles,"['3500 W 8th St', 'Los Angeles, CA 90005']",Los Angeles,4.5,4631,"{'latitude': 34.0573614429986, 'longitude': -118.306769744705}",2.0
+The Archetype Company,"['Burbank, CA 91506']",Burbank,5.0,93,"{'latitude': 34.167315, 'longitude': -118.31386}",
+The Shelhamer Real Estate Group,"['Los Angeles, CA 90027']",Los Angeles,5.0,96,"{'latitude': 34.1259460449219, 'longitude': -118.291015625}",
+LA Phil at Walt Disney Concert Hall,"['111 S Grand Ave', 'Los Angeles, CA 90012']",Los Angeles,4.5,631,"{'latitude': 34.0551616634041, 'longitude': -118.249652981758}",3.0
+San Antonio Winery,"['737 Lamar St', 'Los Angeles, CA 90031']",Los Angeles,4.0,1370,"{'latitude': 34.0636861, 'longitude': -118.2238476}",2.0
+Pro Audio LA,"['1506 Railroad St', 'Glendale, CA 91204']",Glendale,5.0,24,"{'latitude': 34.1265951, 'longitude': -118.2606744}",2.0
+Media Ignited,"['478 E San Jose Ave', 'Burbank, CA 91501']",Burbank,5.0,4,"{'latitude': 34.1869787871838, 'longitude': -118.309176564217}",
+Ari Jogiel,"['318 West 9th St', 'Los Angeles, CA 90015']",Los Angeles,5.0,37,"{'latitude': 34.0432266, 'longitude': -118.2579647}",2.0
+Carlitos Gardel Argentine Steakhouse,"['7963 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.5,1025,"{'latitude': 34.0839249, 'longitude': -118.3630799}",3.0
+The Open Fist Theatre Company,"['3269 Casitas Ave', 'Los Angeles, CA 90039']",Los Angeles,4.5,15,"{'latitude': 34.1165031469729, 'longitude': -118.251489790191}",
+Marugame Monzo,"['329 E 1st St', 'Los Angeles, CA 90012']",Los Angeles,4.5,3795,"{'latitude': 34.050023, 'longitude': -118.239935}",2.0
+The Digital Difference,"['1201 Olympic Blvd', 'Santa Monica, CA 90404']",Santa Monica,5.0,3,"{'latitude': 34.01855, 'longitude': -118.48239}",
+"Al Lampkin Entertainment, Inc","['1817 W Verdugo Ave', 'Burbank, CA 91508']",Burbank,5.0,2,"{'latitude': 34.167359, 'longitude': -118.3251137}",
+Salami Studios Audio Video Post Production,"['10733 Magnolia Blvd', 'North Hollywood, CA 91601']",North Hollywood,5.0,1,"{'latitude': 34.1652, 'longitude': -118.36472}",
+Curry House CoCo Ichibanya,"['2455 Sepulveda Blvd', 'Ste C', 'Torrance, CA 90501']",Torrance,4.0,1284,"{'latitude': 33.82192, 'longitude': -118.32703}",2.0
+LIV Entertainment Group,"['2651 Fairfax Ave', 'Culver City, CA 90232']",Culver City,5.0,65,"{'latitude': 34.03111, 'longitude': -118.37167}",
+Tech Guys Computer IT Services,"['920 W Glenoaks Blvd', 'Ste 209A', 'Glendale, CA 91202']",Glendale,5.0,191,"{'latitude': 34.1609929, 'longitude': -118.2757273}",
+TheStage@FS,"['1605 Hope St', 'Ste 250', 'South Pasadena, CA 91030']",South Pasadena,5.0,1,"{'latitude': 34.1167152, 'longitude': -118.1499832}",
+Color Images Copy & Print,"['2320 W Olive Ave', 'Serving Burbank & the Surrounding Area', 'Burbank, CA 91506']",Burbank,5.0,817,"{'latitude': 34.161783, 'longitude': -118.328451}",
+Electriq Marketing,"['418 Bamboo Ln', 'Ste A', 'Los Angeles, CA 90012']",Los Angeles,5.0,6,"{'latitude': 34.06595, 'longitude': -118.237429}",
+White Rose Production Cinema and Photo,"['1308 Factory Pl', 'Los Angeles, CA 90013']",Los Angeles,5.0,111,"{'latitude': 34.03888, 'longitude': -118.2352}",
+Art Thru Music Studios,"['11440 Chandler Blvd', 'Ste 1100', 'North Hollywood, CA 91601']",North Hollywood,5.0,1,"{'latitude': 34.168624, 'longitude': -118.38018}",
+Custom Video Productions,"['707 Torrance Blvd', 'Redondo Beach, CA 90277']",Redondo Beach,4.5,10,"{'latitude': 33.8381, 'longitude': -118.37992}",
+Makers Mess,"['777 S Alameda St', 'Bldg 2 Space 162', 'Los Angeles, CA 90021']",Los Angeles,5.0,93,"{'latitude': 34.035192, 'longitude': -118.240526}",
+Dorothy Chandler Pavilion,"['135 N Grand Ave', 'Los Angeles, CA 90012']",Los Angeles,4.5,203,"{'latitude': 34.0565838639612, 'longitude': -118.248894}",3.0
+Antigua Way Films,"['Studio City, CA 91604']",Studio City,5.0,6,"{'latitude': 34.1395597, 'longitude': -118.3870991}",
+Branded Entertainer,"['1336 N Kenmore Ave', 'Los Angeles, CA 90027']",Los Angeles,5.0,2,"{'latitude': 34.0964594, 'longitude': -118.2969948}",
+The Miranda Team - Keller Williams Realty,"['111 N First St', 'Ste 300', 'Burbank, CA 91502']",Burbank,5.0,57,"{'latitude': 34.1796632, 'longitude': -118.310606}",
+Keslow Camera,"['5900 Blackwelder St', 'Culver City, CA 90232']",Culver City,4.0,4,"{'latitude': 34.0302728, 'longitude': -118.374859}",
+Copa Vida,"['70 S Raymond Ave', 'Pasadena, CA 91105']",Pasadena,4.0,1711,"{'latitude': 34.1446915, 'longitude': -118.1487579}",2.0
+Circuit Genius Network Audio Video,"['Marina del Rey, CA 90292']",Marina del Rey,5.0,135,"{'latitude': 33.97364, 'longitude': -118.45672}",
+Allure Dance & Fitness Studio,"['7660 Beverly Blvd', 'Los Angeles, CA 90036']",Los Angeles,4.5,137,"{'latitude': 34.07532, 'longitude': -118.35684}",
+Los Angeles Ballet,"['11755 Exposition Blvd', 'Los Angeles, CA 90064']",Los Angeles,3.5,30,"{'latitude': 34.03291, 'longitude': -118.44893}",
+Gwen Butcher Shop,"['6600 Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,589,"{'latitude': 34.09764, 'longitude': -118.3334}",4.0
+MovieTime Giant Projector Rentals,"['Pico Rivera, CA 90660']",Pico Rivera,5.0,27,"{'latitude': 33.9870228, 'longitude': -118.0947106}",
+Kenya Reeves Costa - The LA Homegirl,"['680 Colorado', 'Ste 150', 'Los Angeles, CA 91101']",Los Angeles,5.0,65,"{'latitude': 34.1454419, 'longitude': -118.1364977}",
+Atwater Playhouse and Acting School,"['3191 Casitas Ave', 'Los Angeles, CA 90039']",Los Angeles,5.0,17,"{'latitude': 34.114593, 'longitude': -118.249725}",
+Charles Lauren Films,"['4766 Admiralty Way', 'Ste 12875', 'Marina del Rey, CA 90292']",Marina del Rey,5.0,10,"{'latitude': 33.9781721, 'longitude': -118.4387742}",
+Yamashiro Hollywood,"['1999 N Sycamore Ave', 'Hollywood, CA 90068']",Hollywood,3.5,3769,"{'latitude': 34.105929, 'longitude': -118.341953}",3.0
+Mookie Productions,"['1666 20th St', 'Suite 100', 'Santa Monica, CA 90404']",Santa Monica,5.0,5,"{'latitude': 34.02875, 'longitude': -118.4717975}",
+Madera Kitchen,"['1835 N Cahuenga Blvd', 'Los Angeles, CA 90028']",Los Angeles,3.5,469,"{'latitude': 34.1050072105896, 'longitude': -118.330558128655}",2.0
+Center Theatre Group Kirk Douglas Theatre,"['9820 Washington Blvd', 'Culver City, CA 90232']",Culver City,4.5,137,"{'latitude': 34.0217469, 'longitude': -118.3970341}",
+Palermo Italian Restaurant,"['1858 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,4.0,1570,"{'latitude': 34.10481, 'longitude': -118.291447}",2.0
+Jonathan The Drone Guy,"['Los Angeles, CA 91403']",Los Angeles,5.0,30,"{'latitude': 34.1466636657715, 'longitude': -118.462997436523}",
+Uncut Casting Services,"['3877 Grand View Blvd', 'Ste B', 'Los Angeles, CA 90066']",Los Angeles,4.5,113,"{'latitude': 34.0025935, 'longitude': -118.4309902}",
+Coffee MCO,"['2580 W Olympic Blvd', 'Los Angeles, CA 90006']",Los Angeles,5.0,289,"{'latitude': 34.05218, 'longitude': -118.28737}",1.0
+Chado Tea Room,"['6801 Hollywood Blvd', 'Ste 209', 'Hollywood, CA 90028']",Hollywood,4.0,438,"{'latitude': 34.102482, 'longitude': -118.34032}",2.0
+Kali Restaurant,"['5722 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,586,"{'latitude': 34.0833651, 'longitude': -118.3242882}",3.0
+Ken O'Malley,"['5455 Wilshire Blvd', 'Ste 1925', 'Los Angeles, CA 90036']",Los Angeles,5.0,7,"{'latitude': 34.06268, 'longitude': -118.34753}",
+Recreate Media,"['3950 Laurel Canyon Blvd', 'Ste 1221', 'Studio City, CA 91604']",Studio City,4.0,1,"{'latitude': 34.1422885, 'longitude': -118.3942613}",
+Fusion Burgers,"['5933 York Blvd', 'Los Angeles, CA 90042']",Los Angeles,4.0,778,"{'latitude': 34.11844, 'longitude': -118.18941}",2.0
+Pursuit Aviation,"['16143 Waterman Dr', 'Van Nuys, CA 91406']",Van Nuys,5.0,1,"{'latitude': 34.2147168, 'longitude': -118.4849403}",
+McCadden Place Theatre,"['1157 N McCadden Pl', 'Los Angeles, CA 90038']",Los Angeles,4.5,5,"{'latitude': 34.09244, 'longitude': -118.33764}",
+786 Degrees,"['8879 Laurel Canyon Blvd', 'Unit A', 'Los Angeles, CA 91352']",Los Angeles,5.0,2232,"{'latitude': 34.230374, 'longitude': -118.402612}",2.0
+LetterPress Chocolate,"['2835 S Robertson Blvd', 'Los Angeles, CA 90034']",Los Angeles,5.0,65,"{'latitude': 34.03617, 'longitude': -118.38924}",2.0
+Los Angeles Convention Center,"['1201 S Figueroa St', 'Los Angeles, CA 90015']",Los Angeles,3.5,363,"{'latitude': 34.040329, 'longitude': -118.269562}",
+Fixe Studio,"['622 S Anderson St', 'Unit 107', 'Los Angeles, CA 90023']",Los Angeles,5.0,1,"{'latitude': 34.0383799, 'longitude': -118.22345}",
+Large Format Cameras,"['Las Vegas, NV 89123']",Las Vegas,5.0,6,"{'latitude': 36.02428, 'longitude': -115.1407}",4.0
+Gangnam House,"['6950 Beach Blvd', 'Unit E303', 'Buena Park, CA 90621']",Buena Park,4.0,389,"{'latitude': 33.85966, 'longitude': -117.9975}",2.0
+BOOKABLE Voiceover - Training & Demos,"['Culver City, CA 90230']",Culver City,5.0,2,"{'latitude': 33.9933257, 'longitude': -118.3987842}",
+ForeFront Media,"['381 Van Ness Ave', 'Torrance, CA 90501']",Torrance,5.0,29,"{'latitude': 33.8446655, 'longitude': -118.3209691}",
+Biago Media Webdesign and Marketing,"['606 S Hill St', 'Ste 1205', 'Los Angeles, CA 90014']",Los Angeles,4.5,52,"{'latitude': 34.0470762, 'longitude': -118.2530734}",
+Bludso's BBQ Catering,"['609 N La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,5.0,4,"{'latitude': 34.082252, 'longitude': -118.344375}",
+The Nest,"['Los Angeles, CA 90019']",Los Angeles,5.0,14,"{'latitude': 34.0399097, 'longitude': -118.3177216}",
+Bites & Bashes Catering,"['Los Angeles, CA 90001']",Los Angeles,5.0,98,"{'latitude': 34.0415110401505, 'longitude': -118.336765361523}",
+1739 Public House,"['1739 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,3.0,1025,"{'latitude': 34.102853, 'longitude': -118.292059}",2.0
+Air Hollywood,"['13240 Weidner St', 'Los Angeles, CA 91331']",Los Angeles,4.5,15,"{'latitude': 34.274153932929, 'longitude': -118.422550857067}",
+Caffe Concerto,"['610 S Serrano Ave', 'Los Angeles, CA 90005']",Los Angeles,4.0,1265,"{'latitude': 34.06301, 'longitude': -118.30622}",2.0
+Bourbon Steak Los Angeles,"['237 S Brand Blvd', 'Glendale, CA 91204']",Glendale,4.0,1042,"{'latitude': 34.142785, 'longitude': -118.255466}",3.0
+The Maynard's Real Estate Group - Keller Williams,"['111 N First St.', 'Ste 300', 'Burbank, CA 91502']",Burbank,5.0,41,"{'latitude': 34.1797, 'longitude': -118.31059}",
+Wedding Time,"['658 S Bronson Ave', 'Los Angeles, CA 90005']",Los Angeles,4.5,244,"{'latitude': 34.0611589, 'longitude': -118.3178391}",2.0
+Sound Nightclub,"['1642 N Las Palmas Ave', 'Los Angeles, CA 90028']",Los Angeles,3.0,414,"{'latitude': 34.1010961634427, 'longitude': -118.335767520814}",2.0
+Remote Ace,"['3500 W Olive Ave', 'Ste 300', 'Burbank, CA 91505']",Burbank,5.0,8,"{'latitude': 34.1524629, 'longitude': -118.3378696}",
+The Shakespeare Center of Los Angeles,"['1238 W First St', 'Los Angeles, CA 90026']",Los Angeles,4.5,11,"{'latitude': 34.0604376, 'longitude': -118.2571979}",
+Rock of Ages Hollywood,"['Los Angeles, CA 90028']",Los Angeles,5.0,14,"{'latitude': 34.09979, 'longitude': -118.32721}",
+Garry Marshall Theatre,"['4252 W Riverside Dr', 'Burbank, CA 91505']",Burbank,4.5,48,"{'latitude': 34.1519096, 'longitude': -118.3457503}",
+Redbird,"['114 E 2nd St', 'Los Angeles, CA 90012']",Los Angeles,4.0,1476,"{'latitude': 34.05049, 'longitude': -118.24406}",3.0
+Ocean Prime,"['9595 Wilshire Blvd', 'Beverly Hills, CA 90212']",Beverly Hills,4.0,958,"{'latitude': 34.0673995357774, 'longitude': -118.4025231668648}",3.0
+Punch Audio,"['6600 Lexington Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,1,"{'latitude': 34.092309, 'longitude': -118.333352}",
+Rhythm & Hues Studios,"['5890 W Jefferson Blvd', 'Ste Q', 'Los Angeles, CA 90016']",Los Angeles,5.0,2,"{'latitude': 34.02271, 'longitude': -118.376578}",
+Red Letter Rentals,"['4209 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,9,"{'latitude': 34.172996, 'longitude': -118.356129}",
+"Blood, Sweat and Butter","['Los Angeles, CA 90011']",Los Angeles,5.0,6,"{'latitude': 34.0075149536133, 'longitude': -118.258659362793}",
+Tlapazola Party Rentals,"['1545 W 134th St', 'Unit D', 'Gardena, CA 90249']",Gardena,5.0,159,"{'latitude': 33.9112804, 'longitude': -118.3039563}",
+One Off Productions,"['Covina, CA 91722']",Covina,5.0,5,"{'latitude': 34.0938911437988, 'longitude': -117.914237976074}",
+Special Effects Unlimited,"['8942 Lankershim Blvd', 'Sun Valley, CA 91352']",Sun Valley,5.0,1,"{'latitude': 34.232442, 'longitude': -118.3873273}",
+The L.A Staging Company,"['Studio City, CA 91604']",Studio City,5.0,109,"{'latitude': 34.141773223877, 'longitude': -118.394508361816}",
+Patti Negri - Psychic/Medium,"['Los Angeles, CA 90068']",Los Angeles,5.0,23,"{'latitude': 34.11115646362305, 'longitude': -118.33277130126953}",
+Andaz West Hollywood,"['8401 Sunset Blvd', 'West Hollywood, CA 90069']",West Hollywood,4.0,479,"{'latitude': 34.0953731461763, 'longitude': -118.373194728836}",3.0
+Six Taste Food Tours,"['Los Angeles, CA 90015']",Los Angeles,5.0,763,"{'latitude': 34.03732, 'longitude': -118.26116}",
+Kelly McGarry Productions,"['575 S Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,58,"{'latitude': 34.0652885437012, 'longitude': -118.361694335938}",
+Fox Studio Lot,"['10201 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,34,"{'latitude': 34.051830291748, 'longitude': -118.412574768066}",
+Farmhouse,"['8509 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,542,"{'latitude': 34.0735193, 'longitude': -118.3767501}",2.0
+DragonflyHill Urban Farm,"['345 Douglas St', 'Los Angeles, CA 90026']",Los Angeles,4.5,6,"{'latitude': 34.06603, 'longitude': -118.25775}",
+High Rooftop Lounge,"['1697 Pacific Ave', 'Venice, CA 90291']",Venice,3.5,714,"{'latitude': 33.986956, 'longitude': -118.47245}",2.0
+91PR,"['645 W 9th St', 'Ste 110-301', 'Los Angeles, CA 90015']",Los Angeles,4.0,5,"{'latitude': 34.045709, 'longitude': -118.260638}",
+The Warehaas,"['611 Gladys Ave', 'Los Angeles, CA 90021']",Los Angeles,4.5,10,"{'latitude': 34.040023, 'longitude': -118.242662}",
+Soft Play LA,"['Los Angeles, CA 91601']",Los Angeles,5.0,15,"{'latitude': 34.167, 'longitude': -118.37364}",
+"Hollywood Camera, Inc.","['3100 N Damon Way', 'Burbank, CA 91505']",Burbank,5.0,4,"{'latitude': 34.2049499, 'longitude': -118.3608}",
+Kim Sing Theatre,"['718 N Figueroa St', 'Los Angeles, CA 90012']",Los Angeles,4.5,21,"{'latitude': 34.063926, 'longitude': -118.2453798}",
+North Italia,"['1442 2nd St', 'Santa Monica, CA 90401']",Santa Monica,4.0,1047,"{'latitude': 34.01374, 'longitude': -118.49624}",2.0
+Aero Mock-Ups,"['13126 Saticoy St', 'North Hollywood, CA 91605']",North Hollywood,5.0,2,"{'latitude': 34.2073613, 'longitude': -118.4188975}",
+thats-a-rap,"['Los Angeles, CA 90015']",Los Angeles,4.5,14,"{'latitude': 34.052366, 'longitude': -118.243685}",
+Matt Cramer Photography,"['Los Angeles, CA 91505']",Los Angeles,5.0,141,"{'latitude': 34.1689, 'longitude': -118.34481}",
+Chef Frank Miller,"['6465 Sunset Blvd', 'Hollywood, CA 90028']",Hollywood,5.0,2,"{'latitude': 34.0981249, 'longitude': -118.3307486}",
+Sushi One,"['3905 W 6th St', 'Los Angeles, CA 90020']",Los Angeles,4.5,414,"{'latitude': 34.0636449, 'longitude': -118.3082425}",2.0
+Clayton's Public House,"['541 S Spring St', 'Los Angeles, CA 90013']",Los Angeles,4.0,299,"{'latitude': 34.04676, 'longitude': -118.25099}",2.0
+Weddings with Felicia,"['Los Angeles, CA 90066']",Los Angeles,4.5,6,"{'latitude': 34.00189, 'longitude': -118.43227}",
+North Italia,"['840 S CA-1', 'Ste 110', 'El Segundo, CA 90245']",El Segundo,4.0,1888,"{'latitude': 33.90343, 'longitude': -118.39603}",2.0
+Chef Eric's Culinary Classroom,"['2366 Pelham Ave', 'Los Angeles, CA 90064']",Los Angeles,4.5,80,"{'latitude': 34.0427962, 'longitude': -118.423849}",2.0
+Foreword Recording Studio,"['3391 Robertson Pl', 'Los Angeles, CA 90034']",Los Angeles,5.0,15,"{'latitude': 34.028867, 'longitude': -118.3920252}",
+Radiant Images,"['2702 Media Center Dr', 'Los Angeles, CA 90065']",Los Angeles,3.5,14,"{'latitude': 34.1080423, 'longitude': -118.2435245}",
+The Elite Group Property Inspections,"['Los Angeles, CA 90036']",Los Angeles,4.5,198,"{'latitude': 34.0656, 'longitude': -118.34984}",
+Glendale Centre Theatre,"['324 N Orange St', 'Glendale, CA 91203']",Glendale,4.5,135,"{'latitude': 34.1508827209473, 'longitude': -118.256042480469}",
+The Attic,"['3441 E Broadway', 'Long Beach, CA 90803']",Long Beach,4.0,6009,"{'latitude': 33.764524243095, 'longitude': -118.151516999498}",2.0
+House Casting,"['855 N Cahuenga Blvd', 'Los Angeles, CA 90038']",Los Angeles,5.0,4,"{'latitude': 34.0867462158203, 'longitude': -118.329376220703}",
+Little Pine,"['2870 Rowena Ave', 'Los Angeles, CA 90039']",Los Angeles,4.5,960,"{'latitude': 34.10768, 'longitude': -118.26677}",2.0
+One Shot Productions,"['24009 Ventura Blvd', 'Ste 255', 'Calabasas, CA 91364']",Calabasas,5.0,28,"{'latitude': 34.1563271, 'longitude': -118.6516095}",
+Bilingual Foundation of the Arts,"['201 N Los Angeles St', 'Ste 12', 'Los Angeles, CA 90012']",Los Angeles,4.5,6,"{'latitude': 34.0524637, 'longitude': -118.2418311}",
+W Los Angeles - West Beverly Hills,"['930 Hilgard Ave', 'Los Angeles, CA 90024']",Los Angeles,3.5,599,"{'latitude': 34.0632864874215, 'longitude': -118.440876521201}",3.0
+Blighty Music Studios,"['1639 11th', 'Santa Monica, CA 90404']",Santa Monica,5.0,2,"{'latitude': 34.018545, 'longitude': -118.4841678}",
+Leonard RJ Photography,"['Los Angeles, CA 90020']",Los Angeles,5.0,5,"{'latitude': 34.06698, 'longitude': -118.29979}",
+Exchange LA,"['618 S Spring St', 'Los Angeles, CA 90014']",Los Angeles,3.0,1039,"{'latitude': 34.04527, 'longitude': -118.25113}",2.0
+VOX DJs,"['2988 Columbia St', 'Torrance, CA 90503']",Torrance,5.0,1206,"{'latitude': 33.843987, 'longitude': -118.339599}",
+Vertigo Event Productions,"['Temple city, CA 91780']",Temple city,5.0,8,"{'latitude': 34.065635, 'longitude': -118.0676625}",
+Xtreme Jumper Rentals,"['533 E Verdugo Ave', 'Unit C', 'Burbank, CA 91501']",Burbank,5.0,47,"{'latitude': 34.1827669, 'longitude': -118.3018034}",
+Kenji Sushi Private Chef,"['Los Angeles, CA 90014']",Los Angeles,5.0,14,"{'latitude': 34.0470991129807, 'longitude': -118.253059722483}",
+VS Theatre Company,"['5453 W Pico Blvd', 'Los Angeles, CA 90019']",Los Angeles,4.0,5,"{'latitude': 34.0490236577955, 'longitude': -118.357241786918}",
+Cricket Yee,"['15490 Ventura Blvd', 'Sherman Oaks, CA 91403']",Sherman Oaks,5.0,55,"{'latitude': 34.15441, 'longitude': -118.47167}",
+EMC Seafood & Raw Bar,"['3500 W 6th St', 'Ste 101', 'Los Angeles, CA 90020']",Los Angeles,4.0,3221,"{'latitude': 34.063372395531026, 'longitude': -118.29900494197975}",2.0
+The Night Watcher,"['9820 Washington Blvd', 'Kirk Douglas Theatre', 'Culver City, CA 90232']",Culver City,5.0,8,"{'latitude': 34.0218358486891, 'longitude': -118.397075906396}",
+Water Tree Media,"['5862 Bolsa Ave', 'Ste 106', 'Huntington Beach, CA 92649']",Huntington Beach,4.5,13,"{'latitude': 33.7442533, 'longitude': -118.0265456}",
+Alloria Winter Boudoir Photography,"['10960 Wilshire Blvd', 'Los Angeles, CA 90024']",Los Angeles,5.0,46,"{'latitude': 34.05754, 'longitude': -118.44613}",
+Elevate My Brand,"['4130 Cahuenga Blvd', 'Ste 115', 'Toluca Lake, CA 91602']",Toluca Lake,5.0,1,"{'latitude': 34.14488, 'longitude': -118.3611346}",
+Nev Productions,"['4414 W 2nd St', 'Los Angeles, CA 90004']",Los Angeles,5.0,23,"{'latitude': 34.0710082, 'longitude': -118.3097481}",
+Sacred Fools Theater Company,"['1076 Lillian Way', 'Los Angeles, CA 90038']",Los Angeles,4.5,35,"{'latitude': 34.0905171, 'longitude': -118.3275951}",
+Halloween Horror Nights,"['100 Universal City Plz', 'Los Angeles, CA 91608']",Los Angeles,3.5,977,"{'latitude': 34.13607, 'longitude': -118.35415}",
+Center Theatre Group Mark Taper Forum,"['135 N Grand Ave', 'Ste 201', 'Los Angeles, CA 90012']",Los Angeles,4.5,117,"{'latitude': 34.057763, 'longitude': -118.247834089392}",
+Foodstory,"['810 S Spring St', 'Ste 1204', 'Los Angeles, CA 90014']",Los Angeles,5.0,110,"{'latitude': 34.04276, 'longitude': -118.253591}",
+The Colony House,"['401 N Anaheim Blvd', 'Anaheim, CA 92805']",Anaheim,4.5,55,"{'latitude': 33.838912463429, 'longitude': -117.915287316331}",
+UPstageLA Home Staging,"['10153 Riverside Dr', 'Ste 386', 'Los Angeles, CA 91602']",Los Angeles,4.5,26,"{'latitude': 34.1525272, 'longitude': -118.3524498}",
+H&H Brazilian Steakhouse,"['518 W 7th St', 'Los Angeles, CA 90014']",Los Angeles,4.5,500,"{'latitude': 34.04665, 'longitude': -118.25616}",
+DeSano Pizza Bakery,"['4959 Santa Monica Blvd', 'Los Angeles, CA 90029']",Los Angeles,4.5,1307,"{'latitude': 34.0910099739038, 'longitude': -118.297762911045}",2.0
+Home Brewed Bar,"['39 N Arroyo Pkwy', 'Pasadena, CA 91103']",Pasadena,4.5,987,"{'latitude': 34.1466421670749, 'longitude': -118.147850489477}",1.0
+Wolfgang Puck at Hotel Bel-Air,"['701 Stone Canyon Rd', 'Los Angeles, CA 90077']",Los Angeles,4.0,352,"{'latitude': 34.0866502, 'longitude': -118.4467947}",4.0
+LB Limousine,"['Los Angeles, CA 90232']",Los Angeles,5.0,576,"{'latitude': 34.01928, 'longitude': -118.39291}",
+Targophoto,"['11609 1/2 Washington Pl', 'Los Angeles, CA 90066']",Los Angeles,5.0,14,"{'latitude': 34.0049797777983, 'longitude': -118.421059738614}",
+The Industry,"['244 S San Pedro', 'Ste 304', 'Los Angeles, CA 90012']",Los Angeles,5.0,4,"{'latitude': 34.04778, 'longitude': -118.2418045}",
+The Tanori Group,"['2229 5th St', 'Santa Monica, CA 90405']",Santa Monica,5.0,1,"{'latitude': 34.0077286, 'longitude': -118.4833984}",
+Gift of Fame Enterprises,"['Los Angeles, CA 90028']",Los Angeles,5.0,2,"{'latitude': 34.1013488769531, 'longitude': -118.327529907227}",
+Steve Nakachian,"['9137 Reseda Blvd', 'Northridge, CA 91324']",Northridge,5.0,31,"{'latitude': 34.2368698, 'longitude': -118.5362167}",
+Norah,"['8279 Santa Monica Blvd', 'West Hollywood, CA 90046']",West Hollywood,4.0,599,"{'latitude': 34.0908388, 'longitude': -118.3697416}",2.0
+Cre8 Music Academy,"['7273 Santa Monica Blvd', 'West Hollywood, CA 90046']",West Hollywood,5.0,8,"{'latitude': 34.09098, 'longitude': -118.34874}",
+UPrinting,"['10930 Santa Monica Blvd', 'Los Angeles, CA 90025']",Los Angeles,2.5,475,"{'latitude': 34.049004, 'longitude': -118.438945}",
+Drago Events at The Petersen Automotive Museum,"['6060 Wilshire Blvd', 'Los Angeles, CA 90036']",Los Angeles,5.0,6,"{'latitude': 34.0626795, 'longitude': -118.36103}",
+Taste of Italy,"['424 N Main St', 'Pico House', 'Los Angeles, CA 90013']",Los Angeles,4.0,25,"{'latitude': 34.0471923, 'longitude': -118.2473831}",
+Advanced Certified Home Inspectors,"['Sun Valley, CA 91352']",Sun Valley,5.0,107,"{'latitude': 34.2154693603516, 'longitude': -118.370338439941}",
+Pico House,"['Los Angeles, CA 90016']",Los Angeles,5.0,94,"{'latitude': 34.0324287414551, 'longitude': -118.359230041504}",2.0
+"Jenni June, CLC","['Los Angeles, CA 90024']",Los Angeles,5.0,77,"{'latitude': 34.06196975708008, 'longitude': -118.44154357910156}",
+Downtown Repertory Theater Company,"['424 N Main St', 'Los Angeles, CA 90012']",Los Angeles,4.5,25,"{'latitude': 34.0559347718954, 'longitude': -118.239870294929}",
+LA Actors Institute,"['7268 Melrose Ave', 'Groundlings G3 Space', 'Los Angeles, CA 90046']",Los Angeles,5.0,1,"{'latitude': 34.0832595825195, 'longitude': -118.348175048828}",
+Dana Frank Homes,"['21031 Ventura Blvd', 'Ste 100', 'Woodland Hills, CA 91364']",Woodland Hills,5.0,63,"{'latitude': 34.16745, 'longitude': -118.5914}",
+Pokémolé,"['530 S Occidental Blvd', 'Los Angeles, CA 90057']",Los Angeles,4.5,355,"{'latitude': 34.063993, 'longitude': -118.283838}",2.0
+Dimitri's Authentic Mediterranean Cuisine & Catering,"['Los Angeles, CA 90061']",Los Angeles,5.0,9,"{'latitude': 33.9206085205078, 'longitude': -118.273918151855}",
+Cappuccino Carts by Cafe Amore,"['Beverly Hills, CA 90211']",Beverly Hills,5.0,1,"{'latitude': 34.06469, 'longitude': -118.38284}",
+Il Cielo,"['9018 Burton Way', 'Beverly Hills, CA 90211']",Beverly Hills,4.0,1319,"{'latitude': 34.072, 'longitude': -118.38841}",4.0
+Jaxx Theatre,"['1089 N Oxford Ave', 'Los Angeles, CA 90029']",Los Angeles,4.5,19,"{'latitude': 34.090564, 'longitude': -118.307918}",
+Bay Cities Italian Deli,"['1517 Lincoln Blvd', 'Santa Monica, CA 90401']",Santa Monica,4.0,4962,"{'latitude': 34.017994, 'longitude': -118.489223}",2.0
+Kazuki Sushi,"['13212 Sherman Way', 'Los Angeles, CA 91605']",Los Angeles,4.5,474,"{'latitude': 34.201029726487, 'longitude': -118.420708637767}",2.0
+Solidarity Restaurant,"['1414 Lincoln Blvd', 'Santa Monica, CA 90401']",Santa Monica,4.0,736,"{'latitude': 34.01893, 'longitude': -118.49126}",2.0
+Yard House,"['330 East Colorado Blvd', 'Pasadena, CA 91101']",Pasadena,3.5,2036,"{'latitude': 34.1455501520682, 'longitude': -118.143610276614}",2.0
+Pico House,"['424 N Main St', 'Los Angeles, CA 90012']",Los Angeles,4.5,15,"{'latitude': 34.0559347718954, 'longitude': -118.239870294929}",
+Bambino Stone Pizza,"['3501 Monterey Rd', 'Los Angeles, CA 90032']",Los Angeles,4.5,385,"{'latitude': 34.0865, 'longitude': -118.187753}",2.0
+LA Paella,"['476 S San Vicente Blvd', 'Los Angeles, CA 90048']",Los Angeles,4.0,659,"{'latitude': 34.06938, 'longitude': -118.374857}",3.0
+Tamashii Ramen House,"['14531 Ventura Blvd', 'Ste 0', 'Sherman Oaks, CA 91403']",Sherman Oaks,4.0,841,"{'latitude': 34.1512915588305, 'longitude': -118.449856058336}",2.0
+Nick Metropolis Collectible Furniture,"['1846 W Adams Blvd', 'Los Angeles, CA 90018']",Los Angeles,4.5,217,"{'latitude': 34.032499, 'longitude': -118.3045956}",2.0
+Coincident Ideas,"['Los Angeles, CA 90066']",Los Angeles,5.0,2,"{'latitude': 34.00203, 'longitude': -118.43223}",
+Felix Trattoria,"['1023 Abbot Kinney Blvd', 'Los Angeles, CA 90291']",Los Angeles,4.0,896,"{'latitude': 33.9922105356835, 'longitude': -118.471898393972}",3.0
+JW Marriott Los Angeles L.A. LIVE,"['900 West Olympic Blvd', 'Los Angeles, CA 90015']",Los Angeles,4.0,841,"{'latitude': 34.0451789217829, 'longitude': -118.266663551331}",3.0
+Panos Productions Photography,"['9453 Crystal View Dr', 'Los Angeles, CA 91042']",Los Angeles,5.0,25,"{'latitude': 34.2404309241959, 'longitude': -118.282285071909}",
+VM3 Environmental,"['3435 Ocean Park Blvd', 'Ste 107-276', 'Santa Monica, CA 90405']",Santa Monica,5.0,143,"{'latitude': 34.02304, 'longitude': -118.44942}",
+Stephanie Feury Studio Theatre,"['5636 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,18,"{'latitude': 34.0834701, 'longitude': -118.3232695}",
+Chic Studios LA School of Makeup,"['833 S Spring St', 'Los Angeles, CA 90014']",Los Angeles,5.0,28,"{'latitude': 34.04252, 'longitude': -118.254674}",
+Plan Check Kitchen + Bar,"['1800 Sawtelle Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.0,2629,"{'latitude': 34.04382, 'longitude': -118.44589}",2.0
+Meiji Tofu,"['16440 S Western Ave', 'Gardena, CA 90247']",Gardena,5.0,93,"{'latitude': 33.88117, 'longitude': -118.30885}",1.0
+Dream Magic Studios,"['8911 Independence Ave', 'Canoga Park, CA 91304']",Canoga Park,5.0,1,"{'latitude': 34.2322043, 'longitude': -118.5910309}",
+Conscious Bean Coffee Catering,"['Los Angeles, CA 90014']",Los Angeles,5.0,25,"{'latitude': 34.0434989929199, 'longitude': -118.250205993652}",
+Jar,"['8225 Beverly Blvd', 'Los Angeles, CA 90048']",Los Angeles,3.5,1054,"{'latitude': 34.0762790434639, 'longitude': -118.368797974334}",3.0
+Pasta Sisters,"['3343 W Pico Blvd', 'Los Angeles, CA 90019']",Los Angeles,4.5,1583,"{'latitude': 34.0476, 'longitude': -118.317234}",2.0
+IO Music Academy,"['1550 N Gower', 'Los Angeles, CA 90028']",Los Angeles,5.0,9,"{'latitude': 34.09913, 'longitude': -118.32211}",
+Theatre Row Hollywood,"['Santa Monica Blvd at Wilcox Ave', 'Los Angeles, CA 90038']",Los Angeles,5.0,3,"{'latitude': 34.0907856105617, 'longitude': -118.330926698148}",
+Sharp Printing,"['839 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.5,59,"{'latitude': 34.0594867842102, 'longitude': -118.345454}",
+Velvet Media & Marketing,"['West Hollywood, CA 90046']",West Hollywood,5.0,4,"{'latitude': 34.09289, 'longitude': -118.36068}",
+Perch,"['448 S Hill St', 'Los Angeles, CA 90013']",Los Angeles,4.0,8094,"{'latitude': 34.04897, 'longitude': -118.2514}",3.0
+Howlin' Ray's,"['727 N Broadway', 'Ste 128', 'Los Angeles, CA 90012']",Los Angeles,4.5,6629,"{'latitude': 34.061517, 'longitude': -118.239716}",2.0
+Atwater Village Theatre,"['3269 Casitas Ave', 'Los Angeles, CA 90039']",Los Angeles,4.5,10,"{'latitude': 34.1161617636681, 'longitude': -118.251921460032}",
+LA River Studios,"['2025 N San Fernando Rd', 'Los Angeles, CA 90065']",Los Angeles,4.0,14,"{'latitude': 34.1022682189941, 'longitude': -118.236587524414}",
+Rockwell Table & Stage,"['1714 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,3.5,1265,"{'latitude': 34.1022651, 'longitude': -118.2917498}",2.0
+Blu Jam Café,"['7371 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.0,5378,"{'latitude': 34.0837144354804, 'longitude': -118.350571407739}",2.0
+MA'S Italian Kitchen,"['267 North Pass Ave', 'Burbank, CA 91505']",Burbank,4.5,620,"{'latitude': 34.1548299, 'longitude': -118.34559}",2.0
+Avalon Hollywood,"['1735 N Vine St', 'Los Angeles, CA 90028']",Los Angeles,3.0,843,"{'latitude': 34.10272, 'longitude': -118.327153}",2.0
+Tatsu Ramen,"['7111 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.0,3636,"{'latitude': 34.0837107, 'longitude': -118.3446759}",2.0
+Cappuccino Man,"['Los Angeles, CA 90066']",Los Angeles,5.0,76,"{'latitude': 34.0050173, 'longitude': -118.4338345}",
+Crepe a la French,"['Sherman Oaks, CA 91401']",Sherman Oaks,5.0,35,"{'latitude': 34.1522560119629, 'longitude': -118.444999694824}",
+MGM Studios,"['245 N Beverly Dr', 'Beverly Hills, CA 90210']",Beverly Hills,5.0,1,"{'latitude': 34.0365997587701, 'longitude': -118.378874100745}",
+Greenway Court Theatre,"['544 N Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,24,"{'latitude': 34.0808457881212, 'longitude': -118.361432701349}",
+Spotlight Groove Productions,"['811 S Del Mar Ave', 'San Gabriel, CA 91776']",San Gabriel,5.0,274,"{'latitude': 34.076295, 'longitude': -118.1000453}",
+Hippo,"['5916 1/2 N Figueroa St', 'Los Angeles, CA 90042']",Los Angeles,4.0,450,"{'latitude': 34.1106318938921, 'longitude': -118.190293615808}",3.0
+The Flashdance,"['4514 N Figueroa St', 'Los Angeles, CA 90065']",Los Angeles,5.0,18,"{'latitude': 34.096413, 'longitude': -118.2063691}",
+Poppy + Rose,"['765 Wall St', 'Los Angeles, CA 90014']",Los Angeles,4.0,2443,"{'latitude': 34.04067, 'longitude': -118.2500946}",2.0
+New Beverly Cinema,"['7165 Beverly Blvd', 'Los Angeles, CA 90036']",Los Angeles,4.5,360,"{'latitude': 34.0764312744141, 'longitude': -118.345741271973}",
+Celebration Theatre,"['6760 Lexington Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,23,"{'latitude': 34.092479, 'longitude': -118.3377}",
+The Colony Theatre,"['555 N Third St', 'Burbank, CA 91502']",Burbank,4.0,27,"{'latitude': 34.185237, 'longitude': -118.312274}",2.0
+On Air Productions,"['17412 Ventura Blvd', 'Ste - 105', 'Encino, CA 91316']",Encino,5.0,9,"{'latitude': 34.1608749, 'longitude': -118.5122376}",
+Dee Lee Designs,"['Pasadena, CA 91101']",Pasadena,5.0,79,"{'latitude': 34.1436958312988, 'longitude': -118.138412475586}",
+Luke Gibson Photography,"['Los Angeles, CA 90064']",Los Angeles,5.0,22,"{'latitude': 34.052187, 'longitude': -118.243425}",
+Tam O'Shanter,"['2980 Los Feliz Blvd', 'Los Angeles, CA 90039']",Los Angeles,4.0,1460,"{'latitude': 34.125675145001, 'longitude': -118.264257899961}",3.0
+Champion Wiring,"['811 Wilshire Blvd', 'Ste 1700-151', 'Los Angeles, CA 90017']",Los Angeles,5.0,58,"{'latitude': 34.0497842, 'longitude': -118.2582317}",
+Iki Ramen,"['740 S Western Ave', 'Ste 116', 'Los Angeles, CA 90005']",Los Angeles,4.5,336,"{'latitude': 34.05844, 'longitude': -118.3087}",2.0
+Copyland,"['11717 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,63,"{'latitude': 34.0315309, 'longitude': -118.4461736}",
+Huron Substation,"['2640 Huron St', 'Los Angeles, CA 90065']",Los Angeles,4.5,30,"{'latitude': 34.08513, 'longitude': -118.2218}",
+East West Studios,"['6000 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,6,"{'latitude': 34.0976799, 'longitude': -118.32043}",
+Sur Restaurant & Lounge,"['606 N Robertson Blvd', 'West Hollywood, CA 90069']",West Hollywood,3.5,3619,"{'latitude': 34.0812107, 'longitude': -118.3852167}",3.0
+Kiddle Karoo,"['N Hollywood, CA 91602']",N Hollywood,5.0,6,"{'latitude': 34.1487141, 'longitude': -118.3608046}",
+24th Street Theatre,"['1117 W 24th St', 'Los Angeles, CA 90007']",Los Angeles,4.5,29,"{'latitude': 34.03463, 'longitude': -118.2845}",
+Gino’s East,"['12924 Riverside Dr', 'Sherman Oaks, CA 91423']",Sherman Oaks,4.0,496,"{'latitude': 34.1574, 'longitude': -118.41465260174}",2.0
+Rao's Hollywood,"['1006 Seward St', 'Los Angeles, CA 90038']",Los Angeles,4.5,475,"{'latitude': 34.0891889, 'longitude': -118.3329508}",3.0
+Suey Creative,"['600 Moulton Ave', 'Ste 102B', 'Los Angeles, CA 90031']",Los Angeles,5.0,1,"{'latitude': 34.0657463, 'longitude': -118.2188568}",
+Transylvania Film & Tv Corp,"['10619 Burbank Blvd', 'North Hollywood, CA 91601']",North Hollywood,5.0,10,"{'latitude': 34.17242, 'longitude': -118.36232}",
+Bacari PDR,"['6805 Vista Del Mar Ln', 'Playa Del Rey, CA 90293']",Playa Del Rey,4.5,984,"{'latitude': 33.9586842196588, 'longitude': -118.448352364695}",2.0
+Brewery Recording Studio,"['1330 W 12th St', 'Los Angeles, CA 90015']",Los Angeles,5.0,3,"{'latitude': 34.0447231, 'longitude': -118.2729254}",
+Skylight Theatre Company,"['1816 1/2 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,4.5,23,"{'latitude': 34.1041128, 'longitude': -118.2916662}",
+Pro8mm,"['2805 W Magnolia Blvd', 'Burbank, CA 91505']",Burbank,3.5,49,"{'latitude': 34.17111, 'longitude': -118.33823}",
+Rex General Contractor,"['418 Bamboo Ln', 'Ste A', 'Los Angeles, CA 90012']",Los Angeles,4.5,131,"{'latitude': 34.065974564966, 'longitude': -118.237385141265}",
+Penelope Designs,"['2969 Wilshire Blvd', 'Los Angeles, CA 90010']",Los Angeles,3.5,23,"{'latitude': 34.0619797, 'longitude': -118.2864569}",
+STAPLES Center,"['1111 S Figueroa St', 'Los Angeles, CA 90015']",Los Angeles,4.0,2041,"{'latitude': 34.04312, 'longitude': -118.26711}",3.0
+Sip & Sonder,"['108 S Market St', 'Inglewood, CA 90301']",Inglewood,4.5,141,"{'latitude': 33.96274, 'longitude': -118.3518551}",
+The Magic Castle,"['7001 Franklin Ave', 'Hollywood, CA 90028']",Hollywood,4.0,2411,"{'latitude': 34.1045831567891, 'longitude': -118.341795827356}",3.0
+Belcampo LA/West Third,"['8053 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,345,"{'latitude': 34.0721656, 'longitude': -118.3651449}",2.0
+dots SPACE - Culver City,"['3951 Higuera St', 'Culver City, CA 90232']",Culver City,4.5,14,"{'latitude': 34.02504, 'longitude': -118.38969}",
+Spago,"['176 N Canon Dr', 'Beverly Hills, CA 90210']",Beverly Hills,4.0,2029,"{'latitude': 34.0676057, 'longitude': -118.3976687}",3.0
+Indie Lab Film Studios,"['2525 W 7th St', 'Los Angeles, CA 90057']",Los Angeles,2.5,2,"{'latitude': 34.0589629, 'longitude': -118.2823237}",1.0
+Connie & Ted's,"['8171 Santa Monica Blvd', 'West Hollywood, CA 90046']",West Hollywood,4.0,1931,"{'latitude': 34.091159, 'longitude': -118.367216}",3.0
+The Hoxton - Downtown,"['1060 S Broadway', 'Los Angeles, CA 90015']",Los Angeles,4.5,71,"{'latitude': 34.03973, 'longitude': -118.25852}",2.0
+Maggiano's Little Italy,"['189 The Grove Dr', 'Ste Z80', 'Los Angeles, CA 90036']",Los Angeles,4.0,1898,"{'latitude': 34.0735357290438, 'longitude': -118.359532366503}",2.0
+Steven's Steak & Seafood House,"['5332 Stevens Pl', 'Commerce, CA 90040']",Commerce,3.5,988,"{'latitude': 34.00768, 'longitude': -118.15923}",2.0
+Afterhour Power,"['1737 Vine St', 'Hollywood, CA 90028']",Hollywood,4.0,4,"{'latitude': 34.1029478, 'longitude': -118.3268449}",3.0
+Sorrento Italian Market,"['5518 Sepulveda Blvd', 'Culver City, CA 90230']",Culver City,4.5,493,"{'latitude': 33.99277, 'longitude': -118.3951651}",1.0
+Pipe Dream Events,"['13160 Leadwell St', 'North Hollywood, CA 91605']",North Hollywood,4.5,7,"{'latitude': 34.2036966, 'longitude': -118.4198799}",
+LA Color,"['Los Angeles, CA 90034']",Los Angeles,5.0,63,"{'latitude': 34.0306777954102, 'longitude': -118.399559020996}",
+Five Star Jumpers,"['Los Angeles, CA 91601']",Los Angeles,5.0,114,"{'latitude': 34.1649398803711, 'longitude': -118.372230529785}",
+Westlake Pro,"['4101 Lankershim Blvd', 'Universal City, CA 91602']",Universal City,4.5,14,"{'latitude': 34.144209, 'longitude': -118.362366}",2.0
+Ulises Rios Productions,"['8423 Rosemead Blvd', 'Pico Rivera, CA 90660']",Pico Rivera,4.5,54,"{'latitude': 33.9633601, 'longitude': -118.1091082}",
+Umami Burger - Los Feliz,"['4655 Hollywood Blvd', 'Los Angeles, CA 90027']",Los Angeles,3.5,1925,"{'latitude': 34.10076, 'longitude': -118.29043}",2.0
+La Golondrina Mexican Cafe,"['17 Olvera St', 'Los Angeles, CA 90012']",Los Angeles,3.5,961,"{'latitude': 34.0571939, 'longitude': -118.2384039}",2.0
+Speaker Guy,"['Los Angeles, CA 90291']",Los Angeles,4.5,59,"{'latitude': 33.99308, 'longitude': -118.47148}",
+California Rock'n Sushi,"['2201 W Commonwealth Ave', 'Alhambra, CA 91803']",Alhambra,4.0,1471,"{'latitude': 34.088124, 'longitude': -118.146896548569}",2.0
+Chado Tea Room,"['369 E 1st St', 'Los Angeles, CA 90012']",Los Angeles,3.5,651,"{'latitude': 34.0492468323208, 'longitude': -118.238390477335}",2.0
+Audio Department,"['2700 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,7,"{'latitude': 34.17774, 'longitude': -118.34015}",
+Flyer Works,"['6052 San Fernando Rd', 'Glendale, CA 91202']",Glendale,5.0,77,"{'latitude': 34.1611189, 'longitude': -118.281713}",
+Reel Memories Video Production,"['Woodland Hills, CA 91364']",Woodland Hills,5.0,2,"{'latitude': 34.1661758422852, 'longitude': -118.604881286621}",
+Mr Hoodbrush,"['11333 Moorpark Blvd', 'Ste 120', 'Studio City, CA 91602']",Studio City,4.5,19,"{'latitude': 34.1503743, 'longitude': -118.3932401}",
+Sweet Me Photography,"['Los Angeles, CA 90069']",Los Angeles,5.0,41,"{'latitude': 34.08841, 'longitude': -118.37783}",
+"The Westin Bonaventure Hotel & Suites, Los Angeles","['404 S Figueroa St', 'Los Angeles, CA 90071']",Los Angeles,3.0,1285,"{'latitude': 34.0528527584702, 'longitude': -118.255921580179}",3.0
+Groundwork Coffee Co.,"['1501 N Cahuenga Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,610,"{'latitude': 34.0981733226106, 'longitude': -118.329692344152}",1.0
+Rogue Artists Ensemble,"['Los Angeles, CA 90039']",Los Angeles,4.5,7,"{'latitude': 34.052187, 'longitude': -118.243425}",
+the taco guy catering,"['60 N Raymond Ave', 'Pasadena, CA 91103']",Pasadena,4.5,839,"{'latitude': 34.1468784, 'longitude': -118.1486589}",
+Sweatpants Media,"['800 E Ocean Ave', 'Ste 102', 'Long Beach, CA 90802']",Long Beach,5.0,1,"{'latitude': 33.76582, 'longitude': -118.18268}",
+Soh Grill House,"['27 N Raymond Ave', 'Pasadena, CA 91103']",Pasadena,4.5,383,"{'latitude': 34.1463701, 'longitude': -118.1490249}",2.0
+My Beauty Truck,"['Los Angeles, CA 90019']",Los Angeles,5.0,22,"{'latitude': 34.04854, 'longitude': -118.33867}",
+My Yummy Tacos,"['Los Angeles, CA 90019']",Los Angeles,5.0,438,"{'latitude': 34.0474891662598, 'longitude': -118.346939086914}",
+Elite DJs & Event Productions,"['Los Angeles, CA 91040']",Los Angeles,5.0,19,"{'latitude': 34.26317, 'longitude': -118.31419}",
+Virtual Shotz,"['Los Angeles, CA 90017']",Los Angeles,5.0,4,"{'latitude': 33.9519253, 'longitude': -118.3082034}",
+Tsujita La Artisan Noodle Annex,"['2050 Sawtelle Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.0,1861,"{'latitude': 34.0401532, 'longitude': -118.4424537}",2.0
+Hollywood Hellhouse,"['385 N La Cienega Blvd', 'West Hollywood, CA 90048']",West Hollywood,4.0,2,"{'latitude': 34.07834, 'longitude': -118.37701}",
+LH Productions,"['1453 Virginia Ave', 'Ste E', 'Baldwin Park, CA 91706']",Baldwin Park,5.0,5,"{'latitude': 34.0673098, 'longitude': -117.9766551}",
+Walt Disney Studios,"['500 S Buena Vista St', 'Burbank, CA 91521']",Burbank,4.0,25,"{'latitude': 34.1568756103516, 'longitude': -118.32502746582}",
+Cascabel,"['10717 Riverside Dr', 'Los Angeles, CA 91602']",Los Angeles,4.0,828,"{'latitude': 34.15258, 'longitude': -118.36437}",2.0
+Garden of Eating Catering and Events,"['5499 W Washington Blvd', 'Los Angeles, CA 90016']",Los Angeles,5.0,27,"{'latitude': 34.0380684, 'longitude': -118.3628842}",
+Mike Wells Mastering,"['4470 W Sunset Blvd', 'Ste 147', 'Los Angeles, CA 90027']",Los Angeles,5.0,12,"{'latitude': 34.097794, 'longitude': -118.28712}",
+The Rose Venice,"['220 Rose Ave', 'Venice, CA 90291']",Venice,3.5,1930,"{'latitude': 33.99614, 'longitude': -118.47704}",2.0
+Location Sound,"['10639 Riverside Dr', 'North Hollywood, CA 91602']",North Hollywood,4.5,23,"{'latitude': 34.152511, 'longitude': -118.363042}",1.0
+Oui Melrose,"['6909 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,110,"{'latitude': 34.083653, 'longitude': -118.3419599}",2.0
+The Hudson Theatres,"['6539 Santa Monica Blvd', 'Los Angeles, CA 90038']",Los Angeles,4.0,34,"{'latitude': 34.0910758972168, 'longitude': -118.332229614258}",
+The Hayworth Theatre,"['2511 Wilshire Blvd', 'Los Angeles, CA 90057']",Los Angeles,4.0,36,"{'latitude': 34.0606099, 'longitude': -118.28072}",
+Nightshade,"['923 E 3rd St', 'Ste 109', 'Los Angeles, CA 90013']",Los Angeles,4.0,457,"{'latitude': 34.0463062, 'longitude': -118.23425}",
+Maccheroni Republic,"['332 S Broadway', 'Los Angeles, CA 90013']",Los Angeles,4.5,3049,"{'latitude': 34.050039, 'longitude': -118.248552}",2.0
+Second Home,"['1370 N St Andrews Pl', 'Los Angeles, CA 90028']",Los Angeles,5.0,15,"{'latitude': 34.09641, 'longitude': -118.31076}",
+"Marianne Simon, Keller Williams Realty","['9000 W Sunset Blvd', 'Fl 11', 'West Hollywood, CA 90069']",West Hollywood,5.0,2,"{'latitude': 34.0901184, 'longitude': -118.3879395}",
+The Blank Theatre,"['6500 Santa Monica Blvd', 'Hollywood, CA 90038']",Hollywood,4.0,9,"{'latitude': 34.09042, 'longitude': -118.33126}",
+Richard Schulman - Keller Williams Realty,"['10960 Wilshire Blvd', 'Ste 100', 'Los Angeles, CA 90024']",Los Angeles,5.0,174,"{'latitude': 34.0578191, 'longitude': -118.4460183}",
+Prospect Gourmand,"['105 N Robertson Blvd', 'Beverly Hills, CA 90211']",Beverly Hills,4.5,780,"{'latitude': 34.0674981078966, 'longitude': -118.383849804894}",2.0
+The American Academy of Dramatic Arts,"['1336 N La Brea Ave', 'Los Angeles, CA 90028']",Los Angeles,4.0,17,"{'latitude': 34.09531, 'longitude': -118.34369}",
+DJ Cee Productions,"['Northridge, CA 91326']",Northridge,5.0,94,"{'latitude': 34.2894584, 'longitude': -118.5622893}",
+MAHD Design + Planning,"['8383 Wilshire Blvd', 'Ste 800', 'Beverly Hills, CA 90211']",Beverly Hills,5.0,13,"{'latitude': 34.064962518803, 'longitude': -118.373381254621}",
+Inka Gold Productions,"['5540 Monte Vista St', 'Ste B', 'Los Angeles, CA 90042']",Los Angeles,4.5,31,"{'latitude': 34.1108133, 'longitude': -118.1959278}",
+Afterburn Productions - Los Angeles DJ,"['923 Lindencliff St', 'Torrance, CA 90502']",Torrance,5.0,62,"{'latitude': 33.812564, 'longitude': -118.291051}",
+Creative Industry Group,"['10250 Constellation Blvd', 'Los Angeles, CA 90067']",Los Angeles,5.0,1,"{'latitude': 34.0571212768555, 'longitude': -118.417419433594}",
+Donatello Stone Design,"['4601 Brazil St', 'Los Angeles, CA 90039']",Los Angeles,5.0,1,"{'latitude': 34.14723, 'longitude': -118.27602}",
+Silver & Soul Creative,"['Los Angeles, CA 91602']",Los Angeles,5.0,1,"{'latitude': 34.1502, 'longitude': -118.3657}",
+Chill RV,"['Los Angeles, CA 90015']",Los Angeles,5.0,174,"{'latitude': 34.0396118164062, 'longitude': -118.26668548584}",
+SALT Restaurant and Bar,"['13534 Bali Way', 'Marina del Rey, CA 90292']",Marina del Rey,3.5,1202,"{'latitude': 33.9801104537557, 'longitude': -118.445956060783}",2.0
+Barone's,"['13726 Oxnard St', 'Valley Glen, CA 91401']",Valley Glen,3.5,755,"{'latitude': 34.1790635242057, 'longitude': -118.432204635703}",2.0
+The Park's Finest,"['1267 W Temple St', 'Los Angeles, CA 90026']",Los Angeles,4.0,2091,"{'latitude': 34.0665313022035, 'longitude': -118.254266053011}",2.0
+Sushi Private Catering,"['Los Angeles, CA 90212']",Los Angeles,5.0,200,"{'latitude': 34.06209, 'longitude': -118.39721}",
+Met Her At A Bar,"['759 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.5,1572,"{'latitude': 34.0609448, 'longitude': -118.3446759}",2.0
+3 Little Birds Event Planning & Rentals,"['2803 Burton Ave', 'Burbank, CA 91504']",Burbank,5.0,139,"{'latitude': 34.197525, 'longitude': -118.341079}",
+Manhattan Beach Post,"['1142 Manhattan Ave', 'Manhattan Beach, CA 90266']",Manhattan Beach,4.5,3232,"{'latitude': 33.8852791, 'longitude': -118.4108876}",3.0
+Industriel,"['609 S Grand Ave', 'Los Angeles, CA 90017']",Los Angeles,4.0,1307,"{'latitude': 34.04876, 'longitude': -118.255482}",2.0
+Avon Rent A Car Truck and Van - Hollywood,"['7080 Santa Monica Blvd', 'Los Angeles, CA 90038']",Los Angeles,3.5,137,"{'latitude': 34.090399, 'longitude': -118.343771}",
+Kentwood Players,"['8301 Hindry Ave', 'Los Angeles, CA 90045']",Los Angeles,4.5,26,"{'latitude': 33.9633941650391, 'longitude': -118.37393951416}",
+Seaweed Hand Roll Bar,"['3450 W 6th St', 'Ste 107', 'Los Angeles, CA 90020']",Los Angeles,4.5,341,"{'latitude': 34.06323, 'longitude': -118.29702}",3.0
+L'Antica Pizzeria Da Michele,"['1534 N McCadden Pl', 'Los Angeles, CA 90028']",Los Angeles,4.5,760,"{'latitude': 34.09904755, 'longitude': -118.33732706}",2.0
+The Factory Kitchen,"['1300 Factory Pl', 'Ste 101', 'Los Angeles, CA 90013']",Los Angeles,4.0,1338,"{'latitude': 34.038867, 'longitude': -118.23602}",3.0
+Feast,"['Los Angeles, CA 90029']",Los Angeles,4.5,19,"{'latitude': 34.0908355712891, 'longitude': -118.294425964355}",
+Zooies,"['9815 National Blvd', 'Los Angeles, CA 90034']",Los Angeles,4.5,236,"{'latitude': 34.03169, 'longitude': -118.40011}",1.0
+Monkeyland Audio,"['1750 Flower St', 'Glendale, CA 91201']",Glendale,4.0,5,"{'latitude': 34.16679, 'longitude': -118.29721}",
+Rebel Mothership Studios,"['5000 Long Beach Ave', 'Vernon, CA 90058']",Vernon,5.0,1,"{'latitude': 33.997734, 'longitude': -118.241632}",
+Color Depot,"['512 State St', 'Glendale, CA 91203']",Glendale,5.0,3,"{'latitude': 34.15279, 'longitude': -118.27193}",
+Philippe the Original,"['1001 N Alameda St', 'Los Angeles, CA 90012']",Los Angeles,4.0,6303,"{'latitude': 34.0597229003906, 'longitude': -118.237022399902}",1.0
+Mary Regal - Regal Nest,"['6430 Sunset Blvd', 'Compass', 'Los Angeles, CA 90028']",Los Angeles,5.0,49,"{'latitude': 34.0976934, 'longitude': -118.3300769}",
+Terra at Eataly Los Angeles,"['10250 Santa Monica Blvd', 'Los Angeles, CA 90067']",Los Angeles,3.5,500,"{'latitude': 34.059017, 'longitude': -118.418861}",3.0
+LA Flyer Inc,"['18203 Parthenia St', 'Northridge, CA 91325']",Northridge,4.5,15,"{'latitude': 34.22872, 'longitude': -118.530095}",
+Metro Cafe,"['11188 Washington Pl', 'Culver City, CA 90232']",Culver City,4.0,1153,"{'latitude': 34.0088146, 'longitude': -118.4136152}",2.0
+Strada Eateria & Bar,"['825 W 9th St', 'Los Angeles, CA 90015']",Los Angeles,5.0,366,"{'latitude': 34.046649, 'longitude': -118.2633746}",2.0
+COD Restaurant,"['8408 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,764,"{'latitude': 34.0728, 'longitude': -118.37363}",3.0
+Tuscan Son,"['10700 Santa Monica Blvd', 'Ste 150', 'Los Angeles, CA 90025']",Los Angeles,4.5,349,"{'latitude': 34.05157, 'longitude': -118.43192}",2.0
+Ask My Pet,"['Marina Del Rey, CA 90210']",Marina Del Rey,5.0,42,"{'latitude': 33.985279083252, 'longitude': -118.452423095703}",
+Tokyo Fried Chicken,"['122 S Atlantic Blvd', 'Monterey Park, CA 91754']",Monterey Park,4.0,1665,"{'latitude': 34.061709, 'longitude': -118.1340441}",2.0
+Union,"['37 E Union St', 'Pasadena, CA 91103']",Pasadena,4.0,1218,"{'latitude': 34.146963, 'longitude': -118.1496096}",3.0
+GRANVILLE,"['8701 Beverly Blvd', 'West Hollywood, CA 90048']",West Hollywood,4.5,1468,"{'latitude': 34.0771299, 'longitude': -118.38068}",2.0
+TSI Video Productions,"['7236 Owensmouth Ave', 'Ste A', 'Canoga Park, CA 91303']",Canoga Park,5.0,8,"{'latitude': 34.20218, 'longitude': -118.60119}",
+Osteria Mamma,"['5732 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.0,1660,"{'latitude': 34.0833586783984, 'longitude': -118.324724939274}",2.0
+Artist Housing,"['807 S Flower St', 'Los Angeles, CA 90017']",Los Angeles,4.0,38,"{'latitude': 34.0470474, 'longitude': -118.2604893}",
+RynoRyder Media,"['6330 Randi Ave', 'Ste E107', 'Woodland Hills, CA 91367']",Woodland Hills,5.0,1,"{'latitude': 34.1849834, 'longitude': -118.6097502}",
+Rent for Event LA,"['12062 Moorpark Str', 'Studio City, CA 91604']",Studio City,4.5,9,"{'latitude': 34.150137975812, 'longitude': -118.395116552711}",
+Starline tours,"['6801 Hollywood Blvd', 'Hollywood, CA 90028']",Hollywood,3.0,550,"{'latitude': 34.10248, 'longitude': -118.340795}",
+MESSHALL,"['4500 Los Feliz Blvd', 'Los Angeles, CA 90027']",Los Angeles,3.5,1295,"{'latitude': 34.1116, 'longitude': -118.287737}",2.0
+CodeMedia 360,"['1812 W Burbank Blvd', 'Ste 84', 'Burbank, CA 91506']",Burbank,5.0,9,"{'latitude': 34.1810092, 'longitude': -118.3308603}",
+Barrique,"['796 Main St', 'Venice, CA 90291']",Venice,4.5,526,"{'latitude': 33.993164, 'longitude': -118.474656}",3.0
+Noel Bass,"['Los Angeles, CA 90034']",Los Angeles,5.0,19,"{'latitude': 34.0293197631836, 'longitude': -118.399406433105}",
+Jump O'Rama Party Rentals,"['6870 Oran Cir', 'Ste A', 'Buena Park, CA 90621']",Buena Park,4.5,231,"{'latitude': 33.86022, 'longitude': -118.00496}",
+Jon & Vinny's Fairfax,"['412 N Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,1794,"{'latitude': 34.0786401, 'longitude': -118.3613451}",2.0
+Private Computer Tutor,"['8221 De Longpre Ave', 'Los Angeles, CA 90046']",Los Angeles,5.0,20,"{'latitude': 34.0957099, 'longitude': -118.36958}",
+The Federal,"['5303 Lankershim Blvd', 'North Hollywood, CA 91601']",North Hollywood,3.5,1728,"{'latitude': 34.1671318002839, 'longitude': -118.376188774733}",2.0
+Tempo Cantina,"['12056 Paramount Blvd', 'Downey, CA 90242']",Downey,4.0,1407,"{'latitude': 33.93199, 'longitude': -118.1454}",2.0
+Agent Chill Entertainment,"['Torrance, CA 90503']",Torrance,5.0,4,"{'latitude': 33.8419075012207, 'longitude': -118.35359954834}",
+Robert Yu Photography,"['5200 Wilshire Blvd', 'Los Angeles, CA 90036']",Los Angeles,5.0,28,"{'latitude': 34.0620551, 'longitude': -118.343103}",
+Digital Revolution,"['4401 Atlantic Ave', 'Ste 200', 'Long Beach, CA 90807']",Long Beach,5.0,9,"{'latitude': 33.83706, 'longitude': -118.18557}",
+The Vortex,"['2341 E Olympic Blvd', 'Los Angeles, CA 90021']",Los Angeles,3.0,3,"{'latitude': 34.0261, 'longitude': -118.23081}",
+Baking with Melissa,"['Los Angeles, CA 91208']",Los Angeles,5.0,42,"{'latitude': 34.19795, 'longitude': -118.22943}",
+Lori Dorman Photography,"['Beverly Hills, CA 90210']",Beverly Hills,5.0,217,"{'latitude': 34.08799743652344, 'longitude': -118.40689086914062}",
+Nijiya Market - Sawtelle,"['2130 Sawtelle Blvd', 'Ste 105', 'Los Angeles, CA 90025']",Los Angeles,4.0,617,"{'latitude': 34.0390595273903, 'longitude': -118.441541333365}",2.0
+Zinc Cafe & Market,"['580 Mateo St', 'Los Angeles, CA 90013']",Los Angeles,4.0,1761,"{'latitude': 34.039413, 'longitude': -118.232504}",2.0
+Pura Vita,"['8274 Santa Monica Blvd', 'West Hollywood, CA 90046']",West Hollywood,4.5,502,"{'latitude': 34.09044, 'longitude': -118.36967}",2.0
+Arto Sign Co,"['5838 San Fernando Rd', 'Ste C', 'Glendale, CA 91202']",Glendale,4.5,19,"{'latitude': 34.15842, 'longitude': -118.2785}",
+C & L Construction,"['2550 Overland Ave', 'Unit 200', 'Los Angeles, CA 90064']",Los Angeles,5.0,40,"{'latitude': 34.0396317, 'longitude': -118.4228646}",
+The Print Spot,"['2075 S Atlantic Blvd', 'Ste I', 'Monterey Park, CA 91754']",Monterey Park,5.0,70,"{'latitude': 34.0403, 'longitude': -118.14321}",
+Daikokuya Sawtelle,"['2208 Sawtelle Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,1594,"{'latitude': 34.0379018, 'longitude': -118.4408416}",2.0
+The House Group,"['16987 Encino Hills Dr', 'Los Angeles, CA 91436']",Los Angeles,5.0,2,"{'latitude': 34.1333968121, 'longitude': -118.502506539}",
+Harbor House,"['1000 Wilshire Blvd', 'Los Angeles, CA 90017']",Los Angeles,3.5,106,"{'latitude': 34.05046, 'longitude': -118.2613}",2.0
+SMV,"['4100 W Alameda Ave', 'Ste 208', 'Burbank, CA 91505']",Burbank,4.0,19,"{'latitude': 34.15236, 'longitude': -118.34462}",
+Zombie Joe's Underground Theatre,"['4850 Lankershim Blvd', 'North Hollywood, CA 91601']",North Hollywood,4.5,181,"{'latitude': 34.15909, 'longitude': -118.37081}",
+Coeurage Ensemble,"['Los Angeles, CA 90036']",Los Angeles,4.5,6,"{'latitude': 34.0814807, 'longitude': -118.3611756}",
+Royce Hall - UCLA,"['10745 Dickson Ct', 'Los Angeles, CA 90095']",Los Angeles,4.5,110,"{'latitude': 34.072812847032, 'longitude': -118.44215944732}",
+Hollywood Studio Gallery,"['1035 N Cahuenga Blvd', 'Los Angeles, CA 90038']",Los Angeles,5.0,1,"{'latitude': 34.089876, 'longitude': -118.329025}",3.0
+Nobu Los Angeles,"['903 N La Cienega Blvd', 'Los Angeles, CA 90069']",Los Angeles,4.0,1286,"{'latitude': 34.087151928308465, 'longitude': -118.3766040503708}",4.0
+SOL Mexican Cocina,"['12775 W Millennium Dr', 'Ste 160', 'Los Angeles, CA 90094']",Los Angeles,4.0,1330,"{'latitude': 33.97607616706, 'longitude': -118.416961589194}",2.0
+Self Tape Auditions - The Creation Station Studios,"['5250 Lankershim Blvd', 'Ste 500', 'North Hollywood, CA 91601']",North Hollywood,4.0,163,"{'latitude': 34.16664, 'longitude': -118.37509}",
+MYM Spokesmodels,"['1019 S Westmoreland Ave', 'Los Angeles, CA 90006']",Los Angeles,5.0,2,"{'latitude': 34.05154, 'longitude': -118.28956}",
+Roomforty,"['6441 N Figueroa St', 'Los Angeles, CA 90042']",Los Angeles,4.5,34,"{'latitude': 34.1192055, 'longitude': -118.1837921}",
+Eatalian Cafe,"['15500 S Broadway', 'Gardena, CA 90248']",Gardena,4.0,2716,"{'latitude': 33.890937, 'longitude': -118.278395906746}",2.0
+Jane Teis Graphic Services,"['Silver Lake, CA 90039']",Silver Lake,5.0,3,"{'latitude': 34.0941364873708, 'longitude': -118.267435991602}",
+Actors' Reps,"['6381 Hollywood Blvd', 'Ste 420', 'Los Angeles, CA 90028']",Los Angeles,1.5,22,"{'latitude': 34.10183, 'longitude': -118.32925}",
+The Bungalow Santa Monica,"['101 Wilshire Blvd', 'Santa Monica, CA 90401']",Santa Monica,3.5,1272,"{'latitude': 34.0175551881817, 'longitude': -118.501418628602}",2.0
+David and Yasuko Chu - RE/MAX Premier Properties,"['Monterey Park, CA 91754']",Monterey Park,5.0,18,"{'latitude': 34.123157, 'longitude': -118.103957}",
+Fry's Electronics,"['2311 N Hollywood Way', 'Burbank, CA 91505']",Burbank,2.5,989,"{'latitude': 34.191035, 'longitude': -118.350517}",
+Enchanted Bliss,"['Southern California', 'Los Angeles, CA 90210']",Los Angeles,5.0,7,"{'latitude': 34.052187, 'longitude': -118.243425}",
+Dave & Dave Recording Studios,"['4207 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.1729834, 'longitude': -118.3560337}",
+Vibrato Grill Jazz,"['2930 N Beverly Glen Cir', 'Los Angeles, CA 90077']",Los Angeles,4.0,717,"{'latitude': 34.1273687, 'longitude': -118.4443859}",3.0
+Hannah Arista Photography,"['Los Angeles, CA 90027']",Los Angeles,5.0,23,"{'latitude': 34.1118131557236, 'longitude': -118.28776334202}",
+Peekaboo Playland,"['2030 Colorado Blvd', 'Los Angeles, CA 90041']",Los Angeles,4.5,181,"{'latitude': 34.1390116, 'longitude': -118.2117417}",
+Nazli Shaw Photographs,"['Los Angeles, CA 90027']",Los Angeles,5.0,15,"{'latitude': 34.12595, 'longitude': -118.29101}",
+Charcoal Venice,"['425 Washington Blvd', 'Marina Del Rey, CA 90292']",Marina Del Rey,4.0,524,"{'latitude': 33.98171, 'longitude': -118.46299}",3.0
+Morgan-Wixson Theatre,"['2627 Pico Blvd', 'Santa Monica, CA 90405']",Santa Monica,4.5,58,"{'latitude': 34.02382, 'longitude': -118.46199}",
+Delmonico's Steak and Lobster House,"['16358 Ventura Blvd', 'Los Angeles, CA 91436']",Los Angeles,3.5,733,"{'latitude': 34.15683, 'longitude': -118.48987}",3.0
+Arts District Brewing Company,"['828 Traction Ave', 'Los Angeles, CA 90013']",Los Angeles,4.0,1077,"{'latitude': 34.0446217616778, 'longitude': -118.235323801466}",2.0
+"SLS Hotel, a Luxury Collection Hotel, Beverly Hills","['465 S La Cienega Blvd', 'Los Angeles, CA 90048']",Los Angeles,3.5,844,"{'latitude': 34.0695585681003, 'longitude': -118.376409255788}",3.0
+Prokreation Productions,"['3729 Mayfield Ave', 'La Crescenta, CA 91214']",La Crescenta,5.0,114,"{'latitude': 34.23075, 'longitude': -118.2604}",
+Marc Bosserman Pianist & Vocalist,"['Los Angeles, CA 90004']",Los Angeles,5.0,49,"{'latitude': 34.0748887, 'longitude': -118.3082034}",
+Theatre Theater,"['5041 W Pico Blvd', 'Los Angeles, CA 90019']",Los Angeles,3.5,13,"{'latitude': 34.0481399, 'longitude': -118.34737}",
+Dj Nova,"['San Fernando Valley, CA']",San Fernando Valley,5.0,1,"{'latitude': 34.28396, 'longitude': -118.43859}",
+Julie Aragon Lending Team,"['555 W 5th St', 'Fl 35', 'WeWork Coworking & Office Space', 'Los Angeles, CA 90013']",Los Angeles,5.0,155,"{'latitude': 34.05008, 'longitude': -118.25314}",
+Argentum,"['6844 Vineland Ave', 'North Hollywood, CA 91505']",North Hollywood,4.5,96,"{'latitude': 34.19516, 'longitude': -118.3697347}",2.0
+The Alexandria Ballrooms,"['501 S Spring St', 'Los Angeles, CA 90013']",Los Angeles,4.5,46,"{'latitude': 34.04693832758, 'longitude': -118.250271066681}",
+Infinite Promotions,"['1800 Century Park E', 'Ste 600', 'Los Angeles, CA 90067']",Los Angeles,4.0,5,"{'latitude': 34.0627128, 'longitude': -118.415078}",
+Openaire,"['3515 Wilshire Blvd', 'Fl 2', 'Los Angeles, CA 90010']",Los Angeles,4.0,713,"{'latitude': 34.06215, 'longitude': -118.30098}",2.0
+The Group Rep at the Lonny Chapman Theatre,"['10900 Burbank Blvd', 'North Hollywood, CA 91601']",North Hollywood,4.5,30,"{'latitude': 34.1720251, 'longitude': -118.3683171}",
+The LINE LA,"['3515 Wilshire Blvd', 'Los Angeles, CA 90010']",Los Angeles,3.5,895,"{'latitude': 34.06213, 'longitude': -118.300995}",2.0
+Sew FYI,"['1340 E 6th St', 'Unit 505', 'Los Angeles, CA 90021']",Los Angeles,4.5,135,"{'latitude': 34.0376406, 'longitude': -118.2341354}",
+Cirque Berzerk,"['800 W Olympic Blvd', 'Club Nokia', 'Los Angeles, CA 90015']",Los Angeles,3.5,208,"{'latitude': 34.04489, 'longitude': -118.2641735}",
+AOC,"['8700 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,2313,"{'latitude': 34.073416, 'longitude': -118.381928}",3.0
+DJZ Productions,"['17815 Sky Park Cir', 'Ste G', 'Irvine, CA 92614']",Irvine,5.0,149,"{'latitude': 33.6912537, 'longitude': -117.8559036}",
+Alexander's Steakhouse - Pasadena,"['111 N Los Robles Ave', 'Pasadena, CA 91101']",Pasadena,4.0,1084,"{'latitude': 34.147449, 'longitude': -118.142256}",4.0
+Te'Kila,"['13817 Ventura Blvd', 'Los Angeles, CA 91423']",Los Angeles,4.0,697,"{'latitude': 34.14875, 'longitude': -118.43381}",2.0
+Zen Arts,"['325 Arnaz Dr', 'Ste 303', 'Los Angeles, CA 90048']",Los Angeles,5.0,20,"{'latitude': 34.0729481, 'longitude': -118.3830646}",
+SmogShoppe,"['2651 S La Cienega Blvd', 'Los Angeles, CA 90034']",Los Angeles,4.5,105,"{'latitude': 34.0337251, 'longitude': -118.3769743}",
+Toca Madera,"['8450 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,2093,"{'latitude': 34.073059, 'longitude': -118.3749338}",3.0
+Andrew Wood Acting Studio,"['1122 N Gower St', 'Los Angeles, CA 90038']",Los Angeles,5.0,62,"{'latitude': 34.091506, 'longitude': -118.321937}",
+Acue Lighting,"['6217 Van Nuys Blvd', 'Van Nuys, CA 91401']",Van Nuys,4.5,12,"{'latitude': 34.1831699, 'longitude': -118.44915}",
+Parson's Nose Productions,"['95 N Marengo Ave', 'Pasadena, CA 91101']",Pasadena,5.0,10,"{'latitude': 34.1478617, 'longitude': -118.1464057}",
+Houston's Restaurant,"['320 S Arroyo Pkwy', 'Pasadena, CA 91105']",Pasadena,4.0,2862,"{'latitude': 34.1402852781796, 'longitude': -118.147126842575}",3.0
+The California Club,"['538 S Flower St', 'Los Angeles, CA 90071']",Los Angeles,4.5,63,"{'latitude': 34.0503, 'longitude': -118.25639}",
+Wicked Lit,"['2300 N Marengo', 'Altadena, CA 91001']",Altadena,4.5,48,"{'latitude': 34.184815, 'longitude': -118.144062}",
+Pasha Rex - Greater Los Angeles Specialist,"['6251 Coldwater Canyon Ave', 'Valley Glen, CA 91606']",Valley Glen,5.0,7,"{'latitude': 34.1844025001642, 'longitude': -118.414437565844}",
+Tsujita LA Artisan Noodle,"['2057 Sawtelle Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.0,4057,"{'latitude': 34.0395785158514, 'longitude': -118.442669604805}",2.0
+La Opera League,"['135 N Grand Ave', 'Los Angeles, CA 90012']",Los Angeles,4.5,3,"{'latitude': 34.057362, 'longitude': -118.248161}",
+Color Me Sold Home Staging,"['Los Angeles, CA 90069']",Los Angeles,5.0,32,"{'latitude': 34.08841, 'longitude': -118.37783}",
+Galpin Motors Studio Rentals,"['1763 Ivar Ave', 'Los Angeles, CA 90028']",Los Angeles,4.5,29,"{'latitude': 34.10349, 'longitude': -118.32859}",
+Brera Ristorante,"['1331 E 6th St', 'Los Angeles, CA 90021']",Los Angeles,4.0,578,"{'latitude': 34.0384797647149, 'longitude': -118.234751356622}",3.0
+Brian Tiongson Reyes - Pinnacle Estate Properties,"['17327 Ventura Blvd', 'Ste 100', 'Encino, CA 91316']",Encino,5.0,22,"{'latitude': 34.1612394, 'longitude': -118.5107972}",
+Simply Sera Events,"['Los Angeles, CA 90005']",Los Angeles,5.0,27,"{'latitude': 34.0597915649414, 'longitude': -118.310844421387}",
+Angler,"['8500 Beverly Blvd', 'Ste 117', 'Los Angeles, CA 90048']",Los Angeles,4.0,112,"{'latitude': 34.07534, 'longitude': -118.377495}",
+Gable House Bowl,"['22501 Hawthorne Blvd', 'Torrance, CA 90505']",Torrance,3.5,232,"{'latitude': 33.8240569733485, 'longitude': -118.352432970145}",
+Erik Cabral - Pinnacle Estate Properties,"['9137 Reseda Blvd', 'Northridge, CA 91324']",Northridge,5.0,52,"{'latitude': 34.2368698, 'longitude': -118.5362167}",
+Vanessa Shaushkin photography,"['El Segundo, CA 90245']",El Segundo,5.0,9,"{'latitude': 33.9229, 'longitude': -118.41604}",
+Dj Next Level Entertainment,"['Los Angeles, CA 91316']",Los Angeles,5.0,44,"{'latitude': 34.1652526855469, 'longitude': -118.516052246094}",
+Creative Tinder,"['Sherman Oaks, CA 91403']",Sherman Oaks,5.0,1,"{'latitude': 34.14809, 'longitude': -118.46719}",
+The 17th Door Haunt Experience,"['1851 W Orangethorpe Ave', 'Fullerton, CA 92833']",Fullerton,4.0,652,"{'latitude': 33.8600474, 'longitude': -117.9617364}",
+Fogo de Chão Brazilian Steakhouse,"['800 S Figueroa St', 'Los Angeles, CA 90017']",Los Angeles,3.5,1164,"{'latitude': 34.0476649355579, 'longitude': -118.261218773154}",3.0
+Lurssen Mastering,"['4109 W Burbank Blvd', 'Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.173319, 'longitude': -118.355231}",
+Eddie David Entertainment,"['Encino, CA 91316']",Encino,5.0,42,"{'latitude': 34.15909, 'longitude': -118.51628}",2.0
+Charles F Lummis Home & Garden,"['200 E Ave 43', 'Los Angeles, CA 90031']",Los Angeles,4.0,36,"{'latitude': 34.093017, 'longitude': -118.207023}",
+Justin Worsham - Vonkeith Properties Real Estate,"['4405 Riverside Dr', 'Ste103', 'Burbank, CA 91505']",Burbank,5.0,13,"{'latitude': 34.15252, 'longitude': -118.34802}",
+Morton's The Steakhouse,"['735 S Figueroa St', 'Ste 207', 'Los Angeles, CA 90017']",Los Angeles,3.5,756,"{'latitude': 34.049364113, 'longitude': -118.260946839}",3.0
+Marugame Udon,"['2029 Sawtelle Blvd', 'Los Angeles, CA 90025']",Los Angeles,4.0,1453,"{'latitude': 34.04002, 'longitude': -118.44326}",1.0
+Klick Photography,"['Los Angeles, CA 90068']",Los Angeles,5.0,1,"{'latitude': 34.111156463623, 'longitude': -118.33277130127}",
+Kebab Daddy,"['3701 Ocean View Blvd', 'Montrose, CA 91020']",Montrose,4.5,595,"{'latitude': 34.205088, 'longitude': -118.2282017}",2.0
+The Six Chow House West Los Angeles,"['10668 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,718,"{'latitude': 34.04197, 'longitude': -118.42398}",2.0
+Cheriefoto,"['10365 Ashton Ave', 'Los Angeles, CA 90024']",Los Angeles,4.5,58,"{'latitude': 34.066529, 'longitude': -118.427286}",
+The Pasadena Playhouse,"['39 S El Molino Ave', 'Pasadena, CA 91101']",Pasadena,4.5,309,"{'latitude': 34.14511, 'longitude': -118.13737}",
+Space and Light Digital,"['1330 W 11th Pl', 'Los Angeles, CA 90015']",Los Angeles,4.0,8,"{'latitude': 34.0452878, 'longitude': -118.2724418}",
+Social Paella,"['13346 Saticoy St', 'Unit 2', 'Los Angeles, CA 91605']",Los Angeles,5.0,84,"{'latitude': 34.20793490000001, 'longitude': -118.4240347}",
+The Missing Piece,"['2811 W Magnolia Blvd', 'Burbank, CA 91505']",Burbank,5.0,5,"{'latitude': 34.17103, 'longitude': -118.33846}",
+Mr. Bartender,"['Los Angeles, CA 90048']",Los Angeles,5.0,165,"{'latitude': 34.0719184875488, 'longitude': -118.374000549316}",
+Orange Blossom Special Events,"['6314 Sepulveda Blvd', 'Van Nuys, CA 91411']",Van Nuys,5.0,131,"{'latitude': 34.1852716, 'longitude': -118.465912}",
+Ultimate Hollywood Tours,"['6660 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,116,"{'latitude': 34.097492, 'longitude': -118.335921}",
+Barton G - Los Angeles,"['861 N La Cienega Blvd', 'Los Angeles, CA 90069']",Los Angeles,3.5,2441,"{'latitude': 34.0869539412233, 'longitude': -118.376752998217}",3.0
+A Sound Decision,"['Los Angeles, CA 90028']",Los Angeles,5.0,3,"{'latitude': 34.1005577, 'longitude': -118.318683}",
+The Doughroom,"['3409 Overland Ave', 'Los Angeles, CA 90034']",Los Angeles,4.0,684,"{'latitude': 34.0255407029642, 'longitude': -118.412643982327}",2.0
+Big Blue Sky Party Rentals & Supplies,"['Los Angeles, CA 90029']",Los Angeles,4.5,32,"{'latitude': 34.09071, 'longitude': -118.29594}",
+The Six Chow House Studio City,"['12650 Ventura Blvd', 'Studio City, CA 91604']",Studio City,4.5,2210,"{'latitude': 34.144146, 'longitude': -118.409038}",2.0
+Kimpton Hotel Palomar Los Angeles Beverly Hills,"['10740 Wilshire Blvd', 'Los Angeles, CA 90024']",Los Angeles,4.0,521,"{'latitude': 34.0600499, 'longitude': -118.43738}",2.0
+LA Print,"['17743 Sherman Way', 'Reseda, CA 91335']",Reseda,5.0,16,"{'latitude': 34.201484, 'longitude': -118.52019}",
+Jusstine Kenzer - PsychicGirl,"['West Hollywood, CA 90069']",West Hollywood,5.0,182,"{'latitude': 34.0943412780762, 'longitude': -118.382682800293}",
+The Fish House,"['16101 Ventura Blvd', 'Ste 100', 'Encino, CA 91436']",Encino,4.5,256,"{'latitude': 34.1567991, 'longitude': -118.4838021}",3.0
+McNulty Nielsen,"['6930 1/2 Tujunga Ave', 'North Hollywood, CA 91605']",North Hollywood,4.0,5,"{'latitude': 34.19661, 'longitude': -118.37805}",
+Blu Jam Cafe,"['541 S Spring St', 'Ste 110', 'Los Angeles, CA 90013']",Los Angeles,4.0,1188,"{'latitude': 34.04676, 'longitude': -118.25099}",2.0
+Pitfire Artisan Pizza,"['5211 Lankershim Blvd', 'North Hollywood, CA 91601']",North Hollywood,4.0,1290,"{'latitude': 34.165086040804, 'longitude': -118.374995748442}",2.0
+Tesse,"['8500 W Sunset Blvd', 'Ste B', 'West Hollywood, CA 90069']",West Hollywood,4.0,385,"{'latitude': 34.09401, 'longitude': -118.3765}",3.0
+JLM Environmental,"['15200 Grevillea Ave', 'Unit B', 'Lawndale, CA 90260']",Lawndale,5.0,215,"{'latitude': 33.8936965, 'longitude': -118.3544587}",
+Angelini Osteria,"['7313 Beverly Blvd', 'Los Angeles, CA 90036']",Los Angeles,4.5,1800,"{'latitude': 34.07642, 'longitude': -118.34909}",3.0
+Beach House Hotel Hermosa Beach,"['1300 The Strand', 'Hermosa Beach, CA 90254']",Hermosa Beach,4.0,224,"{'latitude': 33.86299, 'longitude': -118.40212}",3.0
+Village Pizzeria,"['131 N Larchmont Blvd', 'Los Angeles, CA 90004']",Los Angeles,4.0,1497,"{'latitude': 34.07395, 'longitude': -118.323956}",2.0
+Hudson House,"['514 N Pacific Coast Hwy', 'Redondo Beach, CA 90277']",Redondo Beach,4.0,1012,"{'latitude': 33.85032, 'longitude': -118.38864}",2.0
+Siren Studios Orange,"['1050 N Orange Dr', 'Los Angeles, CA 90038']",Los Angeles,4.0,12,"{'latitude': 34.0899673104286, 'longitude': -118.34156692028}",
+Momed Atwater Village,"['3245 Casitas Ave', 'Ste 120', 'Los Angeles, CA 90039']",Los Angeles,4.0,624,"{'latitude': 34.1157446801662, 'longitude': -118.25143866241}",2.0
+Ballast Point Long Beach,"['110 N Marina Dr', 'Long Beach, CA 90803']",Long Beach,3.5,2807,"{'latitude': 33.7475812229756, 'longitude': -118.114092708602}",2.0
+Sweet Chick,"['448 N Fairfax Ave', 'Los Angeles, CA 90036']",Los Angeles,4.0,1131,"{'latitude': 34.0796, 'longitude': -118.36114}",2.0
+Santa Monica Rep,"['Santa Monica, CA 90405']",Santa Monica,5.0,1,"{'latitude': 34.00535, 'longitude': -118.47979}",
+Marat Daukayev School of Ballet,"['731 S La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,4.5,26,"{'latitude': 34.06121, 'longitude': -118.34477}",
+Fuller House,"['4301 W Olive Ave', 'Burbank, CA 91505']",Burbank,3.5,3,"{'latitude': 34.1472115343645, 'longitude': -118.342191874981}",
+Outer Circle Entertainment,"['Los Angeles, CA 90038']",Los Angeles,5.0,7,"{'latitude': 34.08996, 'longitude': -118.32842}",
+Robata JINYA - Hollywood,"['8050 W 3rd St', 'Los Angeles, CA 90048']",Los Angeles,4.0,1105,"{'latitude': 34.0718996360515, 'longitude': -118.365588126389}",2.0
+Mastro's Ocean Club,"['18412 Pacific Coast Hwy', 'Malibu, CA 90265']",Malibu,4.0,1570,"{'latitude': 34.0396870238579, 'longitude': -118.576132804155}",4.0
+The Los Angeles Film School,"['6363 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,2.5,100,"{'latitude': 34.098301, 'longitude': -118.328551}",
+E Stretto,"['351 S Broadway', 'Los Angeles, CA 90013']",Los Angeles,4.5,93,"{'latitude': 34.0498933036789, 'longitude': -118.249227992454}",2.0
+Dream Makers,"['Pasadena, CA 91104']",Pasadena,5.0,6,"{'latitude': 34.1637496948242, 'longitude': -118.137802124023}",
+Hot and Cool Cafe,"['4331 Degnan Blvd', 'Los Angeles, CA 90008']",Los Angeles,4.5,148,"{'latitude': 34.005097224263, 'longitude': -118.331694923789}",2.0
+Microsoft Theater,"['777 Chick Hearn Ct', 'Los Angeles, CA 90015']",Los Angeles,3.5,575,"{'latitude': 34.044489, 'longitude': -118.2670519}",2.0
+John Capellaro  - Coldwell Banker Residential Brokerage,"['451 Manhattan Beach Blvd', 'Ste D220', 'Manhattan Beach, CA 90266']",Manhattan Beach,5.0,8,"{'latitude': 33.886263, 'longitude': -118.40837}",
+Whitehouse Dish Catering,"['8549 Higuera St', 'Culver City, CA 90232']",Culver City,5.0,12,"{'latitude': 34.02276, 'longitude': -118.3816}",
+Manhattan House,"['1019 Manhattan Beach Blvd', 'Manhattan Beach, CA 90266']",Manhattan Beach,4.0,500,"{'latitude': 33.88764, 'longitude': -118.39713}",2.0
+My Vegan Gold,"['4319 W Sunset Blvd', 'Los Angeles, CA 90029']",Los Angeles,4.5,792,"{'latitude': 34.0952227042406, 'longitude': -118.283101645445}",2.0
+Ka'mera Productions,"['924 E Green St', '210-A', 'Pasadena, CA 91106']",Pasadena,5.0,93,"{'latitude': 34.1444629, 'longitude': -118.1312399}",
+EATZ,"['612 N La Brea Ave', 'Los Angeles, CA 90036']",Los Angeles,5.0,327,"{'latitude': 34.082303, 'longitude': -118.343878}",
+Ford Theatres,"['2580 Cahuenga Blvd E', 'Los Angeles, CA 90068']",Los Angeles,4.5,166,"{'latitude': 34.114236, 'longitude': -118.333663}",2.0
+Shine Entertainment,"['Los Angeles, CA 90004']",Los Angeles,5.0,193,"{'latitude': 34.07559, 'longitude': -118.29971}",
+American Home Systems,"['13143 Saticoy St', 'North Hollywood, CA 91605']",North Hollywood,4.5,61,"{'latitude': 34.20814, 'longitude': -118.41954}",
+Playa Provisions,"['119 Culver Blvd', 'Los Angeles, CA 90293']",Los Angeles,3.5,1167,"{'latitude': 33.9578068176558, 'longitude': -118.449640647302}",2.0
+The Mountain Mermaid,"['20421 Callon Dr', 'Topanga, CA 90290']",Topanga,5.0,57,"{'latitude': 34.115806, 'longitude': -118.580312}",
+Nijiya Market - Little Tokyo,"['124 Japanese Village Plz Mall', 'Los Angeles, CA 90012']",Los Angeles,4.0,282,"{'latitude': 34.0489764, 'longitude': -118.2397023}",2.0
+Scott Morris - SRM Real Estate Group,"['13848 Ventura Blvd', 'Fl 1', 'Sherman Oaks, CA 91423']",Sherman Oaks,5.0,8,"{'latitude': 34.1484728705439, 'longitude': -118.434772562668}",
+Joyfully Yours Productions,"['Pico Rivera, CA 90660']",Pico Rivera,5.0,30,"{'latitude': 33.9905090332031, 'longitude': -118.092239379883}",
+Public School 310,"['9411 Culver Blvd', 'Culver City, CA 90232']",Culver City,3.5,1706,"{'latitude': 34.024275, 'longitude': -118.394556}",2.0
+Dj Sokin Wedding Events,"['Long Beach, CA 90712']",Long Beach,5.0,11,"{'latitude': 33.76673, 'longitude': -118.1924}",
+American Contemporary Ballet,"['877 S Francisco St', 'Los Angeles, CA 90017']",Los Angeles,5.0,29,"{'latitude': 34.048258, 'longitude': -118.2637328}",
+BOA Steakhouse,"['101 Santa Monica Blvd', 'Santa Monica, CA 90401']",Santa Monica,4.0,1405,"{'latitude': 34.014421, 'longitude': -118.497969}",3.0
+Pour Haus Wine Bar,"['1820 Industrial St', 'Los Angeles, CA 90021']",Los Angeles,4.5,520,"{'latitude': 34.03545, 'longitude': -118.2338486}",2.0
+All'Acqua,"['3280 Glendale Blvd', 'Los Angeles, CA 90039']",Los Angeles,4.0,614,"{'latitude': 34.1184299, 'longitude': -118.25971}",2.0
+Imagine Video Services,"['16133 Ventura Blvd', 'Ste 700', 'Encino, CA 91436']",Encino,4.0,4,"{'latitude': 34.15707, 'longitude': -118.48493}",
+Sherman Oaks Castle Park,"['4989 Sepulveda Blvd', 'Sherman Oaks, CA 91403']",Sherman Oaks,3.5,605,"{'latitude': 34.161725, 'longitude': -118.467779}",
+The Palm - L.A. Downtown,"['1100 S Flower St', 'Los Angeles, CA 90015']",Los Angeles,3.5,692,"{'latitude': 34.0427007479531, 'longitude': -118.263987713492}",3.0
+From Mi Floral Production,"['1543 W Olympic Blvd', 'Ste 110', 'Los Angeles, CA 90015']",Los Angeles,5.0,16,"{'latitude': 34.049347, 'longitude': -118.273491}",2.0
+Cloud9 Hookah Lounge,"['11009 Burbank Blvd', 'Ste 122', 'Los Angeles, CA 91601']",Los Angeles,4.5,101,"{'latitude': 34.17263, 'longitude': -118.37071}",2.0
+Kismet,"['4648 Hollywood Blvd', 'Los Angeles, CA 90027']",Los Angeles,4.0,476,"{'latitude': 34.1002441, 'longitude': -118.2906102}",2.0
+Tokyo Hamburg,"['600 S New Hampshire Ave', 'Los Angeles, CA 90005']",Los Angeles,4.0,495,"{'latitude': 34.0634850866332, 'longitude': -118.292769826949}",2.0
+Red Flame,"['12148 South St', 'Unit A', 'Artesia, CA 90701']",Artesia,4.0,756,"{'latitude': 33.858325772763, 'longitude': -118.072866909206}",2.0
+Milkmade LA,"['2920 W Sunset Blvd', 'Los Angeles, CA 90026']",Los Angeles,5.0,37,"{'latitude': 34.083081, 'longitude': -118.273874}",
+Move & Mount,"['Los Angeles, CA 90048']",Los Angeles,5.0,147,"{'latitude': 34.0761947631836, 'longitude': -118.375137329102}",
+Tractor Vision,"['340 E Jefferson Blvd', 'Los Angeles, CA 90011']",Los Angeles,5.0,1,"{'latitude': 34.0163, 'longitude': -118.26823}",
+888 Productions,"['2922 E Chapman Ave', 'Ste 202', 'Orange, CA 92869']",Orange,5.0,42,"{'latitude': 33.787394, 'longitude': -117.822501}",
+Blacksmiths,"['117 Winston St', 'Los Angeles, CA 90013']",Los Angeles,4.0,631,"{'latitude': 34.04716, 'longitude': -118.24708}",3.0
+Gjelina,"['1429 Abbot Kinney Blvd', 'Venice, CA 90291']",Venice,3.5,4715,"{'latitude': 33.9905576, 'longitude': -118.4650685}",3.0
+The Brad Korb Real Estate Group,"['3813 W Magnolia Blvd', 'Burbank, CA 91505']",Burbank,4.5,142,"{'latitude': 34.167537, 'longitude': -118.348611}",
+Good Heart Catering,"['3200 Wilshire Blvd', 'Los Angeles, CA 90010']",Los Angeles,5.0,18,"{'latitude': 34.061458, 'longitude': -118.2919856}",
+Milestone Studios,"['Los Angeles, CA 90032']",Los Angeles,5.0,1,"{'latitude': 34.0782294767399, 'longitude': -118.193922042847}",
+The Build Shop,"['Los Angeles, CA 90004']",Los Angeles,4.5,43,"{'latitude': 34.0755882263184, 'longitude': -118.299713134766}",
+Honey Bee's House of Breakfast,"['4715 W Adams Blvd', 'Los Angeles, CA 90016']",Los Angeles,4.0,807,"{'latitude': 34.0326985382412, 'longitude': -118.343422987691}",1.0
+Wedding Officiant Jon,"['Los Angeles, CA 90007']",Los Angeles,5.0,245,"{'latitude': 34.029109954834, 'longitude': -118.283065795898}",
+Modern Times - Leisuretown,"['549 S Anaheim Blvd', 'Anaheim, CA 92805']",Anaheim,4.0,136,"{'latitude': 33.829301, 'longitude': -117.912157}",
+DJM,"['Burbank, CA 91501']",Burbank,5.0,22,"{'latitude': 34.20152, 'longitude': -118.29958}",
+Vista Theatre,"['4473 Sunset Dr', 'Los Angeles, CA 90027']",Los Angeles,4.5,758,"{'latitude': 34.0983397108459, 'longitude': -118.28686538081}",
+Critic's Choice Catering & Event Production,"['2806 Phelan Ln', 'Redondo Beach, CA 90278']",Redondo Beach,5.0,100,"{'latitude': 33.8805859, 'longitude': -118.366405}",
+The Chou Team - KW Executive,"['388 E Valley Blvd', 'Ste 106', 'Alhambra, CA 91801']",Alhambra,5.0,49,"{'latitude': 34.0784952, 'longitude': -118.1188708}",
+JoshuaKphoto,"['3785 Wilshire Blvd', 'Ste 202', 'Los Angeles, CA 90010']",Los Angeles,5.0,65,"{'latitude': 34.06281, 'longitude': -118.30869}",
+Millennium Hotels and Resorts,"['506 S Grand Ave', 'Los Angeles, CA 90071']",Los Angeles,3.0,1059,"{'latitude': 34.04973, 'longitude': -118.25389}",3.0
+Magic Box LA,"['1933 S Broadway', 'Los Angeles, CA 90007']",Los Angeles,3.5,8,"{'latitude': 34.030805, 'longitude': -118.266853}",
+Pimp My Crib Design & Staging,"['18625 Sherman Way', 'Unit 209', 'Los Angeles, CA 91335']",Los Angeles,5.0,19,"{'latitude': 34.20152, 'longitude': -118.53938}",
+Dal Rae Restaurant,"['9023 E Washington Blvd', 'Pico Rivera, CA 90660']",Pico Rivera,4.0,1248,"{'latitude': 33.982917, 'longitude': -118.096127}",3.0
+No Vacancy,"['1727 N Hudson Ave', 'Los Angeles, CA 90028']",Los Angeles,3.5,737,"{'latitude': 34.1022403512773, 'longitude': -118.332517614313}",2.0
+Radar Strategy Group,"['4001 Inglewood Ave', 'Bldg 101, Ste 170', 'Redondo Beach, CA 90278']",Redondo Beach,5.0,1,"{'latitude': 33.893, 'longitude': -118.36222}",
+Impro Theatre,"['1727 N Vermont Ave', 'Ste 211', 'Los Angeles, CA 90027']",Los Angeles,5.0,33,"{'latitude': 34.10255, 'longitude': -118.29219}",
+Wolfgang Puck Bar & Grill,"['800 West Olympic Blvd', 'Ste A 180', 'Los Angeles, CA 90015']",Los Angeles,3.0,930,"{'latitude': 34.0445594289176, 'longitude': -118.265931553442}",2.0
+Stranger Things - The Drive Into Experience,"['777 Alameda St', 'Los Angeles, CA 90021']",Los Angeles,3.5,105,"{'latitude': 34.031948, 'longitude': -118.239517}",
+Allegra Marketing Print Mail,"['363 Coral Cir', 'El Segundo, CA 90245']",El Segundo,5.0,6,"{'latitude': 33.9108535, 'longitude': -118.3848329}",
+Superba Food + Bread,"['1900 S Lincoln Blvd', 'Los Angeles, CA 90291']",Los Angeles,4.0,897,"{'latitude': 33.99615, 'longitude': -118.45653}",2.0
+ArcLight Cinemas,"['6360 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,2242,"{'latitude': 34.09743, 'longitude': -118.32787}",
+Lady & Larder,"['3759 Sawtelle Blvd', 'Los Angeles, CA 90066']",Los Angeles,4.5,34,"{'latitude': 34.0119, 'longitude': -118.42038}",
+Angel Blessings Productions,"['Los Angeles, CA 90710']",Los Angeles,5.0,16,"{'latitude': 33.79462, 'longitude': -118.29948}",
+Under the Sea,"['3871 Grand View Blvd', 'Los Angeles, CA 90066']",Los Angeles,3.5,163,"{'latitude': 34.00291, 'longitude': -118.43027}",
+MoonSol Music DJs,"['Los Angeles, CA 91316']",Los Angeles,5.0,2,"{'latitude': 34.15909, 'longitude': -118.51628}",
+Melrose Umbrella Co.,"['7465 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.0,510,"{'latitude': 34.083851, 'longitude': -118.352725}",2.0
+Nick + Stef's Steakhouse,"['330 S Hope St', 'Los Angeles, CA 90071']",Los Angeles,4.0,670,"{'latitude': 34.052768, 'longitude': -118.252497}",3.0
+Baltaire Restaurant,"['11647 San Vicente Blvd', 'Los Angeles, CA 90049']",Los Angeles,4.0,769,"{'latitude': 34.0541093, 'longitude': -118.4638472}",4.0
+Theatre Asylum,"['6320 Santa Monica Blvd', 'Los Angeles, CA 90038']",Los Angeles,4.5,50,"{'latitude': 34.090595, 'longitude': -118.3276065}",
+Joan's on Third,"['12059 Ventura Pl', 'Studio City, CA 91604']",Studio City,3.5,561,"{'latitude': 34.144814, 'longitude': -118.394577}",2.0
+Robert's Catering Service,"['101 N Victory Blvd', 'Ste G & F', 'Burbank, CA 91502']",Burbank,5.0,45,"{'latitude': 34.173881, 'longitude': -118.3170171}",
+Art of Alan Silva,"['Los Angeles, CA 90001']",Los Angeles,3.5,20,"{'latitude': 33.9788284301758, 'longitude': -118.249931335449}",
+Antiques On Magnolia,"['3412 1/2 W Magnolia Blvd', 'Burbank, CA 91505']",Burbank,5.0,25,"{'latitude': 34.168464, 'longitude': -118.344433}",2.0
+SunCafe Organic,"['10820 Ventura Blvd', 'Studio City, CA 91604']",Studio City,4.5,2455,"{'latitude': 34.1385791989621, 'longitude': -118.366539}",2.0
+The Front Yard,"['4222 Vineland Ave', 'North Hollywood, CA 91602']",North Hollywood,4.0,2281,"{'latitude': 34.1452280992166, 'longitude': -118.369494542328}",2.0
+Maker City LA,"['1933 S Broadway', 'Fl 11', 'Los Angeles, CA 90007']",Los Angeles,5.0,15,"{'latitude': 34.0307656, 'longitude': -118.2663189}",
+FantaSea Yachts,"['Marina Del Rey, CA 90292']",Marina Del Rey,4.5,195,"{'latitude': 33.97364, 'longitude': -118.45672}",
+Hookah Fly Catering,"['Los Angeles, CA 90046']",Los Angeles,5.0,34,"{'latitude': 34.1072387695312, 'longitude': -118.364761352539}",
+Kiriko,"['11301 W Olympic Blvd', 'Ste 102', 'Los Angeles, CA 90064']",Los Angeles,4.0,448,"{'latitude': 34.038834, 'longitude': -118.441943}",3.0
+Sunlight Media,"['811 W 7th St', 'Level 12', 'Los Angeles, CA 90017']",Los Angeles,5.0,18,"{'latitude': 34.0490767, 'longitude': -118.2590545}",
+Providence,"['5955 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,2684,"{'latitude': 34.083628, 'longitude': -118.330168}",4.0
+The Gourmandise School of Sweets and Savories,"['395 Santa Monica Pl', 'Ste 323', 'Santa Monica, CA 90401']",Santa Monica,4.5,186,"{'latitude': 34.0135739756035, 'longitude': -118.494501113892}",
+Forma Restaurant & Cheese Bar,"['1610 Montana Ave', 'Santa Monica, CA 90403']",Santa Monica,4.5,1086,"{'latitude': 34.03377, 'longitude': -118.49263}",3.0
+Tony Kim - Commercial Property Sales,"['1200 West Olympic Blvd', 'Los Angeles, CA 90015']",Los Angeles,4.5,6,"{'latitude': 34.046875, 'longitude': -118.269544}",
+Pace,"['2100 Laurel Canyon Blvd', 'Los Angeles, CA 90046']",Los Angeles,4.0,948,"{'latitude': 34.10906, 'longitude': -118.3697}",3.0
+Wally's Beverly Hills,"['447 Canon Dr', 'Beverly Hills, CA 90210']",Beverly Hills,4.0,866,"{'latitude': 34.0713730619036, 'longitude': -118.401873610663}",3.0
+The Hart and the Hunter,"['7950 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,3.5,830,"{'latitude': 34.0836424532327, 'longitude': -118.362873027672}",2.0
+BB One Technologies,"['Los Angeles, CA 90068']",Los Angeles,5.0,13,"{'latitude': 34.1235157, 'longitude': -118.3286614}",
+Mi Piace,"['25 E Colorado Blvd', 'Pasadena, CA 91105']",Pasadena,3.5,3284,"{'latitude': 34.14606, 'longitude': -118.14993}",2.0
+Cavatina,"['1200 Alta Loma Rd', 'West Hollywood, CA 90069']",West Hollywood,4.0,149,"{'latitude': 34.092228068005, 'longitude': -118.377325228242}",3.0
+Rocco's Italian Market and Deli,"['1761 N Vermont Ave', 'Los Angeles, CA 90027']",Los Angeles,4.5,226,"{'latitude': 34.1031036908857, 'longitude': -118.291910696265}",2.0
+Truman House Tavern,"['911 San Fernando Rd', 'San Fernando, CA 91340']",San Fernando,4.5,345,"{'latitude': 34.28194, 'longitude': -118.44024}",2.0
+Rotten Apple 907,"['907 N California St', 'Burbank, CA 91505']",Burbank,4.5,26,"{'latitude': 34.1677094, 'longitude': -118.3425369}",
+The Blushing Garden,"['Los Angeles, CA 90010']",Los Angeles,5.0,6,"{'latitude': 34.061603, 'longitude': -118.312405}",
+Los Angeles Haunted Hayride,"['4730 Crystal Springs Dr', 'Los Angeles, CA 90027']",Los Angeles,2.5,1039,"{'latitude': 34.13270679067335, 'longitude': -118.2837714138067}",
+Wood,"['2861 Sunset Blvd', 'Los Angeles, CA 90026']",Los Angeles,4.0,737,"{'latitude': 34.08292, 'longitude': -118.27289}",2.0
+Will Help U,"['4605 Fulton Ave', 'Los Angeles, CA 91423']",Los Angeles,5.0,6,"{'latitude': 34.154275, 'longitude': -118.4229049}",
+LA Fly Rides,"['5562 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,5.0,45,"{'latitude': 34.1016015, 'longitude': -118.3112466}",
+B & R Construction,"['5350 Venice Blvd', 'Los Angeles, CA 90019']",Los Angeles,4.5,14,"{'latitude': 34.0439937, 'longitude': -118.3566273}",
+QT Real Estate Photography,"['Long Beach, CA 90712']",Long Beach,5.0,6,"{'latitude': 33.76673, 'longitude': -118.1924}",
+Galaxy Home Theatres,"['731 E Cypress St', 'Glendale, CA 91205']",Glendale,5.0,98,"{'latitude': 34.1309743, 'longitude': -118.2467463}",
+Cleo Hollywood,"['1717 Vine St', 'Los Angeles, CA 90028']",Los Angeles,4.0,1749,"{'latitude': 34.1023799, 'longitude': -118.32715}",3.0
+O'cado Restaurant & Wine Bar,"['14568 Ventura Blvd', 'Los Angeles, CA 91403']",Los Angeles,4.5,334,"{'latitude': 34.15099, 'longitude': -118.45103}",2.0
+About the Work Actors Studio,"['1219 N Vermont Ave', 'Los Angeles, CA 90029']",Los Angeles,5.0,8,"{'latitude': 34.0940203, 'longitude': -118.2919906}",
+Del Frisco’s Double Eagle Steakhouse,"['10250 Santa Monica Blvd', 'Ste 1700', 'Los Angeles, CA 90067']",Los Angeles,3.5,267,"{'latitude': 34.060136205607, 'longitude': -118.41857213527}",
+The Allen Chu,"['Los Angeles, CA 90019']",Los Angeles,5.0,1,"{'latitude': 34.04749, 'longitude': -118.34694}",
+Costar Orchids & Tropicals Enterprise,"['739 S San Pedro St', 'Unit 1', 'Los Angeles, CA 90014']",Los Angeles,5.0,96,"{'latitude': 34.04002, 'longitude': -118.24793}",1.0
+Kopy King Printing,"['San Fernando Valley, CA 91345']",San Fernando Valley,5.0,2,"{'latitude': 34.264995, 'longitude': -118.4571974}",
+Veronica Pranzo Events,"['Los Angeles, CA 90306']",Los Angeles,5.0,14,"{'latitude': 33.9593, 'longitude': -118.35144}",
+Russian Drone dude,"['1301 N Poinsettia Pl', 'Los Angeles, CA 90046']",Los Angeles,5.0,1,"{'latitude': 34.094561, 'longitude': -118.3485472}",
+Schunk Music Studio,"['Los Angeles, CA 90026']",Los Angeles,5.0,9,"{'latitude': 34.0822292209918, 'longitude': -118.255709373788}",
+Burattino Brick Oven Pizza,"['29701 S Western Ave', 'Ste 103', 'Rancho Palos Verdes, CA 90275']",Rancho Palos Verdes,4.5,846,"{'latitude': 33.747235, 'longitude': -118.310037}",2.0
+Bright Blue Events,"['315 E 8th St', 'Apt 1102', 'Los Angeles, CA 90014']",Los Angeles,5.0,54,"{'latitude': 34.041169, 'longitude': -118.251156}",
+Blue 22 Photography,"['3871 W 6th St', 'Los Angeles, CA 90020']",Los Angeles,5.0,125,"{'latitude': 34.0636464357949, 'longitude': -118.307401044952}",
+Sterling Audio Video,"['14000 Palawan Way', 'Ste 23', 'Marina del Rey, CA 90292']",Marina del Rey,5.0,2,"{'latitude': 33.981766, 'longitude': -118.454319}",
+Audio Rents,"['824 N Hollywood Way', 'Burbank, CA 91505']",Burbank,5.0,14,"{'latitude': 34.165349, 'longitude': -118.3455328}",
+El Cholo,"['1121 S Western Ave', 'Los Angeles, CA 90006']",Los Angeles,3.5,1336,"{'latitude': 34.0501937866211, 'longitude': -118.30940246582}",2.0
+Dolby Theatre,"['6801 Hollywood Blvd', 'Ste 180', 'Hollywood, CA 90028']",Hollywood,4.0,201,"{'latitude': 34.1026102708863, 'longitude': -118.340376019478}",3.0
+Stout Burgers & Beers,"['1544 N Cahuenga Blvd', 'Los Angeles, CA 90028']",Los Angeles,4.0,2129,"{'latitude': 34.09942, 'longitude': -118.32934}",2.0
+fundamental events,"['Los Angeles, CA 90024']",Los Angeles,5.0,16,"{'latitude': 34.0643501281738, 'longitude': -118.437088012695}",
+The Steakhouse Studio,"['5161 Cartwright Ave', 'Ste A', 'North Hollywood, CA 91601']",North Hollywood,5.0,1,"{'latitude': 34.16437, 'longitude': -118.36393}",
+Malibu Wired,"['7783 W Sunset Blvd', 'West Hollywood, CA 90046']",West Hollywood,4.0,20,"{'latitude': 34.0980725, 'longitude': -118.3592183}",
+Nice Bouncers,"['8762 Amigo Ave', 'Los Angeles, CA 91324']",Los Angeles,5.0,34,"{'latitude': 34.2323663547733, 'longitude': -118.536587655544}",
+The Metropolitan Opera in HD,"['6081 Center Dr', 'The Bridge - Cinema de Lux', 'Los Angeles, CA 90045']",Los Angeles,4.5,4,"{'latitude': 33.97845, 'longitude': -118.3926}",
+JINYA Ramen Bar - Studio City,"['11239 Ventura Blvd', 'Studio City, CA 91604']",Studio City,4.0,2573,"{'latitude': 34.1420785644529, 'longitude': -118.375343780374}",2.0
+Beachwood Cafe,"['2695 N Beachwood Dr', 'Los Angeles, CA 90068']",Los Angeles,4.0,465,"{'latitude': 34.11993, 'longitude': -118.32132}",2.0
+Bacari GDL,"['757 Americana Way', 'Glendale, CA 91210']",Glendale,4.5,806,"{'latitude': 34.1437809, 'longitude': -118.2553149}",2.0
+Pizzeria Il Fico,"['310 S Robertson Blvd', 'Los Angeles, CA 90048']",Los Angeles,4.5,499,"{'latitude': 34.073202, 'longitude': -118.383621}",2.0
+Anthony Meindl's Actor Workshop,"['905 Cole Ave', 'Los Angeles, CA 90038']",Los Angeles,4.5,37,"{'latitude': 34.08739, 'longitude': -118.33022}",
+Maple Block Meat Co,"['3973 Sepulveda Blvd', 'Culver City, CA 90230']",Culver City,4.0,1385,"{'latitude': 34.00922, 'longitude': -118.41467}",2.0
+Picosphere,"['506 Santa Monica Blvd', 'Ste 327', 'Santa Monica, CA 90401']",Santa Monica,5.0,9,"{'latitude': 34.01726, 'longitude': -118.4939007}",
+The Brainy Brunette,"['LOS ANGELES, CA 90001']",LOS ANGELES,5.0,1,"{'latitude': 33.9788, 'longitude': -118.2498}",
+Katsuya Brentwood,"['11777 San Vicente Blvd.', 'Los Angeles, CA 90049']",Los Angeles,4.0,1065,"{'latitude': 34.0534858703613, 'longitude': -118.468383789063}",3.0
+Rockin Hot Chick-un,"['5050 York Blvd', 'Los Angeles, CA 90042']",Los Angeles,4.5,65,"{'latitude': 34.12086, 'longitude': -118.20525}",
+The Domo Group - RE/MAX Estate Properties,"['1040 Manhattan Beach Blvd', 'Manhattan Beach, CA 90266']",Manhattan Beach,5.0,41,"{'latitude': 33.8871412, 'longitude': -118.3968637}",
+X-IGENT Printing,"['1001 Goodrich Blvd', 'Los Angeles, CA 90022']",Los Angeles,5.0,8,"{'latitude': 34.01743, 'longitude': -118.15525}",
+A Ceremony of the Heart,"['Los Angeles, CA 90069']",Los Angeles,5.0,34,"{'latitude': 34.10174, 'longitude': -118.37936}",
+The Holding Co.,"['104 Robinson St', 'Los Angeles, CA 90026']",Los Angeles,4.0,23,"{'latitude': 34.0729328, 'longitude': -118.2838297}",
+HD Pro Audio Video,"['Los Angeles, CA 91602']",Los Angeles,5.0,4,"{'latitude': 34.1487141, 'longitude': -118.3608046}",
+Globe Theatre,"['740 S Broadway', 'Los Angeles, CA 90014']",Los Angeles,4.0,150,"{'latitude': 34.044086, 'longitude': -118.254147}",2.0
+Secret Rose Theatre,"['11246 Magnolia Blvd', 'North Hollywood, CA 91601']",North Hollywood,4.5,17,"{'latitude': 34.164611, 'longitude': -118.376159}",
+Blush Events,"['Los Angeles, CA 90010']",Los Angeles,5.0,57,"{'latitude': 34.0617179870605, 'longitude': -118.302757263184}",
+CorporateFilming & FranchiseFilming,"['3711 Long Beach Blvd', 'Ste 718', 'Long Beach, CA 90807']",Long Beach,5.0,89,"{'latitude': 33.82466, 'longitude': -118.18999}",
+Porchetta Republic,"['1220 West 7th St', 'Los Angeles, CA 90017']",Los Angeles,5.0,90,"{'latitude': 34.0516017, 'longitude': -118.2666403}",2.0
+Infinity Media Studio Rental,"['1905 S Victory Blvd', 'unit  15', 'Glendale, CA 91201']",Glendale,4.0,1,"{'latitude': 34.1644835, 'longitude': -118.3040923}",
+Suehiro Cafe,"['337 E 1st St', 'Los Angeles, CA 90012']",Los Angeles,4.0,1438,"{'latitude': 34.0499, 'longitude': -118.2397}",2.0
+Venice Ale House,"['2 Rose Ave', 'Venice, CA 90291']",Venice,3.5,963,"{'latitude': 33.99464, 'longitude': -118.480227}",2.0
+Moving Still Pictures Photography,"['Downey, CA 90241']",Downey,5.0,7,"{'latitude': 33.9461784362793, 'longitude': -118.13249206543}",
+Il Fornaio,"['301 N Beverly Dr', 'Beverly Hills, CA 90210']",Beverly Hills,3.5,672,"{'latitude': 34.068507, 'longitude': -118.4007851}",2.0
+Evolution Studios,"['10816 Burbank Blvd', 'Los Angeles, CA 91601']",Los Angeles,4.5,28,"{'latitude': 34.17163, 'longitude': -118.36644}",
+Studio 12,"['9620 Airport Blvd', 'Los Angeles, CA 90045']",Los Angeles,3.5,6,"{'latitude': 33.948928, 'longitude': -118.385274}",
+HiroNori Craft Ramen,"['163 S Lake Ave', 'Pasadena, CA 91101']",Pasadena,4.5,509,"{'latitude': 34.14289, 'longitude': -118.1328}",2.0
+Paint Pour N Party,"['Los Angeles, CA 90019']",Los Angeles,5.0,2,"{'latitude': 34.0489277, 'longitude': -118.3403506}",
+Groundwork Coffee Co.,"['11275 Chandler Blvd', 'Los Angeles, CA 91601']",Los Angeles,4.0,395,"{'latitude': 34.1689279871999, 'longitude': -118.377642630173}",2.0
+Silverlake Ramen,"['2927 W Sunset Blvd', 'Los Angeles, CA 90026']",Los Angeles,4.0,3327,"{'latitude': 34.0835268538041, 'longitude': -118.273676509195}",2.0
+Unique LA,"['110 E 9th St', 'California Market Center', 'Los Angeles, CA 90079']",Los Angeles,4.5,184,"{'latitude': 34.040474, 'longitude': -118.2553119}",
+Groundwork Coffee Co.,"['150 N Larchmont Blvd', 'Los Angeles, CA 90004']",Los Angeles,4.0,67,"{'latitude': 34.07458, 'longitude': -118.32329}",1.0
+Writing Pad,"['688 S Santa Fe Ave', 'Los Angeles, CA 90021']",Los Angeles,5.0,99,"{'latitude': 34.03585, 'longitude': -118.230462}",
+1212 Santa Monica,"['1212 3rd St Promenade', 'Santa Monica, CA 90401']",Santa Monica,4.0,1006,"{'latitude': 34.0178817810279, 'longitude': -118.499016734953}",2.0
+Bink's Catering,"['Los Angeles, CA 90028']",Los Angeles,5.0,2,"{'latitude': 34.09994, 'longitude': -118.32662}",
+Mack Sennett Studios,"['1215 Bates Ave', 'Los Angeles, CA 90029']",Los Angeles,4.0,30,"{'latitude': 34.0956, 'longitude': -118.28213}",
+Otafuku Restaurant,"['16525 S Western Ave', 'Gardena, CA 90247']",Gardena,4.0,507,"{'latitude': 33.880312, 'longitude': -118.3092949}",2.0
+Anderson Real Estate Group - Keller Williams Pacific Estates,"['2883 E Spring St', 'Ste 100', 'Long Beach, CA 90806']",Long Beach,5.0,321,"{'latitude': 33.8114153, 'longitude': -118.1575264}",
+Katsuya Hollywood,"['6300 Hollywood Blvd', 'Los Angeles, CA 90028']",Los Angeles,3.5,1863,"{'latitude': 34.1014429723457, 'longitude': -118.327084720135}",3.0
+Positive Existence,"['3652 Eastham Dr', 'Culver City, CA 90232']",Culver City,5.0,2,"{'latitude': 34.022323, 'longitude': -118.378707}",
+ARTO,"['15209 S Broadway St', 'Gardena, CA 90248']",Gardena,5.0,9,"{'latitude': 33.89351, 'longitude': -118.27934}",
+Pasta Sisters - Culver City,"['3280 Helms Ave', 'Culver City, CA 90232']",Culver City,4.0,1351,"{'latitude': 34.030029, 'longitude': -118.383983}",2.0
+Hollywood Improv,"['8162 Melrose Ave', 'Hollywood, CA 90046']",Hollywood,4.0,564,"{'latitude': 34.0834621, 'longitude': -118.3674136}",2.0
+Dennis Davis Photography,"['Long Beach, CA 90806']",Long Beach,5.0,1,"{'latitude': 33.79632, 'longitude': -118.19146}",
+The Sushi By Jin,"['6010 Laurel Canyon Blvd', 'North Hollywood, CA 91606']",North Hollywood,4.5,951,"{'latitude': 34.1798200658617, 'longitude': -118.396372137669}",2.0
+Nic's on Beverly,"['8265 Beverly Blvd', 'Los Angeles, CA 90048']",Los Angeles,4.5,358,"{'latitude': 34.07638, 'longitude': -118.3696}",2.0
+Laugh Factory,"['8001 W Sunset Blvd', 'Los Angeles, CA 90046']",Los Angeles,3.5,815,"{'latitude': 34.09823, 'longitude': -118.36447}",2.0
+The Pod Photography,"['4327 Sepulveda Blvd', 'Culver City, CA 90230']",Culver City,5.0,292,"{'latitude': 34.003962, 'longitude': -118.409169}",
+GRANVILLE,"['12345 Ventura Blvd', 'Ste C', 'Studio City, CA 91604']",Studio City,4.5,1989,"{'latitude': 34.1431440622596, 'longitude': -118.402830060188}",2.0
+Light Up Video,"['Valley Village, CA 91607']",Valley Village,5.0,134,"{'latitude': 34.16754, 'longitude': -118.39822}",
+The Pan,"['16601 S Western Ave', 'Gardena, CA 90247']",Gardena,4.0,3186,"{'latitude': 33.87995, 'longitude': -118.30954}",2.0
+TeaPop,"['5050 Vineland Ave', 'North Hollywood, CA 91601']",North Hollywood,4.0,674,"{'latitude': 34.1625085282955, 'longitude': -118.36995045706}",1.0
+Bikes and Hikes,"['8250 Santa Monica Blvd', 'West Hollywood, CA 90046']",West Hollywood,4.5,115,"{'latitude': 34.090825, 'longitude': -118.368833}",
+Jerry Sun Real Estate - RE/MAX,"['913 E Walnut St', 'Pasadena, CA 91106']",Pasadena,5.0,167,"{'latitude': 34.149749, 'longitude': -118.13209}",
+Valerie Confections,"['1665 Echo Park Ave', 'Los Angeles, CA 90026']",Los Angeles,4.0,163,"{'latitude': 34.0833692539894, 'longitude': -118.254551868315}",2.0
+HiroNori Craft Ramen,"['610 E Carson St', 'Long Beach, CA 90807']",Long Beach,4.5,1406,"{'latitude': 33.8316151, 'longitude': -118.1846849}",2.0
+Frankie's,"['7228 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.0,431,"{'latitude': 34.08323, 'longitude': -118.34724}",2.0
+Todd Jones,"['12345 Ventura Blvd', 'Ste A', 'Studio City, CA 91604']",Studio City,5.0,27,"{'latitude': 34.1431542, 'longitude': -118.402161}",
+All The Above Events,"['8702 Cadillac Ave', 'Los Angeles, CA 90034']",Los Angeles,5.0,207,"{'latitude': 34.038995, 'longitude': -118.3804989}",
+Studio Malibu,"['22509 Carbon Mesa Rd', 'Malibu, CA 90265']",Malibu,5.0,1,"{'latitude': 34.0418499, 'longitude': -118.65813}",
+Studio Tour,"['100 Universal City Plz', 'Universal City, CA 91608']",Universal City,4.5,181,"{'latitude': 34.1360772, 'longitude': -118.3541835}",
+Severance Wine Bar,"['7276 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.5,87,"{'latitude': 34.08336, 'longitude': -118.34833333}",2.0
+Gemini Strings,"['Los Angeles, CA 90001']",Los Angeles,5.0,39,"{'latitude': 33.97908, 'longitude': -118.25009}",
+Independent Studio Services,"['9545 Wentworth St', 'Sunland, CA 91040']",Sunland,4.5,4,"{'latitude': 34.2645506, 'longitude': -118.3394224}",
+Tamashii Ramen House,"['11024 Magnolia Blvd', 'Ste 0', 'North Hollywood, CA 91601']",North Hollywood,4.0,1315,"{'latitude': 34.16462, 'longitude': -118.37142}",2.0
+Shunji Japanese Cuisine,"['12244 W Pico Blvd', 'Los Angeles, CA 90064']",Los Angeles,4.0,343,"{'latitude': 34.02836, 'longitude': -118.45161}",4.0
+The Ivy,"['113 N Robertson Blvd', 'Los Angeles, CA 90048']",Los Angeles,3.5,2009,"{'latitude': 34.0756, 'longitude': -118.3838849}",3.0
+Noshi Sushi,"['4430 Beverly Blvd', 'Los Angeles, CA 90004']",Los Angeles,4.0,1483,"{'latitude': 34.0761600290924, 'longitude': -118.305407725275}",2.0
+Paul Martin's American Grill,"['2361 Rosecrans Ave', 'El Segundo, CA 90245']",El Segundo,4.0,1267,"{'latitude': 33.902265789177, 'longitude': -118.380980578574}",2.0
+Eden On Brand,"['214 N Brand Blvd', 'Glendale, CA 91203']",Glendale,4.0,745,"{'latitude': 34.1486805826754, 'longitude': -118.254721383632}",2.0
+Luminarias,"['3500 Ramona Blvd', 'Monterey Park, CA 91754']",Monterey Park,4.0,1074,"{'latitude': 34.0605129, 'longitude': -118.161914}",2.0
+Chi Spacca,"['6610 Melrose Ave', 'Los Angeles, CA 90038']",Los Angeles,4.0,563,"{'latitude': 34.08319, 'longitude': -118.33908}",3.0
+Say I Do to Details,"['2221 Artesia Blvd.', 'Redondo Beach, CA 90278']",Redondo Beach,5.0,83,"{'latitude': 33.865913, 'longitude': -118.3754131}",
+KitSplit,"['Burbank, CA 91505']",Burbank,5.0,2,"{'latitude': 34.15592, 'longitude': -118.34321}",
+The Backhouse,"['3500 W 6th St', 'Ste 301', 'Los Angeles, CA 90020']",Los Angeles,4.0,349,"{'latitude': 34.0631713867188, 'longitude': -118.298561096191}",2.0
+Los Angeles Urban Adventures,"['7080 Hollywood Blvd', 'Ste 1100', 'Los Angeles, CA 90028']",Los Angeles,5.0,43,"{'latitude': 34.10115, 'longitude': -118.34445}",
+Plessner Digital & Archive,"['Westlake Village, CA 91362']",Westlake Village,5.0,19,"{'latitude': 34.17855, 'longitude': -118.85074}",
+Miro,"['888 Wilshire Blvd', 'Los Angeles, CA 90017']",Los Angeles,3.5,438,"{'latitude': 34.049792, 'longitude': -118.259187}",3.0
+Ostrich Farm,"['1525 W Sunset Blvd', 'Los Angeles, CA 90026']",Los Angeles,4.0,495,"{'latitude': 34.07639, 'longitude': -118.25579}",2.0
+Irina Logra Photography,"['Los Angeles, CA 91604']",Los Angeles,5.0,5,"{'latitude': 34.13736, 'longitude': -118.39007}",
+Blow Up Party Rentals,"['Los Angeles, CA 90250']",Los Angeles,5.0,56,"{'latitude': 33.9093, 'longitude': -118.34251}",
+Mezcalero,"['510 S Broadway', 'Los Angeles, CA 90013']",Los Angeles,4.0,527,"{'latitude': 34.04751, 'longitude': -118.25072}",2.0
+Jennifer Manley Photography,"['Studio City, CA 91604']",Studio City,5.0,5,"{'latitude': 34.1399726867676, 'longitude': -118.389175415039}",
+Boomtown Brewery,"['700 Jackson St', 'Los Angeles, CA 90012']",Los Angeles,4.5,419,"{'latitude': 34.05081, 'longitude': -118.23311}",1.0
+Eagle Rock Kitchen,"['2501 Colorado Blvd', 'Unit F', 'Los Angeles, CA 90041']",Los Angeles,4.5,186,"{'latitude': 34.1418301960521, 'longitude': -118.221189826984}",1.0
+The Graphix Center,"['616 S Victory Blvd', 'Burbank, CA 91502']",Burbank,4.5,10,"{'latitude': 34.1694791, 'longitude': -118.3110803}",
+French Conservatory of Music,"['9887 S Santa Monica Blvd', 'Beverly Hills, CA 90212']",Beverly Hills,4.5,24,"{'latitude': 34.0658832232906, 'longitude': -118.411430170431}",2.0
+Eat Drink Americano,"['923 E 3rd St', 'Los Angeles, CA 90013']",Los Angeles,4.0,770,"{'latitude': 34.046115199002, 'longitude': -118.234199889584}",2.0
+Rad Panda Studios,"['21354 Nordhoff St', 'Ste 102', 'Los Angeles, CA 91311']",Los Angeles,5.0,7,"{'latitude': 34.234397, 'longitude': -118.596771}",
+The Montalbán,"['1615 N Vine St', 'Hollywood, CA 90028']",Hollywood,4.0,89,"{'latitude': 34.1002887, 'longitude': -118.326879290213}",
+Standing Ovation Surround Sound Services,"['7035 Laurel Canyon Blvd', 'Ste 16812', 'North Hollywood, CA 91615']",North Hollywood,4.5,67,"{'latitude': 34.1991403353837, 'longitude': -118.39662194252}",
+Pretty Posh Parties,"['Los Angeles, CA 90011']",Los Angeles,4.5,50,"{'latitude': 34.00566, 'longitude': -118.25849}",
+Aratani Theatre,"['244 S San Pedro St', 'Japanese American Cultural Community Ctr', 'Los Angeles, CA 90012']",Los Angeles,4.5,29,"{'latitude': 34.04778, 'longitude': -118.24178}",
+The Groundlings,"['7307 Melrose Ave', 'Los Angeles, CA 90046']",Los Angeles,4.0,305,"{'latitude': 34.0836754059331, 'longitude': -118.349016149031}",
+The Waffle,"['6255 W Sunset Blvd', 'Los Angeles, CA 90028']",Los Angeles,3.5,1714,"{'latitude': 34.0982366768601, 'longitude': -118.325743215344}",2.0
+The Complex Hollywood,"['6476 Santa Monica Blvd', 'Los Angeles, CA 90038']",Los Angeles,3.5,34,"{'latitude': 34.0905951, 'longitude': -118.3305946}",
+Umaya Ramen,"['11318 S St', 'Cerritos, CA 90703']",Cerritos,4.0,1777,"{'latitude': 33.8581951, 'longitude': -118.0925999}",2.0
+Amaze Productions Entertainment,"['1234 Sunset Ave', 'West Covina, CA 91790']",West Covina,5.0,15,"{'latitude': 34.061049, 'longitude': -117.946324}",
+Los Angeles Memorial Coliseum,"['3911 S Figueroa St', 'Los Angeles, CA 90037']",Los Angeles,3.0,434,"{'latitude': 34.01367, 'longitude': -118.28649}",
+Faith & Flower,"['705 W 9th St', 'Los Angeles, CA 90015']",Los Angeles,4.0,2529,"{'latitude': 34.046195, 'longitude': -118.261698}",3.0
+Bird Infinity Group,"['La Canada Flintridge, CA 91011']",La Canada Flintridge,5.0,7,"{'latitude': 34.20848, 'longitude': -118.20211}",
+MTY Enterprises Construction,"['419 Ross St', 'Glendale, CA 91207']",Glendale,5.0,12,"{'latitude': 34.1669498294679, 'longitude': -118.250205516815}",
+Fleming’s Prime Steakhouse & Wine Bar,"['179 E Colorado Blvd', 'Pasadena, CA 91105']",Pasadena,4.0,814,"{'latitude': 34.146104, 'longitude': -118.14629}",3.0
+KCRW,"['Santa Monica, CA 90405']",Santa Monica,4.5,200,"{'latitude': 34.0115966796875, 'longitude': -118.468780517578}",
+Modern Illumination Productions,"['8560 Tujunga Ave', 'Sun Valley, CA 91352']",Sun Valley,5.0,1,"{'latitude': 34.2250394, 'longitude': -118.3800742}",
+Della Terra Restaurant,"['7675 Beverly Blvd', 'Los Angeles, CA 90036']",Los Angeles,4.0,669,"{'latitude': 34.0762749, 'longitude': -118.3571066}",2.0

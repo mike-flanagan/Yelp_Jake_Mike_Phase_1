@@ -1,0 +1,14 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+Inertia Films,"['585 Ezzard St SE', 'Atlanta, GA 30312']",Atlanta,5.0,2,"{'latitude': 33.7533417, 'longitude': -84.3680115}",
+Professional Photo Resources,"['667 11th St NW', 'Atlanta, GA 30318']",Atlanta,4.0,28,"{'latitude': 33.7834014892578, 'longitude': -84.4088439941406}",2.0
+Aperturent,"['6065 Roswell Rd NE', 'Ste 350', 'Atlanta, GA 30328']",Atlanta,4.5,58,"{'latitude': 33.920082, 'longitude': -84.378514}",2.0
+KEH Camera,"['5080 Highlands Pkway SE', 'Ste B', 'Smyrna, GA 30082']",Smyrna,3.5,172,"{'latitude': 33.831514, 'longitude': -84.513537}",3.0
+Bright Screen Studio,"['554 North Ave NW', 'Ste E', 'Atlanta, GA 30318']",Atlanta,5.0,2,"{'latitude': 33.7697639, 'longitude': -84.4059066}",
+Weldon Bond Studios,"['3700 Wendell Dr SW', 'Ste 22', 'Atlanta, GA 30336']",Atlanta,4.0,5,"{'latitude': 33.766267, 'longitude': -84.516527}",
+Studio Space Atlanta,"['3080 McCall Dr', 'Ste 2', 'Atlanta, GA 30340']",Atlanta,5.0,4,"{'latitude': 33.89983, 'longitude': -84.26123}",
+Cinema Greens,"['1557 Saint Joseph Ave', 'Ste 800', 'East Point, GA 30344']",East Point,2.5,3,"{'latitude': 33.69283, 'longitude': -84.4395}",
+Kissworks Studios,"['1816 Briarwood Industrial Ct NE', 'Atlanta, GA 30329']",Atlanta,5.0,1,"{'latitude': 33.8431919438946, 'longitude': -84.3207482066039}",
+Atlanta Special FX,"['488 Maltbie St', 'Bldg B', 'Lawrenceville, GA 30046']",Lawrenceville,5.0,2,"{'latitude': 33.9651668, 'longitude': -84.0034804}",
+Inc Pics Studios,"['8060 Webb Rd', 'Ste 741107', 'Riverdale, GA 30274']",Riverdale,5.0,1,"{'latitude': 33.5342903137207, 'longitude': -84.4151840209961}",
+"At Your Service Audio Visual Presentations, LLC","['Red Oak, GA 30272']",Red Oak,1.0,1,"{'latitude': 33.6225700378418, 'longitude': -84.4948806762695}",
+YBLimited Mobile Glam Squad,"['3353 Peachtree Rd NE', 'Atlanta, GA 30326']",Atlanta,3.5,3,"{'latitude': 33.8479863, 'longitude': -84.3668262}",

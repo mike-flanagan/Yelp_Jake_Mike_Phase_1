@@ -1,0 +1,68 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price
+Aperturent,"['6065 Roswell Rd NE', 'Ste 350', 'Atlanta, GA 30328']",Atlanta,4.5,58,"{'latitude': 33.920082, 'longitude': -84.378514}",2.0
+Professional Photo Resources,"['667 11th St NW', 'Atlanta, GA 30318']",Atlanta,4.0,28,"{'latitude': 33.7834014892578, 'longitude': -84.4088439941406}",2.0
+KEH Camera,"['5080 Highlands Pkway SE', 'Ste B', 'Smyrna, GA 30082']",Smyrna,3.5,172,"{'latitude': 33.831514, 'longitude': -84.513537}",3.0
+Inertia Films,"['585 Ezzard St SE', 'Atlanta, GA 30312']",Atlanta,5.0,2,"{'latitude': 33.7533417, 'longitude': -84.3680115}",
+Life Storage,"['430 Bishop St NW', 'Atlanta, GA 30318']",Atlanta,5.0,1,"{'latitude': 33.79279, 'longitude': -84.40175}",
+Form Factory Studio,"['554 W Main St', 'Bldg B Ste 500', 'Buford, GA 30518']",Buford,5.0,1,"{'latitude': 34.1144926, 'longitude': -84.0126517}",
+Life Storage,"['680 14th St NW', 'Atlanta, GA 30318']",Atlanta,4.5,23,"{'latitude': 33.785723, 'longitude': -84.409675}",
+Life Storage,"['3850 Welcome All Rd SW', 'Atlanta, GA 30349']",Atlanta,5.0,1,"{'latitude': 33.64883, 'longitude': -84.52083}",
+Life Storage,"['486 Decatur St SE', 'Atlanta, GA 30312']",Atlanta,4.0,4,"{'latitude': 33.7517, 'longitude': -84.371745}",
+Life Storage,"['1890 Briarwood Rd NE', 'Atlanta, GA 30329']",Atlanta,4.5,14,"{'latitude': 33.840132, 'longitude': -84.320022}",2.0
+Life Storage,"['1274 Crown Pointe Pkwy', 'Dunwoody, GA 30338']",Dunwoody,3.5,6,"{'latitude': 33.931418, 'longitude': -84.344696}",2.0
+Life Storage,"['6434 Covington Hwy', 'Lithonia, GA 30058']",Lithonia,5.0,1,"{'latitude': 33.72064, 'longitude': -84.15492}",
+Life Storage,"['1745 Roswell Rd', 'Marietta, GA 30062']",Marietta,5.0,4,"{'latitude': 33.956998, 'longitude': -84.501866}",
+Life Storage,"['1195 Gresham Rd', 'Marietta, GA 30062']",Marietta,5.0,3,"{'latitude': 33.955450421212, 'longitude': -84.5173476}",3.0
+Life Storage,"['5208 Peachtree Blvd', 'Chamblee, GA 30341']",Chamblee,4.5,12,"{'latitude': 33.891659, 'longitude': -84.310293}",2.0
+Life Storage,"['2910 N Decatur Rd', 'Decatur, GA 30033']",Decatur,4.5,14,"{'latitude': 33.79441, 'longitude': -84.27439}",
+"Range, Guns & Safes","['4025 Pleasantdale Rd', 'Bldg 100', 'Atlanta, GA 30340']",Atlanta,3.5,52,"{'latitude': 33.899039, 'longitude': -84.242947}",2.0
+Life Storage,"['720 Veterans Memorial Hwy SW', 'Mableton, GA 30126']",Mableton,4.0,2,"{'latitude': 33.8185015, 'longitude': -84.5750287}",
+BrandsMart USA,"['5000 Motors Industrial Way', 'Atlanta, GA 30360']",Atlanta,2.5,269,"{'latitude': 33.9090144835108, 'longitude': -84.2855760920654}",2.0
+Life Storage,"['1987 Canton Rd', 'Marietta, GA 30066']",Marietta,5.0,1,"{'latitude': 33.998856, 'longitude': -84.524099}",
+Inc Pics Studios,"['8060 Webb Rd', 'Ste 741107', 'Riverdale, GA 30274']",Riverdale,5.0,1,"{'latitude': 33.5342903137207, 'longitude': -84.4151840209961}",
+Life Storage,"['2595 Candler Rd', 'Decatur, GA 30032']",Decatur,4.0,5,"{'latitude': 33.7142893396113, 'longitude': -84.2733869429222}",
+Stoddard's Range And Guns,"['485 Bishop St', 'Atlanta, GA 30318']",Atlanta,3.5,138,"{'latitude': 33.793419, 'longitude': -84.403854}",2.0
+Life Storage,"['4427 Tilly Mill Rd', 'Doraville, GA 30360']",Doraville,2.5,5,"{'latitude': 33.9249642681295, 'longitude': -84.281921}",
+Ponce City Market,"['675 Ponce De Leon Ave NE', 'Atlanta, GA 30308']",Atlanta,4.0,1142,"{'latitude': 33.77196, 'longitude': -84.366527}",2.0
+Life Storage,"['1725 Roswell Rd', 'Marietta, GA 30062']",Marietta,3.5,13,"{'latitude': 33.9570410622462, 'longitude': -84.5028510479546}",
+The Home Depot,"['650 Ponce De Leon', 'Atlanta, GA 30308']",Atlanta,2.5,108,"{'latitude': 33.7768752, 'longitude': -84.3664093}",2.0
+Life Storage,"['1971 Powers Ferry Rd SE', 'Marietta, GA 30067']",Marietta,1.0,1,"{'latitude': 33.90296, 'longitude': -84.4545976674938}",
+Life Storage,"['3150 Austell Rd SW', 'Marietta, GA 30008']",Marietta,4.0,4,"{'latitude': 33.876039, 'longitude': -84.5909067}",
+Life Storage,"['3148 Johnson Ferry Rd', 'Marietta, GA 30062']",Marietta,4.5,8,"{'latitude': 34.02498, 'longitude': -84.42397}",
+The Home Depot,"['2525 Piedmont Rd NE', 'Atlanta, GA 30324']",Atlanta,3.0,95,"{'latitude': 33.8241741685958, 'longitude': -84.3652099370956}",2.0
+Life Storage,"['875 Marathon Pkwy', 'Lawrenceville, GA 30046']",Lawrenceville,5.0,7,"{'latitude': 33.956136, 'longitude': -84.053908}",
+Life Storage,"['420 Grayson Hwy', 'Lawrenceville, GA 30046']",Lawrenceville,4.5,2,"{'latitude': 33.9410446, 'longitude': -83.9823354}",
+Life Storage,"['1525 Williams Dr', 'Marietta, GA 30066']",Marietta,4.0,5,"{'latitude': 33.998286, 'longitude': -84.535353}",
+Life Storage,"['42 Sycamore Ln', 'Woodstock, GA 30188']",Woodstock,5.0,7,"{'latitude': 34.085816, 'longitude': -84.483409}",
+Dayworks Entertainment,"['1203 Lealand Place Ln', 'Lawrenceville, GA 30044']",Lawrenceville,5.0,1,"{'latitude': 33.9370311051607, 'longitude': -84.090565815568}",
+Life Storage,"['7905 Hwy 85', 'Riverdale, GA 30274']",Riverdale,4.0,6,"{'latitude': 33.539312, 'longitude': -84.418586}",
+Life Storage,"['9940 Jones Bridge Rd', 'Alpharetta, GA 30022']",Alpharetta,4.0,8,"{'latitude': 34.026011, 'longitude': -84.251788}",
+Life Storage,"['2655 Langford Rd', 'Norcross, GA 30071']",Norcross,3.0,7,"{'latitude': 33.950929, 'longitude': -84.200052}",
+Bridals By Lori,"['6021 Sandy Springs Cir NW', 'Atlanta, GA 30328']",Atlanta,3.0,194,"{'latitude': 33.9195518, 'longitude': -84.3840714}",3.0
+Music & Arts,"['1255 Johnson Ferry Rd', 'Ste 9', 'Marietta, GA 30068']",Marietta,2.0,26,"{'latitude': 33.9789560138507, 'longitude': -84.4220970292372}",3.0
+Life Storage,"['2055 W Park Place Blvd', 'Stone Mountain, GA 30087']",Stone Mountain,1.0,1,"{'latitude': 33.818166, 'longitude': -84.122084}",
+U-Haul Neighborhood Dealer,"['1360 Holcomb Bridge Rd', 'Roswell, GA 30076']",Roswell,3.0,5,"{'latitude': 34.02163, 'longitude': -84.32178}",
+Life Storage,"['1375 Commerce Rd', 'Morrow, GA 30260']",Morrow,3.0,5,"{'latitude': 33.566304, 'longitude': -84.3456632367706}",2.0
+Life Storage,"['1125 Roberts Blvd NW', 'Kennesaw, GA 30144']",Kennesaw,3.5,8,"{'latitude': 34.0028114318848, 'longitude': -84.5836868286133}",1.0
+Life Storage,"['2090 Clay Rd', 'Austell, GA 30106']",Austell,2.0,6,"{'latitude': 33.8335654088565, 'longitude': -84.61357}",
+Compass Self Storage,"['1602 Lakefield Dr SE', 'Conyers, GA 30013']",Conyers,4.0,9,"{'latitude': 33.6384837100286, 'longitude': -84.0126693248817}",
+Life Storage,"['5725 Old National Hwy', 'College Park, GA 30349']",College Park,2.0,3,"{'latitude': 33.5992933, 'longitude': -84.47082}",
+Santa’s Fantastical,"['1155 Mount Vernon Hwy', 'Sandy Springs, GA 30338']",Sandy Springs,4.0,36,"{'latitude': 33.933584034433, 'longitude': -84.3489945}",
+The Home Depot,"['2450 Cumberland Pkwy', 'Atlanta, GA 30339']",Atlanta,2.0,99,"{'latitude': 33.8623728, 'longitude': -84.4765178}",2.0
+Mainstreet Guns & Range,"['405 Killian Hill Rd NW', 'Lilburn, GA 30047']",Lilburn,3.5,80,"{'latitude': 33.895166, 'longitude': -84.1390629}",2.0
+Life Storage,"['303 Highway 138 SW', 'Riverdale, GA 30274']",Riverdale,1.0,1,"{'latitude': 33.544185, 'longitude': -84.400227}",
+Atlantic Station,"['1380 Atlantic Dr', 'Ste 14250', 'Atlanta, GA 30363']",Atlanta,3.5,287,"{'latitude': 33.792738, 'longitude': -84.397872}",2.0
+Cumberland Mall,"['1000 Cumberland Mall', 'Atlanta, GA 30339']",Atlanta,3.0,159,"{'latitude': 33.8805627726797, 'longitude': -84.4682824239775}",2.0
+Big Peach Running - Suwanee,"['320 Town Centre Ave', 'Suwanee, GA 30024']",Suwanee,5.0,20,"{'latitude': 34.0557245, 'longitude': -84.0642408}",2.0
+IKEA,"['441 16th St NW', 'Atlanta, GA 30363']",Atlanta,3.0,696,"{'latitude': 33.788912411477625, 'longitude': -84.40482}",2.0
+BJ's Wholesale Club,"['105 Long Drive', 'Woodstock, GA 30189']",Woodstock,3.5,25,"{'latitude': 34.08063, 'longitude': -84.54329}",2.0
+Savvi Formalwear,"['Town Center Mall Shops', '390 Ernest Barrett Pkwy', 'Kennesaw, GA 30144']",Kennesaw,4.0,18,"{'latitude': 34.0147857666016, 'longitude': -84.5608062744141}",2.0
+Adventure Outdoors,"['2500 S Cobb Dr SE', 'Smyrna, GA 30080']",Smyrna,3.5,244,"{'latitude': 33.8922782368945, 'longitude': -84.538769150056}",2.0
+Krog Street Market,"['99 Krog St', 'Atlanta, GA 30307']",Atlanta,4.0,465,"{'latitude': 33.756815, 'longitude': -84.364049}",2.0
+Samantha Rose Designs,"['120 Interstate N Pkwy SE', 'Ste 300', 'Atlanta, GA 30339']",Atlanta,1.5,38,"{'latitude': 33.902865, 'longitude': -84.4635179}",3.0
+Floor & Decor,"['1200 Ernest W Barrett Pkwy NE', 'Kennesaw, GA 30144']",Kennesaw,3.0,54,"{'latitude': 34.0006622, 'longitude': -84.5872391}",2.0
+Town Center at Cobb,"['400 Ernest W Barrett Pkwy NW', 'Kennesaw, GA 30144']",Kennesaw,3.0,77,"{'latitude': 34.017641, 'longitude': -84.564279}",2.0
+A Formal Affair,"['381 E Crossville Rd', 'Ste 220', 'Roswell, GA 30075']",Roswell,2.0,26,"{'latitude': 34.039583, 'longitude': -84.350857}",2.0
+The Home Depot,"['1330 Dogwood Dr', 'Conyers, GA 30013']",Conyers,2.0,15,"{'latitude': 33.6548431253827, 'longitude': -83.999844789505}",2.0
+The Home Depot,"['4121 Highway 78', 'Lilburn, GA 30047']",Lilburn,1.5,28,"{'latitude': 33.837525, 'longitude': -84.0738469}",2.0
+Kurtis Miller Photography,"['895 Seed Tick Rd', 'Clayton, GA 30525']",Clayton,5.0,1,"{'latitude': 34.8439091, 'longitude': -83.4006648}",

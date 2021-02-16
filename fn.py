@@ -103,3 +103,32 @@ def call_1000(csv_filepath):
         df.to_csv(csv_filepath, mode = "a", index = False)
     print('CSV file written to {csv_filepath}.')
     return df
+'''
+#-------------------------------------------------------------
+#Make me a function later
+biz_data = pd.read_csv('database/spa_NYC_database.csv')
+#biz_id = [biz_data[i] for i in biz_data['Id']] 
+#biz_data['Id'][0]
+biz_id2 = []
+for i in biz_data['Id']:
+    biz_id2.append(i)
+biz_id[0]
+
+#-------------------------------------------------------------
+
+
+def call_reviews(biz_id_list): 
+    data = []
+    for biz in biz_id2:
+        response = requests.get(f'https://api.yelp.com/v3/businesses/{biz}/reviews',headers = headers)
+        review_data = response.json()
+        reviews = {}
+        count = 1
+        for i in list_of_reviews[0]['reviews']:
+            reviews[f'Review_{count}'] = i['text']
+            count += 1   
+            reviews['Id'] = biz
+        data.append(reviews)
+    return data
+
+'''

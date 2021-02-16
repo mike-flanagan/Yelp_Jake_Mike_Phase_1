@@ -1,0 +1,1001 @@
+Name,Address,City,Rating,Review Count,Coordinates,Price,Id
+Aire Ancient Baths - New York,"['88 Franklin St', 'New York, NY 10013']",New York,4.0,840,"{'latitude': 40.71823, 'longitude': -74.00473}",3.0,mM1uQFMZNZtrGHZzB1ghMQ
+Nuansa Spa,"['605 Fifth Ave', 'Fl 5', 'New York, NY 10017']",New York,5.0,209,"{'latitude': 40.75755, 'longitude': -73.97752}",3.0,BqNXOy5WJjIoNTX_Xg2wOg
+Shibui,"['377 Greenwich St', 'Manhattan, NY 10013']",Manhattan,4.0,35,"{'latitude': 40.71989, 'longitude': -74.01002}",3.0,ZkI3V9xcL5r8Tw5kS0BgRw
+Ohm Spa & Lounge,"['205 E 16th St', 'Ste M2A (Fl 2)', 'New York, NY 10001']",New York,4.5,240,"{'latitude': 40.7345957, 'longitude': -73.9855511}",3.0,Nu6403eEBOQvI58_ly2p7w
+SoJo Spa Club,"['660 River Rd', 'Edgewater, NJ 07020']",Edgewater,3.5,1667,"{'latitude': 40.81893, 'longitude': -73.97956}",3.0,G4cXJFAnUMoX6BkmCNTbug
+Cynergy Spa,"['87 Fort Greene Pl', 'Brooklyn, NY 11217']",Brooklyn,4.5,140,"{'latitude': 40.687446, 'longitude': -73.976346}",3.0,wLDo9mjgv3zw_vfK1tQ5-A
+The Mandarin Spa,"['21 West 45th St', 'Ste 501', 'New York, NY 10018']",New York,4.5,128,"{'latitude': 40.756048, 'longitude': -73.980412}",2.0,EDdR1Xd-7v_m4_qs3UY3Yw
+Pure Qi Spa,"['268 Driggs Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,350,"{'latitude': 40.72272, 'longitude': -73.94853}",2.0,VV8yib_qgXF9hVk1V9AB3g
+Glo Boutique Spa,"['74 N 8th St', 'Brooklyn, NY 11249']",Brooklyn,5.0,33,"{'latitude': 40.72038, 'longitude': -73.96051}",,xHRYw4lx7O81o8MfRTZgHg
+Bamford Haybarn Spa,"['60 Furman St', 'Brooklyn, NY 11201']",Brooklyn,4.0,28,"{'latitude': 40.701758, 'longitude': -73.995995}",,8YHDVxA8qh03OBYlxS-RtQ
+Naturopathica Spa & Healing Center - Chelsea,"['127 W 26th St', 'Street Level', 'New York, NY 10001']",New York,4.5,70,"{'latitude': 40.7454904, 'longitude': -73.9925113}",3.0,Raq6jTrld_ex5nUeLczr5Q
+cityWell Brooklyn,"['496 President St', 'Brooklyn, NY 11215']",Brooklyn,4.5,43,"{'latitude': 40.6778526306152, 'longitude': -73.9868698120117}",2.0,0sKA_7c8TwDtvm63_bYTgw
+New York Spa Sauna,"['149-06 Northern Blvd', 'Flushing, NY 11354']",Flushing,4.0,134,"{'latitude': 40.765315, 'longitude': -73.816745}",2.0,yzG1kJ-wuHsCjqhzM1SOag
+Renew Day Spa II,"['78 Bowery St', 'Fl 1', 'New York, NY 10013']",New York,5.0,247,"{'latitude': 40.71688, 'longitude': -73.9959}",1.0,4RQbiWHeHa42PA58mdh2aA
+Caudalie Boutique - Meatpacking,"['823 Washington St', 'New York, NY 10014']",New York,5.0,22,"{'latitude': 40.73973, 'longitude': -74.00774}",3.0,vFIuJD2_gVIf7fVXo89qhw
+DAPHNE,"['375 Broome St', 'New York, NY 10013']",New York,4.5,61,"{'latitude': 40.720195912956, 'longitude': -73.9963897478504}",3.0,LIFoBvmRG5PtmPvRpJ53MA
+Spa Boutique 2go,"['69 E 130th St', 'New York, NY 10037']",New York,4.5,103,"{'latitude': 40.80874, 'longitude': -73.93737}",2.0,B7GOJGb20Ofvg76nqQKdZA
+Yihan Spa,"['926 2nd Ave', 'Fl 2', 'New York, NY 10022']",New York,4.5,199,"{'latitude': 40.7542303, 'longitude': -73.9686086}",2.0,V_lzIYWkUMq8gDrcVy8jpg
+Renew Body Spa,"['111 W 25th St', 'New York, NY 10001']",New York,5.0,110,"{'latitude': 40.74457, 'longitude': -73.99251}",1.0,3IwrBms4TFXgEjsUGBL7iA
+SKN Spa,"['698 10th Ave', 'New York, NY 10019']",New York,4.5,350,"{'latitude': 40.76379, 'longitude': -73.99208}",2.0,mr2U0QKo8ZyV2w4_cOkhAw
+Soho Sanctuary,"['119 Mercer St', 'New York, NY 10012']",New York,4.0,106,"{'latitude': 40.72414, 'longitude': -73.99932}",3.0,uUb8lDmKEUt49kNM7kbwBA
+PRESS Massage Williamsburg,"['169 Wythe Ave', 'Ste 202', 'Brooklyn, NY 11249']",Brooklyn,4.5,176,"{'latitude': 40.7186398056284, 'longitude': -73.9613771438599}",,V1Z74XUHv6DepYktYUmDiA
+Green Stone Spa,"['133 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.0,65,"{'latitude': 40.70338, 'longitude': -73.98906}",,bTlF0xHYRjVhrzs8gqRw1A
+The Secret Garden Eco Salon & Spa,"['702 Forest Ave', 'Staten Island, NY 10310']",Staten Island,4.5,105,"{'latitude': 40.629223, 'longitude': -74.11263}",3.0,RjSI04TNF8xmQpKdpQQbiA
+Hideaway Spa & Lounge Wall Street,"['108 Greenwich St', 'Fl 4', 'New York, NY 10006']",New York,4.5,114,"{'latitude': 40.7086054, 'longitude': -74.0136016}",2.0,FEG5YfXwLIfQ61PZq4lCeA
+The Spa at Mandarin Oriental,"['80 Columbus Cir 60th St', 'New York, NY 10023']",New York,4.0,87,"{'latitude': 40.768818, 'longitude': -73.98304}",4.0,CaEh6DNSCBkgF6kp5JOJ2A
+Zigridas Spa,"['1135 F Morris Park', 'Bronx, NY 10461']",Bronx,4.0,17,"{'latitude': 40.850366, 'longitude': -73.851775}",,KS8THGGxSavhH2BNsywGtA
+La Prairie at The Ritz-Carlton Spa,"['50 Central Park S', 'Fl 2', 'New York, NY 10019']",New York,4.5,35,"{'latitude': 40.76525, 'longitude': -73.97604}",4.0,DcshU8rJkoroFhT2RNq41w
+Zuyuan,"['48 Mott St', 'Fl 2', 'New York, NY 10013']",New York,4.5,584,"{'latitude': 40.7153599, 'longitude': -73.99848}",1.0,ClY7IwXYIqMF-GPFuH6e_A
+Best Spa,"['149-40 41st Ave', 'Fl 2', 'Flushing, NY 11355']",Flushing,4.5,186,"{'latitude': 40.7622793572211, 'longitude': -73.8143201981832}",1.0,voDZwsggA1hGSyrsHTg79A
+MJ Treatment Spa & Wellness,"['3000 Bronx Park E', 'Ste 1', 'Bronx, NY 10467']",Bronx,4.5,97,"{'latitude': 40.870216, 'longitude': -73.870202}",2.0,uBXC0Re3rz8OlaR8wiuvUg
+Zensayshen,"['311 Clarkson Ave', 'Brooklyn, NY 11226']",Brooklyn,5.0,25,"{'latitude': 40.65568, 'longitude': -73.94941}",,hXy57HWnZbB-QKuDMvWgmg
+Oasis Day Spa,"['1 Park Ave', 'New York, NY 10016']",New York,4.0,302,"{'latitude': 40.74586, 'longitude': -73.98145}",3.0,FkmTt8MDdJ1hOeBzWatR0Q
+Rescue Spa,"['29 East 19th St', 'New York, NY 10003']",New York,4.0,130,"{'latitude': 40.73828, 'longitude': -73.9891899}",4.0,SDrll4HJX9Xfzpsa3tT7SA
+Juvenex Spa,"['25 W 32nd St', 'Fl 5', 'New York, NY 10001']",New York,3.5,359,"{'latitude': 40.74783, 'longitude': -73.98685}",3.0,0QhgfjdBu1RKyIrwygCMqg
+Zahara Day Spa,"['403 Monmouth St', 'Jersey City, NJ 07302']",Jersey City,5.0,101,"{'latitude': 40.7234411, 'longitude': -74.0493078}",2.0,s51SwPK4c8lYW49k6T8Hag
+Kimberly Spa,"['28 Elizabeth St', 'New York, NY 10013']",New York,4.5,770,"{'latitude': 40.7162, 'longitude': -73.99699}",1.0,jOA8rJehImz34TuLmvhwMQ
+Spa Castle,"['13110 11th Ave', 'College Point, NY 11356']",College Point,3.0,1868,"{'latitude': 40.7876039, 'longitude': -73.8371003}",2.0,8VTSpsJCyB-wgtCFkSTszg
+Sage Spa NOW Red Moon Wellness,"['405 5th Ave', 'Fl 2', 'Brooklyn, NY 11215']",Brooklyn,4.5,82,"{'latitude': 40.670093, 'longitude': -73.985168}",2.0,U0N4eotLFZB1GkhlhE920Q
+Spa Palace,"['801 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,76,"{'latitude': 40.7278, 'longitude': -73.95322}",,EUmzTB6G2SCRypNNMW5p5g
+Simple Skin Spa,"['72-09 Grand Ave', 'Maspeth, NY 11378']",Maspeth,4.5,93,"{'latitude': 40.7283782, 'longitude': -73.8911298}",2.0,9xJ__n7jY01lluYX9DboBg
+Body by Brooklyn,"['275 Park Ave', 'Brooklyn, NY 11205']",Brooklyn,3.0,376,"{'latitude': 40.69612, 'longitude': -73.96814}",3.0,ABvIpl69v425nYvVRB4kIg
+Mama Spa,"['141 Allen St', 'New York, NY 10002']",New York,4.0,209,"{'latitude': 40.72038, 'longitude': -73.99007}",2.0,6b62gX7h6qhduyI8Z4DO3w
+Peachy,"['281 Hudson St', 'New York, NY 10013']",New York,5.0,25,"{'latitude': 40.7254204, 'longitude': -74.0078522}",,lJKdg_f_RahXiUMkwYAy7A
+Bergen Spa,"['64 Bergen St', 'Brooklyn, NY 11201']",Brooklyn,4.5,253,"{'latitude': 40.68677, 'longitude': -73.99112}",1.0,0gbyQuU4PXKRYPEcdbv6pw
+Spa Mai,"['404 Broadway', 'Lower Level', 'New York, NY 10013']",New York,4.5,99,"{'latitude': 40.7187867, 'longitude': -74.0020466}",1.0,xG4_l3cYiEIGQfwK5d9fsw
+ReviTouch,"['90 Broad St', 'Fl 2 Ste 260', 'New York, NY 10004']",New York,5.0,13,"{'latitude': 40.70382, 'longitude': -74.01174}",,HwLJHG_zbod5ys537W2zHw
+Bathhouse,"['103 N 10th St', 'Brooklyn, NY 11249']",Brooklyn,3.5,58,"{'latitude': 40.72053, 'longitude': -73.95741}",,VjZQS4__cBDQGCrzNSqxUg
+The Couple Spa,"['320 East 65th St', 'New York, NY 10065']",New York,4.5,253,"{'latitude': 40.763796, 'longitude': -73.960878}",2.0,7sWkB3j3Q9yxoOePbYY9Qw
+Glow Spa,"['4 Payson Ave', 'New York, NY 10034']",New York,4.5,47,"{'latitude': 40.866349, 'longitude': -73.929478}",2.0,HutE7S1-DlvHxAhZ6g0W6A
+Namaste Organic Spa,"['30 Franklin Ave', 'Ridgewood, NJ 07450']",Ridgewood,4.5,70,"{'latitude': 40.98083, 'longitude': -74.11869}",2.0,GclosVbQ4-w3HS6t47GSPQ
+Rego Beauty Spa,"['93-07 63rd Dr', 'Rego Park, NY 11374']",Rego Park,4.5,172,"{'latitude': 40.7282849, 'longitude': -73.8634992}",1.0,CyJ84OTQpNCBsBJ3vwrT6Q
+DUMBO Wellness,"['53 Bridge St', 'Ste 304', 'Brooklyn, NY 11201']",Brooklyn,5.0,22,"{'latitude': 40.702672, 'longitude': -73.984332}",2.0,oNrGMa0avrE8rNh2zBe98g
+great jones spa,"['29 Great Jones St', 'New York, NY 10012']",New York,3.0,534,"{'latitude': 40.72697, 'longitude': -73.99327}",3.0,Onxh447b4NYfo1Y3H-qpRA
+Jurlique - CLOSED,"['477 Madison Ave', 'New York, NY 10022']",New York,4.5,30,"{'latitude': 40.75852, 'longitude': -73.97463}",3.0,-kaktEKXsai7iNe0ba1FYw
+The Peninsula Spa,"['700 Fifth Ave', 'New York, NY 10019']",New York,4.0,52,"{'latitude': 40.7616, 'longitude': -73.9752}",4.0,7QgHSyDaEo-H-HV4y0m1PA
+Pavirin Thai Spa,"['162 West 56th', 'Suite 502', 'New York, NY 10019']",New York,5.0,118,"{'latitude': 40.764617, 'longitude': -73.980293}",2.0,B1qj56qIJ1K5q9LHvrA57g
+Serenity Beauty Spa,"['211 N 4th St', 'Brooklyn, NY 11211']",Brooklyn,4.5,136,"{'latitude': 40.71456, 'longitude': -73.95668}",2.0,glMirP1UezuJFmXfp61C8g
+PRESS Massage Greenpoint,"['37 Greenpoint Ave', 'Ste 217', 'Brooklyn, NY 11222']",Brooklyn,5.0,47,"{'latitude': 40.7299451, 'longitude': -73.9588954}",3.0,6Y11Mc3qCNQkaS-XPIjgDw
+Haven Spa,"['250 Mercer St', 'New York, NY 10012']",New York,3.5,115,"{'latitude': 40.7283541560173, 'longitude': -73.9953781664371}",2.0,ad31NoH3Xb7q1bYg-YEoog
+Grandee Men’s Spa,"['300W 56th St 2nd', 'New York, NY 10019']",New York,5.0,3,"{'latitude': 40.766041, 'longitude': -73.983681}",,ADZyoOEPWqk8st91hqkqxg
+Zhong Huang Spa,"['136-89 Roosevelt Ave', 'Fl 3', 'Flushing, NY 11354']",Flushing,4.0,313,"{'latitude': 40.76061, 'longitude': -73.82699}",1.0,8o51Y6LpKtxxnechJkMWPg
+Argana Day Spa,"['7712 13th Ave', 'Brooklyn, NY 11228']",Brooklyn,4.0,31,"{'latitude': 40.619037, 'longitude': -74.009164}",2.0,euVTN2wpbCNZrrtFET_nWg
+Mynd Spa & Salon,"['45 7th St', 'Garden City Hotel', 'Garden City, NY 11530']",Garden City,4.5,10,"{'latitude': 40.7245370036166, 'longitude': -73.6406037211418}",,VjVLpGzXDocj2jROdjkKoQ
+Skin Spa New York - Mideast / E 56th St,"['127 E 56th St', 'New York, NY 10022']",New York,4.5,36,"{'latitude': 40.760684, 'longitude': -73.969993}",2.0,LVQ6k2dwN5NHvJ7cpN4fOw
+Renew Day Spa,"['42 Bowery', 'Fl 2', 'New York, NY 10013']",New York,4.5,841,"{'latitude': 40.715595, 'longitude': -73.996822}",1.0,-R4lcVkMi05sQc2vQOTUiA
+88 Spa,"['88 Nassau St', 'Fl 3', 'New York, NY 10038']",New York,4.5,49,"{'latitude': 40.7100099, 'longitude': -74.00776}",2.0,u7jPtPAiEC4k-Ff6Hd-Ssw
+Ease NY,"['18 E 41st St', 'Fl 14', 'New York, NY 10017']",New York,4.5,226,"{'latitude': 40.75220789999999, 'longitude': -73.9804547}",2.0,f_XMe0wAx0Ngl4nvgJ5JHg
+Grand Elegant Spa,"['246 Grand St', 'Fl 2', 'New York, NY 10002']",New York,5.0,1,"{'latitude': 40.718438, 'longitude': -73.994085}",,oluMs7xazEBXpEz-MeqMPw
+Ascend Medical & Wellness Spa,"['82-62 Austin St', 'Kew Gardens, NY 11415']",Kew Gardens,4.0,135,"{'latitude': 40.70952, 'longitude': -73.83023}",2.0,OZDf-03YgFTNEtog5RCDNA
+Green Spa on the Go,"['98-04 Metropolitan Ave', 'Forest Hills, NY 11375']",Forest Hills,5.0,37,"{'latitude': 40.710795, 'longitude': -73.854548}",2.0,CAl2jGGwD_5IMtumAL6usw
+BRC Day Spa & Sauna Resort,"['24-20 Broadway', 'Fair Lawn, NJ 07410']",Fair Lawn,4.0,190,"{'latitude': 40.922871, 'longitude': -74.110496}",2.0,hqXSB_nHhW4NwTfBOsdaWw
+Plaza M Spa,"['46 Water St', 'Brooklyn, NY 11201']",Brooklyn,4.0,4,"{'latitude': 40.703299104988, 'longitude': -73.9923027374633}",,3eHp_l7UrzmaXdhBTLrrIA
+Tribeca Spa of Tranquility,"['462 Greenwich St', 'New York, NY 10013']",New York,3.5,423,"{'latitude': 40.723909, 'longitude': -74.009657}",2.0,eqAnbLSj3f1osvKeERI3-A
+Ocean Healing Spa,"['208 E 82nd St', 'New York, NY 10028']",New York,5.0,36,"{'latitude': 40.775904, 'longitude': -73.955399}",,B9fabYdVATdAf_2_LHdNmg
+Melt Massage & Bodywork,"['84 Lafayette Ave', 'Brooklyn, NY 11217']",Brooklyn,5.0,119,"{'latitude': 40.68702, 'longitude': -73.9744}",,LH7xjdkaeNDogmywjl7xFQ
+Fusion Spa,"['420 W 24th St', 'Ste 1F', 'New York, NY 10011']",New York,5.0,40,"{'latitude': 40.7473279, 'longitude': -74.0017728}",2.0,WLT0C-MjBMHL2mpzRHrkSQ
+Aquis Body Spa,"['260 W 36th St', 'New York, NY 10018']",New York,5.0,313,"{'latitude': 40.75312, 'longitude': -73.99193}",2.0,xHCOOG1ada7hwmN9eJ6noQ
+Natura Spa,"['30-79 Steinway St', 'Astoria, NY 11103']",Astoria,4.0,293,"{'latitude': 40.7618402, 'longitude': -73.9163485}",2.0,DCO77VD29M3pTwnETer7OQ
+Pratima Skincare,"['110 Greene St', 'Ste 701', 'New York, NY 10012']",New York,4.5,87,"{'latitude': 40.7245958, 'longitude': -73.999694}",3.0,aIJ4hHQMxE0m1K3p42PGPw
+Brooklyn Heights Day Spa,"['150 Remsen St', 'Brooklyn, NY 11201']",Brooklyn,4.5,13,"{'latitude': 40.69356, 'longitude': -73.99302}",,zVCHcp_yVlGgxFfRVOr6dA
+Spa Heaven,"['57-20 Myrtle Ave', 'Ridgewood, NY 11385']",Ridgewood,3.0,141,"{'latitude': 40.70028, 'longitude': -73.90289}",1.0,oXQ08G6ZGSfc-4IQ8YA2kw
+Mahalo Massage NYC,"['32 Union Sq E', 'New York, NY 10003']",New York,5.0,80,"{'latitude': 40.7357, 'longitude': -73.98936}",2.0,b2UXnsGMDSRUds-9X4n3Dw
+Tatiana Day Spa,"['1776 Eastchester Rd', 'Ste 150', 'Inside The Bronx Metro Atrium Center', 'Bronx, NY 10461']",Bronx,4.5,13,"{'latitude': 40.849284, 'longitude': -73.842526}",2.0,H7YjH4HTY4jTIQ5ZNdCaYA
+Take Care,"['227 Waverly Pl', 'New York, NY 10014']",New York,5.0,11,"{'latitude': 40.7361582, 'longitude': -74.0017054}",2.0,STeiPtfTXI_hw9TY6sI2XA
+Spa Sundara,"['222 Metropolitan Ave', 'Ground Fl', 'Williamsburg, NY 11211']",Williamsburg,4.5,21,"{'latitude': 40.7150929621196, 'longitude': -73.9600318134918}",2.0,KmQQ44oRFzkfcuYEuIC3lw
+Spa32,"['30 W 32nd St', 'Fl 3', 'New York, NY 10001']",New York,3.5,101,"{'latitude': 40.747608, 'longitude': -73.987174}",2.0,v_YbhyRhCPwfzJ99PAwHGw
+Renew Body & Mind Spa,"['4 W 28th St', '2nd Fl', 'New York, NY 10001']",New York,4.5,529,"{'latitude': 40.74475, 'longitude': -73.98802}",2.0,I0bQzuTFY09dt-DKN_-n_A
+Element Natural Healing Arts,"['518 Henry St', 'Brooklyn, NY 11231']",Brooklyn,4.5,81,"{'latitude': 40.68364405604, 'longitude': -73.999833912251}",3.0,15gXug_kuObRUrKaGB0xBA
+Buri Spa,"['39 W 32nd St', 'Ste 303', 'New York, NY 10001']",New York,5.0,45,"{'latitude': 40.7481614, 'longitude': -73.9872958}",2.0,rw3uCeZBVg6L_AVc_NxacQ
+Rhemedy By Rhed Therapeutic Massage,"['230 W 13th St', 'Buzzer D Lower Level', 'New York, NY 10011']",New York,4.5,125,"{'latitude': 40.738413, 'longitude': -74.001718}",2.0,PFx3q9ScrRsFhyfJo-x9KQ
+MoSa Spa,"['8413 13th Ave', 'Brooklyn, NY 11228']",Brooklyn,4.5,54,"{'latitude': 40.6147499084473, 'longitude': -74.0127563476562}",2.0,SaUEx7cwZ5pCiK8Ea7PdsQ
+Earth + Sky Massage Therapy,"['5-31 50th Ave', 'Long Island City, NY 11101']",Long Island City,4.5,39,"{'latitude': 40.74313, 'longitude': -73.95515}",2.0,wRcdZrzDwWl7igRmhZzfhw
+Bodyworks DW Advanced Massage Therapy,"['160 Broadway', 'Fl 10 Maiden Lane Wing', 'New York, NY 10038']",New York,5.0,57,"{'latitude': 40.7093724, 'longitude': -74.0099748}",2.0,10EysmFMfoRh3DSI-0hnKA
+The Botanical Spa,"['302 Broadway', 'Hillsdale, NJ 07642']",Hillsdale,4.0,72,"{'latitude': 41.0097967, 'longitude': -74.0418087}",2.0,ko2ZQmfed1aIOcN01GTJVg
+Savvy Girl Massage,"['273 W 140th St', 'Apt 4A', 'New York, NY 10030']",New York,5.0,39,"{'latitude': 40.819645, 'longitude': -73.943583}",,xLsRXUhqwow84WgaUsTq8Q
+King Spa & Sauna,"['321 Commercial Ave', 'Palisades Park, NJ 07650']",Palisades Park,3.5,1066,"{'latitude': 40.85198, 'longitude': -74.00234}",2.0,qibTmyrJ9pfDDtPQtY4D5w
+Kollectiv,"['21 E 1st St', 'New York, NY 10003']",New York,4.0,11,"{'latitude': 40.7243, 'longitude': -73.99113}",,piruFNwyhxR_2-exFNR1tA
+Slope Wellness,"['816 8th Ave', 'Basement', 'Brooklyn, NY 11215']",Brooklyn,4.5,84,"{'latitude': 40.66612, 'longitude': -73.979294}",2.0,7MBJI-DcXlGUf9nui5xupg
+Renewing Wellness,"['230 West Houston St', 'Fl 2', 'New York, NY 10014']",New York,4.5,73,"{'latitude': 40.72868, 'longitude': -74.00506}",2.0,ig3xjyllAF4jtD2eH5kFOw
+Salon De Tokyo,"['5 E 57th St', 'Fl 17', 'New York, NY 10022']",New York,4.0,109,"{'latitude': 40.762919, 'longitude': -73.973157}",2.0,clPF8kb8OAeo8TWZJsFFmw
+Spa de La Mer,"['28 W 53rd St', 'Fl 2', 'New York, NY 10019']",New York,3.5,8,"{'latitude': 40.760872, 'longitude': -73.977434}",3.0,8pRKB_K9DTu46yTSYABI3A
+Serenity Skin Care and Body Wellness,"['7 Grand Ave', 'Englewood, NJ 07631']",Englewood,4.5,32,"{'latitude': 40.8926304, 'longitude': -73.9730855}",2.0,QFuX8hZQEYhFHd7BPFSucw
+Eden Day Spa,"['388 Broadway', 'New York, NY 10013']",New York,3.5,357,"{'latitude': 40.71826908505919, 'longitude': -74.00267864931281}",2.0,584mcoaxbh0wbK8Ukr5Q5g
+Glow Day Spa,"['128 Baxter St', 'New York, NY 10013']",New York,4.5,114,"{'latitude': 40.71828, 'longitude': -73.999052}",2.0,rOlTkzGmIb2Fw8HxHHWHog
+Grand Central Bodywork,"['135 W 29th St', 'Ste 403', 'New York, NY 10001']",New York,5.0,47,"{'latitude': 40.74735, 'longitude': -73.99146}",2.0,MJ4gzHI6A_OQMltd3ciuww
+Massage Envy - Gramercy NYC,"['312 E 23rd St', 'New York, NY 10010']",New York,4.5,152,"{'latitude': 40.73734, 'longitude': -73.980298}",2.0,zEU3L5ky4S0ECQZmMQ94wA
+Cheng  Acupuncture Wellness,"['479 78th St', 'Brooklyn, NY 11209']",Brooklyn,4.5,126,"{'latitude': 40.6275778, 'longitude': -74.0239372}",2.0,L2I114qmYgpGrARwhJTd4A
+Go Green Organic Spa & Shop,"['80-82 Bowery', 'Fl 2', 'New York, NY 10002']",New York,4.0,333,"{'latitude': 40.71701, 'longitude': -73.99582}",2.0,l5LloZJ32rNH1_3K60bCBw
+Karine Kazarian,"['27 W 8th St', 'New York, NY 10011']",New York,5.0,18,"{'latitude': 40.7330513, 'longitude': -73.9977036}",3.0,6u6mnj9vAG6liw6WTbbQfQ
+Peaceful Body Spa,"['149 W 72nd St', 'Fl 2', 'New York, NY 10023']",New York,5.0,68,"{'latitude': 40.7783611, 'longitude': -73.9806460343933}",,GU_uEF4-u9gobyEXtnpkng
+Joire's Spa & Studio,"['2172 Flatbush Ave', 'Fl 2', 'Brooklyn, NY 11234']",Brooklyn,4.5,39,"{'latitude': 40.616891339452, 'longitude': -73.9308657933624}",2.0,2XgcagbOjIxwVVgUceO5CQ
+Bedford N6 Spa,"['201 Bedford Ave', 'Brooklyn, NY 11211']",Brooklyn,4.5,72,"{'latitude': 40.7169495, 'longitude': -73.9583206}",2.0,9y9R_f13bfGGk7xb0DAv1Q
+Body Balance Massage & Skincare Spa,"['20 Hudson Pl', 'Fl 2', 'Hoboken, NJ 07030']",Hoboken,4.5,149,"{'latitude': 40.73608, 'longitude': -74.02876}",2.0,HEgmHFEU3QJzAO7mT3gynw
+158 Smith Street Spa,"['158 Smith St', 'Brooklyn, NY 11201']",Brooklyn,5.0,19,"{'latitude': 40.68636, 'longitude': -73.99084}",,YOAzSnvMxocOw4OUEKP4uQ
+Grand Central Bodywork,"['211 E 43rd St', 'New York, NY 10017']",New York,5.0,141,"{'latitude': 40.75122, 'longitude': -73.97317}",2.0,Prkc2o1JjKzMNXn-vt5ptQ
+J'Aime European Waxing & Skincare,"['35 E 35th St', 'Ste 1E', 'New York, NY 10016']",New York,4.5,529,"{'latitude': 40.7482531, 'longitude': -73.981528}",1.0,GMTgU3Mo1qThuP9xsZPzoQ
+Athena Spa,"['1735 Richmond Rd', 'Staten Island, NY 10306']",Staten Island,3.5,66,"{'latitude': 40.587932, 'longitude': -74.1031967}",2.0,nKUhd2Bwph-07NBhY3VmOQ
+Papaya Spa,"['125 Fulton St', 'Fl 2L', 'New York, NY 10038']",New York,5.0,4,"{'latitude': 40.71022, 'longitude': -74.00716}",2.0,r0CrDeSvzguD9lOl4UxEPQ
+Spa Rockaway,"['112-20 Beach Channel Dr', 'Rockaway Park, NY 11694']",Rockaway Park,5.0,17,"{'latitude': 40.58289, 'longitude': -73.8358}",2.0,h3US5fdUZLp5_kO5pjEpyw
+The Green Spa & Wellness Center,"['8804 3rd Ave', 'Brooklyn, NY 11209']",Brooklyn,4.0,231,"{'latitude': 40.62193, 'longitude': -74.03186}",3.0,rAiwqyvshUlYDhMmvnClWQ
+Trifecta Med Spa Downtown,"['115 Broadway', 'Suite 1305', 'New York, NY 10006']",New York,4.0,71,"{'latitude': 40.7088268, 'longitude': -74.011281}",3.0,SxfPNz3VwjIVmWdXndVX-g
+ann + sofia beauty concept,"['12 W 27th St', 'Fl 9', 'New York, NY 10001']",New York,4.5,143,"{'latitude': 40.74462, 'longitude': -73.98929}",,udCU3ZORp_EU_5QVVYX4Ig
+Zen & Relax Spa,"['286 Mcguinness Blvd', 'Brooklyn, NY 11222']",Brooklyn,4.5,4,"{'latitude': 40.73199, 'longitude': -73.95156}",,KDJDKsgEqUTwDGudwADjLg
+Relaxing on Smith,"['289 Smith St', 'Brooklyn, NY 11231']",Brooklyn,4.5,83,"{'latitude': 40.681995, 'longitude': -73.993392}",1.0,Aw6FwUGSoMa106lDDVGTMg
+Julien Farel Restore Salon & Spa,"['540 Park Ave', 'New York, NY 10065']",New York,4.5,106,"{'latitude': 40.764623756035554, 'longitude': -73.96953321102775}",4.0,G_ERAfIWmnern3tqDkg-qg
+Relax On Cloud Nine,"['694 Clove Rd', 'Staten Island, NY 10310']",Staten Island,4.0,33,"{'latitude': 40.624501, 'longitude': -74.117638}",2.0,tJaEA32i8rDmf6Heuvk7wg
+Allure Day Spa & Hair Design,"['139 E 55th St', 'New York, NY 10022']",New York,4.5,242,"{'latitude': 40.7594906, 'longitude': -73.9696872}",2.0,eT4RBUbNZUmEbsNLBphnag
+Kata Spa,"['47-46 Vernon Blvd', 'Fl 2', 'Long Island City, NY 11101']",Long Island City,4.5,86,"{'latitude': 40.744281, 'longitude': -73.953903}",2.0,fxIKr-XHh-4mZwfozlmmjA
+Water Lily Spa,"['355 Broome St', 'New York, NY 10013']",New York,4.0,111,"{'latitude': 40.7198280208444, 'longitude': -73.9953808759186}",1.0,9hUNO1urvSEVREt7uVgrXw
+Renewing Spa II,"['677 Amsterdam Ave', 'New York, NY 10025']",New York,5.0,187,"{'latitude': 40.79194, 'longitude': -73.97168}",1.0,aN6ZWAFDJEC8IIKGP8jUyg
+Serene Dreams,"['537 Kearny Ave', 'Kearny, NJ 07032']",Kearny,4.5,46,"{'latitude': 40.76944, 'longitude': -74.146105}",2.0,s0_0p0dBON962bX02BIWkA
+Tribeca MedSpa,"['114 Hudson St', 'New York, NY 10013']",New York,4.0,74,"{'latitude': 40.719657, 'longitude': -74.008346}",3.0,hiTrSwWD8rhjb3jHy7St3Q
+El Noel Eco-Center for Integrative Wellness,"['525 Clinton Ave', 'Ste 2', 'Brooklyn, NY 11238']",Brooklyn,5.0,13,"{'latitude': 40.68252, 'longitude': -73.96632}",,8DftYbIP5502h0rVDYEjWw
+Thai Massage Midtown,"['10E39ST Midtown Manhattan New York', 'Manhattan, NY 10016']",Manhattan,5.0,1,"{'latitude': 40.74727, 'longitude': -73.9800645}",,LzhhveMf9gEzB0yBogj8pA
+Vivi Body Spa,"['684 6th Ave', 'Fl 2', 'New York, NY 10010']",New York,5.0,22,"{'latitude': 40.74184, 'longitude': -73.99323}",,BzoJq3OL4gQ4M3GTEZ1bdg
+Jenny Day Spa,"['60 Beaverbrook Rd', 'Ste 10', 'Lincoln Park, NJ 07035']",Lincoln Park,4.5,7,"{'latitude': 40.925379, 'longitude': -74.308894}",,5qiPBFPTlncVjZ0_i2WlfQ
+K Beauty Yakson House,"['38W 32nd St', 'Ste 601', 'New York, NY 10001']",New York,4.0,18,"{'latitude': 40.7478492, 'longitude': -73.9874176}",3.0,2AQka6m31gttiBpi-yg_Dw
+Modern Spa,"['139 W 72nd St', 'New York, NY 10023']",New York,4.0,516,"{'latitude': 40.77816, 'longitude': -73.9801}",2.0,Hz6Fs0yAT8WH3XlqxbxliA
+Tang Spa,"['7720 5th Ave', 'Brooklyn, NY 11209']",Brooklyn,4.5,132,"{'latitude': 40.6275638, 'longitude': -74.0235948}",1.0,TzF0-Ts-h_pTFC3PokAJ4Q
+Renewing Spa,"['286 8th Ave', 'Fl 2', 'New York, NY 10001']",New York,4.5,394,"{'latitude': 40.746148, 'longitude': -73.997511}",1.0,t6UFpoFwCJ-Wu82ydIFIrw
+Yasmine Djerradine Institut de Beaute,"['1112 Park Ave', 'Ste 1', 'New York, NY 10128']",New York,4.5,19,"{'latitude': 40.78279, 'longitude': -73.95591}",3.0,2wEs9VCsH_m0DRRSjLuG9A
+Massage Envy - Midtown West,"['525 W 42nd St', 'New York, NY 10036']",New York,3.5,96,"{'latitude': 40.7603508892908, 'longitude': -73.9966432478505}",2.0,agoX1lLpLr1rRJBdhcFdeQ
+N4 Med Spa + Salon,"['47 N 4th St', 'Brooklyn, NY 11249']",Brooklyn,4.5,55,"{'latitude': 40.7188710810601, 'longitude': -73.9637136303668}",2.0,EUWBn7W6HcsQQSaNeUoVHQ
+Premier57,"['115 E 57th St', 'Fl 8', 'Galleria Building', 'New York, NY 10022']",New York,3.0,710,"{'latitude': 40.7614978, 'longitude': -73.9698881}",3.0,LrqC8HfSF7MrGVWiOTBFCw
+Zuyispa,"['171 Canal St', 'St 203', 'New York, NY 10013']",New York,5.0,49,"{'latitude': 40.71678, 'longitude': -73.99716}",1.0,lHpkwhpNaOzus8tPkubW9A
+Spahh Spa,"['97-17 64th Rd', 'Ste 1M', 'Rego Park, NY 11374']",Rego Park,3.5,90,"{'latitude': 40.7296075, 'longitude': -73.8588641}",2.0,YbsICGR7rgXoDbKkOdYjig
+Relax,"['716 Greenwich St', 'New York, NY 10014']",New York,4.5,13,"{'latitude': 40.734139, 'longitude': -74.0074092}",,ezF9I-D2u7H3E_OFWQbg9g
+Remedi Day Spa,"['4906 Arthur Kill Rd', 'Staten Island, NY 10309']",Staten Island,4.0,56,"{'latitude': 40.522512, 'longitude': -74.238546}",2.0,LcZAfQUZJoJaFF5ElQrsnw
+Coco Spa Inc,"['132-61 41st Rd', 'Flushing, NY 11355']",Flushing,4.0,255,"{'latitude': 40.75665, 'longitude': -73.8316399}",1.0,U3wq7f6lRQcaTjZTZ_2vgQ
+The SPAaaht,"['775 St Nicholas Ave', 'New York, NY 10031']",New York,5.0,26,"{'latitude': 40.82669, 'longitude': -73.943427}",2.0,h6yzOA0zI0CsuRvBPthGXw
+Purely Natural Medical Spa,"['135 N 9th St', 'Brooklyn, NY 11249']",Brooklyn,4.5,44,"{'latitude': 40.7196159362793, 'longitude': -73.9571762084961}",3.0,qunJ0RqDMAFgrPeevZRgSA
+Spa Bene,"['465 Columbus Ave', 'New York, NY 10024']",New York,3.5,49,"{'latitude': 40.7840338, 'longitude': -73.9736857}",3.0,iBcAy_stiWIMMxdgh4gn7Q
+Season Spa,"['165 Hester St', 'New York, NY 10013']",New York,4.0,210,"{'latitude': 40.71776, 'longitude': -73.99656}",2.0,s6Vx-cBBAA2tAG38HUzupA
+167 Lincoln Place Spa,"['167 Lincoln Pl', 'Brooklyn, NY 11217']",Brooklyn,4.5,184,"{'latitude': 40.67593, 'longitude': -73.97475}",,J5Y87-Po2BglhpaLLXrqKw
+Maksim Spa,"['161 West 54th St', 'Ste 1102', 'New York, NY 10019']",New York,4.5,17,"{'latitude': 40.763589, 'longitude': -73.9809779}",3.0,wZISOoPLN6v1Fl11oHSqEQ
+Thai Massage By Jennie,"['45 W 34th St', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.749796, 'longitude': -73.986912}",,COujyINbqNgRipYNzvhWoA
+Wood House Spa Center,"['543 E 6th St', 'New York, NY 10009']",New York,4.5,18,"{'latitude': 40.7247661404678, 'longitude': -73.9818146297068}",1.0,uIUya_DgetEKqZkeZv1kwg
+Tranquility Foot Spa & Salt Cave,"['700 Franklin Ave', 'Franklin Square, NY 11010']",Franklin Square,4.5,63,"{'latitude': 40.68987, 'longitude': -73.68608}",,Gkd5TVw5JQTh1Ht5ISKXlA
+Clinton Spa,"['100 Clinton St', 'New York, NY 10002']",New York,5.0,1,"{'latitude': 40.71814, 'longitude': -73.98544}",,10QHBpQfUd2jNwW2CuaasA
+Asanda Spa Lounge,"['Terminal 4', 'Delta Sky Club', 'New York, NY 11430']",New York,4.5,13,"{'latitude': 40.6431988, 'longitude': -73.7825346}",2.0,d8fGxWMHJOXXbtNUA7xB5Q
+Tres Belle Petite Medispa,"['105 Bond St', 'Brooklyn, NY 11217']",Brooklyn,4.5,91,"{'latitude': 40.686596, 'longitude': -73.984901}",2.0,sm3NjUw6Ui54Ttq3RBbU1w
+Infinity Spa Salon,"['31-11 Broadway', 'Fl 2', 'Astoria, NY 11106']",Astoria,4.0,152,"{'latitude': 40.7619132846594, 'longitude': -73.9251451939344}",2.0,I1OIX0PnhYOZqpAUQw3NXw
+Alice Reflexology,"['215-10 Northern Blvd', 'Ste 204', 'Bayside, NY 11361']",Bayside,4.0,97,"{'latitude': 40.76029, 'longitude': -73.76697}",1.0,O3cc9diCJs602hbDVbG8RA
+Four Seasons Body Work,"['145 Montague St', 'Fl 2', 'Brooklyn, NY 11201']",Brooklyn,4.5,82,"{'latitude': 40.694796, 'longitude': -73.993478}",2.0,4XacetykoOBuSAwLbNhPOg
+Solle Spa,"['4 W 33rd St', 'New York, NY 10001']",New York,4.0,4,"{'latitude': 40.74792, 'longitude': -73.98565}",,1uVTucq6TzWIQBOZrst2Mg
+9 Spa,"['136 Glen Cove Rd', 'Roslyn Heights', 'New York, NY 11577']",New York,4.5,19,"{'latitude': 40.7905473783272, 'longitude': -73.6210200614348}",1.0,pBpSV_JYz_94UVfubY75jQ
+Spa Next,"['343 Lexington Ave', 'Fl 3', 'New York, NY 10016']",New York,4.5,82,"{'latitude': 40.74973, 'longitude': -73.97698}",2.0,G9S1FGhN0CskxB8s9Sl3yQ
+ZZ Day Spa,"['5 W 35th St', 'New York, NY 10001']",New York,4.5,45,"{'latitude': 40.749438, 'longitude': -73.98462}",2.0,VIcZAaBOz8iF1DEHxvmxAw
+Le Salon Day Spa,"['145 E 72nd St', 'New York, NY 10021']",New York,4.5,28,"{'latitude': 40.7704150394992, 'longitude': -73.9617539942264}",3.0,nzLhkTKPx-Tz5hUwo6w0JA
+Spa Space,"['28-27 Steinway St', 'Queens, NY 11103']",Queens,4.5,3,"{'latitude': 40.76457, 'longitude': -73.91404}",,rhAIcs8Rn4NPvbmzTL3uLQ
+Be Relax Spa,"['John F Kennedy International Airport', 'Terminal 5', 'New York, NY 11430']",New York,4.5,38,"{'latitude': 40.6413111, 'longitude': -73.7781391}",3.0,c-LXyczSXCNVrsf-cylWtg
+Amenity Spa 90,"['341 E 90th St', 'New York, NY 10128']",New York,4.5,15,"{'latitude': 40.779696, 'longitude': -73.9477962}",,Ot99lhNR7aFGM3D72KOKmA
+The Fountain Spa,"['10 Riverside Square Mall', 'Hackensack, NJ 07601']",Hackensack,3.0,169,"{'latitude': 40.905818, 'longitude': -74.029742}",3.0,_TTKBSKMLzBzzlDPKo2bIA
+Bliss Soho,"['568 Broadway', '2nd Flr', 'New York, NY 10012']",New York,3.5,391,"{'latitude': 40.72424, 'longitude': -73.9972}",3.0,sUkztsGbkYaanUACHk25aw
+Thai New York Spa,"['23-92 21st St', 'Astoria, NY 11105']",Astoria,4.0,104,"{'latitude': 40.7771622419861, 'longitude': -73.9211766457795}",2.0,ZZg6IjRSAVelQCkDocOIgA
+Greenway Spa,"['78 S 6th St', 'Brooklyn, NY 11249']",Brooklyn,4.5,35,"{'latitude': 40.71097, 'longitude': -73.9655499}",2.0,PhKAZMkK_JZYly4-3bC8eg
+PURE Massage & Holistic Spa,"['49 Orient Way', 'Rutherford, NJ 07070']",Rutherford,5.0,15,"{'latitude': 40.826712, 'longitude': -74.104273}",,a2vR0664IMfxhMM-g3P6MQ
+Sanctuary By The Park,"['Union St & 7th Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,8,"{'latitude': 40.67446, 'longitude': -73.97545}",2.0,Umn7dXLiB7pTYboq5hCwjQ
+Ommmango Wellness,"['759 Fulton St', 'Fl 2', 'Brooklyn, NY 11217']",Brooklyn,5.0,18,"{'latitude': 40.686446, 'longitude': -73.974102}",,avg8kjSYGBrI93JPbTGwig
+Broad & Wall Wellness,"['105 Broad St', 'Fl 3', 'New York, NY 10004']",New York,5.0,9,"{'latitude': 40.703203, 'longitude': -74.011387}",,DvqRPl6tj0qwpyyl9Hzyog
+Flic Spa,"['388 Broad St', 'Bloomfield, NJ 07003']",Bloomfield,4.5,108,"{'latitude': 40.8066873, 'longitude': -74.1928688}",2.0,5xZy52-10HItUN0svzCibw
+WuXing Body Work Spa,"['80A Livingston St', 'Brooklyn, NY 11201']",Brooklyn,4.5,10,"{'latitude': 40.69133, 'longitude': -73.99101}",1.0,798MBHnCUQ7ZL9LKIUBekw
+Urban Spa New York,"['253 5th Ave', 'Fl 3', 'New York, NY 10016']",New York,4.0,80,"{'latitude': 40.744718, 'longitude': -73.986866}",2.0,cpibFY02NTQVc72vQdUXvw
+Skin by Molly - Williamsburg,"['102 S 6th St', 'Brooklyn, NY 11249']",Brooklyn,4.5,76,"{'latitude': 40.7106428203341, 'longitude': -73.9646114001084}",2.0,xLl24iMnuu6naYV8jLtBQw
+Yeah Man Spa,"['123 Allen St', 'New York, NY 10002']",New York,3.5,34,"{'latitude': 40.71987, 'longitude': -73.99047}",1.0,OHms3XVhA5kNe5j-1AxPOQ
+Quintessential Therapy,"['2807 Jackson Ave', 'Fl 8', 'Long Island City, NY 11101']",Long Island City,5.0,15,"{'latitude': 40.7487404, 'longitude': -73.9387771}",,j-dVAahtRr-gP4xDfQPYEg
+Angel Hands Wellness,"['277 1st Ave', 'Fl 2', 'New York, NY 10003']",New York,4.5,243,"{'latitude': 40.73264, 'longitude': -73.98199}",1.0,eWcOqW0cc2ovQDRUfXg9lg
+Hush Manhattan,"['324 W 47st St', 'Ste 1A', 'New York, NY 10036']",New York,5.0,24,"{'latitude': 40.76077, 'longitude': -73.98891}",2.0,LEUJyZR42doeF711wNmBUQ
+Manhattan Medspa,"['112 E 23rd St', 'Fl 4', 'New York, NY 10010']",New York,4.5,17,"{'latitude': 40.739657, 'longitude': -73.985881}",,kNWlunmfY6Iko9tOt_WeMA
+119 Smith Street Spa,"['119 Smith St', 'Brooklyn, NY 11201']",Brooklyn,4.0,37,"{'latitude': 40.68765, 'longitude': -73.989565}",2.0,waqRlXEGu_dZp3u9gNHrtg
+La Peau Day Spa,"['135-20 39th Ave LL131-133', 'Flushing, NY 11354']",Flushing,4.5,31,"{'latitude': 40.75967, 'longitude': -73.831388}",2.0,fde1yJleBCj8p3LHHwm9QQ
+Neo Tantra Sacred Orgasm,"['303 Fifth Ave', 'Manhattan, NY 10016']",Manhattan,5.0,14,"{'latitude': 40.74645, 'longitude': -73.9854363}",,60bHuvpb3RCcjDMWXTxlxg
+Oasis Day Spa,"['50 Hamilton St', 'Fl 4', 'Dobbs Ferry, NY 10522']",Dobbs Ferry,4.0,120,"{'latitude': 41.0029293787165, 'longitude': -73.8571572303772}",3.0,PUuUh3sn2SEMoXrELURtfg
+Canal Bodywork - Doyers,"['17 Doyers St', 'New York, NY 10013']",New York,4.5,192,"{'latitude': 40.7145842, 'longitude': -73.9981572}",1.0,Uz_En_PuSybZduqTVO33mg
+Shangrila Men’s Spa,"['14 East 44th St', '3rd Fl', 'New York, NY 10017']",New York,4.5,23,"{'latitude': 40.75428, 'longitude': -73.97902}",,dY02jL6HeE-Z7BoIxsFORw
+Hoboken Women's Wellness,"['204 2nd St', 'Hoboken, NJ 07030']",Hoboken,5.0,96,"{'latitude': 40.7391999, 'longitude': -74.03252}",,pGvSz7hEON7-GNrKTHSWKA
+Rejuve Face & Body Spa,"['264 Sherman Ave', 'New York, NY 10034']",New York,3.5,84,"{'latitude': 40.86654, 'longitude': -73.91845}",2.0,8B8CWh7RaOdXlYtjgWvdaw
+Wall Street Bath & Spa,"['88 Fulton St', 'New York, NY 10038']",New York,3.0,206,"{'latitude': 40.70912, 'longitude': -74.00578}",2.0,VGLXVu3qmpjdWJco0nCFDA
+The Time 2 Relax,"['107 S Farview Ave', 'Paramus, NJ 07652']",Paramus,4.5,52,"{'latitude': 40.9135314, 'longitude': -74.0720462}",2.0,DyrXgt2uOan9aGAofUf2hA
+AF Bennett Salon & Wellness Spa,"['350 New Dorp Ln', 'Staten Island, NY 10306']",Staten Island,3.5,122,"{'latitude': 40.571014, 'longitude': -74.111145}",3.0,KRMdNlDTMI3nUUxNji4Ztg
+MassageLuXe,"['327 Franklin Ave', 'Wyckoff, NJ 07481']",Wyckoff,4.5,24,"{'latitude': 41.01208, 'longitude': -74.16731}",,8qjfj9yLqxXIiVLAhiu4wA
+Danielles Body & Skin Care,"['509 W 236th St', 'Riverdale Bronx, NY 10463']",Riverdale Bronx,4.5,17,"{'latitude': 40.88659, 'longitude': -73.90745}",2.0,TOG8lW3Xq1uUUaCQnzyEqw
+Spavia Day Spa - Ridgewood,"['379 Rt 17 S', 'Ridgewood, NJ 07450']",Ridgewood,5.0,22,"{'latitude': 40.981632, 'longitude': -74.087347}",,eR5EIHGhaRyM6rcfKtDrVA
+Utopia Spa,"['965 Lexington Ave 70st', 'Fl 2nd', 'New York, NY 10021']",New York,4.5,23,"{'latitude': 40.7692214201571, 'longitude': -73.9629937144178}",2.0,Js6sTwDBMZipFj5mBWN99A
+Mona Beauty Spa,"['118-16 Queens Blvd', '2Fl', 'Forest Hills, NY 11375']",Forest Hills,4.0,61,"{'latitude': 40.7145225220167, 'longitude': -73.8320032011574}",1.0,NXvM7THeRmY-Ase-ohzusw
+Cay Spa,"['219 Smith St', 'Brooklyn, NY 11201']",Brooklyn,4.5,15,"{'latitude': 40.68431, 'longitude': -73.99184}",4.0,lFiZSycHnmy0-aTq0CiYCg
+Essential Day Spa & Cosmetics Inc.,"['247 E50th St', 'Fl 2', 'New York, NY 10022']",New York,3.5,29,"{'latitude': 40.75521, 'longitude': -73.96904}",2.0,XzkCPbcIZjXurXqzYQVq8g
+Melt Feathers spa,"['243 W 99th St', 'Basement', 'New York, NY 10025']",New York,4.5,10,"{'latitude': 40.79683, 'longitude': -73.97071}",,vBgmgId48hsGtX7Rh28jOA
+Sia's Beauty,"['145 Grand St', 'New York, NY 10013']",New York,5.0,21,"{'latitude': 40.72004, 'longitude': -73.99954}",2.0,GBhTlGU2YWEGvm4SC84KSg
+Head 2 Toe Spa,"['42-16 162nd St', 'Flushing, NY 11358']",Flushing,4.5,105,"{'latitude': 40.759876, 'longitude': -73.804374}",2.0,2R4vGByR7AMt1oAAZdFCjQ
+Graceful Spa,"['205 W 14th St', 'Fl 2', 'New York, NY 10011']",New York,3.5,113,"{'latitude': 40.7389297485352, 'longitude': -73.999870300293}",2.0,-fIjJisGI-WC_Rm_IuRANA
+iLove Spa,"['209 E 66th St', 'New York, NY 10065']",New York,4.5,27,"{'latitude': 40.76573, 'longitude': -73.9626399}",2.0,QqH2x57r4Lu2crIeMWGosw
+Shanghai Spa,"['241 5th Ave', 'Brooklyn, NY 11215']",Brooklyn,3.5,51,"{'latitude': 40.675039, 'longitude': -73.981199}",3.0,3IgyiT4D1fJZgP9X1VB-UA
+M Beauty Spa,"['107-50 Queens Blvd', 'Fl 2', 'Forest Hills, NY 11375']",Forest Hills,3.5,183,"{'latitude': 40.72122, 'longitude': -73.84457}",1.0,1N8vkTCnsBrJ1LWkdOSSwA
+Bronxville Wellness Sanctuary,"['14 Studio Arcade', 'Bronxville, NY 10708']",Bronxville,4.5,46,"{'latitude': 40.942368, 'longitude': -73.835326}",2.0,Wwkkvcina5d0mH04FfMyvA
+Vepo Day Spa,"['2128 Lincoln Hwy', 'Edison, NJ 08817']",Edison,4.0,42,"{'latitude': 40.5274, 'longitude': -74.38528}",2.0,EWGzQ1kiyuabFxyWvmfCBQ
+Harmony Day Spa,"['10 Brookside Ave', 'Fl 2', 'Caldwell, NJ 07006']",Caldwell,5.0,25,"{'latitude': 40.839745, 'longitude': -74.277358}",3.0,1x3IJKM5OjehehkECQKK5w
+Snowflakes Spa,"['324 W 49th St', 'Manhattan, NY 10019']",Manhattan,4.0,171,"{'latitude': 40.76209, 'longitude': -73.98805}",1.0,_4ovTuCAx5ca_gh9JQszqw
+Oasys Day Spa,"['225 Valley Blvd', 'Wood-Ridge, NJ 07075']",Wood-Ridge,4.5,51,"{'latitude': 40.849847, 'longitude': -74.086036}",2.0,OQ5A13M41VdsB634ZTPo_Q
+Hoboken Wellness Spa,"['450 7th St', '7a', 'Hoboken, NJ 07030']",Hoboken,4.0,63,"{'latitude': 40.7461286, 'longitude': -74.0354745}",2.0,AUtz-VAZatmnbp-WYB2XXg
+Art of Natural Beauty Center by Khrom Dermatology & Aesthetics,"['239 Court St', 'Brooklyn, NY 11201']",Brooklyn,3.5,141,"{'latitude': 40.6858537, 'longitude': -73.993907}",2.0,gamdHg8sUMwG8H7XpFLpfg
+Avalok Asian Spa,"['19 W 46th St', 'Fl 2', 'New York, NY 10036']",New York,3.5,114,"{'latitude': 40.756666, 'longitude': -73.979916}",1.0,98VFbj_u_uRJZ48Q8UKrGg
+Medspa 44,"['144 E 44th St', '2nd Fl', 'New York, NY 10017']",New York,4.0,55,"{'latitude': 40.7519846, 'longitude': -73.9697795}",2.0,4Zres7dANj50mwAYjVqgbw
+Coral Essex Spa,"['123 Essex St', 'Fl 2', 'New York, NY 10002']",New York,5.0,1,"{'latitude': 40.719742, 'longitude': -73.987789}",,rhlxJ9JZVF67EI9_NnrO6A
+Renew Regal Spa,"['259 Canal St', 'Fl 2', 'New York, NY 10013']",New York,4.5,390,"{'latitude': 40.718861, 'longitude': -74.000637}",1.0,J_pT-_Gne1v3D2yjUArfHQ
+Ping Jun Spa,"['12604 Powells Cove Blvd', 'Queens, NY 11356']",Queens,5.0,1,"{'latitude': 40.79378, 'longitude': -73.84122}",,hA6fsapbcCaq8bOrn0d3_Q
+212 Salon and day Spa,"['212 Bellevue Ave', 'Upper Montclair, NJ 07043']",Upper Montclair,4.5,34,"{'latitude': 40.840707, 'longitude': -74.207044}",2.0,CZECP96Ts4UH3JKDljyGIQ
+Carrie Lindsey Beauty,"['674 Fulton St', 'Brooklyn, NY 11217']",Brooklyn,5.0,42,"{'latitude': 40.686271, 'longitude': -73.974987}",2.0,6jbaYWSql6V5mganTVeXRQ
+Massage By Design,"['222 W 17th St', 'New York, NY 10011']",New York,4.5,46,"{'latitude': 40.74082, 'longitude': -73.99937}",2.0,9usqrErxn-hKLrWrhPk7Pg
+La Peau Day Spa,"['183 Lafayette St', 'New York, NY 10013']",New York,4.0,214,"{'latitude': 40.7206, 'longitude': -73.99842}",2.0,IblBWy6V6F5hvtk_8SagDA
+201 Healthy Spa,"['201 Bridge Plz N', 'Fort Lee, NJ 07024']",Fort Lee,4.5,21,"{'latitude': 40.8555022550552, 'longitude': -73.9684899051093}",1.0,aBY2Yvca-ZMu8ZZAPYnMxQ
+Ink Spa,"['653 11th Ave', 'Fl 2', 'New York, NY 10036']",New York,3.5,13,"{'latitude': 40.76452, 'longitude': -73.99586}",3.0,KOx8O_EKpMSKDPNbxOJjDw
+Inwood Healing Arts,"['5030 Broadway', 'Ste 667', 'New York, NY 10034']",New York,5.0,21,"{'latitude': 40.8689413, 'longitude': -73.9167827}",2.0,sPkGynV3XwWQKYCR-zCTYQ
+N.J. Massage & Spa,"['15 Broadway', 'Ste 201, Fl 2', 'Cresskill, NJ 07626']",Cresskill,5.0,4,"{'latitude': 40.9391027, 'longitude': -73.9623753}",2.0,PygPlspAwrAIS3qF0Rwlug
+Golden Times Spa,"['57-03 71st St', 'Maspeth, NY 11378']",Maspeth,5.0,4,"{'latitude': 40.7276657438161, 'longitude': -73.892131851884}",,Y7RJZIlqf__BRH54FIOXmQ
+The Fountain of Youth Lounge,"['203 Chrystie St', 'New York, NY 10002']",New York,5.0,7,"{'latitude': 40.72229, 'longitude': -73.99189}",,iXDcyivzCnS0Q6kCbNLKMA
+All Seasons Body Work,"['594 9th Ave', 'Fl 1', 'New York, NY 10036']",New York,4.5,200,"{'latitude': 40.75875, 'longitude': -73.99203}",2.0,PRbrbpC1bHA-LbHgTITAIA
+Lee 91 Spa,"['1377 Lexington Ave', 'New York, NY 10128']",New York,5.0,6,"{'latitude': 40.78245, 'longitude': -73.95327}",,9mq6XYGcFjmjQVACTaH5vw
+Gene's Day Spa,"['138 W 72nd St', '2 Fl', 'Manhattan, NY 10023']",Manhattan,4.5,21,"{'latitude': 40.777860439198, 'longitude': -73.9803028106689}",2.0,4KRpfcIkyh8EYh3Pn4iPHQ
+Vicki Morav,"['19 East 71st St', 'Ground Floor', 'Gallerie Aesthetique', 'New York, NY 10065']",New York,5.0,10,"{'latitude': 40.7713892, 'longitude': -73.9660413}",4.0,hBMb74PnqXqC49kzEtrkQA
+Living Fresh Men's Spa,"['44 W 22nd St', 'New York, NY 10010']",New York,4.0,87,"{'latitude': 40.7416229248047, 'longitude': -73.9924240112305}",2.0,diewyA-y5IhJRUDKUWmK-w
+Internally Happy,"['145 6th Ave', 'New York, NY 10013']",New York,5.0,20,"{'latitude': 40.7251285241158, 'longitude': -74.0047430992126}",,FJmlacIqdcOAZuymq17fGw
+Ject,"['138 W 10th St', 'New York, NY 10014']",New York,5.0,1,"{'latitude': 40.73451, 'longitude': -74.00062}",,b8zIHV92UUqt7xt-ToSO-g
+Sparelax Spa,"['157 N 5th St', 'Brooklyn, NY 11211']",Brooklyn,4.5,45,"{'latitude': 40.71651, 'longitude': -73.95836}",,cxbCsUS7mWFm6bzRz5oBCg
+Feel Day Spa,"['418 7th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.0,66,"{'latitude': 40.66415, 'longitude': -73.98406}",1.0,V1EzwDCH2MCSw17FHwlt3w
+"Darrick E. Antell, MD, FACS","['850 Park Ave', 'New York, NY 10075']",New York,4.5,24,"{'latitude': 40.7740264796336, 'longitude': -73.9618446061516}",,kJC7_mOkuaYxYZIKw9xezQ
+Bliss 57,"['12 W 57th St', '3rd Flr', 'New York, NY 10019']",New York,3.5,250,"{'latitude': 40.763047093149, 'longitude': -73.9752889818141}",3.0,1jw8jT5vuLTZIKeJyH1BaA
+Sunny Spa,"['10-63 Jackson Ave', 'Queens, NY 11101']",Queens,4.5,16,"{'latitude': 40.74294, 'longitude': -73.95238}",,S1hf1w0tKk6en7faHBwBTg
+Greenhouse Holistic,"['218 N 7th St', 'Brooklyn, NY 11211']",Brooklyn,4.0,187,"{'latitude': 40.71676, 'longitude': -73.95621}",2.0,lnDnRkke4Hi-QlEnk2o8XA
+YiFan Healing Spa,"['1095 2nd Ave', '2FN', 'New York, NY 10022']",New York,5.0,9,"{'latitude': 40.75976, 'longitude': -73.96518}",,0Gsx9jxtGTuN6QOClevCvQ
+Fountain of Youth Health Spa,"['3202 Linden Pl', 'Flushing, NY 11354']",Flushing,4.0,68,"{'latitude': 40.767278, 'longitude': -73.832209}",2.0,FPWx8MJSCR5oYUPxtXywLg
+Spa de Rehoboth,"['44 W 14th St', 'New York, NY 10011']",New York,4.0,223,"{'latitude': 40.736648, 'longitude': -73.995886}",2.0,qQN_9m_Ed9FoJfsUizKq7g
+Spa Blue,"['125 4th Ave', 'New York, NY 10003']",New York,4.5,227,"{'latitude': 40.733066, 'longitude': -73.989656}",2.0,4DulLij0xBOwrBfGIA-wdA
+Relax Day Spa,"['111 Lake Ave', 'Tuckahoe, NY 10707']",Tuckahoe,4.0,24,"{'latitude': 40.951307, 'longitude': -73.8289018347859}",1.0,_GnDCzGzKo8iU4o81tIPfg
+Lavender Body Work,"['7504 3rd Ave', 'Brooklyn, NY 11209']",Brooklyn,4.5,70,"{'latitude': 40.63132, 'longitude': -74.02801}",1.0,aGikXuSgM6XedV3SglAqfA
+Blanc Azur Spa,"['3451 E Tremont Ave', 'Ste 2', 'Bronx, NY 10465']",Bronx,3.5,9,"{'latitude': 40.8324013, 'longitude': -73.827301}",,a7Q34E_CH7pvCP_G1aUKBQ
+Brooklyn Banya Russian Bathhouse & Spa,"['602 Coney Island Ave', 'Brooklyn, NY 11218']",Brooklyn,3.0,201,"{'latitude': 40.6423952787874, 'longitude': -73.9698579103813}",2.0,XmP-yLphvWY5iVl8D_prsA
+My Wellness Solutions,"['436 E 149th St', 'Bronx, NY 10455']",Bronx,4.5,25,"{'latitude': 40.815127, 'longitude': -73.916027}",2.0,5UpDe5kdqzz_NVzw4tn9ig
+Rockaway Love,"['90-16 Rockaway Beach Blvd', 'Queens, NY 11693']",Queens,5.0,6,"{'latitude': 40.586955115459, 'longitude': -73.8145680415437}",,ixS6LiDoVDl4LTytqQjamA
+Sunshine Beauty Spa,"['6816 11th Ave', 'Dyker Heights, NY 11219']",Dyker Heights,4.0,12,"{'latitude': 40.6264242535188, 'longitude': -74.0082601162}",2.0,tehROQZ7cA8MkCGoKz06-w
+Ariana Day Spa,"['811 Broadway', 'Bayonne, NJ 07002']",Bayonne,4.0,27,"{'latitude': 40.67497, 'longitude': -74.10927}",2.0,LOQNLcm5VWRdsbfM7RI3pg
+You and Her Spa,"['18 E Broadway St', 'Ste 603', 'New York, NY 10002']",New York,4.0,40,"{'latitude': 40.7136831, 'longitude': -73.9971814}",2.0,3DRPfOCDuL-oNw0g4ZOhoA
+Jing Beauty & Spa,"['13357 Roosevelt Ave', 'Flushing, NY 11354']",Flushing,4.0,131,"{'latitude': 40.758993, 'longitude': -73.832473}",2.0,r9u1fhxxtJEqxb19WkVZ7w
+Oasis Spa,"['9100 Tonnelle Ave', 'Ste D', 'North Bergen, NJ 07047']",North Bergen,4.5,12,"{'latitude': 40.81376, 'longitude': -74.00994}",2.0,DmLPyeNeSJeTU4uAH-_c3A
+Good Face,"['102 Broadway', 'Brooklyn, NY 11249']",Brooklyn,4.5,84,"{'latitude': 40.7101793, 'longitude': -73.9652922}",2.0,nvVOWH-CPRTMwfXicaW9Bw
+Cornelia Spa at The Surrey,"['20 E 76th St', 'Fl 2', 'New York City, NY 10021']",New York City,3.0,21,"{'latitude': 40.774314, 'longitude': -73.964035}",3.0,2pB1hXzu8oEoWupPele2hw
+Body & Soul Massage Therapy,"['30 W Park Ave', 'Ste 200', 'Long Beach, NY 11561']",Long Beach,4.5,41,"{'latitude': 40.58811, 'longitude': -73.66523}",2.0,tELPwkxKIYvs_xu8x5Y6kA
+Yura Day Spa,"['60-72 72nd St', 'Maspeth, NY 11378']",Maspeth,5.0,9,"{'latitude': 40.72182, 'longitude': -73.88689}",,tpOLrlEt1cwetzTtPJARBA
+LifeSpa Garden City,"['750 Zeckendorf Blvd', 'Garden City, NY 11530']",Garden City,4.5,9,"{'latitude': 40.738952, 'longitude': -73.604904}",3.0,5hV_Q0ipHR19ECcwmihT2w
+Remedy Massage,"['107 W 82nd St', 'Ste 108', 'New York, NY 10024']",New York,4.5,60,"{'latitude': 40.78423, 'longitude': -73.97459}",2.0,nseg6JGotGwkScOtOCkTjQ
+Long Teng Body Work,"['943 Amsterdam Ave', 'New York, NY 10025']",New York,4.0,94,"{'latitude': 40.800518, 'longitude': -73.965248}",1.0,5F5sbxR4cNQxjZ5QqKOycg
+Heart Sea Spa,"['177 Church St', 'New York, NY 10007']",New York,4.0,23,"{'latitude': 40.7155531, 'longitude': -74.0074249}",1.0,uEqv27K0yfM8_CFRxT8NQA
+Eastern Breeze Day Spa,"['1085 Northern Blvd', 'Roslyn, NY 11576']",Roslyn,5.0,12,"{'latitude': 40.7994308, 'longitude': -73.6601973}",,Ek4EdSit8WmxYMnaNo-fgQ
+W Spa,"['324 East 66th St', 'New York, NY 10065']",New York,5.0,1,"{'latitude': 40.7643394, 'longitude': -73.9601898}",,x2ElKCfVDe3qY0a-oYAk6A
+Spa J,"['207b Livingston St', 'Northvale, NJ 07647']",Northvale,4.5,5,"{'latitude': 41.00729, 'longitude': -73.94904}",,-2qK6QUAuany-IGh20_dZA
+Holistic Myotherapy,"['252 Java St', 'Ste 235', 'Brooklyn, NY 11222']",Brooklyn,5.0,13,"{'latitude': 40.73196, 'longitude': -73.94998}",2.0,R34JJSDllnvytwMF9mSm_A
+Spa Blu,"['9 St James Pl', 'Totowa, NJ 07512']",Totowa,5.0,19,"{'latitude': 40.90433, 'longitude': -74.21244}",,wIErD0x8ebHppOZr9rbkkA
+MiraFlor Skin & Body Care,"['105 W 55th St', 'New York, NY 10019']",New York,5.0,4,"{'latitude': 40.763412, 'longitude': -73.978601}",2.0,WqVjA_L_pJhXhhy21iPLaA
+Opulence Waxing Spa,"['2130 Adam Clayton Powell Jr Blvd', 'Ste 115', 'New York, NY 10027']",New York,5.0,10,"{'latitude': 40.810259, 'longitude': -73.9479964}",2.0,RXjgukk8DkHqR6rLyoBD9Q
+Thai Senses,"['300 W 49nd St', 'New York, NY 10019']",New York,5.0,18,"{'latitude': 40.761714, 'longitude': -73.987159}",,WZdFLJRPs844LtTU-lHLHw
+Narcisses Spa,"['271A W 231st St', 'Bronx, NY 10463']",Bronx,4.0,25,"{'latitude': 40.88028, 'longitude': -73.90714}",2.0,3pSlG6uF16QT97Lo1hbf6g
+Quantum Vita Body Therapy,"['124 Brunswick St', 'Jersey City, NJ 07302']",Jersey City,5.0,49,"{'latitude': 40.7234224, 'longitude': -74.0505915}",2.0,lUVhkADHCiIANJ5R8KIkjQ
+Everly Happy,"['315 5th Ave', 'Ste 704B', 'New York, NY 10016']",New York,5.0,1,"{'latitude': 40.7468666, 'longitude': -73.985177}",,hTKS1Cc3IqZIOgQ3EJrIfA
+Shaunas Beauty Bar,"['4341 Katonah Ave', 'Bronx, NY 10470']",Bronx,4.5,13,"{'latitude': 40.89998, 'longitude': -73.8678}",1.0,XViqi7vc3G3EQE8IHsXJAQ
+Spa Society,"['500 Ave At Port Imperial', 'Ste 140', 'Weehawken, NJ 07086']",Weehawken,4.5,24,"{'latitude': 40.7770814728433, 'longitude': -74.0112643673067}",2.0,hxa4VRCtjP3mgvD9f05WCw
+Reverie Spa,"['306 E 6th St', 'New York, NY 10003']",New York,5.0,1,"{'latitude': 40.72712, 'longitude': -73.98809}",,TvM9NL5DAAqTiKnH6jYFbQ
+Narisara Wellness,"['211 East 43rd St', 'New York, NY 10017']",New York,4.0,5,"{'latitude': 40.7512728, 'longitude': -73.9731567}",,l1W-iGzrj0kD8pff3gT0rg
+Relaxation Garden,"['130 Smith St', 'Brooklyn, NY 11201']",Brooklyn,4.5,64,"{'latitude': 40.687314, 'longitude': -73.990303}",1.0,f_-WjpCOTOFerZ_GW6LTPg
+Blue Salon & Spa,"['280 Marin Blvd', 'Jersey City, NJ 07302']",Jersey City,4.0,101,"{'latitude': 40.718209, 'longitude': -74.041578}",2.0,vB_YxnJKgfi6N1noHsHLAw
+Radiance Spa and Hair,"['269 W 72nd St', 'Ste 1B', 'New York, NY 10023']",New York,4.5,49,"{'latitude': 40.77991, 'longitude': -73.98399}",2.0,U9Q0-h-BeAI8pJMYgJ3q3w
+Keisy Oriental Nature Center,"['229 E 9th St', 'Fl 2', 'New York, NY 10003']",New York,4.0,139,"{'latitude': 40.72965, 'longitude': -73.98789}",1.0,2sXCXW86Rplg_Pwk27mB3Q
+Sai Kay 21 Beauty Skin Care,"['136-19 38th Ave', 'Fl 2nd', 'Flushing, NY 11354']",Flushing,5.0,9,"{'latitude': 40.76119, 'longitude': -73.83005}",3.0,Ue8WXbPxNnldrgbdUcm13g
+Good Luck Spa,"['33 Orchard St', 'New York, NY 10002']",New York,3.5,3,"{'latitude': 40.71573, 'longitude': -73.99173}",1.0,k8k7-6FmRAEVmUTtTrUHOA
+Park Slope Eastern Spa,"['325 7th St', 'Park Slope, NY 11215']",Park Slope,4.5,63,"{'latitude': 40.6706174, 'longitude': -73.9855783}",1.0,FW0HyfVJ33cfIpxAg43Pqw
+Dion Spa,"['23-08 Jackson Ave', 'FL 2', 'Long Island City, NY 11101']",Long Island City,5.0,11,"{'latitude': 40.745754, 'longitude': -73.945288}",,luceXxgIyu4_qWr2YI13FQ
+Flora's Cottage,"['7 N Broad St', 'Ridgewood, NJ 07450']",Ridgewood,5.0,10,"{'latitude': 40.979963, 'longitude': -74.120107}",,LlSS-D3g1NC-QWTcOsc9AA
+Joanna Vargas Skin Care,"['501 5th Ave', 'Fl 3', 'New York, NY 10017']",New York,4.0,206,"{'latitude': 40.7531958, 'longitude': -73.9807532}",3.0,PjT0mo0VgFO0NaU45uabRg
+Grand Nature,"['297 Grand St', '2FL 2B', 'New York, NY 10002']",New York,4.5,154,"{'latitude': 40.71739, 'longitude': -73.99202}",1.0,HAKpPtREwFpZRj0b_tRrFw
+Gaia's Cavern,"['140 Wayne St', 'Jersey City, NJ 07302']",Jersey City,5.0,32,"{'latitude': 40.7208, 'longitude': -74.04853}",,MVpvDxO_ERbvltbOFeBsjQ
+New Paradise Men's Spa,"['346 W 53rd St', 'New York, NY 10019']",New York,4.0,94,"{'latitude': 40.76472, 'longitude': -73.98663}",2.0,liyqTA7vHr1m1YfJdyfujA
+Spa Santé,"['247 Elizabeth St', 'New York, NY 10012']",New York,3.5,123,"{'latitude': 40.7236984707789, 'longitude': -73.9939091865969}",1.0,VeGM95d6_EtaAJZm3BNrkQ
+The Face and Body Shop,"['40-21 23rd Ave', 'Astoria, NY 11105']",Astoria,4.0,26,"{'latitude': 40.7707065, 'longitude': -73.9076249}",2.0,bhDRIEHpdF_lbCIWTfxU1g
+CK2 Beauty Skin Center,"['5524 7th Ave', 'Brooklyn, NY 11220']",Brooklyn,3.5,10,"{'latitude': 40.638747600832, 'longitude': -74.0094103473027}",1.0,jxZ20Cstzr8eM2mqj1bumg
+Sunny Sunflower Spa,"['200 West 95th St', 'New York, NY 10025']",New York,4.5,17,"{'latitude': 40.7933913, 'longitude': -73.9712415}",1.0,B8-NbJ-BwZroRzFXm_tkwQ
+Premier Sports Recovery,"['250 W 26th St', 'Ste 402', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.7467, 'longitude': -73.99619}",,ERIYaLYtO8wouqj19uR3_A
+My All Organic Spa,"['260 Old River Rd', 'Edgewater, NJ 07020']",Edgewater,5.0,6,"{'latitude': 40.80946, 'longitude': -73.99063}",,i1fj7MBU2Rm3h9OPlNwTlQ
+Gil’s Day spa,"['1041 Ave C', 'Bayonne, NJ 07002']",Bayonne,5.0,1,"{'latitude': 40.684131, 'longitude': -74.104797}",,sC_sBNuggB-4vLIv2h0r9Q
+Irmas Gold Spa,"['85 Livingston St', 'Brooklyn, NY 11201']",Brooklyn,5.0,1,"{'latitude': 40.6915227323771, 'longitude': -73.9909055829048}",,LfRT3fn03825U5PRFxzWFA
+Blue Water Spa,"['21 W Main St', 'Oyster Bay, NY 11771']",Oyster Bay,4.5,60,"{'latitude': 40.87195, 'longitude': -73.53146}",3.0,YI8yQCHomkYO4PEPqUKdXA
+Chinatown Relax Spa,"['79 Allen St', 'New York, NY 10002']",New York,4.5,10,"{'latitude': 40.7179881, 'longitude': -73.9913161}",1.0,dBhXC9vyxKsDzfMqQJacCQ
+Abdelnour Day Spa,"['578 Nepperhan Ave', 'Ste 423', 'Yonkers, NY 10701']",Yonkers,4.5,15,"{'latitude': 40.944399, 'longitude': -73.883046}",,ogvHML7lx02F3WCb6JzAVQ
+Mpower Bodywork,"['32 Union Square E', 'Ste 603', 'New York, NY 10003']",New York,4.5,202,"{'latitude': 40.7354343, 'longitude': -73.9893946}",,107bSHL9NlwxpTh7yXSI8w
+Gemvie Medispa,"['24 E 36th St', 'New York, NY 10016']",New York,4.0,130,"{'latitude': 40.7488013, 'longitude': -73.9818164}",2.0,fhKpCGi3gqExveNs2t2C2g
+Breath & Bones,"['160 Allen St', 'Ste 1', 'New York, NY 10002']",New York,5.0,6,"{'latitude': 40.72091, 'longitude': -73.98918}",,XdNdzhii1sCW2jh6PIf5Kw
+Happy Spa,"['32-26 Steinway St', 'Astoria, NY 11103']",Astoria,3.5,16,"{'latitude': 40.758379, 'longitude': -73.9197374}",,tEVdAs0gXn79bv8z7gf6jQ
+Ethereal Day Spa & Salon,"['300 New Rd', 'Parsippany, NJ 07054']",Parsippany,4.0,29,"{'latitude': 40.8504, 'longitude': -74.35033}",3.0,ZBTzMJ4UHDg6kumTB1EGNg
+Maris Dusan,"['629 Park Ave', 'New York, NY 10065']",New York,4.5,67,"{'latitude': 40.766811, 'longitude': -73.966499}",3.0,uQpqqs9MxNGCNnuvaqGobQ
+Satori Laser ® UES 86st Laser Hair Removal,"['332 E 86th St', 'new york, NY 10028']",new york,5.0,126,"{'latitude': 40.777156, 'longitude': -73.9506691}",2.0,LkED5-9bMFicufBwm9jbQQ
+Naturopathica,"['667 Madison Ave', 'New York, NY 10065']",New York,4.0,6,"{'latitude': 40.764492, 'longitude': -73.970244}",,KRPD4o5GQwYhFhaV7A5Jug
+Luxe Esthetics By Michelle,"['1553 Forest Ave', 'Studio 21', 'Staten Island, NY 10302']",Staten Island,5.0,2,"{'latitude': 40.62615, 'longitude': -74.13891}",,Pna2KfbjOUGn6DXprNuoIg
+Loto Health Spa,"['3808 Junction Blvd', 'Ste 3', 'Corona, NY 11368']",Corona,5.0,5,"{'latitude': 40.749644170746, 'longitude': -73.8698609281316}",,loUETf-D8XuDMW-oocupng
+The Crafted Hand,"['New York City, NY 10002']",New York City,5.0,4,"{'latitude': 40.7209502921567, 'longitude': -73.9866280455078}",,sk8qHfa66TM3kxev49A0rg
+CityTouch Licensed Massage Therapy,"['153 West 27 St', 'Ste 404', 'New York, NY 10001']",New York,5.0,192,"{'latitude': 40.7463320587553, 'longitude': -73.9928632510285}",2.0,i1ktAfyO-PN0DMgQeqZj6A
+Kings Spa Salon,"['947 61st St', 'Brooklyn, NY 11219']",Brooklyn,3.0,9,"{'latitude': 40.6329534767123, 'longitude': -74.0067667093593}",,Eu-1KHkt8vwzKOoVeBOtjg
+Roslyn Salt Cave,"['17 Lumber Rd', 'Roslyn, NY 11576']",Roslyn,4.5,26,"{'latitude': 40.80125, 'longitude': -73.65032}",,ON9Ccwf1LfhqD_zmAEESpA
+Natural Balance Massage & Wellness Center,"['3013 Quentin Rd', 'Brooklyn, NY 11234']",Brooklyn,4.5,83,"{'latitude': 40.61217, 'longitude': -73.94113}",2.0,V4yqq3Lu7_ONT0XnPXiJ3Q
+Metamorphosis Day Spa,"['127 E 56th St', 'Fl 5', 'New York, NY 10022']",New York,4.0,232,"{'latitude': 40.76064953952751, 'longitude': -73.97000932944773}",2.0,VEGny9fSG7a7sXpU1emoAQ
+Spa 88,"['136-76 Roosvelt Ave', 'Queens, NY 11354']",Queens,4.0,10,"{'latitude': 40.75989, 'longitude': -73.82728}",2.0,8hsDIu05r1YlBa3W9Y-yqA
+Staten Island Massage & Wellness,"['1332 Forest Ave', 'Staten Island, NY 10302']",Staten Island,4.5,38,"{'latitude': 40.625952, 'longitude': -74.133972}",2.0,95IXCE3Z1g-sMy2ZwnSt_w
+Five Roots Wellness,"['Brooklyn, NY 11201']",Brooklyn,5.0,1,"{'latitude': 40.6967, 'longitude': -73.99003}",,GUxeKXBINKdUl8JWbPBnPg
+Advanced Skin Care Day Spa,"['330 W 58th St', 'Ste 402B', 'New York, NY 10019']",New York,5.0,48,"{'latitude': 40.7677499, 'longitude': -73.9837835}",3.0,LxLIc9EJqyvYXyqhMjpgFA
+Christine Chin Spa,"['82 Orchard St', 'New York, NY 10002']",New York,3.5,122,"{'latitude': 40.71781, 'longitude': -73.99019}",4.0,GmFPNN9D3FCP_izIBM83zQ
+SUNFLOWER BODY WORK,"['102-02 Metropolitan Ave', 'Forest Hills, NY 11375']",Forest Hills,4.5,79,"{'latitude': 40.71019, 'longitude': -73.8508}",1.0,LPJBJzTtp7nMG8t_gFtp4Q
+Plump Cosmetics & Injectables,"['211 Elizabeth St', 'New York, NY 10012']",New York,5.0,21,"{'latitude': 40.72257, 'longitude': -73.99432}",,z3sJcQ_1T8fz4n1-p4r7sw
+Tribeca Beauty Spa,"['8 Harrison St', 'New York, NY 10013']",New York,4.0,150,"{'latitude': 40.718902, 'longitude': -74.009338}",2.0,Ul8ogLKP7Wx3qFbNdq9BAA
+Meridian Massage,"['110 William St', 'New York, NY 10038']",New York,5.0,1,"{'latitude': 40.7087737, 'longitude': -74.0067282}",,QCJTU59Zm2gwYCeXNqvHgw
+Infinity Float,"['224 Fifth Ave', 'Fl 3', 'New York, NY 10001']",New York,3.5,34,"{'latitude': 40.74382, 'longitude': -73.98815}",2.0,LwxRqIZv8KD4Het5OF4IRA
+Pure Harmony Spa 99,"['5 Mott St', 'Basement', 'New York, NY 10013']",New York,4.0,18,"{'latitude': 40.71387, 'longitude': -73.9988}",1.0,QoSEx8Gxe0lAPhP7gG67kQ
+Hand & Stone Massage and Facial Spa,"['345 Mamaroneck Ave', 'Mamaroneck, NY 10543']",Mamaroneck,4.0,33,"{'latitude': 40.9517235863373, 'longitude': -73.7353460490703}",2.0,z3Ty6wnq3kXFdAcplS58NQ
+Healing Garden Spa,"['634 4th Ave', 'Brooklyn, NY 11232']",Brooklyn,5.0,1,"{'latitude': 40.6644523, 'longitude': -73.9942484}",,8WLYoCc8aBsSbcMWuXKEaw
+Yaffa's Living Well,"['1322 E 14th St', 'Brooklyn, NY 11230']",Brooklyn,5.0,1,"{'latitude': 40.617212, 'longitude': -73.961053}",,6ocGyHYd0i1YaAN_QCZhGQ
+Spa on 7th,"['69A 7th Ave', 'Brooklyn, NY 11217']",Brooklyn,5.0,84,"{'latitude': 40.675194, 'longitude': -73.97464}",,AdKNJUxHkKYNGe4J-vsQog
+Damai Wellness Center,"['West New York, NJ 07093']",West New York,5.0,1,"{'latitude': 40.787930702744, 'longitude': -74.0034858535842}",1.0,lpfzC8pxSxJMoUuWVhyOTA
+Ella's Esthetics Spa,"['113 Forest Ave', 'locust valley, NY 11560']",locust valley,5.0,9,"{'latitude': 40.875385, 'longitude': -73.599665}",2.0,EkLhMy28s6tGfSEhoZMKvQ
+Ding Spa,"['84-56 Grand Ave', 'Queens, NY 11373']",Queens,4.0,1,"{'latitude': 40.73454, 'longitude': -73.88209}",,z1FfSdRdhcESbyT5n2YYtQ
+Happy Feet Spa,"['150-51 14 Ave 1C', 'Whitestone, NY 11357']",Whitestone,4.5,51,"{'latitude': 40.7894035175311, 'longitude': -73.811844}",1.0,HlBERB7DbABYU0maFMzPDw
+Magic Journey Sanctuary,"['35 Tennis Ct', 'Brooklyn, NY 11226']",Brooklyn,5.0,24,"{'latitude': 40.64881, 'longitude': -73.96179}",,fNfZAdFm9NG0M1ZN9bDWSg
+Bhati Ascended Wellness,"['169 Wythe Ave', 'Ste 103', 'Brooklyn, NY 11249']",Brooklyn,5.0,7,"{'latitude': 40.718653, 'longitude': -73.961115}",,pDnURP_MHVySCnrldBXkXA
+Sunshine Health Spa,"['1690 Richmond Rd', 'Staten Island, NY 10304']",Staten Island,5.0,1,"{'latitude': 40.5889702, 'longitude': -74.1016464}",3.0,4tEgNjoLKIQXopGg-Dscsw
+Manhattan Massage,"['133 E 58th St', 'Ste 902', 'New York, NY 10022']",New York,5.0,6,"{'latitude': 40.7619098, 'longitude': -73.9689897}",2.0,ggJjUQo3YMNezEx_fy2L-g
+NY NJ Tantra Hypnosis Orgasm Healing,"['Staten Island, NY 10314']",Staten Island,5.0,2,"{'latitude': 40.58394, 'longitude': -74.16046}",2.0,q_Mt2vPxlp1G8Brgl9Mu2A
+Sunny Chinese Body Work,"['137 Rivington St', 'New York, NY 10002']",New York,4.0,61,"{'latitude': 40.71929, 'longitude': -73.98647}",1.0,hc6Ky5P80H6Rs3-lns6AYg
+Spa Zone,"['3212 Broadway', 'Fl 1', 'Astoria, NY 11106']",Astoria,4.0,24,"{'latitude': 40.76118, 'longitude': -73.92427}",,Pl6vJs3DK9VIlEAY3bm4ig
+Velvet Healing By Alma,"['645 Melrose Ave', 'Bronx, NY 10455']",Bronx,3.5,4,"{'latitude': 40.818465, 'longitude': -73.916876}",2.0,pQ7-m_ZnREj8amdgM1Cykw
+Wu Beauty & Foot Spa,"['7615 3rd Ave', 'Brooklyn, NY 11209']",Brooklyn,5.0,2,"{'latitude': 40.630259, 'longitude': -74.0280627}",,tX4lGoRR_Qd18ho1FegG6w
+Royal Spa,"['149-36 Northern Blvd', 'Basement', 'Flushing, NY 11354']",Flushing,4.5,6,"{'latitude': 40.7651135, 'longitude': -73.8157381}",,jv5sQybNTo0_mJRvDHzLMw
+Lé Nailtique Noire Inc.,"['229 W 116th St', 'Ground Level', 'New York, NY 10026']",New York,5.0,2,"{'latitude': 40.8041173195, 'longitude': -73.9539065212}",,lHmgp4VZNXWD0uHP8cZBug
+All Seasons Body Work,"['316 Lexington Ave', 'Fl 1', 'New York, NY 10016']",New York,4.0,120,"{'latitude': 40.74917, 'longitude': -73.97802}",2.0,qgn1L_Oq8scD2qd3fq2LNg
+Master Spa Techs,"['5 W 35 St', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.7495279173, 'longitude': -73.9848280104}",,EBQn45jJ0wEZj59KmxZZXA
+41spa,"['41 E 41st St', 'Fl 2', 'Manhattan, NY 10017']",Manhattan,5.0,1,"{'latitude': 40.7526578830593, 'longitude': -73.9806944131851}",,RTnNkQag642OEGYnf6ncBg
+Aura Wellness Spa,"['49 West 33rd St', 'New York, NY 10001']",New York,3.0,69,"{'latitude': 40.74893, 'longitude': -73.987293}",3.0,n2RE7qNADDRv7ICcbaMAfQ
+Elegance European Skincare Studio,"['55 Cole St', 'Ste 404', 'Ridge Hill Mall', 'Yonkers, NY 10710']",Yonkers,5.0,7,"{'latitude': 40.964855, 'longitude': -73.856265}",2.0,vM0wlOkGuQltKEtk5Vt8UA
+Besu Salon and Day Spa,"['234 3rd Ave', 'New York, NY 10003']",New York,4.0,57,"{'latitude': 40.7367434, 'longitude': -73.98494444171618}",2.0,JtkNpdnCcDj-X6UgAqty9Q
+Z Relax On Union,"['265 Union Ave', 'Williamsburg, NY 11211']",Williamsburg,4.5,99,"{'latitude': 40.7079883067942, 'longitude': -73.9508088392853}",1.0,-ylEp5z6uMJFbGtDmmMKJQ
+Tokyo Health Spa,"['23-01 41st Ave', 'Queens, NY 11101']",Queens,2.5,3,"{'latitude': 40.75308, 'longitude': -73.9402}",,ZBpBm6v0Ouvj9wvR5R5iMg
+The Crafted Hand,"['129 Washington St', 'Ste - LL101', 'Hoboken, NJ 07030']",Hoboken,5.0,3,"{'latitude': 40.738322, 'longitude': -74.030348}",,LtQyDREJ64-gPk71KJFLfA
+"Diana Lomonte, PT","['8 Berry St', 'Brooklyn, NY 11249']",Brooklyn,5.0,2,"{'latitude': 40.7221702, 'longitude': -73.9554301}",,F3TcjYEs9C7yljMq6fp-DQ
+The Spa At Red Hots,"['1500 Old Northern Blvd', 'Fl 2', 'Harbourview Shoppes', 'Roslyn, NY 11576']",Roslyn,4.0,54,"{'latitude': 40.8034917, 'longitude': -73.6452484}",2.0,g1q8_waDhGaqcTWBoI1Z-Q
+AquaStar of New York,"['31 E 32nd St', 'Ste 504', 'New York, NY 10016']",New York,5.0,8,"{'latitude': 40.7464141845703, 'longitude': -73.9831695556641}",2.0,s44VQE6MDrcFIJyAIyGISQ
+Mary Spa,"['212 W Kingsbridge Rd', 'Bronx, NY 10463']",Bronx,5.0,2,"{'latitude': 40.87205, 'longitude': -73.904654}",,hDtSsqH9Ho1rxgEhBC0fUQ
+Okuyama Bodywork,"['25 Charles St', 'New York, NY 10014']",New York,5.0,52,"{'latitude': 40.7352228, 'longitude': -74.0022566}",1.0,XLECTy1hKKCBnVZSJP7_SA
+Thai Brooklyn,"['97 Green St', 'Brooklyn, NY 11222']",Brooklyn,5.0,32,"{'latitude': 40.7163674052351, 'longitude': -73.9480505976252}",,oDJdR1Eqq3I937IyMbKmAA
+Evergreen Beauty Salon,"['90-15 Corona Ave', '1 FL', 'Elmhurst, NY 11373']",Elmhurst,4.0,60,"{'latitude': 40.7419841, 'longitude': -73.8746273}",2.0,z1iWp0igEEbx5XffLgDvIQ
+Gramercy Physical Therapy,"['247 3rd Ave', 'Ste LL2', 'Manhattan, NY 10010']",Manhattan,5.0,28,"{'latitude': 40.737038, 'longitude': -73.984093}",,3PfLI6yITLFSXa5LkQbruQ
+B Jones Organic Spa,"['62B South St', 'Morristown, NJ 07960']",Morristown,5.0,15,"{'latitude': 40.7949587, 'longitude': -74.479005}",2.0,YDK1-DGbwxVOZ05_Y7anqw
+Zen Garden Spa,"['8005 Roosevelt Ave', 'Ste 2', 'Queens, NY 11372']",Queens,4.5,18,"{'latitude': 40.74766, 'longitude': -73.88552}",,4TGkajV9fYriplyJ6cGxXg
+Salvation Wellness,"['150 Bay St', 'Ste 912', 'Jersey City, NJ 07302']",Jersey City,4.5,111,"{'latitude': 40.7210284, 'longitude': -74.0401104}",,vLrrFhUZeUfaEEJZ82Bqmw
+StressbustersNYC,"['1330 Avenue Of The Americas', 'Ste 23A', 'New York, NY 10019']",New York,5.0,6,"{'latitude': 40.761966, 'longitude': -73.978473}",2.0,OemGOQSeaFVungRAQ9VppQ
+KLARA Beauty Lab,"['50 E 78th St', 'New York, NY 10075']",New York,5.0,48,"{'latitude': 40.7752571235596, 'longitude': -73.9621574457856}",3.0,rRx0o63fX5mBOYH4RxYTIg
+Brooklyn Net Wellness,"['442 9th St', 'Brooklyn, NY 11215']",Brooklyn,4.5,89,"{'latitude': 40.66686, 'longitude': -73.9819}",2.0,vrk4Vf0CIWQ7xvO0bo70EQ
+Amazing Energy Spa,"['7 Elizabeth St', 'Fl 2', 'New York, NY 10013']",New York,4.0,9,"{'latitude': 40.71574, 'longitude': -73.9976}",,iANofGY-HWdrr7Tcp26hog
+Joaquina Skin Care,"['70-11 108th St', 'Forest Hills, NY 11375']",Forest Hills,4.5,42,"{'latitude': 40.72271, 'longitude': -73.84399}",2.0,xYQ7gFHx6016VDBTf5YAcg
+Kiss Kiss Pop,"['35 W 43rd St', 'Fl 3', 'New York, NY 10036']",New York,5.0,1,"{'latitude': 40.755109, 'longitude': -73.9819838}",,MSdhskfQ9LFYDuYA8AxcHQ
+The Renew Anti-Aging Center,"['109 E 73rd St', 'Ste 1B', 'New York, NY 10021']",New York,5.0,11,"{'latitude': 40.771687, 'longitude': -73.962499}",4.0,v1gmpVKTwN7HbW_F9Ioprg
+Long Teng II Massage Spa,"['239 W 105th St', 'New York, NY 10025']",New York,4.0,78,"{'latitude': 40.800546, 'longitude': -73.967529}",1.0,lHxTPz5ohXv0DcPODqIAoA
+Pure Green Day Spa,"['228 Birch Hill Rd', 'Locust Valley, NY 11560']",Locust Valley,4.5,15,"{'latitude': 40.8800072, 'longitude': -73.595781}",,q-SH0SfG4n-XzbZABQOg5Q
+Cintron Skincare,"['422 Atlantic Ave', 'Brooklyn, NY 11217']",Brooklyn,5.0,5,"{'latitude': 40.68653, 'longitude': -73.98421}",,C7be2PlssAQ1MkRVJ8WuoQ
+Sunflower Wellness Spa,"['66-47 Grand Ave', 'Queens, NY 11378']",Queens,5.0,2,"{'latitude': 40.725372, 'longitude': -73.897351}",,dKH0kgX7TX0nITDuhml1iQ
+Taiji Body Work,"['153 W 27th St', 'New York, NY 10001']",New York,4.0,411,"{'latitude': 40.7464741460469, 'longitude': -73.9930463730163}",1.0,7Kq2KedRhNiohr2P2rEFJw
+V's Day Spa,"['534 Broadway', 'Ste 2', 'Bayonne, NJ 07002']",Bayonne,3.5,10,"{'latitude': 40.66498, 'longitude': -74.11688}",2.0,ODYNWFyj9OzWzlB2UsBuhA
+Le clinique NYC,"['37 W 26 St', 'Fl 2nd', 'New York, NY 10010']",New York,5.0,7,"{'latitude': 40.744614, 'longitude': -73.990429}",,sJZIPyyHeVrnYGIEBoQ9yQ
+All Seasons Body Work,"['57 W 8th St', 'Ground Fl', 'New York, NY 10011']",New York,4.0,102,"{'latitude': 40.73354, 'longitude': -73.99884}",1.0,zTgNrWLK_Xzxpfq3Hr_iIw
+Beth at The Day Spa,"['680 Broadway', 'Bayonne, NJ 07002']",Bayonne,4.0,4,"{'latitude': 40.67025, 'longitude': -74.11252}",,tZt5jtqwrA_oJJt0wfk6yg
+Glow Getter Salon,"['97 Storer Ave', 'Unit D2', 'Staten Island, NY 10309']",Staten Island,5.0,3,"{'latitude': 40.5387984, 'longitude': -74.2343544}",,hbh9LyOEJ5Wb7gv36XVgkQ
+Mochi Nail & Spa,"['132 Smith St', 'New York, NY 11201']",New York,4.0,22,"{'latitude': 40.68724, 'longitude': -73.99026}",,4gv1MB9n4xQPoNUnKw1SmQ
+Mermaid Spa,"['3701-11 Mermaid Ave', 'Brooklyn, NY 11224']",Brooklyn,3.5,86,"{'latitude': 40.5748333902444, 'longitude': -74.003207506371}",2.0,qhWx0g7_ZPugPFHFb6N8kg
+Ellen Marie Day Spa,"['1875 Palmer Ave', 'Larchmont, NY 10538']",Larchmont,4.0,11,"{'latitude': 40.9339408874512, 'longitude': -73.7580947875977}",3.0,jeCE54_x-dC_PSWgKlHIHw
+EuroStyle SkinCare By Zori,"['139 Fulton St', 'Ste 500, Fl 5', 'New York, NY 10038']",New York,5.0,36,"{'latitude': 40.710483, 'longitude': -74.007748}",2.0,rYgXf7o7XHbcmWt_lBraOw
+Salon M - Upper West Side,"['400 W 63rd St', 'New York, NY 10069']",New York,4.0,31,"{'latitude': 40.7743423808007, 'longitude': -73.990008528836}",3.0,2A4M8tNmK6ppdwRhvJzVWg
+Morning Dew Men Spa,"['26 Perry St', 'New York, NY 10014']",New York,4.5,7,"{'latitude': 40.735519, 'longitude': -74.00209}",,DhLotZQN7t-dQb5qh_Q83Q
+E!Spa,"['194 Nassau Ave', 'Brooklyn, NY 11222']",Brooklyn,5.0,10,"{'latitude': 40.72545, 'longitude': -73.9451799}",,WEFTArs_gOrum1vmTZPR1g
+Aum Body & Soul Spa,"['7000 Kennedy Blvd E', 'The Galaxy Mall', 'Guttenberg, NJ 07093']",Guttenberg,4.5,38,"{'latitude': 40.790939, 'longitude': -74.000936}",3.0,QARBImstVuDE9c2lQDCJwg
+Mirage spa,"['136-20 Booth Memorial Ave', 'Queens, NY 11355']",Queens,5.0,1,"{'latitude': 40.7470013, 'longitude': -73.8284668}",,2Zl1zXoYsaUvaHMQmcUOBA
+Vito Mazza Salon & Spa,"['114 Main St', 'Woodbridge, NJ 07095']",Woodbridge,4.0,139,"{'latitude': 40.5538519, 'longitude': -74.2819857}",2.0,S_E0iQyvyrY_w1A1_ecc-w
+Lotos Spa,"['324 E 73rd St', 'New York, NY 10021']",New York,5.0,1,"{'latitude': 40.7688599, 'longitude': -73.95662}",,5usAWvWvGY1_0OVg9cZ5TQ
+RainForest Relaxation Center,"['485 4th Ave', 'Brooklyn, NY 11215']",Brooklyn,4.5,110,"{'latitude': 40.66854, 'longitude': -73.98998}",1.0,ZWwOMADW-oHz5oTNSlVd3A
+Skinova Medspa,"['43 West 33rd St', 'Ste 400', 'New York, NY 10001']",New York,5.0,43,"{'latitude': 40.7488409, 'longitude': -73.9871375}",2.0,NV4S8sMDCVN9DA85aOOBkg
+Grae Therapy,"['89 Fifth Ave', 'Ste 808', 'New York, NY 10003']",New York,5.0,28,"{'latitude': 40.7374623, 'longitude': -73.9923462}",,OK5plGOjC_Pzh-CqDKvDjA
+NuZen Spa,"['3095 Lawson Blvd', 'Oceanside, NY 11572']",Oceanside,4.0,92,"{'latitude': 40.63601, 'longitude': -73.653991}",2.0,JcFXTpG9Z25kEc0NTSLXCA
+Peng's Bodywork - Morningside Heights,"['216 W 102nd St', 'New York, NY 10025']",New York,4.0,102,"{'latitude': 40.7982299, 'longitude': -73.96867}",1.0,MAX1TNDFwrcqNv5GnZsnug
+Charm Spa,"['1190 6th Ave', 'New York, NY 10036']",New York,4.0,1,"{'latitude': 40.75763, 'longitude': -73.9817}",,_kLZ8AT73-3rlruhU7I53A
+Prospect Heights Eastern  Bk Spa,"['653 Vanderbilt Ave', 'Brooklyn, NY 11238']",Brooklyn,4.0,27,"{'latitude': 40.67728, 'longitude': -73.968635}",2.0,y41lVi_3clh0l7tM17lmdQ
+Ever/Body Flatiron,"['16 West 17th St', 'New York, NY 10011']",New York,5.0,14,"{'latitude': 40.73829, 'longitude': -73.99335}",,oWWtagnQYQcwrFuGu0ZLlw
+Magnolia + Fig Micro-Spa,"['1403 Irving St', 'The Watt', 'Rahway, NY 07065']",Rahway,5.0,6,"{'latitude': 40.6060084, 'longitude': -74.2755008}",,CeVUEpITq4Q4WXap_oswhA
+Lee89 Spa,"['201 E 89th St', 'New York, NY 10128']",New York,4.5,60,"{'latitude': 40.7807492990953, 'longitude': -73.9524561410021}",1.0,KRwoFfSFoe9ebpO8Azahiw
+Four Seasons Body Work,"['271 1st Ave', 'Fl 2', 'New York, NY 10003']",New York,4.5,35,"{'latitude': 40.7325, 'longitude': -73.9821}",,ZyLM8PkVyQuygK6mpl9U7A
+Tamago Skin Care,"['236 E 13th St', 'New York, NY 10003']",New York,4.0,160,"{'latitude': 40.73193, 'longitude': -73.98633}",2.0,b57Rsh0zlFIu86V6_utaPg
+Next Health,"['160 Madison Ave', 'New York, NY 10016']",New York,5.0,11,"{'latitude': 40.747115, 'longitude': -73.983746}",,WeKFrwOmcZWUrHA1odbX3A
+Shine Detox Center,"['164-10 Northern Blvd', 'Ste 202', 'Queens, NY 11358']",Queens,5.0,1,"{'latitude': 40.76028, 'longitude': -73.8018699}",,oqaoRPGU9hyUHtoXG8Wsjg
+SPA 7,"['474 7th Ave', 'Fl 3', 'New York, NY 10001']",New York,4.0,21,"{'latitude': 40.75219, 'longitude': -73.98999}",2.0,UumbJ4lmxQOzHU4utz5V4g
+Soul Soothing Massage,"['40 Exchange Pl', 'New York, NY 10005']",New York,5.0,6,"{'latitude': 40.70569, 'longitude': -74.01029}",2.0,9Y4My0hYeLl8QiXKG5EA6g
+Spring Spa,"['2120 Boston Post Rd', 'Larchmont, NY 10538']",Larchmont,5.0,5,"{'latitude': 40.927702, 'longitude': -73.752061}",1.0,IXVEqGTelUSNQF98TcdqOg
+Xia Spa,"['25 Waterside Plz', 'Manhattan, NY 10010']",Manhattan,4.0,21,"{'latitude': 40.7372169, 'longitude': -73.9741058}",2.0,3Lxsgf1O4e4nnvRhKkeKxA
+The Beautie Bar,"['36 Navy Pier Ct', 'Staten Island, NY 10304']",Staten Island,5.0,4,"{'latitude': 40.628787012954, 'longitude': -74.0736736162296}",,APpQW2L7SM2KlPdgRLozdw
+Temple Concierge Spa,"['525 W 52nd St', 'Fl 2', 'New York, NY 10019']",New York,5.0,2,"{'latitude': 40.7664251784791, 'longitude': -73.9916965330658}",,7VsoKnCKDUnNEgTYFknu5g
+Joyce Spa,"['25-06 31st St', 'Astoria, NY 11102']",Astoria,3.0,1,"{'latitude': 40.7702735, 'longitude': -73.9180463}",,kVSfsi01s6Le2Hr9Z9bDzQ
+CAP Beauty,"['238 W 10th St', 'New York, NY 10014']",New York,4.0,30,"{'latitude': 40.7337227, 'longitude': -74.0055237}",3.0,0TGmT4bd9cXYRCuG4HhwNg
+VT Salon.,"['9718 3rd Ave', 'Brooklyn, NY 11209']",Brooklyn,4.5,7,"{'latitude': 40.6154859, 'longitude': -74.0343477}",2.0,dTyvtKIcEwgehUhQwI2i_A
+LifeSpa Sky,"['605 W 42nd St', 'New York, NY 10036']",New York,5.0,1,"{'latitude': 40.761186, 'longitude': -73.998443}",,xcyFNcI6p0J0xzQvEpOPkg
+Salon Rhed,"['374 Myrtle Ave', 'Brooklyn, NY 11205']",Brooklyn,5.0,4,"{'latitude': 40.692986, 'longitude': -73.971215}",,VHWGQPW4-T6YlQPRpixniw
+REE Nail & Spa,"['1368 Lexington Ave', 'New York, NY 10128']",New York,4.5,33,"{'latitude': 40.782495, 'longitude': -73.953723}",,mDtIi7Co8ry-xydILLhI0Q
+Serenity Spa East Village,"['33 1st Ave', 'New York, NY 10003']",New York,3.5,4,"{'latitude': 40.72411, 'longitude': -73.98808}",,zuVgFUSKzdazfgu4a8e7Rw
+Noctua Diem Recovery Spa,"['62-18 68th Ave', 'Ridgewood, NY 11385']",Ridgewood,5.0,30,"{'latitude': 40.705466, 'longitude': -73.894556}",2.0,J8lAuXEgiFesYGN_8Hid9Q
+Love Your Body NY,"['86 Brighton 1st Pl', 'Brooklyn, NY 11235']",Brooklyn,4.5,15,"{'latitude': 40.57715, 'longitude': -73.966}",1.0,ZA0QuRR38dBQ3imeR5Lv9Q
+Babor Signature Spa,"['246 Spring St', 'New York, NY 10013']",New York,3.5,47,"{'latitude': 40.725315, 'longitude': -74.005515}",4.0,ATuY6aPXsfa6Hgs9JM08bg
+A's Body Works,"['875 3rd Ave', 'Fl 2, Rm M105', 'New York, NY 10022']",New York,4.5,242,"{'latitude': 40.75713, 'longitude': -73.969559}",1.0,XRdqB1-GjPCCkf3Fp2q0HQ
+Spa @ Eventi Hotel,"['851 Ave Of The Americas', 'Fl 5', 'New York, NY 10001']",New York,3.0,22,"{'latitude': 40.7471535251135, 'longitude': -73.9897867899187}",3.0,ngdYy6VlPLqg176E5jMgPQ
+All Seasons Body Work,"['31-80 Steinway St', 'Astoria, NY 11103']",Astoria,5.0,37,"{'latitude': 40.759446, 'longitude': -73.918976}",,XBxvjTafsjeL9c3IpwjxIg
+99 Health Club 99號公館,"['746 61st St', 'Brooklyn, NY 11220']",Brooklyn,3.0,55,"{'latitude': 40.6353340148926, 'longitude': -74.0113754272461}",2.0,XhfDlM89O2ftYJMZtfvmPQ
+Ever/Body SoHo,"['453 West Broadway', 'New York, NY 10012']",New York,4.5,23,"{'latitude': 40.72601, 'longitude': -74.00051}",,lSnN1kATxwLA1SYW7-bE7g
+Gongfu Body Work,"['101 W 17th St', 'New York, NY 10011']",New York,4.0,146,"{'latitude': 40.7395, 'longitude': -73.99574}",1.0,vbYgV0nl0rKZxCVLxQEWag
+Williamsburg Beauty Spa,"['105 Berry St', 'Brooklyn, NY 11249']",Brooklyn,3.5,48,"{'latitude': 40.718916, 'longitude': -73.958359}",2.0,xks5etBJuu4GzUIFmgOsFA
+Sava Spa,"['211 Pinehurst Ave', 'New York, NY 10033']",New York,4.5,26,"{'latitude': 40.85512, 'longitude': -73.93776}",2.0,uS6xTGgvU2U0LyOLpLLV1A
+Skin Station - Old Town Rd,"['205 Old Town Rd', 'Staten Island, NY 10305']",Staten Island,4.0,36,"{'latitude': 40.5961112976074, 'longitude': -74.0862731933594}",2.0,pOktdWpwnCCCQt6whupJIQ
+Day Spa Gata,"['107 W 82nd St', 'Ste 105', 'New York, NY 10024']",New York,4.0,10,"{'latitude': 40.78423, 'longitude': -73.97459}",2.0,FAjbpK4qBRo0inAJ0X3dFA
+Luck Body Work,"['125 Elizabeth St', 'New York, NY 10013']",New York,5.0,1,"{'latitude': 40.7194901, 'longitude': -73.9956512}",1.0,SDHVUGluj47CMnekd_HeoQ
+Massage Envy - Bayside,"['38-03 Bell Blvd', 'Bayside, NY 11361']",Bayside,3.5,53,"{'latitude': 40.766402, 'longitude': -73.772202}",2.0,FZll46qAHXeo6OkLzHIIFw
+Skin Spa New York - Soho,"['495 Broadway', 'Lower Level', 'New York, NY 10012']",New York,3.5,466,"{'latitude': 40.72215, 'longitude': -73.999847}",2.0,6UeM65PNZH1MHKRMZjREAg
+LifeSpa Florham Park,"['14 Fernwood Rd', 'Florham Park, NJ 07932']",Florham Park,4.5,14,"{'latitude': 40.7889427, 'longitude': -74.3725631}",3.0,jj-PutbFHrEJnj9oXlWJJQ
+Beauty & Health Center,"['514 5th Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,1,"{'latitude': 40.66697, 'longitude': -73.98833}",1.0,bSruGPrCgorZ6JHHqGjz3A
+Alta Spa,"['1066 Ogden Ave', 'Highbridge, NY 10452']",Highbridge,4.5,6,"{'latitude': 40.834606, 'longitude': -73.928115}",2.0,e4951eh-wig6M4DK0e-_Bg
+Liangtse Wellness - Midtown,"['150 E 55th St', 'New York, NY 10022']",New York,5.0,48,"{'latitude': 40.75921, 'longitude': -73.96938}",2.0,ryC6LepaMt_Yh5UsE-UUNw
+Full Moon Spa,"['31-85 42nd St', 'Astoria, NY 11103']",Astoria,4.5,19,"{'latitude': 40.758467, 'longitude': -73.917087}",,Y_NR6leZIm6ev14-5sw5Aw
+Edenland Wellness Massage,"['10 Highwood Ave', 'Tenafly, NJ 07670']",Tenafly,5.0,6,"{'latitude': 40.92534, 'longitude': -73.96374}",1.0,LRchFe28p18Qe1QZkbHiAQ
+Sphatika Skincare & Spa,"['818 Madison Ave', 'Fl 3', 'New York, NY 10065']",New York,4.5,19,"{'latitude': 40.769672, 'longitude': -73.967315}",3.0,9c6-ERQUIUY9o7cm02yezQ
+European Day Spa,"['411 Broadway', 'Bayonne, NJ 07002']",Bayonne,4.0,30,"{'latitude': 40.66109, 'longitude': -74.12101}",2.0,XW1GL5FEcJYkhXFOdlbwJA
+Treatment by Lanshin,"['129 Roebling St', 'Brooklyn, NY 11211']",Brooklyn,5.0,18,"{'latitude': 40.714723, 'longitude': -73.956483}",3.0,UjPRE3OzCBQfog7xoN4lAA
+J'Spa Tribeca,"['7 Lispenard St', ""J'spa tribeca"", 'New York, NY 10013']",New York,3.5,108,"{'latitude': 40.72053, 'longitude': -74.0048}",2.0,6qZReCo2ZcLa5Xaki3UTUw
+"Alex Lippard, Licensed Massage Therapist","['335 Manhattan Ave', 'Fl 3', 'Brooklyn, NY 11211']",Brooklyn,5.0,14,"{'latitude': 40.715498, 'longitude': -73.94647}",,SvQoKaWpkV8m0spJzaEL1g
+Oranges Spa,"['110A Valley St', 'South Orange, NJ 07079']",South Orange,4.0,19,"{'latitude': 40.74379, 'longitude': -74.26006}",,PhnKRVcVikTLLggMRP0ckQ
+J And S Spa,"['7113 5th Ave', 'New York, NY 11209']",New York,4.0,40,"{'latitude': 40.6321983337402, 'longitude': -74.0213623046875}",2.0,Q9SSPJWwMZmpY9mUklfkrQ
+Spa Broadway,"['2271 Broadway', 'New York, NY 10024']",New York,4.0,40,"{'latitude': 40.78567, 'longitude': -73.97891}",2.0,5g0hnB_QoU71k3Eg9ew_6w
+B C Massage,"['573 Prospect Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,16,"{'latitude': 40.657155, 'longitude': -73.978432}",2.0,jkGFoS3yyFMsa-w8gt4cKg
+Healthy Body Work,"['97 N 1st St', 'Brooklyn, NY 11249']",Brooklyn,5.0,12,"{'latitude': 40.7161217, 'longitude': -73.9628296}",,ZNUTDEFeiLGoQlukqZdybg
+Skin Station - Manhattan,"['113 Eldridge St', 'New York, NY 10002']",New York,4.0,117,"{'latitude': 40.7183089, 'longitude': -73.9920722}",2.0,UuyWzFzeyxSL_0UlAk6uIw
+Li Beauty & Spa,"['16 Beaver St', 'New York, NY 10004']",New York,4.5,9,"{'latitude': 40.70482, 'longitude': -74.0125}",,eaNtjL1jrlNZciNTgeR9Yg
+PrimpNYC,"['142 Beekman St', 'New York, NY 10038']",New York,4.5,30,"{'latitude': 40.70716, 'longitude': -74.00256}",,Rpv8xpxBv4XnJXoQQzodAg
+Escape Mens Spa,"['459 W 18th St', 'New York, NY 10011']",New York,4.5,3,"{'latitude': 40.7446065, 'longitude': -74.00580733}",,QF2nkmBe_PzEf_-pJpa29g
+Ling's Beauty Spa,"['17A Mott St', 'New York, NY 10013']",New York,4.0,5,"{'latitude': 40.7142699315634, 'longitude': -73.9988677203655}",,_Zcn1dw_ye_-SjmR8WHZ9Q
+Angel SPA for Gentlemen,"['180-4 Union Tpke', 'Queens, NY 11366']",Queens,2.5,2,"{'latitude': 40.7269721375143, 'longitude': -73.7876907288786}",,TwaFv_bKHO4spEm-wwGZsA
+Adriana's Spa,"['212 Main St', 'Eastchester, NY 10707']",Eastchester,4.5,13,"{'latitude': 40.9497435, 'longitude': -73.8191979}",4.0,siZQg4lY-S52xWWqEDIydw
+Brooklyn Body Mechanic,"['649 Morgan Ave', 'Ste B3A', 'Brooklyn, NY 11222']",Brooklyn,5.0,2,"{'latitude': 40.726507, 'longitude': -73.940163}",,fvAHUspJL8-hWx0zlRgo1A
+MYW Studio Spa and Fitness,"['113 Forest Ave', 'Locust Valley, NY 11560']",Locust Valley,5.0,1,"{'latitude': 40.8754700852468, 'longitude': -73.5999250895677}",,iGWlkzkjxYew1FLbEa80Hg
+Relax Foot Spa,"['202 Hester St', 'New York, NY 10013']",New York,4.0,227,"{'latitude': 40.7183801, 'longitude': -73.9990327}",1.0,k-i_6gHtSkAyNNjJpAXp3w
+Body Mechanics Orthopedic Massage,"['1 W 34th St', 'Ste 204', 'New York, NY 10001']",New York,5.0,163,"{'latitude': 40.748906, 'longitude': -73.984957}",,8fZddu3UxgKzSjmgcR7xyQ
+Caroline's Spa,"['4468 Boradway', 'New York, NY 10040']",New York,4.5,6,"{'latitude': 40.85707, 'longitude': -73.93206}",,-k9rknf422hVbaGXPa189Q
+Jaidore Heavenly Spa,"['1173 Broadway', 'Hewlett, NY 11557']",Hewlett,5.0,4,"{'latitude': 40.6358372, 'longitude': -73.70314}",,PIk2x_VMezB6jXQM-XZKvA
+SPACIO SANU,"['1801 Amethyst St', 'Store  2', 'Bronx, NY 10462']",Bronx,5.0,1,"{'latitude': 40.84522, 'longitude': -73.86799}",,SGUYbFCRdgul2Ndg-lr72g
+Healthy Spa & Acu,"['30-27 Steinway St', 'Fl 2', 'Astoria, NY 11103']",Astoria,5.0,5,"{'latitude': 40.76307, 'longitude': -73.91529}",,348-hykyELiHs7AkdrbEWQ
+Massage Therapy By Eddie,"['109 W 38th St', 'Fl 4, Room 401', 'New York, NY 10018']",New York,5.0,88,"{'latitude': 40.75263, 'longitude': -73.98639}",,LTpFKrf3jHkcGlmSiuM02w
+LaVida Massage,"['2955 Veterans Rd W', 'Ste 2i', 'Staten Island, NY 10309']",Staten Island,4.0,51,"{'latitude': 40.5273545, 'longitude': -74.23256}",2.0,_iBjdll-QOh0Ksu7btVHXw
+Skinney Medspa,"['125 5th Ave', 'Fl 2', 'New York, NY 10003']",New York,4.0,104,"{'latitude': 40.73931, 'longitude': -73.99099}",2.0,i822mnfuzLx-vDpt1_NnhA
+My Spa,"['666 Flatbush Ave', 'Brooklyn, NY 11225']",Brooklyn,3.0,79,"{'latitude': 40.65705, 'longitude': -73.96037}",1.0,Pfjhr2gaJKagyS_S2LbOPw
+Forest Hills Spa,"['59-21 Calloway St', 'Corona, NY 11368']",Corona,3.5,30,"{'latitude': 40.73772, 'longitude': -73.85656}",2.0,L8zMVSH0_8r6iaaXwIubTQ
+True Alchemy,"['12 West 27th St', 'Fl 9', 'Modrn Sanctuary', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.7445201, 'longitude': -73.9893102}",,XXxKvZQQunkrI083FBfS6Q
+Fifth Avenue Thai Spa,"['5 E 57th St', 'Fl 4', 'New York, NY 10022']",New York,4.0,98,"{'latitude': 40.762923, 'longitude': -73.973142}",3.0,kbKrGqZLqxZYroPxJM1X8Q
+Attune Well,"['41 Saint Felix St', 'Brooklyn, NY 11217']",Brooklyn,5.0,24,"{'latitude': 40.68844, 'longitude': -73.97746}",,JKUORkx_IW-pGeS0ieRxoA
+Spa on the Wharf,"['405 Main St', 'Port Washington, NY 11050']",Port Washington,5.0,6,"{'latitude': 40.829634, 'longitude': -73.702362}",2.0,gSGvHH9QnL26KwCxKICAFg
+Smiles Spa,"['336A Main St', 'Hackensack, NJ 07601']",Hackensack,4.5,2,"{'latitude': 40.888828, 'longitude': -74.040094}",,tITvc34rQEsElFLQN6rmkg
+Energy Bodywork,"['51 W 14th St', 'Apt 2F', 'New York, NY 10011']",New York,5.0,11,"{'latitude': 40.7372597599489, 'longitude': -73.9959802597048}",,qnhAO4ZHeKP7mX2WTGOQtA
+Fresh as Daisy Kids Spa & Salon,"['9305 Glenwood Rd', 'Bldg 2', 'Brooklyn, NY 11236']",Brooklyn,5.0,10,"{'latitude': 40.64338, 'longitude': -73.90544}",2.0,_rRikL_DmaW4WymL1KWhQQ
+Pierre Michel Salon,"['135 E 57th St', 'Fl 3', 'New York, NY 10022']",New York,4.5,74,"{'latitude': 40.76122, 'longitude': -73.96942}",3.0,ezl4foTzDdgYiXZ6Z7HdDQ
+Lucky Spa Washington Heights,"['707 W 171st St', 'New York, NY 10032']",New York,4.0,62,"{'latitude': 40.844579, 'longitude': -73.941629}",,Efx0iJ5-tXxcfQnki31KwQ
+Lanqi Beauty Spa,"['135-20 Roosevelt Ave', 'Ste 2FL', 'Flushing, NY 11354']",Flushing,5.0,1,"{'latitude': 40.75898, 'longitude': -73.83119}",,6cYtWC-x1qVDZ6Osd0j33w
+Heaven Spa,"['15 W 17th St', 'New York, NY 10011']",New York,4.0,4,"{'latitude': 40.7385101318359, 'longitude': -73.9930953979492}",3.0,syZHbd710MT49qOATxMoTg
+Mott Spa,"['106 Mott St', 'Manhattan, NY 10013']",Manhattan,4.0,5,"{'latitude': 40.7174798101187, 'longitude': -73.9972899109125}",2.0,9yZP2O-eVtTG_3Jp9oLIGw
+Benessere,"['510 Morris St', 'Summit, NJ 07901']",Summit,5.0,14,"{'latitude': 40.7258845, 'longitude': -74.3730529}",2.0,dwvsYUgEgccYf5IbEc94mw
+Asian Palm Spa,"['35 W 14th St', 'Fl 2', 'New York, NY 10011']",New York,4.0,2,"{'latitude': 40.73699, 'longitude': -73.99522}",,SrUJrWKEL8kmMHopdA6_DA
+Russian Baths on Neck Road,"['1200 Gravesend Neck Rd', 'Brooklyn, NY 11229']",Brooklyn,4.0,62,"{'latitude': 40.59424, 'longitude': -73.95788}",2.0,moK8qANVn1gQcF-fnPRnWg
+DB Salon and Spa,"['5811 5th Ave', 'Brooklyn, NY 11214']",Brooklyn,5.0,6,"{'latitude': 40.640302, 'longitude': -74.01511}",,88kRIPuQg2p_UEvffAK7gw
+Taiji Body Work,"['127 W 72nd St', 'Fl 2', 'New York, NY 10023']",New York,3.5,208,"{'latitude': 40.77796, 'longitude': -73.97969}",1.0,9bPRiRtNILDhbjwtgq2vwQ
+Skin Station - Forest Avenue,"['771 Forest Ave', 'Staten Island, NY 10310']",Staten Island,4.5,51,"{'latitude': 40.62924, 'longitude': -74.11464}",2.0,jfAcHtC34_sMIV7ZhIUE9Q
+Lomi Manhattan,"['333 E 46th St', 'Manhattan, NY 10017']",Manhattan,5.0,8,"{'latitude': 40.7520734, 'longitude': -73.9690003}",,DtG-h8vKk7wY1Vat8cx43w
+Pelham Happy Feet,"['1631 Crosby Ave', 'Bronx, NY 10461']",Bronx,4.5,30,"{'latitude': 40.844743, 'longitude': -73.831041}",2.0,pvcTrj96GtVaklge_TLNmg
+Lotus Pond Relaxation Cove,"['309 Broadway', 'Hillsdale, NJ 07642']",Hillsdale,4.5,31,"{'latitude': 41.0097503662109, 'longitude': -74.0424194335938}",2.0,JFXXvt65-yACjJAHpgmqvQ
+Grace Spa & Gift,"['2188 Jericho Tpke', 'Garden City Park, NY 11040']",Garden City Park,5.0,4,"{'latitude': 40.738378, 'longitude': -73.66761}",,NJoJb91oBLMlCGQDFG6MGQ
+UP Spa,"['22 E 66th St', 'New York, NY 10065']",New York,4.5,33,"{'latitude': 40.768011, 'longitude': -73.968721}",2.0,KngllKN2VslnY2BzCfEP1w
+Sunshine Best Body Work,"['4 Park Pl', 'Brooklyn, NY 11217']",Brooklyn,4.0,150,"{'latitude': 40.67954, 'longitude': -73.97812}",1.0,VcpVYxtQxSv601iBvtKpnA
+Aroma Spa,"['439 Central Ave', 'Westfield, NJ 07090']",Westfield,5.0,3,"{'latitude': 40.64863883, 'longitude': -74.341708}",,2Ok5dbJVUWMwTefIQCtGwQ
+Skin Spa New York - Flatiron and  Chelsea's,"['11 W 20th St', 'New York, NY 10011']",New York,3.5,519,"{'latitude': 40.7403205, 'longitude': -73.9918869}",2.0,KQo0KPZZCt2srDmmt0Qy-Q
+Body Roll Studio,"['59 Franklin St', 'New York, NY 10013']",New York,4.5,3,"{'latitude': 40.71708, 'longitude': -74.00297}",,nNhHmjs-jVYmYyEf4cLwvA
+StressLess NYC,"['214 W 85th St', 'New York, NY 10024']",New York,5.0,9,"{'latitude': 40.787331, 'longitude': -73.97664}",2.0,V6RnYEojn1tra0wQda5YAg
+Vedette Beauty & Skin Care,"['738 E 31st', 'Brooklyn, NY 11210']",Brooklyn,4.5,60,"{'latitude': 40.633091, 'longitude': -73.947069}",3.0,NFjdcE_131JcjVlZtIOHKw
+OrganicHand,"['444 S 5th St', 'Brooklyn, NY 11211']",Brooklyn,5.0,1,"{'latitude': 40.7067952, 'longitude': -73.9511385}",,nXKEh5yVkYSc9m99cbJgZQ
+Spring Garden Beauty Center,"['30 Ann St', 'New York, NY 10038']",New York,3.5,65,"{'latitude': 40.71071, 'longitude': -74.00773}",1.0,VLvFk3tyB0VonJo4KLOyJQ
+"Camellia Lee, LMT","['151 West 19th St', 'Ste 1103', 'New York, NY 12498']",New York,5.0,24,"{'latitude': 40.7414414, 'longitude': -73.9965239}",,pDbq48zpgMoaNoBI-hQDgw
+Able Body Spa,"['405 Park Ave', 'Scotch Plains, NJ 07076']",Scotch Plains,5.0,12,"{'latitude': 40.6505704, 'longitude': -74.3977698}",2.0,-lri4Z3qERTC3IOcwO69KQ
+Nush Skincare,"['500 E 77th St', 'New York, NY 10162']",New York,4.0,9,"{'latitude': 40.769442, 'longitude': -73.95087}",,-Lkq7mWgZRdq2ZTVY3ZsnA
+Tai Chi Back Massage,"['216 E 6th St', 'New York, NY 10003']",New York,4.5,59,"{'latitude': 40.727775, 'longitude': -73.98999}",1.0,QoqMnc_Yj02mwEtIawlzOw
+Opulence Glamour Skin Clinic,"['7506 Metropolitan Ave', 'Queens, NY 11379']",Queens,5.0,4,"{'latitude': 40.727773, 'longitude': -73.947884}",,aIdo-a7zn68OZA-P9-EG7A
+Sunshine Bodywork 88,"['355-9 7th Ave', 'Room 206', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7483566736, 'longitude': -73.9925265045912}",1.0,XjFHhjdbbPn3yYj4SU4aCQ
+Sky Tree Spa,"['252 W 31st St', 'Fl 2', 'New York, NY 10001']",New York,4.5,19,"{'latitude': 40.74989, 'longitude': -73.99425}",,fGqWtxJO1M2RaowbbQACwg
+Aria Spa,"['1401 NJ-23', 'Butler, NJ 07405']",Butler,3.5,38,"{'latitude': 40.99633, 'longitude': -74.35291}",2.0,p2k81D3AADGb3p27YdRtTw
+Schweiger Dermatology Group - Brooklyn Heights,"['32 Court St', 'Ste 302', 'Brooklyn, NY 11201']",Brooklyn,4.0,50,"{'latitude': 40.692956, 'longitude': -73.991041}",,xJqCrZj8OrLkvZg-aLcOhQ
+Steam Lounge & Spa,"['548 Schenck Ave', 'Brooklyn, NY 11207']",Brooklyn,4.5,7,"{'latitude': 40.667072, 'longitude': -73.88726}",,w1qHetIk0qtKz--4wVNI8Q
+Berry Blonde Spa,"['767 Lexington Ave', 'Suite 402', 'New York, NY 10065']",New York,4.5,122,"{'latitude': 40.76299, 'longitude': -73.96745}",2.0,yrpz-O5_kgJwZoYAoW8yYw
+IMD Beauty Spa,"['224 5th Ave', 'Fl 6', 'New York, NY 10001']",New York,4.0,25,"{'latitude': 40.74382, 'longitude': -73.98815}",,ojuy60uDvkf259PlsH8SGQ
+Skin Spa New York - Midtown,"['12 E 44th St', 'Fl 2', 'New York, NY 10017']",New York,3.5,545,"{'latitude': 40.7542252, 'longitude': -73.979149}",2.0,wmv9vGht17V8Jrob-k15ug
+Tang Chao Spa,"['1112 Avenue U', 'Brooklyn, NY 11223']",Brooklyn,4.5,2,"{'latitude': 40.59819, 'longitude': -73.960643}",,fnMpxcNdfM50bpsC7ToOPg
+Moonlight Spa,"['722 Washington St', 'Hoboken, NJ 07030']",Hoboken,4.5,94,"{'latitude': 40.74552, 'longitude': -74.02877}",,rfVCRUZu6qpHC_XFDYKtHg
+Studio Nicki Spice,"['914 Bedford Ave', 'BROOKLYN, NY 11205']",BROOKLYN,5.0,7,"{'latitude': 40.69338, 'longitude': -73.95607}",,OsWYOAduDM4sWWgxSz-QUQ
+Simply Therapeutic,"['49-04 43rd Ave', 'Woodside, NY 11377']",Woodside,5.0,37,"{'latitude': 40.74434, 'longitude': -73.91536}",,zSRRfvSjBcj4FY3wSnMBCQ
+Okuyama Bodywork,"['181 W 4th St', 'New York, NY 10014']",New York,4.5,139,"{'latitude': 40.7325430897763, 'longitude': -74.0017086153442}",1.0,_rBO3DPZRfVF4up0ioOxww
+The Yinova Center,"['37 W 17th St', 'Ste 300', 'New York, NY 10011']",New York,4.5,47,"{'latitude': 40.73881, 'longitude': -73.99407}",2.0,bNeVBT-zqYLOEp0OxRM17g
+Beauty Box Nails & Spa,"['2091 Broadway', 'New York, NY 10023']",New York,5.0,10,"{'latitude': 40.779311, 'longitude': -73.982093}",,fX74Zdk6rUZkmk1MX4Wj9Q
+Melandre Salon & Sulis Spa,"['509 Franklin Ave', 'Nutley, NJ 07110']",Nutley,4.0,66,"{'latitude': 40.82388, 'longitude': -74.15542}",3.0,tJU6JlGvEALwI3vNg52vAw
+Sparrow Massage,"['199 Monitor St', 'Fl-2', 'Brooklyn, NY 11222']",Brooklyn,5.0,2,"{'latitude': 40.72627307627582, 'longitude': -73.943017}",,q44NK4GtLfR31XBgV7a8zQ
+Just Relaxation Spa,"['60-13 Myrtle Ave', 'Ridgewood, NY 11385']",Ridgewood,2.0,30,"{'latitude': 40.70066, 'longitude': -73.89783}",,d0UPoKwgXTYuWStTdTLkyw
+Elaine Face Work,"['220 Centre St', 'New York, NY 10013']",New York,5.0,24,"{'latitude': 40.71939, 'longitude': -73.998626}",2.0,tvPpJ2Uafux5q5dr5EajSg
+Angela’s Shapes,"['4220 Greenpoint Ave', 'Long Island City, NY 11104']",Long Island City,5.0,1,"{'latitude': 40.7404462, 'longitude': -73.9226775}",,9X3QhqjivivS9FiZ1kCrkg
+Perfect Silhouette Spa,"['45-05 Francis Lewis Blvd', 'Flushing, NY 11361']",Flushing,4.5,6,"{'latitude': 40.75658, 'longitude': -73.78233}",,rDZahz_Cv9hj7BQC9F2nog
+Authentic Thai Massage NYC,"['767 Lexington Ave', 'Ste 304', 'New York, NY 10065']",New York,4.0,233,"{'latitude': 40.762984, 'longitude': -73.967415}",,qS-bB-QGFn97i_8Av8lTYQ
+Jena Beauty Salon Spa,"['1729 1st Ave', 'New York, NY 10128']",New York,5.0,1,"{'latitude': 40.779294, 'longitude': -73.94796067}",,OGXKDwC0KVga8b1L1uRgRw
+New Hero Men Spa,"['300 W 56th St', 'Fl 2', 'New York, NY 10019']",New York,4.0,8,"{'latitude': 40.7659017, 'longitude': -73.983375}",,FMKUcnVLkXkcrDAMgDq0Bw
+Serene Spa & Boutique,"['288 Center Ave', 'Westwood, NJ 07675']",Westwood,4.5,8,"{'latitude': 40.9923102, 'longitude': -74.0322665}",3.0,HaBl-UJmmupjzGhwmnM3nw
+Juliet Maris Bodywork,"['80 E 11th St', 'Ste PH606', 'New York, NY 10003']",New York,5.0,3,"{'latitude': 40.7325089, 'longitude': -73.9917221}",,Oic-EPN0QJUaDqgOJaD77w
+Purple Lounge Spa Mobile,"['Brooklyn, NY 11201']",Brooklyn,5.0,4,"{'latitude': 40.6924514770508, 'longitude': -73.9903564453125}",3.0,MTudB9PrACMAPc3lF1YUAg
+Graham Spa,"['414 Graham Ave', 'Brooklyn, NY 11211']",Brooklyn,5.0,7,"{'latitude': 40.71719, 'longitude': -73.94466}",,Qa5sfiOXAtd0tfGCey6Z7Q
+Power PT,"['123 W 18th St', 'New York, NY 10011']",New York,5.0,1,"{'latitude': 40.7404124, 'longitude': -73.9960807}",,_VA3C6jGhMsLDZNdnVi_qA
+Golden dream spa,"['152 Chambers St', 'New York, NY 10007']",New York,3.0,11,"{'latitude': 40.7156752, 'longitude': -74.0100668}",,NdYoYzEpXhliQhi0yKciqw
+IMMA Therapy,"['41 Union Square W', 'Ste 912', 'Inside SoulBeing Wellness', 'New York, NY 10003']",New York,5.0,7,"{'latitude': 40.7371639, 'longitude': -73.9907629}",,ZqckX9VW_O3nxxewWbo6Zg
+MASA.KANAI,"['570 Columbus Ave', 'New York, NY 10024']",New York,4.5,91,"{'latitude': 40.7878, 'longitude': -73.97163}",2.0,EyUbDeZLG3pnwUomOXINRQ
+Salon Gio & Day Spa,"['8312 13th Ave', 'Brooklyn, NY 11228']",Brooklyn,3.5,25,"{'latitude': 40.6156387329102, 'longitude': -74.0126953125}",3.0,BPwKaHPuUiy3rwtZ7ZEC9w
+Spa Ela Bonita,"['161 W 54th St', 'Ste 203', 'New York, NY 10019']",New York,4.0,29,"{'latitude': 40.7635097, 'longitude': -73.981243}",2.0,jaeBUaRTYphrKJi6n-_wZA
+Paradise Day Spa,"['3725 Main St', 'Flushing, NY 11354']",Flushing,4.0,8,"{'latitude': 40.76109, 'longitude': -73.83057}",2.0,P1iAJm3vqkXczJWcP0WCzA
+Luxe Den Salon & Spa,"['519 8th Ave', 'New York, NY 10018']",New York,4.0,397,"{'latitude': 40.75341, 'longitude': -73.99302}",2.0,bfjORFdkg3XvTYeaZi8rGw
+New Wonderful Spring,"['295 Court St', 'Brooklyn, NY 11231']",Brooklyn,4.0,22,"{'latitude': 40.684, 'longitude': -73.99493}",1.0,sVsdJwXTvpFzDTtDyj34ug
+Rainbow88 Body Work Station,"['329 Bowery St', 'Manhattan, NY 10003']",Manhattan,4.5,52,"{'latitude': 40.7257606931331, 'longitude': -73.9918664842844}",,RjWs81e0Wo4ufm7usAuaBA
+Thai Massage NYC,"['315 Madison Ave', 'Entrance on SE corner of 42nd Street', 'New York, NY 10017']",New York,4.5,31,"{'latitude': 40.7525412, 'longitude': -73.9792042}",2.0,e_dla5ZK4X5EX90qACjfxg
+Josephines's Spa,"['17 Nagle Ave', 'New York, NY 10040']",New York,3.5,34,"{'latitude': 40.8593, 'longitude': -73.93051}",2.0,afqFHwX-QuK6250tTwTb7g
+Serenity at Parkside,"['356 Eastern Pkwy', 'Brooklyn, NY 11225']",Brooklyn,3.5,4,"{'latitude': 40.67009, 'longitude': -73.9571799}",2.0,1iHaBAzHjizTb0JKTtOjtQ
+Chelsea Wellness,"['133 W 25th St', 'New York, NY 10001']",New York,4.5,10,"{'latitude': 40.744989, 'longitude': -73.993242}",,qvhtZFwKG70Qa_lJkW78qw
+Equilibrium Physical Therapy,"['261 E 78th St', 'Fl 2', 'Manhattan, NY 10075']",Manhattan,4.0,9,"{'latitude': 40.77304, 'longitude': -73.95588}",,oTMKLYq7tiF5D3kzNTIanw
+Lexson Massage Therapy,"['Bradhurst Ave & W 143rd St', 'New York, NY 10030']",New York,5.0,41,"{'latitude': 40.8220562, 'longitude': -73.9440522}",,ego1v_I0SWZhMxpkEzlGwQ
+Yin's Beauty & Spa,"['6804 20th Ave', 'Brooklyn, NY 11204']",Brooklyn,3.5,44,"{'latitude': 40.614824, 'longitude': -73.98803}",2.0,qANaEIghOSLx1qyZSzpWFg
+Lucky Eastern Spa,"['647 2nd Ave', 'New York, NY 10016']",New York,4.0,59,"{'latitude': 40.745799, 'longitude': -73.975556}",1.0,WwSxmLefwhth177C6v81CQ
+Prospect Garden Spa,"['351 Flatbush Ave', 'Fl 2', 'Brooklyn, NY 11238']",Brooklyn,4.0,48,"{'latitude': 40.6771278381348, 'longitude': -73.9720916748047}",1.0,Zbc5MmFdLCk8nry3PqzI8w
+The Woodhouse Day Spa - Montclair,"['56 S Park St', 'Montclair, NJ 07042']",Montclair,3.5,102,"{'latitude': 40.8135796381414, 'longitude': -74.2204695754644}",3.0,fl9iCY4CHOQOqlt_Ns1NWw
+Hey Man Day Spa,"['226 W Fourth St', 'New York, NY 10014']",New York,3.0,31,"{'latitude': 40.733974, 'longitude': -74.00315}",2.0,Znj9qrTsjJkxRHO2h2J38Q
+Zonny's Skin Care Studio,"['27 Godwin Ave', 'Ridgewood, NJ 07450']",Ridgewood,4.0,4,"{'latitude': 40.9792151630338, 'longitude': -74.1228146}",,2ELm-1edDGl8nXJcumFcFw
+Jiu Jitsu Massage,"['53 Bridge St', 'Ste 304', 'Brooklyn, NY 11201']",Brooklyn,5.0,5,"{'latitude': 40.70285, 'longitude': -73.98455}",,9TK6tkXpp33fZOfqpdNi3A
+Shibumi Spa,"['43 Clark St', 'Brooklyn, NY 11201']",Brooklyn,4.0,1,"{'latitude': 40.69789, 'longitude': -73.99432}",2.0,2cXireqzaX8b2kCf0bS5Uw
+Dolphin Blue Spa,"['179 Madison Ave', 'Fl 2', 'New York, NY 10016']",New York,3.5,14,"{'latitude': 40.74744, 'longitude': -73.98301}",2.0,8KGhVtc_yxQjA3RElnWwFA
+Brownstone Spa,"['473-A Myrtle Ave', 'Clinton Hill, NY 11205']",Clinton Hill,3.5,62,"{'latitude': 40.693607, 'longitude': -73.966392}",2.0,Cz0PuxyINu_bAdbOPr1ZSg
+Spa Thirsty,"['3483 Richmond Rd', 'Staten Island, NY 10306']",Staten Island,4.0,5,"{'latitude': 40.57317, 'longitude': -74.13706}",,ZTJvSOz2N8SwkGI6KNXj6g
+Massage Evolution,"['415 W 57th St', 'New York, NY 10019']",New York,5.0,7,"{'latitude': 40.7682907, 'longitude': -73.9862621}",2.0,bDtSMcb_GcWxqyEcydN8Gw
+Local Honey,"['16 Wilson Ave', 'Brooklyn, NY 11237']",Brooklyn,4.0,355,"{'latitude': 40.70322, 'longitude': -73.930523}",2.0,TYOAREl14wA5fj2aLCimkw
+Butterfly Garden Spa,"['200 Middle Neck Rd', 'Great Neck, NY 11021']",Great Neck,4.0,115,"{'latitude': 40.79348, 'longitude': -73.73373}",2.0,5SMVyTJ5dETFJ4_I7j8a2w
+Beau Monde Salon and Spa,"['282 Grand Ave', 'Ste 4', 'Englewood, NJ 07631']",Englewood,4.5,44,"{'latitude': 40.8840481, 'longitude': -73.9778627}",2.0,gh7e5FHrnjrZK1HDlf7CaQ
+Star Spa,"['34 W 46th St', 'Fl 3E', 'New York, NY 10036']",New York,5.0,1,"{'latitude': 40.756568, 'longitude': -73.980754}",,C9wOcApeEKqsBaGTpaHf8w
+V Aesthetic SPA,"['2769 Coney Island Ave', 'Brooklyn, NY 11235']",Brooklyn,4.5,54,"{'latitude': 40.588973, 'longitude': -73.960121}",2.0,3TJIha-zMJXYGJkYvkGmaQ
+Dorothy's Day Spa,"['125 E 90th St', 'New York, NY 10128']",New York,4.5,9,"{'latitude': 40.78236, 'longitude': -73.95422}",3.0,uAyhE0HNRulskxQ8mzShQA
+Nest Nyc,"['New York, NY 10023']",New York,5.0,1,"{'latitude': 40.7764167785645, 'longitude': -73.9823837280273}",,U5tnyPM-A3x0NfMd0Mbt4Q
+Crystal Sauna & Spa,"['225 Broad Ave', 'Ste 212', 'Palisades Park, NJ 07650']",Palisades Park,5.0,2,"{'latitude': 40.846637, 'longitude': -73.999321}",,N-IL4eFEj-PSk9FYTZQddw
+The Peel Connection,"['96 Grand St', 'Ste 1b', 'New York, NY 10013']",New York,5.0,3,"{'latitude': 40.721565, 'longitude': -74.001688}",,cbOfVz7NrxvpupVZcOUfKA
+J Precious Health Spa,"['773 60th St', 'Lower Level', 'Brooklyn, NY 11220']",Brooklyn,5.0,4,"{'latitude': 40.635735, 'longitude': -74.0099268}",2.0,DCuk0CNBZokfTfa0v6ulCQ
+Cool Confidence,"['635 Madison Ave', 'Fl 4', 'New York, NY 10022']",New York,5.0,4,"{'latitude': 40.763671, 'longitude': -73.971002}",,TwRSmMaCMyIPN4yTpwFUTg
+Skin Care By Rochel,"['1129 Saint Johns Pl', 'Brooklyn, NY 11213']",Brooklyn,5.0,40,"{'latitude': 40.671289, 'longitude': -73.940694}",2.0,TgG89obcYFropzbpYOFYVQ
+Rio Grande spa,"['115 Mott St', 'New York, NY 10013']",New York,4.0,23,"{'latitude': 40.7177101, 'longitude': -73.9974015}",1.0,Rehih8ncGqbPoici6rqGtA
+Monica Polanco,"['2121 Broadway', 'Ste 401A', 'New York, NY 10023']",New York,5.0,1,"{'latitude': 40.78061, 'longitude': -73.98172}",,bktTMdrpn8313OOY-S45Tw
+Art Nail NYC,"['35 Bedford St', 'New York, NY 10014']",New York,4.5,83,"{'latitude': 40.729552, 'longitude': -74.0039}",2.0,7PkGddPqgQfRr9wX1uOIkg
+Caroline's Spa,"['4842 Broadway', 'New York, NY 10034']",New York,4.0,6,"{'latitude': 40.86629, 'longitude': -73.92466}",2.0,1X5Z5Gqdmf6yaq3cyS6O9w
+Bodono,"['2605 NE 3rd St', 'Ocala, FL 34470']",Ocala,5.0,6,"{'latitude': 29.1907185, 'longitude': -82.1020917}",,-WIH0M47ImR3WuLNuhKEow
+Paul Labrecque Salon & Spa,"['171 E 65th St', 'New York, NY 10065']",New York,4.5,174,"{'latitude': 40.765569, 'longitude': -73.964153}",3.0,jJl9cd8T6mUQaZdnlHtgFA
+Karuna Bodywork,"['615 E 17th St', 'Brooklyn, NY 11226']",Brooklyn,5.0,1,"{'latitude': 40.63589, 'longitude': -73.96117}",,deeVfz59j4dwqmOzGGbtUg
+Pure Beauty,"['663 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.5,5,"{'latitude': 40.72457, 'longitude': -73.95156}",2.0,DVnE0rMKhf_n8WYgrGtWoQ
+Body & Foot Relax Center,"['7023 Austin St', 'Lower LEVEL', 'Forest Hills, NY 11375']",Forest Hills,4.0,5,"{'latitude': 40.720861, 'longitude': -73.846182}",,gvR8KEm3yUON00AdhF2rWw
+Trifecta Med Spa Park Avenue,"['30 E 60th St', 'Ste 2503', 'New York, NY 10022']",New York,4.5,11,"{'latitude': 40.76369, 'longitude': -73.97017}",,uSrBnEprMuQR2xdbvgB4Ww
+Amazing Grace Yumi Professional,"['7314 15th Ave', 'Brooklyn, NY 11228']",Brooklyn,5.0,5,"{'latitude': 40.61858, 'longitude': -74.00225}",1.0,kjEq-XhPg3pOInlTCSGVBg
+Lao Yu's Body Spa,"['196 2nd Ave', 'New York, NY 10003']",New York,3.5,44,"{'latitude': 40.7310752, 'longitude': -73.9856339}",1.0,2Z4BuQ80-SKSvTwyYKn0Ag
+Shift Wellness,"['95 University Pl', 'Fl 8', 'New York, NY 10003']",New York,4.0,39,"{'latitude': 40.7337732, 'longitude': -73.9928978}",,BAlHTAw7gAy95VcDc3DF4g
+Tribeca MedSpa Flatiron,"['139 5th Ave', 'Second Floor', 'New York, NY 10010']",New York,5.0,5,"{'latitude': 40.73985, 'longitude': -73.99058}",,iae2AAOD4Kje-6-z4omI9Q
+Crystal Spa,"['83-09 Broadway', 'Fl 2', 'Queens, NY 11373']",Queens,3.5,31,"{'latitude': 40.74106, 'longitude': -73.87951}",2.0,6rD3x4bk2_ANmJmlPtolqg
+Maiyomi Traditions Technique Restore,"['139 Centre St', '1st FL 7a', 'New York, NY 10013']",New York,4.5,95,"{'latitude': 40.71745, 'longitude': -74.00059}",1.0,o5MS9IsbUzuxeecW0VNXaw
+Da Tang Tai Chi Spa,"['76-16 Woodside Ave', 'Elmhurst, NY 11373']",Elmhurst,4.5,20,"{'latitude': 40.74325, 'longitude': -73.88818}",1.0,46GDrxpW5xEb7a51sntPAw
+Salon Evolution,"['3075 Emmons Ave', 'Brooklyn, NY 11235']",Brooklyn,4.5,114,"{'latitude': 40.58415, 'longitude': -73.9366}",2.0,1FfMz9-NWXTmuX6EwsV3jQ
+NYC Healing Spa,"['208 E 73rd St', 'New York, NY 10021']",New York,4.5,14,"{'latitude': 40.76994, 'longitude': -73.959543}",,hcyZG_EcV3y52Q9CPlcqng
+Brightful Day Spa,"['240 E 56th St', 'Ste 2W', 'New York, NY 10022']",New York,4.5,35,"{'latitude': 40.7587395, 'longitude': -73.9660946}",,B8U-6YIx8KwegRmfExY_Bw
+In Spa,"['70-41 Parsons Blvd', 'Fresh Meadows, NY 11365']",Fresh Meadows,4.0,52,"{'latitude': 40.73123, 'longitude': -73.8107486}",2.0,lihoANOVaLHtVIuPEA6AMg
+Liwei Beauty Spa,"['90 Bowery St', 'Ste 405', 'New York, NY 10013']",New York,4.5,66,"{'latitude': 40.71751, 'longitude': -73.99567}",2.0,FZzHpnjDGIAydaFZ7mRPpg
+Chelsea Massage Therapy,"['Manhattan, NY 10011']",Manhattan,5.0,5,"{'latitude': 40.7493377304548, 'longitude': -73.9963531494141}",2.0,eTnFnTKq2-p-W5yugVEFMQ
+B.Payne.Free Therapeutic Massage @ MPG One Wellness Center,"['130 W 56th St', 'Fl 3', 'Manhattan Physio Group', 'New York, NY 10019']",New York,5.0,7,"{'latitude': 40.7639305, 'longitude': -73.9794034}",,3OKK-0CfT6cEsje4CWvcIw
+Crow's Massage,"['36 Plaza St E', 'Brooklyn, NY 11238']",Brooklyn,5.0,4,"{'latitude': 40.6752641, 'longitude': -73.9690682}",2.0,bYmR2lCi2ZxNbhxdV0Z25w
+Medical Massage Group,"['328 E 75th St', 'Ste 3', 'New York, NY 10021']",New York,4.5,115,"{'latitude': 40.7698718, 'longitude': -73.9553958}",,-9L1IaG5wLWA9x6ZEfrJkg
+Mynd Spa & Salon,"['25 W 26th St', 'Fl 2', 'New York, NY 10010']",New York,4.0,5,"{'latitude': 40.744386, 'longitude': -73.989884}",,bhIjv7f3uScujL_iQXItMw
+Soothing Zen Day Spa,"['38 Main St', 'Millburn, NJ 07041']",Millburn,4.5,61,"{'latitude': 40.724551, 'longitude': -74.307107}",2.0,_EUX-1FlxVbbFYpbSKbneg
+Orange Skye Body & Beauty Bar,"['50 Rockaway Ave', 'Valley Stream, NY 11580']",Valley Stream,4.0,68,"{'latitude': 40.6639583, 'longitude': -73.6985372}",2.0,AtFkTC_l4FqLxwtOt5CEbw
+EC Beauty Studio and Spa,"['80 River St', 'Ste 2A', 'Hoboken, NJ 07030']",Hoboken,4.5,68,"{'latitude': 40.7361865, 'longitude': -74.0292803}",2.0,HB4UuprvJcsfFfSITzPy5g
+Karma Massage,"['376 9th St', 'Ste 1', 'Brooklyn, NY 11215']",Brooklyn,5.0,5,"{'latitude': 40.6678, 'longitude': -73.98384}",2.0,PlT2SkL8_v79ZZ7T6ylTBg
+Sunshine Hot Stone Bodywork,"['188 N 8th St', 'Brooklyn, NY 11211']",Brooklyn,4.0,39,"{'latitude': 40.7176666259766, 'longitude': -73.9564208984375}",2.0,e6fwIJWjrHQX_NTvGhJJiw
+Escape Skin Care Salon & Day Spa,"['101 W 55th St', 'New York, NY 10019']",New York,4.5,203,"{'latitude': 40.7631236314774, 'longitude': -73.9782603085041}",2.0,OaCTPm2gbznDNFtp8uwW4g
+Carnegie Hill Massage,"['126A E 92nd St', 'New York, NY 10128']",New York,5.0,8,"{'latitude': 40.783335, 'longitude': -73.953474}",,rGoOZjOa8mxpQZVQmO54Yg
+Z & Q Nail Spa,"['414 Atlantic Ave', 'Brooklyn, NY 11217']",Brooklyn,4.0,16,"{'latitude': 40.6865817, 'longitude': -73.9845048871}",,xjjyXUTaMzDWC1YK6tHYBg
+Moon Flower Spa,"['10 Franklin Tpke', 'Ste 7', 'Waldwick, NJ 07463']",Waldwick,4.5,6,"{'latitude': 41.0085036, 'longitude': -74.118529}",,IAbdjSAeJkb9rXAetiiKVQ
+Green House Men's Spa,"['104 W 14th St', '6&7ave', 'New York, NY 10011']",New York,3.5,20,"{'latitude': 40.7374789, 'longitude': -73.9974392}",2.0,Gwv4fc0rIfL6htLGauS4Qg
+Chelsea Body Work,"['289 7th Ave', 'Fl 2', 'New York, NY 10001']",New York,4.5,115,"{'latitude': 40.746185313035, 'longitude': -73.9938903018524}",1.0,5PqlOLumTdJNKmYm_Xg1dA
+StarMoon（XINGYUE） SPA,"['136-86 Roosevelt Ave', 'Fl 2', 'Flushing, NY 11354']",Flushing,5.0,2,"{'latitude': 40.7600784, 'longitude': -73.8271027}",1.0,4NTKA8BEEMAhiOWqEdicvA
+Men for Men Massage NYC,"['39 W 32nd St', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.7481614, 'longitude': -73.9872958}",,IbijnTegEM_ODbsbmIOMag
+Renew & Relax Spa,"['142 5th Ave', 'Brooklyn, NY 11217']",Brooklyn,3.5,19,"{'latitude': 40.67857, 'longitude': -73.97932}",,Vug5AZC1HXPIJgr0RdN-XQ
+Andy Jos Beauty Salon,"['711 Bergenline Ave', 'Ste A', 'Union City, NJ 07087']",Union City,5.0,5,"{'latitude': 40.7571, 'longitude': -74.03954}",1.0,Hz0iuHvSzN1bIeh4-8Mc7g
+Rob Peetoom,"['101 N 10th St', 'Brooklyn, NY 11249']",Brooklyn,5.0,12,"{'latitude': 40.720694940717, 'longitude': -73.9578072400564}",,KHnEZuXOCNDtb-z_QCtUlQ
+Vada Spa and Laser Center,"['364 6th Ave.', 'New York, NY 10011']",New York,3.5,787,"{'latitude': 40.7332060133144, 'longitude': -74.0002369880676}",2.0,ifiMdZmc8SBEM0QdFleq4w
+ACA Acupuncture & Wellness,"['156 William St', 'Ste 801', 'New York, NY 10038']",New York,4.5,2,"{'latitude': 40.709835, 'longitude': -74.00539}",,16qhCH41Szt24BHA6QMH4w
+Zen Health & Wellness,"['1147 Richmond Rd', 'Staten Island, NY 10304']",Staten Island,3.5,9,"{'latitude': 40.5985139034981, 'longitude': -74.0923145531539}",,MwDz3goIO4F-_OXdHFsTvg
+Amethyst Integrative Massage,"['267 Central Ave', 'White Plains, NY 10606']",White Plains,5.0,42,"{'latitude': 41.03493, 'longitude': -73.78223}",2.0,AUqn8tqkk4Cm5Y5tN7SYhg
+Sukho Thai Healing,"['1133 Broadway', 'Ste 645', 'New York, NY 10010']",New York,5.0,28,"{'latitude': 40.7435928787942, 'longitude': -73.9892169607132}",,aWvo8l_vq2-7HmcEnZpZMg
+Sebra Salon & Spa,"['79-17 Roosevelt Ave', 'Jackson Heights, NY 11372']",Jackson Heights,3.5,8,"{'latitude': 40.74761, 'longitude': -73.88602}",,vQxkCZRRgZQzq_HJCc8j3A
+The Salon at Bergdorf Goodman,"['754 5th Ave', 'Fl 9', 'New York, NY 10019']",New York,5.0,6,"{'latitude': 40.76359, 'longitude': -73.97374}",,Sluk22zyEAbEvyq-hDXQww
+Brazil Rio Spa,"['90 Worth St', 'New York, NY 10013']",New York,4.0,115,"{'latitude': 40.7164289, 'longitude': -74.0048806}",2.0,_QqgFxRJ122NJ-kJRTH9Dg
+Hao Zu Dao,"['59 Mott St', 'New York, NY 10013']",New York,4.5,55,"{'latitude': 40.715913623362, 'longitude': -73.9984224736691}",1.0,7R1CDVzqHOS-c3Qh5ov2og
+Marianella Spa,"['102 Thompson St', 'New York, NY 10012']",New York,5.0,1,"{'latitude': 40.72552, 'longitude': -74.00196}",,wiDSaWmQIJ0baOsJQZC8pg
+Beauty Katering,"['New York, NY 10040']",New York,5.0,1,"{'latitude': 40.86018, 'longitude': -73.931}",,Vmay8-TnlmgfDeJZnMmjYg
+Green Zen Organic Spa,"['40 W 38th St', 'Fl 4', 'New York, NY 10018']",New York,3.5,223,"{'latitude': 40.7515996, 'longitude': -73.9846042}",2.0,0mWhQkjlev_ZkqMIzKrvjw
+ShunFa Relaxing Center,"['59 W 8th St', 'New York, NY 10011']",New York,4.5,321,"{'latitude': 40.7334785, 'longitude': -73.9990005}",1.0,k3snm_7YZmS7TeeTccyu5Q
+Pure Massage,"['381 Rt 23', 'Pompton Plains, NJ 07444']",Pompton Plains,5.0,6,"{'latitude': 40.9630508, 'longitude': -74.2845001}",2.0,vaOJxd2fLl_ufPyV2PpT8Q
+Mayflower Bodywork,"['303 5th Ave', 'Ste 912', 'New York, NY 10016']",New York,4.0,47,"{'latitude': 40.7465065, 'longitude': -73.9855169}",,ukCa7T1eG4qKiO-SHhvFjQ
+Oasis Spa,"['204 W 35th St', 'New York, NY 10001']",New York,5.0,4,"{'latitude': 40.75167, 'longitude': -73.99042}",,hePnbR8K-zYaSJ4xajsKow
+Energy Men Spa,"['265 W 23rd St', 'Fl 2', 'New York, NY 10011']",New York,4.0,8,"{'latitude': 40.745197, 'longitude': -73.99768}",2.0,_UjSDf8IzfpVlF_Yir9jXQ
+Shiatsu By Shandoah,"['President At 7th Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,1,"{'latitude': 40.6672018, 'longitude': -73.981335}",3.0,ZFeNd9QuNPvwTavEzPgR0Q
+Nicholas Day Spa & Salon,"['203 Wolfs Ln', 'Pelham, NY 10803']",Pelham,4.0,17,"{'latitude': 40.9068361, 'longitude': -73.8112931}",3.0,TNdXgXqP1vHHewqCcS5CDQ
+Hand & Stone Massage And Facial Spa,"['1400 Hudson St', 'Hoboken, NJ 07030']",Hoboken,4.0,17,"{'latitude': 40.7526449, 'longitude': -74.0253053}",,r_XXP9yTFB1ItpivpHrsfw
+Kaiya Healing Arts,"['13 W 28th St', 'New York, NY 10001']",New York,5.0,13,"{'latitude': 40.74517, 'longitude': -73.98817}",,lx4saYsRPK9kiCskpUAaww
+The Tox NYC,"['355 E 62nd St', 'New York, NY 10065']",New York,4.5,11,"{'latitude': 40.76184, 'longitude': -73.96112}",,wzaZ5D0-cZy7hC5_s73upA
+Ease MedSpa + Wellness,"['133 E 54th St', 'Ste 203', 'New York, NY 10022']",New York,3.5,154,"{'latitude': 40.75918, 'longitude': -73.97072}",2.0,bs7mtCB4HlNd-qodRoZ3jA
+LAL,"['249 E 77th St', 'New York, NY 10075']",New York,5.0,1,"{'latitude': 40.7724, 'longitude': -73.956429}",,vrEwyIoJXZ4-aJwlKFoiTQ
+La Belle Boutique,"['306 Franklin Ave', 'Brooklyn, NY 11238']",Brooklyn,4.5,6,"{'latitude': 40.688812, 'longitude': -73.957474}",,DhY71CaJVaigVpSmzGP4qA
+Amenity Spa 47,"['402 W 47th St', 'New York, NY 10036']",New York,4.5,15,"{'latitude': 40.76164, 'longitude': -73.990789}",,bmJPcm_DDKx1ytZ-Cqr-dw
+Enliven Body Works,"['226 E 54th St', 'Ste 500', 'New York, NY 10022']",New York,3.5,97,"{'latitude': 40.75762, 'longitude': -73.96786}",2.0,6sBQ4erG6ibA8zKj6Ug40g
+Le Parlour NYC,"['245 Fifth Ave', 'Ste 12  3rd Fl', 'New York, NY 10016']",New York,5.0,4,"{'latitude': 40.7443846, 'longitude': -73.9870662}",,OCoX-Q8qtoDWoW4v-8LYrg
+LA Beauty Spa,"['8307 5th Ave', 'Bay Ridge, NY 11209']",Bay Ridge,3.5,6,"{'latitude': 40.623192, 'longitude': -74.024902}",2.0,s4koXZJ9Rw9yPWHwfTieCw
+China Red USA,"['88 Court St', 'Fl 2', 'Brooklyn, NY 11201']",Brooklyn,4.0,7,"{'latitude': 40.6946177284461, 'longitude': -73.9903802970438}",,X8801l13Grxj1IHxd2VJ_Q
+Nicolette Emerson,"['New York, NY 10001']",New York,5.0,1,"{'latitude': 40.75095, 'longitude': -73.99811}",,KuTp8tVTYzpj3XZBEiVyPA
+Amy's Day Spa,"['588 Lafayette Ave', 'Hawthorne, NJ 07506']",Hawthorne,4.5,10,"{'latitude': 40.9582845, 'longitude': -74.1557745}",1.0,-ymIXwv2PCgvxjQiw7ebcQ
+Face Gym NOHO,"['670 Broadway', 'New York, NY 10012']",New York,4.5,7,"{'latitude': 40.72726, 'longitude': -73.99505}",,eWQGuPbO_ax68B50_QKkXg
+Health In Hands Spa Hoboken Massage,"['1321 Washington St', 'Fl 2', 'Hoboken, NJ 07030']",Hoboken,5.0,68,"{'latitude': 40.75304, 'longitude': -74.025818}",,8-3FS3XniYFUdCv7DYOUjg
+Spa H,"['222 E 34th St', 'New York, NY 10016']",New York,3.5,7,"{'latitude': 40.744945, 'longitude': -73.976997}",2.0,DFkdFmpoXy3hjjsqUTku6w
+Tropical Rainforest Massage Therapy,"['540 Atlantic Ave', 'Lower Level', 'Brooklyn, NY 11217']",Brooklyn,2.0,1,"{'latitude': 40.684685, 'longitude': -73.980255}",,iICG_WpAy89Gyj6bRLUXNA
+Gleam Aesthetics,"['2 Spencer Pl', 'Ste 9', 'Scarsdale, NY 10583']",Scarsdale,5.0,6,"{'latitude': 40.989625, 'longitude': -73.807571}",,jQj3WNHhkMnQL4UgWRDtdQ
+Bluemercury,"['1566 Third Ave', 'New York, NY 10128']",New York,5.0,5,"{'latitude': 40.78009, 'longitude': -73.95328}",4.0,pN9AAc-xuWaTMWVCn0bRow
+Marysol’s Beauty Works,"['982 Stuyvesant Ave', 'Union, NJ 07083']",Union,4.5,22,"{'latitude': 40.69602, 'longitude': -74.27066}",2.0,dOtwOrfgdo0doKB6-i0Heg
+Xiao Wellness Qi Gong Tui-Na,"['3122 Steinway St', 'Fl 2', 'Astoria, NY 11103']",Astoria,4.5,148,"{'latitude': 40.76082, 'longitude': -73.91779}",1.0,GwOaqxcY4thibugHR2rV2g
+Chic Massage Diva Spa,"['1129 Kennedy Blvd', 'North Bergen, NJ 07047']",North Bergen,4.0,13,"{'latitude': 40.7617039, 'longitude': -74.0429921}",2.0,txPkz2A2Sty7UY-h7DAS9g
+331 Wellness Strategies,"['232 Varet St', 'Green Fitness Studio', 'Brooklyn, NY 11206']",Brooklyn,5.0,4,"{'latitude': 40.703953467028, 'longitude': -73.9342771111145}",,7yRUUYs_0K5iKNb-RzoubQ
+Exclusive Day Spa,"['39 E Ridgewood Ave', 'Ridgewood, NJ 07450']",Ridgewood,3.5,26,"{'latitude': 40.9797936512704, 'longitude': -74.1191638478452}",2.0,idd1WYvL9IT9uBDDE3DnvA
+Remedy Bar Spa,"['1891 Palmer Ave', 'Larchmont, NY 10538']",Larchmont,4.5,6,"{'latitude': 40.9337, 'longitude': -73.75851}",,nzpJV390Zna_HWN6xE2VIg
+Spa 34,"['64 E 34th St', 'Fl 2', 'New York, NY 10016']",New York,3.5,117,"{'latitude': 40.7470799, 'longitude': -73.98205}",2.0,TRrRiv3ikxwTMLSbSjrccg
+Nails By Sia,"['83-27 124th Pl', 'Kew Gardens, NY 11415']",Kew Gardens,4.5,6,"{'latitude': 40.7055296, 'longitude': -73.8272854}",2.0,Od2S9qJlyVZ5ZeAnEP91iQ
+Suite Retreat,"['124 E 40th St', 'Ste 803', 'Manhattan, NY 10016']",Manhattan,5.0,16,"{'latitude': 40.75018, 'longitude': -73.97728}",,alw9EVVRzyMBHBzGMdkUVA
+Reedchy Nail & Spa,"['284 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.0,94,"{'latitude': 40.6885532, 'longitude': -73.9896298}",2.0,8g7bukXMAqfEmCA1q4GKdw
+Division Day Spa,"['123 Division St', 'New York, NY 10002']",New York,3.0,4,"{'latitude': 40.7142585, 'longitude': -73.9917086}",4.0,byVZsrLF2cv9ZNcC2FCgNA
+JinYu Spa,"['133 E 39th St', 'Fl 2', 'New York, NY 10016']",New York,3.5,19,"{'latitude': 40.74946, 'longitude': -73.97696}",2.0,8hwKslvoR_V46gdGBrYuqQ
+Yuzu Spa,"['135 W 29th St', 'Ste 504', 'New York, NY 10001']",New York,4.5,6,"{'latitude': 40.747455, 'longitude': -73.99142}",,AHtzEBDShSZv1TuwB8Ti2A
+Les Mains,"['506 Amsterdam Ave', 'Ste BB', 'New York, NY 10024']",New York,4.0,2,"{'latitude': 40.786811, 'longitude': -73.976042}",2.0,DkiMJ_rrmIXnZoliLdgSNg
+Good Day Relax Centre,"['1684 East 18th St', 'Brooklyn, NY 11229']",Brooklyn,5.0,1,"{'latitude': 40.609056, 'longitude': -73.955715}",,1vi21yEgQxC53vKZhUZL9w
+Ecobeautica Wellness Center,"['2158 Ocean Ave', 'Brooklyn, NY 11229']",Brooklyn,4.5,18,"{'latitude': 40.6092246, 'longitude': -73.9535908}",2.0,mu4XvWvJOb3XpG1C_CHCWA
+N-Diya,"['449 Nostrand Ave', 'Brooklyn, NY 11216']",Brooklyn,4.5,23,"{'latitude': 40.682140365243, 'longitude': -73.9498664438725}",2.0,pNxWZYdnBHiwg36jQAcseg
+Face II Skin Care,"['75 Bowery St', 'Fl 2', 'New York, NY 10002']",New York,4.0,88,"{'latitude': 40.716608, 'longitude': -73.995478}",2.0,oXlta_aAiFaMuqtVEis0qA
+Resilience Medical Spa,"['53 Bridge St', 'Ste 506', 'Brooklyn, NY 11201']",Brooklyn,4.5,6,"{'latitude': 40.70285, 'longitude': -73.98455}",,-BElZmp83w2-8GhyyJ7R5g
+RainbowTherapy-NYC,"['Manhattan, NY 10022']",Manhattan,5.0,1,"{'latitude': 40.7593941, 'longitude': -73.9697795}",,1gxG-wU5nGa39xSTeSjOsw
+Calla Lily Rose Beauty Spa,"['Freeport, NY 11520']",Freeport,5.0,9,"{'latitude': 40.65486, 'longitude': -73.58707}",,gb84mxcWxPAqytoDcPi3KA
+M Beauty Day Spa,"['344 S Ave E', 'Westfield, NJ 07090']",Westfield,4.5,14,"{'latitude': 40.649379, 'longitude': -74.337257}",2.0,Mh5wMHSGIO6xDVoDHSChSg
+Hudson Spa,"['3701 Bergenline Ave', 'Fl 2', 'Union City, NJ 07087']",Union City,3.5,21,"{'latitude': 40.7750816, 'longitude': -74.0276108}",2.0,c1B966R8AvDDmVABHyC5zQ
+Oriental Express Spa,"['237 W 14th St', 'New York, NY 10011']",New York,5.0,1,"{'latitude': 40.739367, 'longitude': -74.001067}",,jtpwqgCB8cKm9s7zBOuIAQ
+LIC Massage & Stretch Therapy,"['10-13 47th Ave', 'Ground Fl', 'Long Island City, NY 11101']",Long Island City,5.0,4,"{'latitude': 40.74557, 'longitude': -73.95248}",,GWOGoGOupxqMDs-3hp9x2Q
+Osaka Spa,"['37 W 46th St', 'Fl 3', 'New York, NY 10036']",New York,3.0,14,"{'latitude': 40.7568723, 'longitude': -73.9804268}",3.0,xmfBA3_MUzTe9yxM98XHMQ
+Elysian Holistic,"['928 Broadway', 'Ste 1200', 'New York, NY 10010']",New York,5.0,10,"{'latitude': 40.7400319365566, 'longitude': -73.9891410246491}",,RwBfrTLd99ruUSRV4sduHQ
+Rejuvenate Beauty and Spa,"['405 92nd St 1st', 'Brooklyn, NY 11209']",Brooklyn,4.5,9,"{'latitude': 40.618373, 'longitude': -74.029823}",2.0,9xjq3faTVwXRCOt6gSsTag
+Zen Massage Center,"['938 Spring Valley Rd', 'Maywood, NJ 07607']",Maywood,5.0,20,"{'latitude': 40.91621, 'longitude': -74.06316}",2.0,WN3YEDA_kGRqMyRSX8WsBg
+Monica Spa and Nails,"['92-14 71st Ave', 'Forest Hills, NY 11375']",Forest Hills,5.0,1,"{'latitude': 40.7107825, 'longitude': -73.8505048}",,bMvww6gbn-qHzn6uFR4aNg
+Amenity spa 85,"['240 E 85st', 'F1', 'Manhattan, NY 10028']",Manhattan,4.0,16,"{'latitude': 40.7772229, 'longitude': -73.9527782}",,9WLtFEXudyt_r9IEzIfbog
+Paradise Spa & Sauna,"['100 Linwood Plz', 'Fort Lee, NJ 07024']",Fort Lee,3.5,64,"{'latitude': 40.861016, 'longitude': -73.9712819}",2.0,9QXPRcl80_IzYGS1VgNphw
+Truth + Beauty Spa,"['250 S Service Rd', 'Roslyn Heights, NY 11577']",Roslyn Heights,4.0,22,"{'latitude': 40.7992566200523, 'longitude': -73.6502838134766}",2.0,1QBzXR6Cg1SzE9agd1xUJg
+Massage Room By Karen,"['213-33 39th Ave', 'Ste 240', 'Bayside, NY 11361']",Bayside,5.0,14,"{'latitude': 40.7655035, 'longitude': -73.7716981}",,BZVgH3CIpth3mMAg1F0BQg
+Serenity Day Spa & Salon,"['7915 37th Ave', 'Jackson Heights, NY 11372']",Jackson Heights,5.0,1,"{'latitude': 40.7496042, 'longitude': -73.8868545}",2.0,Ih3mRqrAOHRg4S8ctPOuYw
+Madeleine Salon & Spa,"['640 Anderson Ave', 'Cliffside Park, NJ 07010']",Cliffside Park,5.0,4,"{'latitude': 40.8257, 'longitude': -73.98722}",,BA0WXhQ2rXGrkw8zsscizw
+Ruzica de Falica Day Spa and Laser Center,"['330 E 76th St', 'New York, NY 10021']",New York,3.0,32,"{'latitude': 40.7710999, 'longitude': -73.95603}",3.0,gFVQEb_t8U2q69JF_1gKHA
+Analaigh Hair Beauty Wellness,"['4604 Skillman Ave', 'Long Island, NY 11104']",Long Island,5.0,8,"{'latitude': 40.74628, 'longitude': -73.9178}",,3r428Cr0WCX43TkemEkQ1w
+In-Home Massage Therapy by Nadia,"['Soho, NY 10013']",Soho,5.0,10,"{'latitude': 40.7248382568359, 'longitude': -74.0043029785156}",,TIiQsqi9Yioi1uqAbafSnA
+Renew Body & Mind Spa 1,"['1 E 28th St', 'New York, NY 10016']",New York,5.0,8,"{'latitude': 40.74462, 'longitude': -73.98689}",1.0,QbaMnYigdAsuj2x55TR8rw
+New York Lash Spa,"['133 Grand St', 'New York City, NY 10013']",New York City,4.5,21,"{'latitude': 40.72029, 'longitude': -73.99983}",,d9LRAKM8KXL0_5ZuZjjxgA
+Graceful Services,"['1097 2nd Ave', 'Fl 2', 'New York, NY 10022']",New York,3.5,148,"{'latitude': 40.759892, 'longitude': -73.96519}",2.0,GTOiqpUzfqJhscKEYsTRNA
+Restorative Bodywork by Sara Mulry,"['41 Union Square W', 'Ste 912', 'New York, NY 10003']",New York,5.0,7,"{'latitude': 40.7371567, 'longitude': -73.990756}",,D92flombnSe8RoWjC2gyKQ
+Upper West Spa,"['187 Amsterdam Ave', 'New York, NY 10023']",New York,5.0,35,"{'latitude': 40.7762503, 'longitude': -73.9831089}",,tF5vwIISl3zDYd5BO6nK4w
+Eastside Massage Therapy,"['351 E 78th St', 'Ground Floor', 'New York, NY 10075']",New York,4.0,143,"{'latitude': 40.7719479482315, 'longitude': -73.9536977441803}",2.0,ko-jfCzZipN_1Xtg4sU0iw
+ShunFa Relaxing Center II,"['230 7th Ave', 'New York, NY 10011']",New York,4.5,96,"{'latitude': 40.7445233, 'longitude': -73.9956893}",1.0,uhKqZP9zQZFUlwwtSOEoyg
+145 Health SPA,"['145 Grand St', 'New York, NY 10013']",New York,5.0,1,"{'latitude': 40.720057, 'longitude': -73.9995424}",,ZX9B6_ue03YaSch7dwX6mw
+Faina European Day Spa,"['330 W 58th St', 'Ste 402', 'New York, NY 10019']",New York,3.0,119,"{'latitude': 40.7677126, 'longitude': -73.9836472}",2.0,5bxqDURHVtiZGwITSOYhHw
+Samsun Spa,"['29 John St', 'Lower Level', 'New York, NY 10038']",New York,4.0,4,"{'latitude': 40.7097778, 'longitude': -74.0085144}",2.0,U5og2QGDB__QFDc-MJ3MtA
+Oak Point Health & Vitality Centre,"['23-92 23rd St', 'Astoria, NY 11105']",Astoria,5.0,56,"{'latitude': 40.7761212, 'longitude': -73.9204276}",2.0,B_4mu0Pww6iwrqS6sJYtuA
+Tone's Spa,"['1728 Eastchester Rd', 'Bronx, NY 10461']",Bronx,3.0,47,"{'latitude': 40.8281187, 'longitude': -73.8501325}",2.0,zcogJgmBO42gudIk_Ku-UA
+Body Factory Skin Care,"['1570 1st Ave', 'New York, NY 10028']",New York,4.5,14,"{'latitude': 40.77397, 'longitude': -73.95128}",,FTs3xw8egUl7TlC_2vFtwQ
+Mario Badescu Skin Care,"['320 E 52nd St', 'New York, NY 10022']",New York,3.5,427,"{'latitude': 40.75555, 'longitude': -73.96681}",2.0,o58IkPJJXsJUmfCxjn9M5g
+Daisy Day Spa,"['36 W 34th St', '4th FL', 'Manhattan, NY 10001']",Manhattan,2.5,10,"{'latitude': 40.749154, 'longitude': -73.986774}",2.0,BErJZYRp23oadA3WQ3MeIw
+SPA45,"['459 Lexington Ave', 'Fl 3', 'New York, NY 10017']",New York,3.5,117,"{'latitude': 40.7534, 'longitude': -73.97434}",2.0,pJ2bvfAylJyHYfoOU2-qZA
+Rise by We,"['85 Broad St', 'New York, NY 10004']",New York,3.5,30,"{'latitude': 40.704033, 'longitude': -74.011263}",3.0,DuTUsQnateTItzZNC5ttGA
+Coolspa,"['103 5th Ave', 'Fl 3', 'New York, NY 10003']",New York,5.0,6,"{'latitude': 40.738129, 'longitude': -73.991731}",,JsxMHC9CcwfhJKrxTsNX4w
+Cosmobella Beauty Spa,"['83-07 Northern Blvd', 'Jackson Heights, NY 11372']",Jackson Heights,3.5,14,"{'latitude': 40.75595, 'longitude': -73.8841}",2.0,3pbRbs4HpwJzLaIwZHBhmA
+9 Foot Spa,"['19 Middle Neck Rd', 'Great Neck, NY 11021']",Great Neck,4.0,45,"{'latitude': 40.7873619, 'longitude': -73.7279844}",1.0,K60pQqad2JwntMXoPEz2Uw
+Synergy Massage Therapy,"['125 W 72nd St', 'Manhattan, NY 10023']",Manhattan,5.0,15,"{'latitude': 40.778009, 'longitude': -73.979585}",,GNPtoUEkBK9QbIN-cqqoMA
+Beauty Cutie Nail & Spa 2,"['520 E 14th St', 'Between Ave A and Ave B', 'New York, NY 10009']",New York,3.5,29,"{'latitude': 40.72979, 'longitude': -73.97924}",,mkaLsKUGrhUwvzpn9wqGkg
+VMV Hypoallergenics,"['123 Elizabeth St', 'New York, NY 10013']",New York,4.5,47,"{'latitude': 40.719444, 'longitude': -73.9956545}",2.0,arINpiKV_3aK1SbZJc-YFw
+Time Square Men Spa,"['351 W 44th St', 'New York, NY 10036']",New York,4.5,37,"{'latitude': 40.75957, 'longitude': -73.99105}",2.0,wy9PoZi9Wqpn8DkjzHj85Q
+"Stephen T. Greenberg, MD","['45 E 72nd St', 'Ste 1-C', 'New York, NY 10021']",New York,4.5,11,"{'latitude': 40.77171, 'longitude': -73.96452}",,QnyA9yiMONM8K5pPsI5nyw
+Bellisima Beauty Medi Spa,"['19 W 104th St', 'Ste 1A', 'New York, NY 10025']",New York,5.0,1,"{'latitude': 40.797301, 'longitude': -73.96201099999999}",,odzeT2P_vOZBGdV3Wxs69w
+TAO Asian Traditional QiGong Tui-Na Center,"['230 E 78th St', 'Manhattan, NY 10075']",Manhattan,5.0,13,"{'latitude': 40.7732436060905, 'longitude': -73.9570715278387}",1.0,_6K9w_PFJACi0ByTnAM7vw
+Rebecca Wender Massage Therapy,"['15 W 26th St', 'Fl 10', 'New York, NY 10010']",New York,5.0,3,"{'latitude': 40.744149, 'longitude': -73.989557}",,G2-YR6S5Ih06bjX5Zt7S-Q
+Blow and Arrow,"['2222 Jackson Ave', 'Long Island City, NY 11101']",Long Island City,4.5,22,"{'latitude': 40.7452849958351, 'longitude': -73.9470399974831}",,ncCjnQpHZooOvyqobaHxxg
+"Irma Jaroch, Certified Massage Therapist","['85 Livingston St', 'Brooklyn, NY 11201']",Brooklyn,5.0,7,"{'latitude': 40.69152, 'longitude': -73.99061}",,wZIkS_vU2osRRaYc1vyyHg
+Integrated Bodywork Center of Brooklyn,"['488 Carroll St', 'Brooklyn, NY 11215']",Brooklyn,5.0,9,"{'latitude': 40.6769095, 'longitude': -73.9861281}",,lozvmiubtqJn0Fz9PLm3ww
+Eden Beauty Bar,"['310 City Island Ave', 'Bronx, NY 10464']",Bronx,5.0,3,"{'latitude': 40.84738, 'longitude': -73.78637}",,luwBNZz6RjgCJx7FfCKNIg
+Total Healing Incorporated,"['45 Christopher St', 'New York, NY 10014']",New York,4.5,2,"{'latitude': 40.7338499, 'longitude': -74.00181}",,u8ycZg4-kApcQEp1n8mmvA
+Perfectly Kneaded,"['206 Rock Rd', 'Fl 2', 'Glen Rock, NJ 07452']",Glen Rock,4.5,28,"{'latitude': 40.9622447062213, 'longitude': -74.1305227132721}",,vr12mjCGs0k5URtYsST-HQ
+Chinese Body Works,"['316 W 14th St', 'New York, NY 10014']",New York,4.0,46,"{'latitude': 40.74001, 'longitude': -74.00353}",1.0,pr3Uh_fIEFDHFVQrNVLtIg
+Shanti E Spa,"['38 W Palisades Ave', 'Englewood, NJ 07631']",Englewood,4.0,24,"{'latitude': 40.8948461, 'longitude': -73.9767221}",,jgT5qCc-4iblG9wSxHQq7Q
+Beauty Couture Shiseido Cosmetics,"['1180 Town Center Way', 'Livingston, NJ 07039']",Livingston,4.0,28,"{'latitude': 40.796781, 'longitude': -74.314065}",3.0,6fwk5DQi8WIWzdqKQRj6Qg
+Spa Nalai,"['153 W 57th St', 'Park Hyatt New York', 'New York, NY 10019']",New York,4.0,9,"{'latitude': 40.76538, 'longitude': -73.97895}",3.0,7BM1Ta_Yoiv1sB4dPgE5qg
+Taiji Body Work Peng's Massage,"['86 Bowery', 'New York, NY 10013']",New York,3.5,166,"{'latitude': 40.71712, 'longitude': -73.99574}",1.0,ciXhJr2OYE0LZ5B35wTddQ
+Retouch Wellness,"['113 Monroe St', 'Hoboken, NJ 07030']",Hoboken,5.0,1,"{'latitude': 40.7395557, 'longitude': -74.0397159}",,FnJ0BOCD6at2UGzvmFDpyA
+"Spa 38, Inc","['138 Mulberry St', 'Studio 2A3', 'Manhattan, NY 10013']",Manhattan,5.0,1,"{'latitude': 40.71861, 'longitude': -73.99754}",,i-QXNA6LdXBuW-iQGXpiig
+Harmony Within Massage Therapy,"['189 Kinderkamack Rd', 'Fl 2', 'Westwood, NJ 07675']",Westwood,4.5,47,"{'latitude': 40.98863, 'longitude': -74.02672}",,wwuUGt9VsujkDpgA843aYA
+BLVD,"['20 Hudson Yards', 'Fl 7', 'New York, NY 10001']",New York,3.5,24,"{'latitude': 40.753518, 'longitude': -74.000712}",,9Ih17iC82J5oKgFsipTdtg
+Lotus Bodywork,"['354 E 78th St', 'East side of the shop', 'New York, NY 10075']",New York,4.5,9,"{'latitude': 40.77178, 'longitude': -73.95376}",,5mEChVrQsHddGpBqy7564A
+Be Yours Spa,"['301 E 90th St', 'New York, NY 10128']",New York,4.0,113,"{'latitude': 40.7804, 'longitude': -73.94955}",2.0,bivGa2a74tp7CAsGInpHQg
+Beautiful Mountain Massage Therapy,"['230 Bushwick Ave', 'Brooklyn, NY 11206']",Brooklyn,4.0,2,"{'latitude': 40.7078762, 'longitude': -73.9400241}",,LWsr2xr6116Ba1UYNFAjWA
+Beauty 88 Day Spa,"['325 E 54th St', 'New York, NY 10022']",New York,5.0,6,"{'latitude': 40.75702, 'longitude': -73.96557}",,e_AMfO7imBmB-dbAZFBWhA
+Mezzaluna Day Spa,"['333 Broadway', 'Westwood, NJ 07675']",Westwood,3.5,31,"{'latitude': 40.9904716, 'longitude': -74.0320481}",2.0,y30H2OU-_Y-XERtdbm-78A
+Russak Dermatology Clinic & Russak+ Aesthetic Center,"['115 E 57th St', 'Ste 1220', 'New York, NY 10022']",New York,4.5,67,"{'latitude': 40.76143, 'longitude': -73.96992}",4.0,upiWdLOBEkMJkSeZ8sWSuA
+Bali Relax Spa,"['814 59th St', 'Brooklyn, NY 11220']",Brooklyn,3.0,24,"{'latitude': 40.635643, 'longitude': -74.008706}",1.0,GzetQkooXPuk_bPNgeXCBA
+Comfeet Spa,"['18 Hilliard Ave', 'Ste B', 'Edgewater, NJ 07020']",Edgewater,4.5,82,"{'latitude': 40.8262596130371, 'longitude': -73.9749069213867}",1.0,jtfLRjNlC5Zi5N8EwyhJuw
+Spa Zone Skin Care and Threading Salon,"['25-09 Queens Plz N', 'Long Island City, NY 11101']",Long Island City,4.5,30,"{'latitude': 40.7507976, 'longitude': -73.9395319}",1.0,Z_eil6HiNvJDZeKJe4lnRw
+Skinplicity,"['386 Franklin Ave', 'Ste 101', 'Wyckoff, NJ 07481']",Wyckoff,5.0,16,"{'latitude': 41.0091515, 'longitude': -74.1717987}",3.0,u6xb2OdHhNFFdwQ5kS8hyw
+Infinity Wellness Bodywork,"['73-03 Austin St', 'Forest Hills, NY 11375']",Forest Hills,4.5,31,"{'latitude': 40.7183004399968, 'longitude': -73.8403340579265}",,h6HewuOt7GuGTQX3qT1XUA
+Hila Colonic New York,"['424 Bdwy', 'New York, NY 10013']",New York,5.0,1,"{'latitude': 40.719605, 'longitude': -74.001415}",,TLtDL0FGVseMxHresK_IdA
+Michael Kabram Acupuncture,"['37 Greenpoint Ave', 'Ste 217', 'Brooklyn, NY 11222']",Brooklyn,5.0,6,"{'latitude': 40.729961, 'longitude': -73.958969}",,4nBs9oIW-isWiNEGX28-yw
+H&C Chinese Bodywork,"['285 9th St', 'Brooklyn, NY 11215']",Brooklyn,5.0,4,"{'latitude': 40.66978, 'longitude': -73.98689}",,rZ0G5WoKgQJWVXJI4y1hZA
+Healthy Spa,"['40-15 82nd St', 'Fl 2', 'Jackson Heights, NY 11373']",Jackson Heights,5.0,1,"{'latitude': 40.747139, 'longitude': -73.883625}",,KaEq7IUSZOKuOQuUbIW-PA
+Garden Retreat Spa,"['253 5th Ave', 'Fl 2', 'New York, NY 10016']",New York,3.5,3,"{'latitude': 40.7447590412335, 'longitude': -73.9869811758399}",1.0,4s-kfKgvCyaFugoEMh7u6A
+Sunny Beauty Spa,"['1672 1st Ave', 'New York, NY 10128']",New York,4.5,20,"{'latitude': 40.7776319458843, 'longitude': -73.94814539469}",2.0,xoDnN8NH7KlPez18t1gOOA
+Grace Day Spa / Spring Garden Spa,"['212 E 26th St', 'New York, NY 10010']",New York,3.5,23,"{'latitude': 40.7403199, 'longitude': -73.98103}",1.0,pPfk47xXrWMkJwpbSf_BWg
+Tranquility Spa,"['917 Central Park Ave', 'Scarsdale, NY 10583']",Scarsdale,3.5,102,"{'latitude': 40.9923012, 'longitude': -73.8215557}",3.0,on2W9v_nPJYOM1REugwfqA
+Body Lounge Beauty Bar & Spa,"['1041 3rd Ave', 'Ste 201', 'New York, NY 10065']",New York,5.0,3,"{'latitude': 40.763006, 'longitude': -73.965208}",,d4RXMscvUFEYXLiI4E9RRA
+57 Wonderful Spa,"['57 W 57th St', 'Ste 1103', 'New York, NY 10019']",New York,5.0,1,"{'latitude': 40.764529, 'longitude': -73.976714}",,hWxt4jjSnpuy13OIibM9Jg
+Atlantic Grace,"['115 W 29th St', 'Ste 902', 'New York, NY 10001']",New York,5.0,1,"{'latitude': 40.74708, 'longitude': -73.99081}",,Apcrk1Zyf6JfFT2Ji5815w
+Attain MedSpa,"['720 Monroe St', 'Ste E407', 'Hoboken, NJ 07030']",Hoboken,4.5,24,"{'latitude': 40.746964, 'longitude': -74.038009}",,it08q8-k5Y462lGjeGl0pA
+Darcy Stockton Massage Therapy,"['603 Bergen St', 'Brooklyn, NY 11238']",Brooklyn,5.0,77,"{'latitude': 40.679988, 'longitude': -73.969872}",2.0,gBYX42ony9LZphqef38kKw
+Massage Envy - Fair Lawn,"['2150 Promenade Blvd', 'Fair Lawn, NJ 07410']",Fair Lawn,4.5,17,"{'latitude': 40.9438343, 'longitude': -74.1293468}",2.0,vrCda-YeHc2ryMl043VuUg
+Windows to Paradise Spa,"['Bloomfield, NJ 07003']",Bloomfield,5.0,1,"{'latitude': 40.8015251159668, 'longitude': -74.19219207763672}",,JSo2Q5R_968rNtcVrr_img
+Glen Head Spa,"['167 Glen Head Rd', 'Glen Head, NY 11545']",Glen Head,5.0,5,"{'latitude': 40.835312, 'longitude': -73.6219}",1.0,We2aLOhNPtvyypKGl_iJZw
+Lumena Aesthetics,"['296 Bond St', 'Ste B', 'Brooklyn, NY 11231']",Brooklyn,4.5,53,"{'latitude': 40.68056, 'longitude': -73.98939}",2.0,MmkYmdWKyN0VebopKaUm5Q
+Massage Guy - Jersey City,"['257 Whiton St', 'Jersey City, NJ 07304']",Jersey City,5.0,7,"{'latitude': 40.7105882708974, 'longitude': -74.0626086489525}",,kp6ilR5BgC6k7bC4hAzNbw
+Mercedes Club,"['550 W 54th St', 'New York, NY 10019']",New York,4.0,153,"{'latitude': 40.7676786952469, 'longitude': -73.9915698797362}",3.0,Mlo8UphMkoy9XMWHVgZsgA
+No 1 Natural Spa,"['737 2nd Ave', 'Ste 301', 'New York, NY 10016']",New York,3.5,28,"{'latitude': 40.74832, 'longitude': -73.97366}",,Cy56Z6jcqAo5sL3CRkDfjQ
+Flora Nails & Spa Inc,"['57 Front St', 'Brooklyn, NY 11201']",Brooklyn,3.5,53,"{'latitude': 40.7026834, 'longitude': -73.991288}",2.0,PoY2JHaoOi3Gg58H7upeOA
+Island Bliss Day Spa,"['1869 Victory Blvd', 'Staten Island, NY 10314']",Staten Island,3.5,42,"{'latitude': 40.613091, 'longitude': -74.126028}",2.0,dKLS2l3pCu6-chHr3h9iQg
+Yanni Erbeli Wisteria,"['67 Broad St', 'Red Bank, NJ 07701']",Red Bank,5.0,23,"{'latitude': 40.349991, 'longitude': -74.064967}",3.0,HL3DvwKwDkmOpxz1aDVoPg
+Grace's Day Spa,"['582 Leonard St', 'Brooklyn, NY 11222']",Brooklyn,3.5,33,"{'latitude': 40.72476, 'longitude': -73.95002}",2.0,jBhhtMpln0ntsFjsWAR9ng
+Green Bodywork,"['680 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.0,18,"{'latitude': 40.7251319885254, 'longitude': -73.9512481689453}",2.0,ElKjz_JxHdEIRsIRGvT_NA
+Sooth Away Your Aches,"['198 Main St', 'Little Ferry, NJ 07643']",Little Ferry,5.0,50,"{'latitude': 40.8520431518555, 'longitude': -74.0409622192383}",,TYreHN2ElrV1ij_QybBbLQ
+Cay Spa,"['2120 Frederick Douglass Blvd', 'New York, NY 10026']",New York,4.0,36,"{'latitude': 40.803333, 'longitude': -73.955795}",3.0,b9nN15bMLsqgN_wTVzm7Dg
+Erin Oglesby CranioSacral Therapy and Yoga,"['37 W 20th St', 'Ste 607', 'New York, NY 10011']",New York,5.0,5,"{'latitude': 40.74072, 'longitude': -73.99318}",,5OWYXVE97Ebt9KbLt7Oixg
+Delacqua Salon & Spa,"['2027 86th St', 'Brooklyn, NY 11214']",Brooklyn,4.5,250,"{'latitude': 40.60427, 'longitude': -73.99737}",2.0,2ojMkje0zEZhs8RFrq0Wrw
+Amenity Body Work,"['138 Sullivan St', 'New York, NY 10012']",New York,4.0,15,"{'latitude': 40.72692, 'longitude': -74.00213}",,R45K4-ABUFTle6t5_EqH0A
+Lisa spa,"['122 W 20th St', '1FW', 'New York, NY 10011']",New York,4.0,40,"{'latitude': 40.7412947, 'longitude': -73.9953532}",1.0,tU0NFgp_Qx8n7epXYjRZZQ
+Full-Spectrum Touch Massage & Body Therapy,"['343 5th Ave', 'Studio A', 'Brooklyn, NY 11215']",Brooklyn,5.0,6,"{'latitude': 40.671872, 'longitude': -73.983709}",2.0,QzZd-jCorKtWg3IWPlcZVQ
+Sang Yuan Body Works,"['225 E 83rd St', 'New York, NY 10028']",New York,4.5,206,"{'latitude': 40.776492, 'longitude': -73.954059}",1.0,SBkcuQc_zPw-yQ1kbDTvUA
+Red Moon Wellness,"['405 5th Ave', 'Fl 2', 'Brooklyn, NY 11215']",Brooklyn,5.0,61,"{'latitude': 40.6701447, 'longitude': -73.9852182}",,nPsgGBflzwsDNXWZfaq8dg
+Wu Lim Qi Gong Master,"['179 Grand St', 'New York, NY 10013']",New York,4.0,88,"{'latitude': 40.71942, 'longitude': -73.99793}",1.0,ZzLc0Zdj54kTRrZJtFU3Wg
+Gather Nail & Spa,"['203 N 8th St', 'Brooklyn, NY 11211']",Brooklyn,4.5,16,"{'latitude': 40.71746, 'longitude': -73.95544}",,Zjrli-iSMJqLtF4CdA3tSg
+Lovely Spa,"['27-12 23rd Ave', 'Astoria, NY 11105']",Astoria,4.0,69,"{'latitude': 40.7756, 'longitude': -73.91507}",2.0,b2pz2MLe7PgHWTAaZ5wdbA
+Panda Spa,"['27-22 30th Ave', 'Astoria, NY 11102']",Astoria,4.0,17,"{'latitude': 40.7679228966948, 'longitude': -73.9236885405779}",,HE9s2EefTDz1DH9JpBSF5g
+Soho Acupuncture Center,"['217 Ctr St', 'Fl 2', 'New York, NY 10013']",New York,5.0,66,"{'latitude': 40.71952, 'longitude': -73.99891}",,iIeSfKqQ4EgukLDh17NC2Q
+Jinsoon,"['37 Walker St', 'New York, NY 10013']",New York,4.0,92,"{'latitude': 40.71913, 'longitude': -74.00409}",2.0,Rn2e1NbEt8_5ci9EfeNK5A
+Intension Massage,"['352 W 48th St', 'New York, NY 10036']",New York,5.0,1,"{'latitude': 40.76178180000001, 'longitude': -73.989333}",,1_kE5F6XhM0zMzxtJLEKMg
+Concept Day Spa,"['2801 Avenue U', 'Brooklyn, NY 11229']",Brooklyn,3.0,35,"{'latitude': 40.6003057869176, 'longitude': -73.9437292037048}",3.0,y9iMUlRVIwHQNdcueuZ21A
+Fabulous Touch Spa & Wellness Center,"['2799 Coney Island Ave', 'Fl 4', 'Brooklyn, NY 11235']",Brooklyn,4.5,36,"{'latitude': 40.588326, 'longitude': -73.960069}",2.0,tphIk8uqwQ0z2WQ_oHEdzA
+Elitra Health,"['255 Greenwich St', 'Ste 520', 'New York, NY 10007']",New York,4.5,2,"{'latitude': 40.713357925415, 'longitude': -74.0115840733051}",,o5ZdcC4ZOOP_uK8uha1Zog
+A Moment to Myself,"['515 4th St', 'Hoboken, NJ 07030']",Hoboken,5.0,1,"{'latitude': 40.7424792, 'longitude': -74.0374845}",,ajlaYXAhyBKAoJhQKd0tPQ
+Zeno Nail Bar,"['119 Ludlow St', 'New York, NY 10002']",New York,4.5,26,"{'latitude': 40.719656, 'longitude': -73.988831}",,9e3IsAJLF5FV7iWn_loZTQ
+West Nail,"['2271 Broadway', 'New York, NY 10024']",New York,4.5,30,"{'latitude': 40.78567, 'longitude': -73.97891}",,EZ6yCOzKd2i09qO0gjFb5g
+healme.nyc,"['44-02 23rd St', 'Ste 516', 'Long Island City, NY 11101']",Long Island City,5.0,4,"{'latitude': 40.748683, 'longitude': -73.944833}",,AG3irsDyjq_4c34P0ZSbEA
+LizWell Massage Therapy,"['304 E 65th St', 'Ste LL1', 'Manhattan, NY 10065']",Manhattan,5.0,5,"{'latitude': 40.764033, 'longitude': -73.961439}",,znQITv3B9oSwwKPYxmCq0A
+Strive Total Wellness,"['131 E 31st St', 'New York, NY 10016']",New York,5.0,30,"{'latitude': 40.7447205, 'longitude': -73.9812775}",,aNP8sqRfYrF8gwXO-aITJQ
+J J Home Spa,"['4329 Broadway', 'Ste 1', 'New York, NY 10033']",New York,3.5,19,"{'latitude': 40.85263, 'longitude': -73.93487}",1.0,5QAApykVq0otaFHkYljv6A
+Blooming Nail Spa,"['87 Rivington St', 'New York, NY 10002']",New York,4.5,26,"{'latitude': 40.720057, 'longitude': -73.989001}",,HYAxH67UP3CP2k5N80N5Bw
+Do'ssage Massage & Bodywork,"['2305 N Wood Ave', 'Ste 2', 'Roselle, NJ 07203']",Roselle,5.0,7,"{'latitude': 40.638213, 'longitude': -74.265211}",,9OQFA-XdML9xETsyhh_pWA
+Massage Envy - Rego Park,"['89-44 Metropolitan Ave', 'Rego Park, NY 11374']",Rego Park,3.5,30,"{'latitude': 40.7117519650624, 'longitude': -73.8606072217225}",2.0,GBv9m3xR1XkApXRtZ9MtNQ
+Dermaluxe Laser Spa,"['10-11 49th Ave', 'FL 2', 'Queens, NY 11101']",Queens,4.5,22,"{'latitude': 40.74348, 'longitude': -73.95329}",,TCVD_dJbfpHu4eKHCCXleA
+Elite Day Spa,"['29 W 46th St', 'Fl 2', 'New York, NY 10036']",New York,4.0,191,"{'latitude': 40.75675, 'longitude': -73.98015}",2.0,dZiXyuCKAvL-K4r7g-KXkQ
+Fresh Nail Beauty SPA 27,"['27 W 15th St', 'Ste MF', 'New York, NY 10011']",New York,5.0,1,"{'latitude': 40.737421, 'longitude': -73.994388}",,5ae8uP4rW6DBTcbkOmEvjQ
+AlexSpot24,"['250 W 27 St', 'Manhattan, NY 10001']",Manhattan,5.0,5,"{'latitude': 40.7475379, 'longitude': -73.9964348}",,Wvwd3fLFoiB9wKQb-8g01g
+Elements Massage - Nutley,"['244 Franklin Ave', 'Nutley, NJ 07110']",Nutley,4.0,84,"{'latitude': 40.816016, 'longitude': -74.161467}",2.0,Bel4w1qs6XzE-8_V89tTLw
+Prive By Laurent D,"['781 5th Ave', 'New York, NY 10022']",New York,4.5,29,"{'latitude': 40.7643674189399, 'longitude': -73.972837218277}",3.0,Gmej53JXt9NNjo2M3f6Vag
+La Casa Spa and Wellness Center,"['41 E 20th St', 'Ste 2', 'New York, NY 10003']",New York,3.5,35,"{'latitude': 40.73888, 'longitude': -73.98851}",,3lxg9pHQ7sH6Io4hbx2vHg
+Renew Body Wellness,"['49 W 8th St', '2 Fl', 'New York, NY 10011']",New York,4.0,331,"{'latitude': 40.733388, 'longitude': -73.998525}",1.0,RaVLC_ti30oz2-3fvrtxag
+Yiska Obadia-Gedal,"['272 Manhattan Ave', '4E', 'New York, NY 10026']",New York,5.0,4,"{'latitude': 40.80198, 'longitude': -73.9588799}",,YD1n3JpgrDukAWgKfFWW-w
+Omni Wellness NYC,"['928 Broadway', 'Ste 1200', 'Manhattan, NY 10010']",Manhattan,5.0,5,"{'latitude': 40.7400389, 'longitude': -73.989195}",2.0,1IO1weTCfnuFpSSSTyuiSg
+Lilac Service,"['3158 Steinway St', 'Fl 2', 'Astoria, NY 11103']",Astoria,4.0,104,"{'latitude': 40.75991, 'longitude': -73.91859}",1.0,2eH0fJdS_v0arT11VIaKCQ
+Rani Spa,"['37-09 30th Ave', 'Queens, NY 11103']",Queens,2.0,13,"{'latitude': 40.76466, 'longitude': -73.91602}",1.0,hik3f1SxkxZGFDH0XmAchQ
+Peng's Bodywork,"['114 W. Houston St.', 'New York, NY 10012']",New York,3.5,28,"{'latitude': 40.72763, 'longitude': -74.00083}",,F79bD8c1tSeuyYTfbA_XHw
+Sense Beauty Spa,"['43-13 A Bell Blvd', 'Fl 2', 'Bayside, NY 11361']",Bayside,4.0,49,"{'latitude': 40.7608738, 'longitude': -73.7694824}",2.0,rG7kxp5Y0x_SJvDyalZiIQ
+Arpi's Spa,"['189-07 Union Tpke', 'Fresh Meadows, NY 11366']",Fresh Meadows,4.5,20,"{'latitude': 40.7297199, 'longitude': -73.7800399}",3.0,Xk8yDaxkuUPQUGvCoyZnzA
+Elevate Nail And Spa,"['360 White Plains Rd', 'Ste 3', 'Eastchester, NY 10709']",Eastchester,5.0,1,"{'latitude': 40.953072, 'longitude': -73.815106}",,eK90S5HVXfmybozh1kXdqQ
+"Irene Hong, LAc, LMT.","['150 Flanagan Way', 'Fl 2', 'Kipnis Physical Therapy Center', 'Secaucus, NJ 07094']",Secaucus,5.0,4,"{'latitude': 40.793615, 'longitude': -74.05921}",,VCQuigVMs-3EV8n0V8XMUw
+Loosen Up,"['172 Newark Ave', 'Ste 3', 'Jersey City, NJ 07302']",Jersey City,5.0,16,"{'latitude': 40.72164, 'longitude': -74.04574}",,vN6iY4FwuYRW49xcCqTMXg
+"Leah Ansell, MD","['1035 5th Ave', 'New York, NY 10028']",New York,5.0,3,"{'latitude': 40.78056, 'longitude': -73.96091}",,WXlaqEUEla79JnKoUiA2yQ
+Tenzin Salon I,"['7232 Broadway', 'Ste 1', 'Jackson Heights, NY 11372']",Jackson Heights,3.0,11,"{'latitude': 40.74698, 'longitude': -73.89261}",1.0,uYjZs77vuZmmI1QfQV75-w
+Dyanna Spa & Waxing Center,"['42 E 21st St', 'New York, NY 10010']",New York,3.5,244,"{'latitude': 40.7391483, 'longitude': -73.9883143}",2.0,5voLH8szqp1ezBQ3H_3ByA
+Body Sculpt Studio,"['609 West 207th St', 'Premier Hair Salon & Spa', 'New York, NY 10034']",New York,5.0,1,"{'latitude': 40.8675524, 'longitude': -73.9209005}",,r3aazvaFArMuCOW2ny5KUw
+Basebody Spa,"['60 Columbus Dr', 'Jersey City, NJ 07302']",Jersey City,3.5,34,"{'latitude': 40.7188845, 'longitude': -74.0395288}",2.0,xRhGCgCENZe36tSmPrWLyA
+Roosevelt Nails & Co,"['570 Main St', 'New York, NY 10044']",New York,4.0,30,"{'latitude': 40.7626992090993, 'longitude': -73.949202463382}",1.0,wrYS8_5NsOMJ3sNQEi39JA
+W Man Spa,"['216 B W 30th St', 'Fl 1', 'New York, NY 10001']",New York,4.0,5,"{'latitude': 40.748771, 'longitude': -73.993441}",2.0,3OpPFc3Eiby8j8f3TzvGZw
+Nirvana Wellness NYC,"['366 2nd Ave', 'New York, NY 10010']",New York,3.5,35,"{'latitude': 40.7367230936473, 'longitude': -73.981478959322}",2.0,Mz5Dv8k4YjkXOq-ud4Y6hw
+Balayage By Jazette,"['458 W Broadway', 'Fl 2', 'Serenity Salon', 'New York, NY 10012']",New York,4.5,8,"{'latitude': 40.7263, 'longitude': -74.000769}",,MURO-1CKLHaV-eN5xcILpg
+Chinese Traditional Qi Gong Tui-Na Center,"['203 W 85th St', 'New York, NY 10024']",New York,4.5,53,"{'latitude': 40.78733, 'longitude': -73.975833}",1.0,SFK_A_wYluSJqFdrm8QXnw
+Rebalance Massage Clinic,"['77 Milltown Rd', 'Ste C2', 'East Brunswick, NJ 08816']",East Brunswick,5.0,16,"{'latitude': 40.44052, 'longitude': -74.39818}",,glqjbSA0FcBYDrwaTxwc4A
+Araya Rebirth,"['10 Garber Sq', 'Ridgewood, NJ 07450']",Ridgewood,4.5,37,"{'latitude': 40.98051, 'longitude': -74.12181}",2.0,DWFVuux2-se4sPVPcUoCKw
+Addison Street Spa,"['9 Addison St', 'Larchmont, NY 10538']",Larchmont,4.5,14,"{'latitude': 40.92937, 'longitude': -73.7525}",3.0,6j0D4WOXScKXt8gmrCO01Q
+ManiCare Nails & Spa,"['69 Murray St', 'New York, NY 10007']",New York,5.0,19,"{'latitude': 40.714753, 'longitude': -74.010321}",,nzx0vqBqOb2F6pCBCSJAJA
+Skin By Sylwia New York,"['Manhattan, NY 10012']",Manhattan,5.0,6,"{'latitude': 40.72532, 'longitude': -73.99792}",2.0,SXmmN1qx5pXQtL2nZOsf5A
+ArtistOnGo,"['379 West Broadway', 'New York, NY 10012']",New York,5.0,4,"{'latitude': 40.723671, 'longitude': -74.002418}",,sljS9BYjRjYzCYLvQfvVAQ
+Kalypso Organic & Medi Spa,"['29-29 Newton Ave', 'Astoria, NY 11102']",Astoria,4.5,38,"{'latitude': 40.7687424, 'longitude': -73.9212205}",2.0,Ecw2kBVsic7UqAtQ4LYKsA
+Spa Nature,"['18 Park View Ave', 'Jersey City, NJ 07302']",Jersey City,4.5,35,"{'latitude': 40.71419, 'longitude': -74.043908}",2.0,3Iv00Fx4DhLYyA_hb8m74w
+Studio Diva Salon & Spa,"['91 Pineapple Walk', 'Brooklyn Heights, NY 11201']",Brooklyn Heights,4.0,128,"{'latitude': 40.699131, 'longitude': -73.9923283}",2.0,nlAy_GxvLjDU1_kNFucNoA
+Ming's Spa,"['135 W 58th St', 'New York, NY 10019']",New York,3.0,3,"{'latitude': 40.76571, 'longitude': -73.9778}",1.0,fwjlzI-xYYmyBZt0CVoQ5Q
+Chins Massage,"['138 West 25th St', 'Fl 11', 'New York, NY 10001']",New York,5.0,13,"{'latitude': 40.7447724, 'longitude': -73.9937057}",,kWwdreLOLywGIuDLMXG-SA
+Dreamland Spa,"['304 East 49 St', 'New York, NY 10017']",New York,4.0,26,"{'latitude': 40.75398, 'longitude': -73.96861}",,kdEOnITeH0tuF8Szrcpw6g
+Vitality Spa,"['128 Baxter St', 'New York, NY 10013']",New York,4.5,11,"{'latitude': 40.71828, 'longitude': -73.99907}",,tdQi3nuXvznlwT5FfHbk_Q
+Complete by CompleteBody Union Square,"['25 West 14th St', 'New York, NY 10011']",New York,5.0,14,"{'latitude': 40.73668, 'longitude': -73.99483}",,qNqLENNTgVQgyneh4Voggw
+New York Yang Sheng Spa,"['3916 Prince St', 'Flushing, NY 11354']",Flushing,4.0,8,"{'latitude': 40.7593754019924, 'longitude': -73.833220526576}",2.0,kHNtBfSMusxy4vOSEaexMA
+Glowinskin Esthetics,"['267 Sea Cliff Ave', 'Ste 1', 'Sea Cliff, NY 11579']",Sea Cliff,5.0,4,"{'latitude': 40.84902, 'longitude': -73.64642}",,esR5o3YBiYkVT2dzbPK-hw
+Unwind Massage Therapy,"['1540 York Ave', 'Ste 1A', 'New York, NY 10028']",New York,5.0,5,"{'latitude': 40.77292, 'longitude': -73.94899}",,1-rUAEwCfRc0TsN7DGjkig
+Rose Spa,"['43-14 Main St', 'Flushing, NY 11355']",Flushing,3.0,2,"{'latitude': 40.7520932757836, 'longitude': -73.8269455}",,7dnuS--iSLsJJMFURLiKEg
+O Spa,"['4802 8th Ave', 'Brooklyn, NY 11220']",Brooklyn,2.5,44,"{'latitude': 40.6423, 'longitude': -74.00283}",2.0,oUhfctUi9qsbuEve-BklyA
+Naturees,"['21 E 1st St', 'New York, NY 10003']",New York,3.5,4,"{'latitude': 40.7242585, 'longitude': -73.9911297}",3.0,RJR0F9S0etAXGDGh-f7KBA
+Classic Spa,"['164-03 Northern Blvd', 'Flushing, NY 11358']",Flushing,4.0,8,"{'latitude': 40.7607538998127, 'longitude': -73.8018487393856}",1.0,Fw-uKqmcv463HeldMdWfdg
+Massage Envy - Holmdel,"['2101 Route 35', 'Holmdel, NJ 07733']",Holmdel,5.0,9,"{'latitude': 40.4146602, 'longitude': -74.1450593}",2.0,l4VkfgZhYWfB-QuZyFDKoA
+Luxury Health Day Spa,"['346 Great Neck Rd', 'Great Neck, NY 11021']",Great Neck,4.5,5,"{'latitude': 40.7790729, 'longitude': -73.7318709}",,zKoNZzG0-AP8YIwPEGx4EA
+Blue Lagoon Holistic Med Spa,"['30-27 Steinway St', 'Ste 2F', 'Queens, NY 11103']",Queens,5.0,8,"{'latitude': 40.76307, 'longitude': -73.91529}",,cdjG7ulOcsbd653dmtfV2Q
+Brooklyn Reflexology,"['116 Clinton St', 'New York, NY 11201']",New York,5.0,11,"{'latitude': 40.6930056, 'longitude': -73.99316499782901}",,nsKzh8oLbntQw4Ur14LTog
+Lemon Tree Foot Rub Spa,"['20-07 127th St', 'Level C', 'College Point, NY 11356']",College Point,3.0,28,"{'latitude': 40.7812295767772, 'longitude': -73.8409855950562}",2.0,2pHQvrF_t0B93DmwLnF79w
+Jinfu Spa,"['163 Mott St', 'New York, NY 10013']",New York,4.0,4,"{'latitude': 40.71966, 'longitude': -73.99634}",,oFWLzmY6mXYRpKQgZfUqzA
+Peach & Fox,"['767 Lexington Ave', 'Ste 305', 'New York, NY 10065']",New York,5.0,14,"{'latitude': 40.762984, 'longitude': -73.967415}",,gNMLXuFJjQLNwUKwbWseMQ
+Ofer Massage,"['10308 Crosby Pl', 'Port St. Lucie, FL 34986']",Port St. Lucie,5.0,27,"{'latitude': 27.3178656, 'longitude': -80.4306093}",,M_Tw1TtE8DpKsnfdDN-B_w
+Pink Soda Blow Dry Bar & Salon,"['35 W 20th St', 'Fl 1', 'New York, NY 10011']",New York,5.0,5,"{'latitude': 40.740677, 'longitude': -73.992924}",,RfYmIDRoJ3xDoGFUMpp8ag
+Spa Belles 20 Street,"['170 7th Ave', 'New York, NY 10011']",New York,2.0,17,"{'latitude': 40.74241, 'longitude': -73.99709}",,zuEMiGU20F--FUrsOVuiwg
+Space For Wellness,"['95 University Pl', 'Fl 8', 'New York, NY 10003']",New York,4.5,61,"{'latitude': 40.733702480793, 'longitude': -73.9929051697254}",,w7RCuFxzKUcZFLL-cI1eQQ
+NYC Bodyworks,"['1123 Broadway', 'Ste 1009', 'New York, NY 10010']",New York,4.5,7,"{'latitude': 40.7433495, 'longitude': -73.98924307259735}",,aFd7NpXtNLhgeDwj_jPZHw
+Dr WW Med Spa & Laser Center,"['85-16 Queens Blvd', 'Elmhurst, NY 11373']",Elmhurst,3.5,78,"{'latitude': 40.73656, 'longitude': -73.87818}",2.0,69k8Z0C3mVihyx8JaXcvAg
+VK Skin Spa,"['162 Brighton 11th St', 'Fl 2', 'Brooklyn, NY 11235']",Brooklyn,4.5,6,"{'latitude': 40.579126, 'longitude': -73.958642}",2.0,wReTQNufmQypUTUJufR6rQ
+Sos Day Spa,"['124 E 36th St', 'New York, NY 10016']",New York,5.0,1,"{'latitude': 40.747699, 'longitude': -73.979316}",,y7okWzhJt-4skkR28gcvkA
+Total Relaxation Spa,"['161 W 4th St', 'New York, NY 10014']",New York,5.0,4,"{'latitude': 40.73203, 'longitude': -74.00129}",,qBVSdzuXlob4h40t3pFpsQ
+Leslie Goldblatt Denunzio,"['497 6th Ave', 'Brooklyn, NY 11215']",Brooklyn,5.0,14,"{'latitude': 40.6663172, 'longitude': -73.9851527}",,YgukABB7G2JyTQOkf2lqfA
+Noppera,"['90 E 3rd St', 'New York, NY 10003']",New York,5.0,8,"{'latitude': 40.724658, 'longitude': -73.987985}",,n5ddllhtaTUmWFiRrjLk8g
+Lindai's Bodywork,"['31 Nassau Ave', 'Greenpoint, NY 11222']",Greenpoint,5.0,10,"{'latitude': 40.7230934511828, 'longitude': -73.9529226910982}",,C_pNk48Ak8n_IM7wJ5cdyw
+Acuwell Health,"['60 Remsen St', 'Ste 4', 'Brooklyn, NY 11201']",Brooklyn,5.0,2,"{'latitude': 40.694223, 'longitude': -73.996102}",,BazU_4ukUE1qw29J_Wc1uw
+Elements Massage - Rockville Centre,"['316 A Sunrise Hwy', 'Rockville Centre, NY 11570']",Rockville Centre,4.0,78,"{'latitude': 40.6569824422704, 'longitude': -73.6425561806035}",2.0,8VaA_vSNWlECwo4KXAPnnA
+Ruchki da Nozhki,"['381 Atlantic Ave', 'Brooklyn, NY 11217']",Brooklyn,4.5,127,"{'latitude': 40.687423, 'longitude': -73.985404}",2.0,wD45dWi2E7n8LbX9v-KQtQ
+Heaven-E Specialty Beauty Spa,"['126 Lafayette St', 'Fl 2', 'New York, NY 10013']",New York,4.0,27,"{'latitude': 40.71885, 'longitude': -74.00036}",2.0,MtsGK3KJvJ6JCJ6xCXNl4w
+Face To Face NYC,"['20 W 20th St', 'Ste 603', 'New York, NY 10011']",New York,4.5,81,"{'latitude': 40.7401, 'longitude': -73.992405}",2.0,31qcD0xHRiiYGEEkRvBxIA
+The Whole You Spa,"['3765 Riverdale Ave', 'Ste 1', 'Bronx, NY 10463']",Bronx,3.0,42,"{'latitude': 40.8879281109083, 'longitude': -73.9077585251312}",2.0,6HbDblCeXiv37Bn_EdZTyw
+Les Petits Ongles,"['276 73 Rd St', 'Brooklyn, NY 11209']",Brooklyn,4.5,5,"{'latitude': 40.63287, 'longitude': -74.0277}",,yVDHqjClEfAV0KT4Q5H9Hg
+Blue Horizon Spa,"['23 Bayview Ave', 'Manhasset, NY 11030']",Manhasset,4.0,53,"{'latitude': 40.7979449, 'longitude': -73.7007174}",2.0,u3NU5yBjj2ZNvGHudRtyyg
+Song Body Zhen Spa,"['30-97 Steinway St', 'Ste 206', 'Astoria, NY 11103']",Astoria,3.5,101,"{'latitude': 40.761275, 'longitude': -73.916498}",1.0,7jTYTIZLbTvCf7dTUtFQDA
+Kuarzo Spa,"['87 Glen Cove Rd', 'Ste 203', 'Greenvale, NY 11548']",Greenvale,5.0,3,"{'latitude': 40.8145, 'longitude': -73.62701}",3.0,qlC9VaPH16RweE77_LhBlw
+D+W Polish,"['216 Atlantic Ave', 'New York, NY 11201']",New York,4.5,18,"{'latitude': 40.689335, 'longitude': -73.992051}",,Sd2wuM0KR77L54gy2r_giA
+MindBody Restorations,"['32nd st and 24th ave', 'Astoria, NY 10003']",Astoria,5.0,11,"{'latitude': 40.73706, 'longitude': -73.99053}",2.0,w8keK9NFHq2p2QyAHz_yBw
+Crystal Day Spa,"['112-02 Queens Blvd', 'Forest Hills, NY 11375']",Forest Hills,3.5,238,"{'latitude': 40.7180137650514, 'longitude': -73.8368292009278}",2.0,SE6yi4XbleJLrW32YRSvEg
+Rani Spa,"['587 10th Ave', 'New York, NY 10036']",New York,2.0,90,"{'latitude': 40.7601283, 'longitude': -73.9952965}",2.0,ryrQo63HRW8n_ItVAcMkmA
+Central Park Oral & Maxillofacial Surgery,"['30 Central Park S', 'Ste 3C', 'New York, NY 10019']",New York,5.0,1,"{'latitude': 40.7650099, 'longitude': -73.9752}",,3nkSEUPR9VzmV7dEYeraGw
+Foresee Therapy,"['1495 Nostrand Ave', 'Brooklyn, NY 11226']",Brooklyn,5.0,1,"{'latitude': 40.649766, 'longitude': -73.94914}",,oswPUf5qdCHKIUBqPEOqnQ
+Momentum Sports Recovery,"['597 Degraw St', '2F', 'Brooklyn, NY 11217']",Brooklyn,5.0,14,"{'latitude': 40.67938, 'longitude': -73.98368}",,ZIvUPndsbD6XZoAddeJZYQ
+Y Lift,"['2 E 61st St', 'New York, NY 10065']",New York,5.0,5,"{'latitude': 40.767601, 'longitude': -73.967239}",,5pGPMev-ziFREQHvZjmlIA
+New Cherry Spa,"['28-09 Ditmars Blvd', 'Queens, NY 11105']",Queens,3.0,7,"{'latitude': 40.7772789, 'longitude': -73.9118423}",2.0,S0yLLPab8gcmpYtawSD_FQ
+A-1 beauty salon,"['429 Central Ave', 'Jersey City, NJ 07307']",Jersey City,3.5,9,"{'latitude': 40.7493543038316, 'longitude': -74.047270840024}",1.0,5Udz7A8rYjY3zxp3nlY0jA
+New Four Seasons Spa,"['2025 Lemoine Ave', 'Fl 4', 'Fort Lee, NJ 07024']",Fort Lee,4.0,30,"{'latitude': 40.852098, 'longitude': -73.969948}",2.0,eOejHq-ETcxSfAMOykUBxg
+My Sanctuary Salon & Spa,"['1190 Broadway', 'New York, NY 11221']",New York,4.5,2,"{'latitude': 40.692295, 'longitude': -73.927414}",2.0,kWLF91Qi0utkLBsuG9PfcQ
+East Spa,"['216 E 49th St', 'New York, NY 10017']",New York,5.0,1,"{'latitude': 40.754728, 'longitude': -73.970642}",,zSL5aH6kwnxRNfHV2iHdWw
+Lily Spa,"['11B Treno St', 'New Rochelle, NY 10801']",New Rochelle,5.0,1,"{'latitude': 40.9228651, 'longitude': -73.78729}",,ny_b-3bHY_AmUw3gOEZ7Rw
+Bliss Out,"['100 Water St', 'Brooklyn, NY 11201']",Brooklyn,1.0,1,"{'latitude': 40.7031599, 'longitude': -73.9899}",,Ec64UP-ABhIo0C2JYQWc_A
+Knead NYC,"['56 West 45th St', 'New York, NY 10036']",New York,4.5,3,"{'latitude': 40.7561859, 'longitude': -73.9818267}",,blKNMVsVUADBgelszgq5rQ
+New Skin Esthetics,"['7910B 13th Ave', 'Brooklyn, NY 11228']",Brooklyn,4.5,37,"{'latitude': 40.6178974, 'longitude': -74.0102348}",2.0,jS894Cx6CANHCbZxaBla2g
+"Sonia Maksimovich, LMT","['30-97 Steinway St', 'Ste 303', 'Astoria, NY 11103']",Astoria,5.0,49,"{'latitude': 40.7613266, 'longitude': -73.9165746}",,P6vZ9fvXjUg6nU3kTywIRQ
+Asian Body Care,"['25-19 Astoria Blvd', 'Long Island City, NY 11102']",Long Island City,2.5,2,"{'latitude': 40.7714386, 'longitude': -73.9219818}",,yNG9lx-ICoWn2iTOhPo-GA
+Sedora Spa,"['2 Grant St', 'Tuckahoe, NY 10707']",Tuckahoe,4.0,49,"{'latitude': 40.949597, 'longitude': -73.828006}",2.0,SipcKNZK72UKZyW8hmJZRA
+The Spa at Equinox,"['817 Lexington Ave', 'New York, NY 10065']",New York,4.0,7,"{'latitude': 40.7644601, 'longitude': -73.9663576}",3.0,vAOEDY5SGgLhr3zkdR36hg
+Wonderhand Foot Spa,"['158 Mott St', 'New York, NY 10013']",New York,3.5,17,"{'latitude': 40.7194786, 'longitude': -73.9960403}",1.0,1JibKTXQzw6BDp6oCAtdiw
+Hand & Stone Massage and Facial Spa,"['193 East 22nd St', 'Bayonne, NJ 07002']",Bayonne,3.5,6,"{'latitude': 40.659718, 'longitude': -74.110762}",,fHiqDUO88nKJS5aChRQZKQ
+Siam Thai Traditional,"['575 Lexington Ave', 'Ste 4019', 'New York, NY 10168']",New York,4.5,3,"{'latitude': 40.75738280139079, 'longitude': -73.97149809999999}",,1YPb1EQRnQJhNsRlwpaTdQ
+Warren Tricomi at the Plaza,"['1 W 58th St', 'Fl 2', 'The Plaza Hotel NYC', 'New York, NY 10019']",New York,4.0,163,"{'latitude': 40.76373, 'longitude': -73.97393}",3.0,_L7O1ZhQ9EDnO1LHv9b10g
+LM Spa,"['57 Clinton St', 'New York, NY 10002']",New York,1.0,1,"{'latitude': 40.71959, 'longitude': -73.98492}",,HTjWZDEIzl27nhAJnOhLCQ
+Waterfront Wellness,"['250 W 26th St', 'Rm 5D', 'New York, NY 10001']",New York,5.0,2,"{'latitude': 40.745895, 'longitude': -73.9914913}",,l1lZBirTuOzCRkz3lJ1MaQ
+Clear Laser City Clinic,"['501 5th Ave', 'Ste 2011', 'New York, NY 10017']",New York,5.0,13,"{'latitude': 40.75313, 'longitude': -73.98072}",,YvZRivDHvqi_eBu5KqGvcQ
+Ying Ying Salon,"['24 Eldridge St', 'Manhattan, NY 10002']",Manhattan,5.0,2,"{'latitude': 40.7149559265149, 'longitude': -73.9935134134143}",1.0,0CKla0_ZSorc5SyqvNyZfA
+LW Happy Foot Spa,"['231 Brighton Beach Ave', '2 Fl', 'Brooklyn, NY 11235']",Brooklyn,4.5,34,"{'latitude': 40.5767059, 'longitude': -73.9660957}",1.0,pKKtWK4BH16e2zirBjpw9g
+Blossom Spa,"['835 3rd Ave', '2nd Fl', 'New York, NY 10022']",New York,3.5,7,"{'latitude': 40.7562165069717, 'longitude': -73.9701979246063}",2.0,MixNrkqNOiVI_GWJQQVpdw
+A Spa Above,"['1557 Victory Blvd', 'Staten Island, NY 10314']",Staten Island,3.5,5,"{'latitude': 40.613854, 'longitude': -74.115459}",3.0,CdV1dW74WQCkymc3dC1MNQ
+New Sky Blue Garden,"['315 Atlantic Ave', 'Brooklyn, NY 11201']",Brooklyn,4.0,12,"{'latitude': 40.688457, 'longitude': -73.988006}",1.0,QVxR5b-zby2KPfejDTbTvQ
+Spa Viv,"['208 W 119th St', 'New York, NY 10026']",New York,5.0,1,"{'latitude': 40.80546, 'longitude': -73.95212}",,DyVnX97Q-RNqBjs3e8u7DA
+Zuri's Petite Spa,"['108 S Portland Ave', 'Ste 2-A', 'Brooklyn, NY 11217']",Brooklyn,3.5,15,"{'latitude': 40.68612, 'longitude': -73.97454}",2.0,YbBVGniSmeLE-2xNrQAJbg
+Anastasios Hair New York,"['4503 Broadway', 'Astoria, NY 11103']",Astoria,4.5,12,"{'latitude': 40.7571376, 'longitude': -73.9147601}",2.0,3suH5zYhHW_L0z-51FYfBQ
+Amazing Foot Spa,"['37B Park St', 'Demarest, NJ 07627']",Demarest,4.5,20,"{'latitude': 40.9564629, 'longitude': -73.9635925}",2.0,s2LvSmF0LkO1w8F4Jrk98w
+Ocean Bodywork,"['234 B 5th Ave', '（At Corner Of President St )', 'Brooklyn, NY 11215']",Brooklyn,4.0,80,"{'latitude': 40.67563, 'longitude': -73.981175}",2.0,qjFeuMzCZB9OpIY9XyP5gw
+Evolve Med Spa,"['706 Grand St', 'Flr 1', 'Hoboken, NJ 07030']",Hoboken,5.0,27,"{'latitude': 40.74605, 'longitude': -74.03419}",,uq6H-N3qb8RpCeebAYvFnA
+Peter Conte Salon and Spa,"['128 Main St', 'Matawan, NJ 07747']",Matawan,4.0,22,"{'latitude': 40.414824, 'longitude': -74.23}",3.0,Ia9JeIeg16sj3dwWV60ufA
+Youya Nail Spa,"['253 E 49th St', 'Ste 1', 'New York, NY 10017']",New York,3.5,3,"{'latitude': 40.754513, 'longitude': -73.969292}",,rExrF2EZiVSRF__SG_Iz5A
+Vala MedSpa,"['330 W 42nd St', 'New York, NY 10036']",New York,5.0,4,"{'latitude': 40.7575, 'longitude': -73.99157}",,t84Ab5nzLYjURydulArj5A
+Chillhouse Soho,"['75 Varick St', 'New York, NY 10013']",New York,3.5,52,"{'latitude': 40.72341, 'longitude': -74.006826}",3.0,orABgsoPutAUnpB516VZRA
+Knead Massage Therapy,"['135 Prospect Park SW', 'Brooklyn, NY 11218']",Brooklyn,5.0,20,"{'latitude': 40.6558753, 'longitude': -73.9738068}",,oxXfdwhxqqpFgX6GXQonFA
+Shou Women’s Wellness Center,"['15-1 Park Ave', 'New York, NY 10016']",New York,5.0,2,"{'latitude': 40.74738, 'longitude': -73.98066}",,MdfMhO5USggA2knsSESLKA
+Stillpoint Holistic Studio,"['30 W 60th St', 'New York, NY 10023']",New York,4.5,7,"{'latitude': 40.7691462499615, 'longitude': -73.9828304015143}",,n3S-envX649UzVzL6YVKNw
+Gift Salon and Spa,"['64 Notch Rd', 'Woodland Park, NJ 07424']",Woodland Park,4.5,17,"{'latitude': 40.875856533083, 'longitude': -74.1997202521322}",2.0,3OlaIRWT6tk09-RZkHattA
+Element Beauty Lounge,"['1043 Bedford Ave', 'Brooklyn, NY 11216']",Brooklyn,3.5,72,"{'latitude': 40.688271, 'longitude': -73.954583}",2.0,W5Z9DJdx6zFOKdXy_u4HOw
+New Sunny Master,"['724 Manhattan Ave', 'Brooklyn, NY 11222']",Brooklyn,4.0,2,"{'latitude': 40.726133, 'longitude': -73.951825}",,k3TMD1XtuYOzKpWLwHZrAg
+European Beauty Clinics & Spa,"['10209 Jamaica Ave', 'Richmond Hill, NY 11418']",Richmond Hill,5.0,1,"{'latitude': 40.69543, 'longitude': -73.84498}",,0ujHKmTlKChBRBzjGziamQ
+Body Care Therapy Spa,"['772 57th St', 'Sunset Park, NY 11220']",Sunset Park,4.0,12,"{'latitude': 40.637288, 'longitude': -74.008399}",2.0,ScUroXtUfin7TvZApxSTmQ
+CJ Laser,"['1738 86th St', 'Brooklyn, NY 11214']",Brooklyn,5.0,2,"{'latitude': 40.6078, 'longitude': -74.00387}",,m9Efl2FoczOS5SliGncaaQ
+Dynamic Sports Massage Therapy NYC,"['18 E 41st St', 'Ste 1503', 'New York, NY 10017']",New York,5.0,9,"{'latitude': 40.752197265625, 'longitude': -73.9804916381836}",,WGbzVtx5prUQNOkPAY3wfw
+Louise O'Connor Salon,"['33 E 61st St', 'Fl 3', 'New York, NY 10065']",New York,4.5,29,"{'latitude': 40.764762, 'longitude': -73.969933}",3.0,TYN1czHkFmvPwcEg3h7dlQ
+LaserAway,"['118 Court St', 'Brooklyn, NY 11201']",Brooklyn,4.0,46,"{'latitude': 40.69009, 'longitude': -73.99233}",,ntNe0M1G3QMo85rOL99Sfw
+Bowery Yoga,"['302 Bowery', 'Fl 3', 'New York, NY 10012']",New York,5.0,10,"{'latitude': 40.7247167873211, 'longitude': -73.9926418662357}",2.0,93AmVm0EksvVCR2MmIpBfg
+Toto Beauty Day Spa,"['193 Centre St', 'Fl 2', 'Manhattan, NY 10013']",Manhattan,4.0,24,"{'latitude': 40.718668, 'longitude': -73.999448}",2.0,bJ1mlr4gyYcgcpy4ThDh8Q
+SALON DUMBO,"['43 Washington St', 'Brooklyn, NY 11201']",Brooklyn,4.5,19,"{'latitude': 40.70303, 'longitude': -73.98947}",,NtF_Jao8Z0SCBfV3_9uPKg
+Body Empathy Spa,"['261A Pascack Rd', 'Township of Washington, NJ 07676']",Township of Washington,4.0,48,"{'latitude': 40.985061, 'longitude': -74.063403}",2.0,P6wc8G5i2ibCitoPz6fpCg
+Ditmas Park Yoga Society,"['E 19th St & Cortelyou Rd', 'Brooklyn, NY 11226']",Brooklyn,5.0,6,"{'latitude': 40.6428316, 'longitude': -73.960857}",,dquyJhgCtZ18AuHrWB48pg
+American Ayurveda,"['62 W 47th St', 'Ste 1215', 'New York, NY 10036']",New York,5.0,1,"{'latitude': 40.7575798, 'longitude': -73.9813385}",,YmHKoJ4Yjf3XWX1yPxIv-g
+Ainslie Beauty Lounge,"['66 Ainslie St', 'Brooklyn, NY 11211']",Brooklyn,5.0,7,"{'latitude': 40.71245, 'longitude': -73.9522535}",,t3xP5nP0Z-fbmMhJSGzsBA
+Apex Acupuncture,"['35 E 38th St', '1B', 'New York, NY 10016']",New York,5.0,5,"{'latitude': 40.750058, 'longitude': -73.979999}",,35fCBP2XSJh23h7iSM3ePw
+Yan Foot Spa,"['181 Lafayette St', 'New York, NY 10013']",New York,4.0,105,"{'latitude': 40.72057, 'longitude': -73.99842}",1.0,Mx_5g3X8E3cz_MfyVd0x0g
+Rehab & Relaxation,"['127 E 56th St', 'Fl 6', 'Manhattan, NY 10022']",Manhattan,5.0,6,"{'latitude': 40.76066, 'longitude': -73.97}",,hYlJoAfbH0hqYHtOnCeGsg
+Luna Nail Lounge,"['1167 Fulton St', 'Brooklyn, NY 11216']",Brooklyn,4.5,24,"{'latitude': 40.6811637262, 'longitude': -73.9551946434}",,kxilgybtI98jCc_pUkzjNg
+Bamboo Relax Spa,"['14-09 150th St', 'Fl 2', 'Whitestone, NY 11357']",Whitestone,5.0,1,"{'latitude': 40.7886197939101, 'longitude': -73.8135845409932}",2.0,uQE1vMATt_5_bhITRjrRFQ
+Bodies & Faces Day Spa,"['80 Elmora Ave', 'Elizabeth, NJ 07202']",Elizabeth,3.5,26,"{'latitude': 40.65933, 'longitude': -74.23227}",2.0,Ea8YAX4uKQvtzm12K5i5yw
+Massage Artistry,"['32 Union Sq E', 'Ste 411', 'New York, NY 10003']",New York,5.0,7,"{'latitude': 40.7354789, 'longitude': -73.9891604}",2.0,SFr93doBTyGBwL3MIzjojg
+La Fontaine Nails And Spa,"['155 W 66th St', 'New York, NY 10023']",New York,3.5,82,"{'latitude': 40.77451, 'longitude': -73.98315}",3.0,Dcih1MJeB4qk5eH6pMfiaA
+Dream Esthetics,"['42-16 162nd St', 'Flushing, NY 11358']",Flushing,5.0,2,"{'latitude': 40.7597542, 'longitude': -73.8040783}",,yAMrRamYito2gD0udcvhrQ
+Bombshell Beauty Lab,"['245 E 111th St', 'New York, NY 10029']",New York,4.5,3,"{'latitude': 40.7941717, 'longitude': -73.9404389}",,SJKwsPNhdvJDFyc2tVi04Q
+David Mallett New York,"['29 Greene St', 'Fl 5', 'New York, NY 10013']",New York,5.0,6,"{'latitude': 40.72131, 'longitude': -74.0026}",,raAKe-3NYPb7FeliWEtn_Q
+Lotus Beauty Spa,"['35 W 45 St', 'Fl 3', 'New York, NY 10036']",New York,4.5,6,"{'latitude': 40.75616, 'longitude': -73.981}",2.0,_z4EdCOc702Nsri1XFN17g
+Satori Laser ® Lexington Ave 57st Laser Hair Removal,"['143 E 57th St', 'new york, NY 10022']",new york,5.0,142,"{'latitude': 40.76096, 'longitude': -73.96857}",2.0,dukucKxZxxZk6spZvueA2Q
+Serenity Spa 79,"['1397 3rd Ave', 'New York, NY 10028']",New York,3.0,98,"{'latitude': 40.7745947, 'longitude': -73.9568362}",2.0,95dHT336UQkB6Avs5kwO6g
+David James Salon & Day Spa,"['6171 Strickland Ave', 'Brooklyn, NY 11234']",Brooklyn,3.0,24,"{'latitude': 40.6134051, 'longitude': -73.9122521}",3.0,l-qMWx9aSC2Ps5kHgePDaA
+The Detox Box,"['75 Main St', 'Matawan, NJ 07747']",Matawan,5.0,1,"{'latitude': 40.41776, 'longitude': -74.22776}",,QeZCELTwG51z5d0lnnlVhA
+Vita By Michele,"['48 W 21st St', 'Ste 909', 'New York, NY 10010']",New York,5.0,4,"{'latitude': 40.7410042, 'longitude': -73.992897}",,_sKlDKzFqeOGSWuthU5LpQ
+Upbeat Physical Therapy,"['84 Willow Ave', 'Ste 1FL', 'Hoboken, NJ 07030']",Hoboken,5.0,17,"{'latitude': 40.737428, 'longitude': -74.034951}",,lavG14iY0yldlSoHQndrxg
+Art of Hair,"['45-19 34th Ave', 'Long Island City, NY 11101']",Long Island City,5.0,20,"{'latitude': 40.754632, 'longitude': -73.916126}",1.0,64d-mots6TXtzz1QXs-j2A
+Beyond Day Spa,"['20 Prospect Ave', 'Hackensack, NJ 07601']",Hackensack,3.5,27,"{'latitude': 40.8835029602051, 'longitude': -74.057243347168}",3.0,BPiCy0h0lZaCJ_Aae2VcKQ
+Belle Fée,"['529 W 42nd St', 'Ste 3R', 'New York, NY 10036']",New York,5.0,67,"{'latitude': 40.76059, 'longitude': -73.997}",2.0,GHbvncnaJvGoAFkCuegpxQ
+Honey Nail Salon,"['681 Franklin Ave', 'Brooklyn, NY 11238']",Brooklyn,3.0,76,"{'latitude': 40.6753119534343, 'longitude': -73.9561840774304}",3.0,28iTro-XnoHA0WK_F_Xiqw
+Therapeutic Touchmassage Therapy & Wellness Center,"['358 Somerville Ave', 'Tonowanda, NY 14150']",Tonowanda,4.0,1,"{'latitude': 40.71424, 'longitude': -74.00642}",,Igd2rMzZNUYqhqpMkDv9bA
+Body + Mind,"['140 W 30th St', 'New York, NY 10001']",New York,5.0,13,"{'latitude': 40.7479489, 'longitude': -73.9916372}",,UfMk1kCm3pm-F1FNnFkQpQ
+Superior Health Spa,"['1074 2nd Ave', 'Fl 2', 'New York, NY 10022']",New York,3.5,6,"{'latitude': 40.75882, 'longitude': -73.9653}",1.0,xJRckj1qtwXsEc1OeF6xHw
+Nk Body Philosophy,"['20 W 20th St', 'Ste 701', 'Nk Body Studios', 'New York, NY 10016']",New York,5.0,13,"{'latitude': 40.745169, 'longitude': -73.992431}",,LYsVm6bxfHOIpsp0IgeINA
+Cafresa Salon and Spa,"['191 Malcolm X Blvd', 'F1', 'Brooklyn, NY 11221']",Brooklyn,5.0,1,"{'latitude': 40.68658, 'longitude': -73.92964}",,EZ0yRXBloHkmxfRGQX3ztg
+Sulé Beauty and Med Spa,"['500 East 77th St G/F', 'New York, NY 10162']",New York,5.0,1,"{'latitude': 40.769713, 'longitude': -73.950845}",,C6AMGkthcuL_Y_j4wCty1w
+Sacred Lotus Skincare & Holisitic Wellness,"['39 W 32nd St', 'Ste 703', 'Manhattan, NY 10001']",Manhattan,2.5,45,"{'latitude': 40.7438829, 'longitude': -73.988285}",3.0,VnZwpJXANAmgDfUOE-hGLA
+Wonderful Spa,"['342 E 22nd St', 'Frnt 1C', 'New York, NY 10010']",New York,3.0,10,"{'latitude': 40.73628, 'longitude': -73.97941}",2.0,Lz13Zqe4PYVG7HpNBlSjIA
+Element Beauty Lounge,"['1016 Cortelyou Rd', 'Brooklyn, NY 11218']",Brooklyn,4.0,142,"{'latitude': 40.639262, 'longitude': -73.968205}",2.0,gA9N8nhHzQLVqChIkHINaQ
+Aesthetics By Kelli,"['New York, NY 10075']",New York,5.0,1,"{'latitude': 40.772308349609375, 'longitude': -73.9547119140625}",,4DMpmmrldqfRDBFYwsY0Bw
+Pacific Touch NYC,"['928 Broadway', 'Ste 1200', 'New York, NY 10010']",New York,5.0,20,"{'latitude': 40.7401062, 'longitude': -73.9893994}",2.0,pdeCOZ6tI5ZzVi8dxhLHUg
+Rachel Body Work,"['87 Richardson St', 'Ste 12', 'Brooklyn, NY 11211']",Brooklyn,5.0,1,"{'latitude': 40.718688, 'longitude': -73.948173}",,O0NT4FfQ6oCldsP-OqNVoQ
+Haven: Massage + CranioSacral Therapy,"['401 Court St', 'Fl 2', 'Brooklyn, NY 11231']",Brooklyn,5.0,4,"{'latitude': 40.6796747, 'longitude': -73.9970286}",,EuM_kA6WPnwPPEg2VZfv6A
+Body Care By Victoria,"['1600 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",Brooklyn,5.0,3,"{'latitude': 40.5870593, 'longitude': -73.953388}",,xj8k7LYzZhsdQ46R3csrdw
+In GLO Med Spa,"['104 W 14th St', 'Ste 2 C', 'New York, NY 10011']",New York,4.0,71,"{'latitude': 40.73745, 'longitude': -73.99742}",2.0,rz7yCOB2Q5m9tbh5s877zg
+Massage Envy - Upper East Side - Sutton Place,"['344 E 63rd St', 'New York, NY 10065']",New York,3.0,85,"{'latitude': 40.7620349, 'longitude': -73.9608026}",2.0,DU6_pECOHHnsrPqRsuf-gA
+Dominiques Travel Spa,"['Oceanside, NY 11572']",Oceanside,5.0,2,"{'latitude': 40.637088775634766, 'longitude': -73.63855743408203}",,sOwJ1x8Xcte5ehkfo8TA_Q
+Satori Laser ® Brooklyn Laser Hair Removal,"['155 Montague St', 'New York, NY 11201']",New York,5.0,17,"{'latitude': 40.6946808, 'longitude': -73.993156}",,a0oONwgvDCCjtBBvDlEt7g
+Tangles Salon & Spa,"['1722 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",Brooklyn,4.0,28,"{'latitude': 40.58554, 'longitude': -73.95174}",3.0,0Ig2273ZKnYjx9pgtZSMBA
+Spavia Clark Commons,"['1255 Raritan Rd', 'Clark, NJ 07066']",Clark,5.0,1,"{'latitude': 40.63172, 'longitude': -74.30488}",,WCaUuKkQKNHTGUm-1U4eRQ
+Cobble Nails & Spa,"['420 Clinton St', 'Brooklyn, NY 11231']",Brooklyn,4.5,59,"{'latitude': 40.6822135, 'longitude': -73.9984881}",1.0,cuCqSnzBAha5sYMPLLoiSQ

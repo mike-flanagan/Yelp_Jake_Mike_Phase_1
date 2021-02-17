@@ -103,6 +103,60 @@ def call_1000(csv_filepath):
         df.to_csv(csv_filepath, mode = "a", index = False)
     print('CSV file written to {csv_filepath}.')
     return df
+
+""" 
+# Note: The 2 variables below are useful for the review functions below
+# Can be used to open database by referring to the last term and location the user has set
+# These may be good to put in a function
+
+term_loc = f'database/{term}_{location}_database.csv'
+biz_data = pd.read_csv(term_loc)
+"""
+
+def call_reviews(biz_id): 
+    list_of_reviews = []
+    for biz in biz_id:
+        response = requests.get(f'https://api.yelp.com/v3/businesses/{biz}/reviews',headers = headers)
+        review_data = response.json()
+        list_of_reviews.append(review_data)
+    return list_of_reviews
+
+def call_all_reviews(b_data): 
+    biz_id = []
+    for j in b_data['Id']: #ID column of business data dataframe
+        biz_id.append(j)
+    list_of_reviews = call_reviews(biz_id)
+    return list_of_reviews
+
+def format_reviews(b_data):
+    eg = call_all_reviews(b_data)
+    list_of_reviews = []
+    x = 0
+    for i in eg:
+        reviews = {}
+#         if len(i['reviews']))
+        for count in list(range(0, (len(i['reviews'])))):
+            reviews[f'Review_{count}'] = i['reviews'][count]['text'] 
+        reviews['Id'] = b_data["Id"][x]
+        list_of_reviews.append(reviews)
+        x+=1
+    return list_of_reviews
+
+# format_reviews(biz_data[:20])
+
+def reviews_to_csv(b_data): # If you run for all, this will output IndexError: list index out of range
+    csv_filepath = f'database/{term}_{location}_reviews.csv'
+    formatted_reviews = format_reviews(b_data)
+#     for i in formatted_reviews:
+#         if 'reviews' not in i:
+#             break
+    df = pd.DataFrame(formatted_reviews)
+    with open(csv_filepath, "a") as f: #'x' creates and writes to csv
+        read_file = csv.writer(f)
+        df.to_csv(csv_filepath, mode = "a", index = False)
+    return df.head()
+
+# reviews_to_csv(biz_data[:50])
 '''
 #-------------------------------------------------------------
 #Make me a function later

@@ -12,7 +12,7 @@ def yelp_call(headers, url_params):
     data = response.json()
     return data
 
-def parse_data(list_of_data):
+def parse_data(list_of_data): # Are we removing argument?
     """
     Input data['businesses'] to return a list of tuples,
     with each tuple containing individual business name, address, rating, review count,
@@ -37,7 +37,7 @@ def parse_data(list_of_data):
         businesses.append(biz_tuple)
     return businesses
 
-def call_1000(csv_filepath):
+def call_1000(csv_filepath): # Are we removing argument?
     """
     This function will use the information gathered above to call the Yelp API and construct a data frame
     """

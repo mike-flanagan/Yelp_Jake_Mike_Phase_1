@@ -12,7 +12,9 @@ def yelp_call(headers, url_params):
     data = response.json()
     return data
 
-def parse_data(list_of_data): # Are we removing argument?
+
+
+def parse_data(list_of_data):
     """
     Input data['businesses'] to return a list of tuples,
     with each tuple containing individual business name, address, rating, review count,
@@ -33,14 +35,19 @@ def parse_data(list_of_data): # Are we removing argument?
                      business['coordinates'],
                      biz_price,
                      business['id'],
-                     business['categories'])
+                     business['categories'],
+                     business['coordinates']['latitude'],
+                     business['coordinates']['longitude'])
         businesses.append(biz_tuple)
     return businesses
 
-def call_1000(csv_filepath): # Are we removing argument?
+
+
+def call_1000():
     """
     This function will use the information gathered above to call the Yelp API and construct a data frame
     """
+    csv_filepath = f'../database/{term}_{location}_database.csv'
     url_params['offset'] = 0
     results = yelp_call(headers, url_params)
     parsed = parse_data(results['businesses']) # list of businesses in tuples
@@ -52,7 +59,7 @@ def call_1000(csv_filepath): # Are we removing argument?
             biz_list.append(biz)
         url_params['offset'] += 50
         results = yelp_call(headers, url_params)
-        if num >= len(biz_list):
+        if num >= len(biz_list): # The statements below prevent the function from breaking due to the Yelp API restricting returned calls to 1000
             if 'businesses' not in results:
                 break
             else:
@@ -61,16 +68,24 @@ def call_1000(csv_filepath): # Are we removing argument?
             continue
         else:
             break
-    
+    # Create the data frame from the gathered information
+    df = pd.DataFrame(biz_list, columns=['Name', 'Address','City', 'Rating','Review Count','Coordinates','Price','Id','Categories','Latitude','Longitude'])
+    #Save the data frame as a CSV file
+    with open(csv_filepath, "a") as f: 
+        read_file = csv.writer(f)
+        df.to_csv(csv_filepath, mode = "a", index = False)
+    print(f'CSV file written to {csv_filepath}.')
+    return df.head(3)
     # Create the data frame from the gathered information
     df = pd.DataFrame(biz_list, columns=['Name', 'Address','City', 'Rating','Review Count','Coordinates','Price','Id','Categories'])
-    
     #Save the data frame as a CSV file
     with open(csv_filepath, "a") as f: 
         read_file = csv.writer(f)
         df.to_csv(csv_filepath, mode = "a", index = False)
     print('CSV file written to {csv_filepath}.')
     return df
+
+
 
 def call_reviews(biz_id): 
     """
@@ -84,6 +99,8 @@ def call_reviews(biz_id):
         list_of_reviews.append(review_data)
     return list_of_reviews
 
+
+
 def call_all_reviews(b_data): 
     """
     This function takes in the data frame, and create a list of the business Id's from it.
@@ -94,6 +111,8 @@ def call_all_reviews(b_data):
         biz_id.append(j)
     list_of_reviews = call_reviews(biz_id)
     return list_of_reviews
+
+
 
 def format_reviews(b_data):
     """
@@ -112,6 +131,8 @@ def format_reviews(b_data):
         list_of_reviews.append(reviews)
         x+=1
     return list_of_reviews
+
+
 
 def reviews_to_csv(b_data): # If you run for all, this will output IndexError: list index out of range
     """
